@@ -1,6 +1,6 @@
-# Player Character Sheet
+# Player Character Sheet (DECEASED)
 
-**Name:** Berath
+**Name:** Berath (Deceased - Session 01)
 **Race:** Mountain Dwarf
 **Class:** Cleric (Knowledge Domain)
 **Background:** Hermit
@@ -42,12 +42,17 @@
 *   **Stonecunning:** Double proficiency bonus on Intelligence (History) checks related to stonework.
 *   **Dwarven Armor Training:** You have proficiency with light and medium armor.
 
+## Resource Tracker
+*   **Spell Slots:** 1st: [ ] [ ]
+*   **Hit Dice:** [ ] (1d8)
+*   **Other Resources:** [e.g., Channel Divinity, Inspiration]
+
 ## Spells
 *   **Spellcasting Ability:** Wisdom
 *   **Spell Save DC:** 13 (8 + Proficiency + Wisdom mod)
 *   **Spell Attack Bonus:** +5 (Proficiency + Wisdom mod)
 *   **Cantrips:** Guidance, Mending, Toll the Dead.
-*   **1st Level Slots:** 2
+*   **1st Level Slots:** 2/2 used (0 remaining)
 *   **Always Prepared (Domain):** *Command, Identify*.
 *   **Daily Prepared Spells (4 total):** Guiding Bolt, Healing Word, Bane, Detect Magic.
 

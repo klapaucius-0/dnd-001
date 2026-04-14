@@ -1,8 +1,8 @@
 # Campaign State
 
-**Current Location:** Oakhaven - The Boar and Barrel Tavern
+**Current Location:** Oakhaven - The Boar and Barrel Tavern (By the Hearth)
 **Time of Day:** Late Afternoon
-**Current HP:** 10/10
+**Current HP:** DEAD
 **Passive Perception:** 13
 **Passive Insight:** 15
 **Available Hit Dice:** 1/1d8

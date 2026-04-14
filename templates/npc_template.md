@@ -20,6 +20,11 @@
 *   **Stats:** [Str, Dex, Con, Int, Wis, Cha]
 *   **Key Skills:** [X]
 
+## Combat Style & Mechanics
+*   **Tactics:** [How they behave in combat, e.g., defensive, reckless, uses environment.]
+*   **Sensory Cues:** [Sights, sounds, or smells that flare during their actions, e.g., ozone, cold mist, flickering shadows.]
+*   **Signature Moves:** [Special abilities or unique mechanics.]
+
 ## Secret Motives & Knowledge
 *   **What they want:** [X]
 *   **What they fear:** [X]

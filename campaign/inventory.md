@@ -7,7 +7,7 @@
 *   **Other:** The Reliquary (Spellcasting Focus).
 
 ## Stored Inventory
-*   **Currency:** 5 gp, 0 sp, 0 cp
+*   **Currency:** 4 gp, 9 sp, 6 cp
 *   **Items:**
     *   Lead Box (The Reliquary)
     *   Black Shard
