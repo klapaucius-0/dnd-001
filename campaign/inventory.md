@@ -1,20 +1,20 @@
 # Inventory & Crafting
 
 ## Equipped Items
-*   **Weapon:** Battleaxe (1d8/1d10 slashing), Light Crossbow (1d8 piercing).
-*   **Armor:** Scale Mail (AC 14, Disadv. on Stealth).
-*   **Shield:** Steel Shield (+2 AC).
-*   **Other:** The Reliquary (Spellcasting Focus).
+*   **Weapon:** Warhammer (1d8 bludgeoning), Light Crossbow (1d8 piercing).
+*   **Armor:** Chain Mail and Shield (AC 18, Disadv. on Stealth).
+*   **Other:** Small Box of Dark Blue-Green Stone (Focus, mounted in shield).
 
 ## Stored Inventory
-*   **Currency:** 4 gp, 9 sp, 6 cp
+*   **Currency:** 5 gp
 *   **Items:**
-    *   Lead Box (The Reliquary)
-    *   Black Shard
+    *   20 Crossbow bolts
+    *   Heavy Smith's Hammer
+    *   Mason's Tools
+    *   Smith's Tools
     *   Herbalism Kit
-    *   Tinker's Tools
     *   Explorer's Pack (Backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days rations, 50ft rope, waterskin).
-    *   Scroll case of notes.
+    *   Scroll case of notes (Notes on cold-shaping).
     *   Winter blanket.
     *   Common clothes.
-    *   20 Crossbow bolts.
+    *   A small, black obsidian shard (The subject of your study).
