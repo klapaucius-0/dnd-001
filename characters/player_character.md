@@ -24,6 +24,7 @@
 *   **Speed:** 25 ft.
 *   **Hit Points (HP):** 10
 *   **Hit Dice:** 1d8
+*   **Carrying Capacity:** 225 lbs (Current: 188.7 lbs)
 *   **Primary Weapon:** Warhammer (1d8 bludgeoning)
 *   **Secondary Weapon:** Light Crossbow (1d8 piercing, 80/320 ft.) and 20 Bolts
 *   **Spellcasting Focus:** Small Box of Dark Blue-Green Stone (mounted into a hidden recess in your shield)

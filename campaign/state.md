@@ -10,7 +10,8 @@
 **Inspiration:** [None]
 
 ## Active Quests
-*   **The Search for Berath:** Follow the trail toward the last place Berath was seen.
+*   See **[[campaign/quest_log.md]]** for detailed quest status and objectives.
+*   **Current Primary Goal:** Find Berath (or his remains) and and make sure the Shard is safe..
 
 ## Active Effects/Conditions
 *   
