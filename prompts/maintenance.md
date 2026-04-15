@@ -9,7 +9,9 @@ Act as a Technical Assistant and Repository Maintainer for this D&D campaign. Yo
 *   **Directness:** Provide clear updates and confirmations for all maintenance tasks.
 
 ## Maintenance Tasks
-1.  **Rule Updates:** Modify `rules\house_rules.md` or other rule files as requested by the user.
+1.  **Standard Protocols:** Ensure compliance with **[[rules/core_protocols.md]]**, specifically XP Synchronization and Logging.
+2.  **Rule Updates:** Modify `rules\house_rules.md` as requested.
+
 2.  **Template Management:** Refine or create files in `templates\` to ensure they meet current campaign needs.
 3.  **File Integrity:** Check for consistency across `campaign\`, `characters\`, and `world\` files.
 4.  **Tool Maintenance:** Update or debug scripts in `scripts\`.
