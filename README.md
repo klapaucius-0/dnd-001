@@ -6,7 +6,6 @@ This repository contains the structured data, logs, and rules for a solo Dungeon
 *   **Campaign Setting:** Frontier path toward Oakhaven.
 *   **Tone:** Melancholic, psychological dread, classic weird fiction.
 *   **Protagonist:** Wael, a Mountain Dwarf Forge Cleric (Hermit).
-*   **Core Mystery:** The Cold-Forge and Berath's legacy.
 
 ## Directory Structure & Standards
 *   **`campaign/`**: Real-time state (`state.md`), inventory, quests, and reputation.
