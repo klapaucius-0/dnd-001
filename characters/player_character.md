@@ -67,5 +67,5 @@
 
 ## Backstory & Concept
 *   **Concept:** A Mountain Dwarf who rejected the traditional heat of the forge, seeking instead the deep, quiet cold that allows him to craft and build. He specializes in **Cold-Forming Steel**, a slow and patient art of hammering metal that has been chilled until it yields. A solitary mason and obsessive crafter, Wael believes that true strength is found in the stillness of the earth's deep frost. His life is a quiet, steady search for the fine tools and old ways needed to work the rare things of the deep earth—frozen ores, light-drinking stone, and the cold remnants of what came before—all to build something that will hold its shape long after the fires have gone out.
-*   **The Mission:** Wael is searching for Berath, his found family and only mentor, whose knowledge of the deep cold is irreplaceable. He carries a small, damp box of dark blue-green stone—a rare and perfect vessel designed to contain the unnatural properties of the black shards. He fears Berath's shard has been lost or unleashed, but he also seeks it as a component for his ultimate work.
+*   **The Mission:** Wael is searching for Berath, his found family, whose knowledge of the deep cold is irreplaceable. Wael carries a small, damp box of dark blue-green stone—a rare. He fears Berath's shard has been lost or unleashed. Wael longs to build... to craft... 
 
