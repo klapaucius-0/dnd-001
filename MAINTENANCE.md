@@ -20,4 +20,4 @@ The sheet now includes a **Resource Tracker**. Use this to keep a live count of 
 When you are ready for a new character:
 1.  Reset `campaign/state.md` (HP, XP, Location).
 2.  Clear the active encounter in `stats/encounters.md`.
-3.  Create a new character in `characters/player_character.md` (or overwrite the deceased Berath).
+3.  Create a new character in `characters/player_character.md` and rename the previous file if it already existed

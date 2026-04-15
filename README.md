@@ -1,16 +1,16 @@
-# The Sorrow of Berath - D&D 5e Campaign
+# The Sorrow - D&D 5e Campaign
 
 This repository contains the structured data, logs, and rules for a solo Dungeons & Dragons 5th Edition (2014) campaign.
 
 ## Project Overview
 *   **Campaign Setting:** Forgotten Realms (Frontier town of Oakhaven).
 *   **Tone:** Sad, bleak, gritty, brutal, horror-focused.
-*   **Protagonist:** Berath, a Mountain Dwarf Knowledge Cleric (Hermit).
+*   **Protagonist:** Weal, a Mountain Dwarf Knowledge Cleric (Hermit).
 *   **Core Mystery:** The Reliquary and the Black Shard.
 
 ## Directory Structure
 *   **`campaign/`**: Real-time tracking of state, inventory, crafting, and clues.
-*   **`characters/`**: Detailed sheets for the PC (Berath), NPCs, and XP tracking.
+*   **`characters/`**: Detailed sheets for the PC (Weal), NPCs, and XP tracking.
 *   **`rules/`**: The "Sacred Text" of house rules and Session 0 templates.
 *   **`sessions/`**: Transcripts, chronological logs, and the full "Black Box" record.
 *   **`stats/`**: Technical tracking for combat encounters and monster data.

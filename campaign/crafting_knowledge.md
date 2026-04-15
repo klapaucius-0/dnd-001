@@ -1,21 +1,16 @@
-# Crafting Knowledge & Forbidden Resonance
+# Cold-Forming Knowledge
 
-This document tracks the character's understanding of the material world and their synchronization with unnatural artifacts.
+## The Craft
+Cold-forming (or Cold-forging) is the artisan art of shaping metal without the use of traditional forge fires. It relies on:
+*   **Physical Pressure:** Using heavy hammers and steady, rhythmic strikes to compress and shape the metal.
+*   **Temperature Control:** Working in ambient cold or sub-zero temperatures to maintain the metal's structural integrity during the shaping process.
+*   **Time:** A slow, patient process. What a fire-forge does in hours, a cold-forge does in days or weeks.
 
-## Material Properties
-*   **Black Shard (The Reliquary):** 
-    *   **Vibration:** High-frequency, rhythmic pulse beyond hearing.
-    *   **Temperature:** Sub-zero, numbs organic tissue on contact.
-    *   **Weight:** Heavier than it appears.
+## Materials Knowledge
+*   **Standard Steel:** Can be cold-formed into basic tools and weapons with standard smithing tools.
+*   **Crystalline Shards:** Brittle and difficult to work. Currently useful as abrasives or minor additives.
+*   **Dark Metal / Cold-Iron:** Requires specialized equipment (high-pressure presses, light-drinking anvils) currently unavailable to Wael.
 
-## Synchronization & Harmonic Progress
-*   **Current Goal:** Match the internal rhythm of the Shard to the character's own pulse.
-*   **Status:** 0% (Disconnected).
-
-## Milestones & Discoveries
-*   **Resonance Level 1 (Discordant):** The Shard vibrates in opposition to the holder. *Status: ACHIEVED (Berath - Session 01).*
-*   **Resonance Level 2 (Synchronization):** The Shard's pulse matches the character's heartbeat. *Status: INCOMPLETE.*
-*   **Resonance Level 3 (Fused Soul):** The Shard and character are one. *Status: INCOMPLETE.*
-
-## Recipes & Blueprints
-*   **None discovered.**
+## Equipment Requirements
+*   **Current:** Standard Smith's Tools, Mason's Tools.
+*   **Required for Rare Materials:** Unknown (Needs research/discovery).

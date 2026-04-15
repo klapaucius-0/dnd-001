@@ -1,12 +1,12 @@
 # Campaign State
 
-**Current Location:** The Frozen Gap (High Mountain Pass - Heading toward Berath's last known location)
-**Time of Day:** Pre-dawn
+**Current Location:** The Frozen Gap (Cleft Shelter - Below the Cold-Iron Obelisk)
+**Time of Day:** Early Morning (Post-Dawn)
 **Current HP:** 10
 **Passive Perception:** 12
 **Passive Insight:** 14
 **Available Hit Dice:** 1/1d8
-**Current XP:** 0
+**Current XP:** 50
 **Inspiration:** [None]
 
 ## Active Quests
@@ -16,4 +16,5 @@
 *   
 
 ## Immediate Goals
-*   Reach the ruins of the Cold-Iron Obelisk on the ridge above.
+*   Determine the next move from the Cleft Shelter.
+

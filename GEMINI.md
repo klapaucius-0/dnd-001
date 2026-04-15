@@ -1,4 +1,4 @@
-# Gemini Workspace Protocol: The Sorrow of Berath
+# Gemini Workspace Protocol: The Sorrow
 
 This file contains the foundational mandates for any AI agent interacting with this repository.
 
@@ -13,7 +13,6 @@ Once you have read `dm_prompt.md`, you must immediately follow the **"Initializa
 ## 3. Strict Adherence
 *   **Ruleset:** 5e (2014) as defined in `dm_prompt.md`.
 *   **Dice:** Always use `scripts/dice_roller.js`.
-*   **Tone:** Melancholic Weird Fiction / Gritty Horror.
 *   **Updates:** Perform live updates to campaign files as events occur.
 
 Failure to follow the initialization sequence in `dm_prompt.md` is a violation of this workspace's core protocol.

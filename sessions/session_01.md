@@ -1,24 +1,35 @@
-# Session 01: The Boar and Barrel Skirmish
+# Session 01: The Frozen Sentinel
 
-**Date:** April 14, 2026
-**Character:** Berath (Level 1 Mountain Dwarf Cleric)
-**Location:** Oakhaven - The Boar and Barrel Tavern
+**Date:** Wednesday, 15 April 2026
+**In-Game Date:** Unknown (Early Winter)
+**Location:** The Frozen Gap
 
 ## Summary
-Berath arrived in Oakhaven and settled into the Boar and Barrel Tavern. He encountered a mysterious, pale-eyed figure who seemed to know about the Black Shard and the 'cold song.' The encounter turned violent, and Berath was defeated in a brutal skirmish. Despite a desperate attempt to commune with and bind his soul to the Black Shard, the Shard rejected him, and Berath succumbed to his wounds.
+Wael ascended the Frozen Gap toward the Cold-Iron Obelisk. Near the summit, he was intercepted by a **Pale-Eyed Figure**, a silent, frost-filled sentinel. Wael successfully cast *Bane* on the creature and defeated it in melee with his warhammer, harvesting its remains (crystalline shards and a dark metal rod).
 
-## Key Events
-*   Arrival in Oakhaven.
-*   Encounter with the Pale-Eyed Figure.
-*   Skirmish at the hearth.
-*   Death of Berath.
+Upon reaching the Obelisk, Wael navigated the rune-etched floor by timing his steps with the mountain's rhythmic hum. He recovered **Berath's Satchel**, which contained a journal, three more dark metal rods, a Deep-Frost Crystal, and rare minerals. Wael also harvested a **Cold-Iron Shard** from the base of the Obelisk itself.
 
-## Loot & Discoveries
-*   None.
+Wael retreated to a narrow cleft for shelter. Upon examining the satchel, he found Berath's frantic last entries mentioning the "Still-Forge" (a known ruse to Wael) and the "Deep Frost Network." Wael confirmed his possession of the **Black Shard**, a secret and dangerous item Berath was likely killed for.
 
-## Experience Points
-*   0 XP earned.
+## Key Discoveries
+*   **Pale-Eyed Figures:** Automated sentinels guarding the mountain's siphons.
+*   **Cold-Iron Obelisks:** Siphons that channel the mountain's "Deep Frost."
+*   **Berath's Journal:** Mentions the "Deep Frost Network" and the "Roots" of the mountain.
+*   **The Black Shard:** A powerful, vibrating obsidian shard carried by Wael, far more significant than the Deep-Frost Crystals.
 
-## Final State
-*   **Berath:** DEAD.
-*   **The Black Shard:** Claimed by the Pale-Eyed Figure.
+## Loot Acquired
+*   Dark Metal Rod (Harvested)
+*   3x Dark Metal Rods (From Satchel)
+*   Bag of Crystalline Shards
+*   Cold-Iron Shard
+*   Berath's Satchel & Journal
+*   Deep-Frost Crystal
+*   Pouch of Rare Minerals
+
+## Combat Log
+*   **Wael vs. Pale-Eyed Figure:** Wael took 0 damage. Figure defeated (+50 XP).
+
+## Next Steps
+*   Decide whether to rest or descend.
+*   Investigate the "Deep Frost Network" mentioned in the journal.
+*   Decipher the true purpose of the Black Shard.

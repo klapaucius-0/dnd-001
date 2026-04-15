@@ -9,4 +9,5 @@
     *   None.
 
 ## Past Encounters
-*   
+*   **The Frozen Gap Skirmish:** Defeated 1x Pale-Eyed Figure (+50 XP).
+

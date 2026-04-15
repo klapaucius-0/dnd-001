@@ -18,3 +18,11 @@
     *   Winter blanket.
     *   Common clothes.
     *   A small, black obsidian shard (The subject of your study).
+    *   Dark Metal Rod (Inert, etched with runes).
+    *   Bag of Crystalline Shards (Harvested from the pale-eyed figure).
+    *   Cold-Iron Shard (Fist-sized, etched with a single rune).
+    *   Berath's Satchel (Leather, iron-chained lock opened).
+    *   3x Dark Metal Rods (Inert, etched with runes).
+    *   Deep-Frost Crystal (Pulsating white light, thumb-sized).
+    *   Berath's Journal (Leather-bound, brittle pages).
+    *   Pouch of Rare Minerals (Frozen ores, light-drinking stone).
