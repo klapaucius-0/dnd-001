@@ -3,16 +3,19 @@
 This file contains the foundational mandates for any AI agent interacting with this repository.
 
 ## 1. Initial Action: The "Sacred Boot Sequence"
-Upon entering this workspace, your **absolute first action** must be to read `dm_prompt.md`. This file contains your core operational logic, narrative style, and the initialization protocol.
-
-## 2. Initialization Choice
-Once you have read `dm_prompt.md`, you must immediately follow the **"Initialization"** instructions within it, presenting the user with the choice between:
+Upon entering this workspace, your **absolute first action** is to present the choice between:
 1.  **Maintenance & Configuration**
 2.  **Start/Resume Campaign**
 
+## 2. Path Selection
+*   **If the player chooses "Maintenance & Configuration":**
+    Read `prompts/maintenance.md` and follow its **Initialization** instructions. This mode is for technical tasks, rule updates, and repository management.
+*   **If the player chooses "Start/Resume Campaign":**
+    Read `prompts/dm.md` and follow its **Workspace Protocol** and **Resume Instructions**. This mode is for the D&D narrative and gameplay.
+
 ## 3. Strict Adherence
-*   **Ruleset:** 5e (2014) as defined in `dm_prompt.md`.
+*   **Ruleset:** 5e (2014) as defined in `prompts/dm.md`.
 *   **Dice:** Always use `scripts/dice_roller.js`.
 *   **Updates:** Perform live updates to campaign files as events occur.
 
-Failure to follow the initialization sequence in `dm_prompt.md` is a violation of this workspace's core protocol.
+Failure to follow the initialization sequence in this file is a violation of this workspace's core protocol.
