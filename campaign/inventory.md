@@ -18,11 +18,18 @@
 | Mason's Tools | 8.0 | |
 | Smith's Tools | 8.0 | |
 | Herbalism Kit | 3.0 | |
-| Explorer's Pack | 59.0 | Combined weight (Backpack, bedroll, etc.) |
+| Backpack | 5 | |
+| Bedroll | 7 | |
+| Mess kit | 1 | |
+| Tinderbox | 1 | |
+| 10 Torches | 10 | |
+| 10 Days of Rations | 20 | |
+| Full waterskin | 5 | |
+| 50 feet of hempen rope | 10 | |
 | Scroll case of notes | 1.0 | |
 | Winter blanket | 3.0 | |
 | Common clothes | 3.0 | |
-| Black Obsidian Shard | 5.0 | "Far too heavy for its size" |
+| Black Shard | 5.0 | "Far too heavy for its size" |
 | Dark Metal Rod (1) | 2.0 | |
 | Bag of Crystalline Shards| 1.0 | |
 | Cold-Iron Shard | 5.0 | |
