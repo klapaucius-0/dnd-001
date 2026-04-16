@@ -8,7 +8,7 @@
 **Class:** Cleric (Forge Domain)
 **Background:** Hermit
 **Level:** 1
-**Experience Points (XP):** 50
+**Experience Points (XP):** 100
 
 ## Ability Scores
 *   **Strength:** 15 (+2)
@@ -19,15 +19,15 @@
 *   **Charisma:** 10 (+0)
 
 ## Combat Stats
-*   **Armor Class (AC):** 18 (Chain Mail 16, Shield 2)
+*   **Armor Class (AC):** 11 (Unarmored)
 *   **Initiative:** +1
 *   **Speed:** 25 ft.
-*   **Hit Points (HP):** 10
-*   **Hit Dice:** 1d8
-*   **Carrying Capacity:** 225 lbs (Current: 188.7 lbs)
-*   **Primary Weapon:** Warhammer (1d8 bludgeoning)
+*   **Hit Points (HP):** 6
+*   **Hit Dice:** [X] (1d8)
+*   **Carrying Capacity:** 225 lbs (Current: 186.8 lbs)
+*   **Primary Weapon:** Heavy Smith's Hammer (1d8 bludgeoning)
 *   **Secondary Weapon:** Light Crossbow (1d8 piercing, 80/320 ft.) and 20 Bolts
-*   **Spellcasting Focus:** Small Box of Dark Blue-Green Stone (mounted into a hidden recess in your shield)
+*   **Spellcasting Focus:** Small Box of Dark Blue-Green Stone (Mounted in damaged shield on pack)
 
 ## Proficiencies & Languages
 *   **Armor:** Light, Medium, Heavy, Shields.
@@ -45,10 +45,12 @@
 *   **Dwarven Resilience:** Advantage on saving throws against poison, and resistance against poison damage.
 *   **Stonecunning:** Double proficiency bonus on Intelligence (History) checks related to stonework.
 *   **Dwarven Armor Training:** You have proficiency with light and medium armor.
+*   **Permanent Injury:** Lost Left Arm. Cannot use shields or two-handed weapons. AC reduced by 2 (Shield).
+*   **Equipment Note:** Chain Mail and Shield are currently stowed/strapped to backpack.
 
 ## Resource Tracker
 *   **Spell Slots:** 1st: [ ] [ ]
-*   **Hit Dice:** [ ] (1d8)
+*   **Hit Dice:** [X] (1d8)
 *   **Blessing of the Forge:** [ ] (Used at end of Long Rest)
 
 ## Spells
@@ -69,5 +71,4 @@
 ## Backstory & Concept
 *   **Concept:** A Mountain Dwarf who rejected the traditional heat of the forge, seeking instead the deep, quiet cold that allows him to craft and build. He specializes in **Cold-Forming Steel**, a slow and patient art of hammering metal that has been chilled until it yields. A solitary mason and obsessive crafter, Wael believes that true strength is found in the stillness of the earth's deep frost. His life is a quiet, steady search for the fine tools and old ways needed to work the rare things of the deep earth—frozen ores, light-drinking stone, and the cold remnants of what came before—all to build something that will hold its shape long after the fires have gone out.
 *   **The Successor's Burden:** Wael is the quiet shadow to Berath’s light. They were found family, bound by the shared secret of the cold-forge. When Berath vanished, leaving behind only a trail of frost and a satchel, Wael took up his warhammer and the heavy burden of his friend’s legacy. He now possesses Berath’s journal—a cryptic book he has begun to realize is filled with intentional misdirection to protect the truth. 
-*   **The Mission:** Wael is tracking the path Berath took toward Oakhaven, carrying the items his friend left behind: the brittle journal, a satchel, and a small, black obsidian shard that feels far too heavy for its size. The dark blue-green stone focus mounted in Wael's shield vibrates with a frequency that matches the growing dread in his heart. He seeks not just to find Berath, but to finish the work they started—to build something that can withstand the coming winter. 
-
+*   **The Mission:** Wael is tracking the path Berath took toward Oakhaven, carrying the items his friend left behind: the brittle journal, a satchel, and a small, Dark Black Shard that feels far too heavy for its size. The dark blue-green stone focus mounted in Wael's shield vibrates with a frequency that matches the growing dread in his heart. He seeks not just to find Berath, but to finish the work they started—to build something that can withstand the coming winter. 
