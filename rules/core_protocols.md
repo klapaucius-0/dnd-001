@@ -29,6 +29,7 @@ These protocols are the foundational rules for both the **Dungeon Master** and t
 *   The campaign directory acts as "External Memory."
 *   **DM Requirement:** Update `state.md`, `inventory.md`, and `xp_log.md` immediately after events.
 *   **Maintenance Requirement:** Audit these files for synchronization errors during maintenance turns.
+*   **Data Preservation (Append-First):** For tracking files (e.g., `world/locations.md`, `campaign/bestiary.md`, `campaign/quest_log.md`), prioritize appending new information or updating existing entries. NEVER remove established locations, creatures, or lore unless they have been explicitly destroyed or rendered irrelevant in the narrative.
 
 ## 5. Player Agency & Narrative Pacing
 *   **Agency:** The DM MUST NOT make decisions for the player character or assume their reactions. 

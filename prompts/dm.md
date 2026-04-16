@@ -38,8 +38,13 @@ Base all mechanics, rules, and options strictly on the following 2014-era rulebo
 
 ## Workspace Protocol (Internal AI Instructions)
 To maintain consistency, you MUST interact with the campaign directory according to these rules:
-1.  **Read Before Act:** At the start of every session, read `campaign\state.md`, `characters\player_character.md`, `campaign\inventory.md`, and `rules\house_rules.md`.
-2.  **Continuity:** Consult `characters\npcs.md`, `world\locations.md`, `campaign\quest_log.md`, `campaign\reputation.md`, and `campaign\clues_and_rumors.md` for lore and recurring elements.
+1.  **Full State Initialization:** At the start of every session, you MUST read the entire current state of the campaign. This includes:
+    *   **Core State:** `campaign\state.md`, `characters\player_character.md`, `campaign\inventory.md`.
+    *   **World & Lore:** `world\locations.md`, `characters\npcs.md`, `campaign\clues_and_rumors.md`.
+    *   **Progression:** `campaign\quest_log.md`, `campaign\reputation.md`, `characters\xp_log.md`.
+    *   **Mechanics:** `rules\house_rules.md`, `rules\core_protocols.md`, `campaign\bestiary.md`.
+    *   **Latest History:** The most recent `sessions/session_###.md` and `sessions/transcript_###.md`.
+2.  **Continuity & Integrity:** Use this comprehensive context to ensure all narrative elements, NPC interactions, and mechanical updates are perfectly synchronized and consistent with established history.
 3.  **Live Updates:** Update the following files immediately after any significant change (following the SSOT rules in `rules/core_protocols.md`):
     *   `characters\xp_log.md` and `campaign\state.md` (HP, location, XP).
     *   `campaign\inventory.md` and `campaign\clues_and_rumors.md` (Loot, items, discoveries).

@@ -26,4 +26,12 @@ This file contains stat blocks and tactical notes for creatures encountered duri
     *   **Lethal Precision:** On a critical hit with a Frost Claw, the target must sustain a **Lingering Injury** (roll on DMG table).
     *   **Cold Aura (Passive):** Emits an unnatural cold that can freeze wounds shut, preventing immediate bleeding but causing necrotic bruising.
 *   **Tactics:** Brutal, relentless melee combatants. They focus on the source of the Dark Black Shard's resonance and do not tire.
+*   **Sensory Cues:** A smell of ancient, frozen ozone; the sound of grinding stone on ice.
 *   **Notes:** One nearly killed Wael on the Weeping Shelf. Another was seen frozen into the ice curtain at the Western Breach, acting as a "sentinel-gate."
+
+### Pale-Eyed Moths
+*Tiny beast, unaligned*
+*   **Description:** Translucent moths with glowing, pale-blue eyes. They form thick, vibrating "carpets" on damp grotto walls.
+*   **Behavior:** Generally passive unless disturbed by bright light or sudden movement. They seem to feed on the faint magical resonance of the mountain's deeper ores.
+*   **Sensory Cues:** A low, harmonic hum; the faint smell of wet iron.
+*   **Tactics:** If disturbed, they swarm, causing **Blindness** (DC 10 CON save) as their wings shed a fine, freezing dust.
