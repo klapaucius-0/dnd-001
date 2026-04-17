@@ -8,7 +8,7 @@
 **Class:** Cleric (Forge Domain)
 **Background:** Hermit
 **Level:** 1
-**Experience Points (XP):** <!-- SOURCE: xp_log --> 100
+**Experience Points (XP):** <!-- SOURCE: xp_log --> 200
 
 ## Ability Scores
 *   **Strength:** 15 (+2)

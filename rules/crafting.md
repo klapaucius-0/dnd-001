@@ -14,10 +14,15 @@ Crafting in "The Sorrow" is defined by the tools available. A standard smithy is
 ## 2. The Cold-Forming Mechanic
 Cold-forming is the process of "hammering the heat out" and compressing the molecular structure of metal through rhythmic, high-pressure strikes (**Work-Hardening**).
 
-*   **Labor Hours (LH)**: Items have a total LH requirement. 
+*   **Labor Hours (LH)**: The total LH required for a project is calculated based on the **Base Market Value** (the standard PHB price) of the item.
     *   *Fire-Forging (Reference)*: 1 hour = 5gp of value.
-    *   *Cold-Forming*: 1 hour = 1.25gp of value (4x slower).
+    *   *Cold-Forming*: 1 hour = 1.25gp of base value (4x slower).
 *   **Strain Hardening (The Benefit)**: Cold-formed items gain the **Cold-Forged** tag.
+...
+## 6. Masterwork Valuation & Economy
+*   **Masterwork Premium**: Items that successfully gain the **Cold-Forged** tag have a final market value of **4x the Base Market Value**. This reflects the extreme labor, physical density, and specialized utility of the object.
+*   **Material Costs**: Secured materials must equal 1/2 of the **Base Market Value**.
+*   **Repair Value**: Restoring a broken Cold-Forged item costs 1/4 of the **Base Market Value** in materials but maintains the 4x final valuation once restored.
     *   **Cold-Forged Weapons**: Gain the **Siege** property (deal double damage to objects and structures).
     *   **Cold-Forged Armor**: Grant the wearer **Advantage** on Strength saving throws against being moved or knocked prone.
 *   **Strain Fatigue (The Risk)**: Every 4-hour block of work carries a risk of internal stress.

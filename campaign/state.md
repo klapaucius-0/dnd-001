@@ -1,8 +1,8 @@
 # Campaign State
 
 **Campaign Day:** <!-- SOURCE: time_log --> 2
-**Current Time:** <!-- SOURCE: time_log --> 20:00 (Evening, Post-Sunset)
-**Current Location:** Oakhaven (The Streets)
+**Current Time:** <!-- SOURCE: time_log --> 21:00 (Night)
+**Current Location:** Oakhaven (The Boar and Barrel)
 
 ## Vital Stats
 **Current HP:** 6

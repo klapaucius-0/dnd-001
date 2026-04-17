@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | Chain Mail | 55.0 | Stowed in backpack |
 | Shield | 6.0 | Damaged; strapped to backpack |
-| Currency (5 gp) | 0.1 | 50 coins = 1 lb |
+| Currency (3 gp, 6 sp) | 0.1 | 50 coins = 1 lb |
 | Crossbow bolts (20) | 1.5 | In quiver |
 | Mason's Tools | 8.0 | |
 | Smith's Tools | 8.0 | |

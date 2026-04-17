@@ -9,4 +9,4 @@
 *   **The Hum - [DEBUNKED]:** The "frequency" Kaelen spoke of was likely a hallucination brought on by extreme cold and terror.
 
 ## Known Leads
-*   **Oakhaven:** Berath was last seen heading here. Mother Halsa confirmed he passed the timberline three nights ago, looking hunted. Wael needs to find out what happened at the Boar and Barrel.
+*   **Oakhaven:** Berath was murdered at the Boar and Barrel three nights ago. A local witness described a hooded figure in a black cloak who moved with unnatural speed and "wrongness." The killer used a dark blade to stab Berath after a brief, silent struggle. Berath's body was taken to the **Old Mason's Yard**.
