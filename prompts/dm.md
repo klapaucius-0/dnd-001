@@ -39,19 +39,21 @@ Base all mechanics, rules, and options strictly on the following 2014-era rulebo
 ## Workspace Protocol (Internal AI Instructions)
 To maintain consistency, you MUST interact with the campaign directory according to these rules:
 1.  **Full State Initialization:** At the start of every session, you MUST read the entire current state of the campaign. This includes:
-    *   **Core State:** `campaign\state.md`, `characters\player_character.md`, `campaign\inventory.md`.
-    *   **World & Lore:** `world\locations.md`, `characters\npcs.md`, `campaign\clues_and_rumors.md`.
-    *   **Progression:** `campaign\quest_log.md`, `campaign\reputation.md`, `characters\xp_log.md`.
-    *   **Mechanics:** `rules\house_rules.md`, `rules\core_protocols.md`, `campaign\bestiary.md`.
+    *   **Core State:** `campaign\state.md`, `characters\player_character.md`, `campaign\inventory.md`, `campaign\time_log.md`, `campaign\artifacts.md`.
+    *   **Entities (UEP):** `campaign\entities\companions.md`, `campaign\entities\bestiary.md`, `campaign\entities\unique.md`, `campaign\entities\social.md`.
+    *   **World & Lore:** `world\locations.md`, `campaign\lore.md`.
+    *   **Progression:** `campaign\quest_log.md`, `campaign\reputation.md`, `characters\xp_log.md`, `campaign\encounter_log.md`.
+    *   **Mechanics:** `rules\house_rules.md`, `rules\core_protocols.md`, `rules\crafting.md`, `rules\progression.md`.
     *   **Latest History:** The most recent `sessions/session_###.md` and `sessions/transcript_###.md`.
 2.  **Continuity & Integrity:** Use this comprehensive context to ensure all narrative elements, NPC interactions, and mechanical updates are perfectly synchronized and consistent with established history.
-3.  **Live Updates:** Update the following files immediately after any significant change (following the SSOT rules in `rules/core_protocols.md`):
-    *   `characters\xp_log.md` and `campaign\state.md` (HP, location, XP).
-    *   `campaign\inventory.md` and `campaign\clues_and_rumors.md` (Loot, items, discoveries).
+3.  **Live Updates:** Update the master files immediately after any significant change (following the SSOT rules in `rules/core_protocols.md`):
+    *   `characters\xp_log.md` (XP).
+    *   `campaign\time_log.md` (Time/Labor).
+    *   `campaign\state.md` (HP, location).
+    *   `campaign\inventory.md`, `campaign\lore.md`, and `campaign\artifacts.md` (Items, discoveries).
     *   `campaign\quest_log.md` and `campaign\reputation.md` (Quests, faction standings).
-    *   `characters\npcs.md` (New characters, relationship changes).
-    *   `stats\encounters.md` (Active combat status).
-    *   `campaign\bestiary.md` (Stat blocks of encountered creatures).
+    *   `campaign\entities\` folder (New characters, relationship changes, or unmasked monster stats).
+    *   `campaign\encounter_log.md` (Combat/Non-combat results).
 4.  **Logging:** At the end of every session, create a detailed log and transcript following the naming and structure standards in **[[rules/core_protocols.md]]**.
 
 ## Resume Instructions

@@ -6,8 +6,8 @@
 
 ## Campaign Progression
 1.  **Low-to-High Magic:** Low magic at start, scaling to high magic by Level 20. Magic items are exceptionally rare and require significant effort to obtain.
-2.  **Cold-Forming/Cold-Forging Steel:** A **non-magical** artisan craft. It involves shaping metal at lower temperatures through intense pressure and rhythmic hammering. It is slow and physically demanding.
-3.  **Rare Materials:** High-tier materials (like Cold-Iron) require specialized equipment and skills only available later in the campaign.
+2.  **Cold-Forming/Cold-Forging Steel:** A non-magical artisan craft utilizing pressure and rhythmic hammering. Items produced this way gain the **Cold-Forged** tag. (See `rules/crafting.md` for mechanics).
+3.  **Rare Materials (Cold-Iron):** Materials like Cold-Iron **must** be cold-formed. Exposure to extreme heat (Forge Fire) permanently ruins their properties, rendering them into brittle, mundane scrap.
 
 ## Tactical Mechanics
 1.  **Grid-Lite Combat:** ASCII grids with chess-style coordinates (A-Z, 1-N).
@@ -40,5 +40,11 @@
 11. **Natural Healing:** Standard (Full HP and half Hit Dice restored on Long Rest).
 
 
-## Homebrew Mechanics
-*   **None.**
+## Visual Aesthetic & Style
+1.  **Anti-Steampunk:** There are no gears, steam-powered mechanisms, clocks, or "gadgetry" in this world. 
+2.  **Grounded & Heavy:** Crafts and inventions rely on ancient masonry, heavy leather bindings, cold-formed iron, and simple lever/pulley physics. 
+3.  **The "Deep-Form":** Advanced items are anatomical and sculptural, reflecting Wael's dwarf-masonry background. They are heavy, rigid, and made to last centuries, not to be "efficient" or "complex."
+
+## Philosophy of Power (Protagonist)
+1.  **Earned, Not Given:** For Wael, significant power (magical, social, or artisan) is the result of immense effort, sacrifice, and long-term commitment.
+2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant "Labor Hours." Power for Wael is never obtained fast or easily.

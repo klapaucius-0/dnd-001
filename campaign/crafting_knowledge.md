@@ -7,12 +7,20 @@ Cold-forming (or Cold-forging) is the artisan art of shaping metal without the u
 *   **Time:** A slow, patient process. What a fire-forge does in hours, a cold-forge does in days or weeks.
 
 ## Materials Knowledge
-*   **Standard Steel:** Found in frontier towns, abandoned mines, and old battlefields. Can be cold-formed into basic tools and weapons with standard smithing tools.
-*   **Crystalline Shards:** Harvested from high mountain passes and frozen fissures. Brittle and difficult to work. Currently useful as abrasives or minor additives.
-*   **Dark Metal / Cold-Iron:** Recovered from ancient ruins or rare geological formations. Requires specialized equipment (high-pressure presses, light-drinking anvils) currently unavailable to Wael.
-*   **Dark Black Shard:** A unique material of unknown origin. It is exceptionally heavy and seems to react to the presence of Pale-Eyed Figures.
-*   **Frost-Vein Lichen:** Found in high-altitude salt-spray zones and areas of melting permafrost (e.g., The Weeping Shelf). A rare, translucent lichen that pulses with azure light. When steeped, it creates a potent numbing agent. It can be used to mitigate the effects of severe internal injuries, providing advantage on related physical saves for several hours.
-*   **Ghost-Root:** A bitter, grey-green herb found in high-altitude timberlines. When chewed, it dulls physical pain, providing a bonus to constitution saves against internal injuries. However, it causes a significant mental fog (disadvantage on Intelligence and Wisdom checks).
+*   **Standard Steel**: Found in frontier towns and abandoned mines.
+    *   **HR**: 13 (Base DC)
+    *   **Tool Tier**: 1 (Standard Kit)
+*   **Crystalline Shards**: Brittle mountain minerals.
+    *   **HR**: 14 (Base DC)
+    *   **Tool Tier**: 1 (Standard Kit) or 2 (for precision integration)
+*   **Dark Metal / Cold-Iron**: Rare geological formations or ancient relics.
+    *   **HR**: 18 (Base DC)
+    *   **Tool Tier**: 3 (Masterwork/Stationary)
+    *   **Properties**: Must be cold-formed. Exposure to forge-fire or high heat destroys its structural integrity and magical resonance. When cold-forged, it is lethal to supernatural entities (Fey, Fiends).
+*   **Frost-Vein Lichen**: Translucent, azure-pulsing lichen.
+    *   **Preparation**: 2 LH (Tincture) or 8 LH (Complex Decoction)
+*   **Ghost-Root**: Bitter, grey-green herb.
+    *   **Preparation**: 1 LH (Chewed/Raw) or 4 LH (Refined Paste)
 
 ## Equipment Requirements
 *   **Current:** Standard Smith's Tools, Mason's Tools.

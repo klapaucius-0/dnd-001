@@ -14,10 +14,15 @@ node dice_roller.js <dice_string>
 ### Supported Formats
 *   **Simple Dice:** `1d20`, `2d6`, `1d100`
 *   **Dice with Bonuses:** `1d20+5`, `2d6-1`
-*   **Advantage/Disadvantage:** 
-    *   Advantage: `2d20dl1` (Roll 2, drop lowest 1)
-    *   Disadvantage: `2d20dh1` (Roll 2, drop highest 1)
-*   **Ability Score Generation:** `4d6dl1` (Roll 4, drop lowest 1)
+*   **Multi-Part Expressions:** `2d20l1+4-1d4` (Disadvantage + Modifier - Penalty)
+*   **Keep/Drop Modifiers:**
+    *   `h[n]`: Keep Highest `n` (e.g., `2d20h1` for Advantage)
+    *   `l[n]`: Keep Lowest `n` (e.g., `2d20l1` for Disadvantage)
+    *   `dl[n]`: Drop Lowest `n` (e.g., `4d6dl1`)
+    *   `dh[n]`: Drop Highest `n` (e.g., `2d20dh1`)
 
 ### Technical Details
-The script outputs a JSON object containing the `input`, the `originalRolls` (for audit purposes), the `keptRolls`, the `bonus`, and the final `total`. This transparency ensures the "Sacred Dice Protocol" is followed and that every result can be verified.
+The script outputs a concise string showing the total and a breakdown of rolls:
+`Result: 15 ([12, 19] +4 -1)`
+
+This transparency ensures the "Sacred Dice Protocol" is followed and that every result can be verified.

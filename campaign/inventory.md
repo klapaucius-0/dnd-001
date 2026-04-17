@@ -5,7 +5,7 @@
 | :--- | :--- | :--- |
 | Heavy Smith's Hammer | 10.0 | Primary Weapon (1d8 bludgeoning) |
 | Light Crossbow | 5.0 | 1d8 piercing |
-| Dark Blue-Green Stone | 0.0 | Focus, mounted in damaged shield |
+| Damp Blue-Green Stone Box | 2.0 | Focus; contains the Dark Black Shard. |
 
 ## Stored Inventory (Backpack & Satchel)
 | Item | Weight (lbs) | Notes |
@@ -28,7 +28,7 @@
 | Scroll case of notes | 1.0 | |
 | Winter blanket | 3.0 | |
 | Common clothes | 3.0 | |
-| Dark Black Shard | 5.0 | "Far too heavy for its size" |
+| Dark Black Shard | 5.0 | <!-- SOURCE: artifacts --> Secured inside the Damp Blue-Green Stone Box. |
 | Dark Metal Rod (1) | 2.0 | |
 | Bag of Crystalline Shards| 1.0 | |
 | Cold-Iron Shard | 5.0 | |

@@ -2,23 +2,31 @@
 
 ## Active Quests
 
-### Short-Term Goals (Immediate Survival, Safety & Consolidation)
-| Quest | Description | Objectives |
-| :--- | :--- | :--- |
-| **The First Step** | Recover enough strength to function without medicinal aids and secure your immediate safety. | - Secure a safe room at the Boar and Barrel.<br>- Complete a full Long Rest.<br>- Find a healer to address the Internal Injury. |
-| **The Functional Frame** | Craft or acquire a basic prosthetic to allow the use of a shield and tools. | - Research basic mechanical arm designs.<br>- Gather necessary scrap metal and leather.<br>- Find a steady workbench in Oakhaven. |
-| **Consolidation** | Organize your remaining resources and identify what was lost to the mountain. | - Audit inventory for damaged or missing gear.<br>- Replace essential supplies (rations, tools). |
+### Short-Term Goals (Immediate Survival & Consolidation)
+| Quest | Status | Description | Objectives |
+| :--- | :--- | :--- | :--- |
+| **The First Step** | Active | Recover strength and secure safety in Oakhaven. | [ ] Secure safe shelter for an extended stay.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Secure a room at the Boar and Barrel.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Negotiate housing with a local resident.<br>[ ] Obtain treatment for the Internal Injury.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Locate a professional healer.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Acquire a potent healing potion or tincture.<br>[ ] Complete a full Long Rest. |
+| **The Crude Brace** | Active | A static, heavy anchor designed solely to hold a shield or tool-clamp. | [ ] Design a static brace that can be strapped to the stump.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Sketch a rigid frame using dwarf-masonry principles.<br>[ ] Gather raw, heavy materials.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Scavenge iron bands or stiff, untreated wood.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Source heavy canvas or leather for padding.<br>[ ] Secure a basic workbench for assembly. |
+| **The Cold-Forged Anatomy** | Pending | A superior limb using interlocking plates and heavy bindings to mimic anatomical movement. | [ ] Study anatomical proportions for a custom fit.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Consult medical texts or ancient smithing records.<br>[ ] Obtain refined cold-formed steel or rare minerals.<br>[ ] Establish a workshop capable of precision cold-work. |
+| **Consolidation** | Active | Audit and replace gear lost to the mountain. | [ ] Assess the state of your current kit.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Perform a detailed inventory audit.<br>[ ] Restock essential survival supplies.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Purchase rations and oil at Oakhaven markets.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Trade stone-carving services for supplies.<br>( ) Restore damaged protective gear.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Cold-anneal the cracks in the stowed shield.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Re-bind the leather straps on the chain mail. |
+| **The Master's Toolkit** | Active | Systematically acquire every individual non-magical tool. | [ ] Complete the "Artisan" set.<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Alchemist's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Brewer's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Calligrapher's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Carpenter's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Cartographer's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Cobbler's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Cook's utensils<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Glassblower's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Jeweler's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Leatherworker's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Painter's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Potter's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Tinker's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Weaver's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Woodcarver's tools<br>[ ] Complete the "Professional" set.<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Thieves' tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Disguise kit<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Forgery kit<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Navigator's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Poisoner's kit<br>[ ] Organize a high-capacity mobile storage system. |
 
-### Mid-Term Goals (Growth & Personal Restoration)
-| Quest | Description | Objectives |
-| :--- | :--- | :--- |
-| **Restoration of the Flesh** | Seek out the power or magic required to fully regain your lost arm. | - Search for rumors of high-tier restorative magic.<br>- Earn the favor of a powerful healer or deity. |
-| **Building the Bastion** | Establish a network of allies and resources to ensure you never fall alone again. | - Improve reputation in Oakhaven.<br>- Identify potential "found family" or apprentices. |
+### Mid-Term Goals (Growth & Restoration)
+| Quest | Status | Description | Objectives |
+| :--- | :--- | :--- | :--- |
+| **Restoration of the Flesh** | Active | Seek out the power or magic required to fully regain your lost arm. | [ ] Secure a source of powerful restorative magic.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Seek an audience with the High Priest of Oakhaven (7th-level Regenerate).<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Research legends of "The Living Frost" or other ancient healing sources.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Search for a rare magic item (Ring of Regeneration or similar).<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Attain the personal power required to manifest the healing (Reach Level 4+).<br>[ ] Fulfill the requirements for the restoration.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Perform a significant service for the faith or the town.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Locate a rare focus or ingredient required for the spell/item. |
+| **Building the Bastion** | Active | Establish a network of allies and resources to ensure you never fall alone again. | [ ] Establish a reputation as a reliable artisan.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Fulfill commissions or repairs for the guard or guilds.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Contribute to the town's maintenance or defense.<br>[ ] Establish reliable professional contacts.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Identify merchants for high-grade stone/ore.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Find local guards or scouts for hire.<br>( ) Secure a permanent workspace in Oakhaven.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Identify a cellar or abandoned masonry shop.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Earn enough standing for a permit. |
 
-### Long-Term Goals (The Dark Shard & Legacy - Slow Progress)
-| Quest | Description | Objectives |
-| :--- | :--- | :--- |
-| **The Successor's Burden** | Uncover the truth of Berath's death and slowly decipher the nature of the shard. | - Confirm the details of Berath's final moments in Oakhaven.<br>- Incrementally research the Dark Black Shard's properties.<br>- Build something that can "withstand the coming winter." |
+### Long-Term Goals (Growth & Legacy)
+| Quest | Status | Description | Objectives |
+| :--- | :--- | :--- | :--- |
+| **The Monolith of the Deep-Form** | Active | Construct an impossibly high and infinitely deep stronghold to serve as a permanent sanctuary, crafting hub, and home. | [ ] Construct the central monolith.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Raise a tower that pierces the highest mountain winds.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Excavate foundations and vaults deep into the primordial rock.<br>[ ] Establish comprehensive crafting and magical hubs.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Build specialized stations for all non-magical artisan crafts.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Construct sealed, high-pressure chambers for precision cold-forming.<br>[ ] Cultivate life and rare resources within the stronghold.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Design high-altitude greenhouses and subterranean fungal grottos for herbs/potions.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Cultivate veins of rare minerals or crystalline shards.<br>[ ] Assemble a grand library of deep and ancient lore.<br>[ ] Gather friends, allies, and build a found family to populate the stronghold. |
+
+### Endgame Goals (Legendary Mastery - Level 17-20)
+| Quest | Status | Description | Objectives |
+| :--- | :--- | :--- | :--- |
+| **The Weight of the Void** | Active | Uncover the ultimate truth and origin of the Dark Black Shard. | [ ] Decipher the resonance properties of the Dark Black Shard.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Observe the Shard's behavior in the presence of high-tier Pale-Eyes.<br>[ ] Gain access to a legendary and extremely rare void archive.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Locate the hidden repository of void lore.<br>[ ] Recover lost knowledge of the Dark Black Shard.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Research ancient texts specific to the void (extremely difficult to find and to read). |
+| **The Stillness of the Deep** | Active | Uncover the origin and purpose of the unyielding Damp Blue-Green Stone Box. | [ ] Decipher the structural nature of the Damp Blue-Green Stone Box.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Observe the Reliquary's behavior near primordial geological forces.<br>[ ] Gain access to a legendary and extremely rare pre human archive.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Locate the hidden repository of pre human lore.<br>[ ] Recover lost knowledge of the Damp Blue-Green Stone Box.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Research ancient texts specific to "Primordial Formations" (extremely difficult to find and to read). |
 
 ## Completed Quests
 | Quest | Summary | Reward |

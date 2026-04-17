@@ -7,22 +7,29 @@ This repository contains the structured data, logs, and rules for a solo Dungeon
 *   **Tone:** Melancholic, psychological dread, classic weird fiction.
 *   **Protagonist:** Wael, a Mountain Dwarf Forge Cleric (Hermit).
 
-## Directory Structure & Standards
-*   **`campaign/`**: Real-time state (`state.md`), inventory, quests, and reputation.
-    *   `inventory.md`: Item tracking with weights/encumbrance.
-    *   `quest_log.md`: Active and completed objectives.
-    *   `reputation.md`: Faction standings and NPC relationships.
-    *   `bestiary.md`: Encountered creature stat blocks.
-*   **`characters/`**: PC sheet (`player_character.md`), NPCs, and the `xp_log.md` (SSOT for XP).
+## Directory Structure & Standards (AI-Optimized)
+*   **`campaign/`**: Real-time state (`state.md`), inventory, quests, and lore.
+    *   **`entities/`**: Unified discovery blocks for all non-player beings.
+        *   `companions.md`: Full mechanical and social status for allies.
+        *   `bestiary.md`: Tactical stats and behavior for monsters.
+        *   `unique.md`: Named entities, major story NPCs, and legacy figures.
+        *   `social.md`: Minor NPCs and recurring groups.
+    *   `artifacts.md`: SSOT for physical/sensory data of significant items.
+    *   `inventory.md`: SSOT for item tracking and weight.
+    *   `quest_log.md`: SSOT for active and completed objectives.
+    *   `time_log.md`: SSOT for passage of time and Labor Hours.
+    *   `encounter_log.md`: Historical record of challenges and outcomes.
+    *   `lore.md`: Consolidated repository of clues and rumors.
+*   **`characters/`**: PC sheet (`player_character.md`) and `xp_log.md` (SSOT for XP).
+    *   `archive/`: Storage for deceased characters and legacy data.
 *   **`prompts/`**: Role-specific instructions for the AI (`dm.md` and `maintenance.md`).
-*   **`rules/`**: House rules and the **Core Protocols** (`rules/core_protocols.md`).
-*   **`scripts/`**: Technical tools like the `dice_roller.js`.
-*   **`sessions/`**: Chronological records (`session_###.md`) and raw transcripts.
-*   **`templates/`**: Blueprints for NPCs, locations, and sessions.
+*   **`rules/`**: House rules, crafting mechanics, progression standards, and the **Core Protocols**.
+*   **`scripts/`**: Technical tools like the multi-part `dice_roller.js`.
+*   **`sessions/`**: Chronological records and raw transcripts.
+*   **`templates/`**: Blueprints for NPCs, locations, sessions, and character creation.
 
 ## Operational Standards
-All agents interacting with this repository must adhere to the **[[rules/core_protocols.md]]**. This document centralizes the rules for XP, Logging, Dice, and File Integrity.
-The DM agent must also respect bracketed prompts `[...]` as direct meta-instructions.
+All agents interacting with this repository must adhere to the **[[rules/core_protocols.md]]**. This document defines the naming conventions, SSOT registry, and structural rules (including the **Unified Entity Protocol**) required for consistent campaign management.
 
 ---
-*Last Technical Maintenance: 2026-04-16 (Post-Session 003)*
+*Last Technical Maintenance: 2026-04-18 (Structural Refactoring, Artifact Integration & UEP Implementation)*
