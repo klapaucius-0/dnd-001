@@ -18,3 +18,4 @@
 | 3 | 13:26 | 006 | Crate of Iron Nails | +1 Crate | 1 | Reclaimed from Vesper (Ref: Ses_006) |
 | 3 | 13:38 | 006 | Neatsfoot Oil | +1 Vial | 1 | Trade for info: Master Hobb (Ref: Ses_006) |
 | 3 | 13:38 | 006 | Rations (5 days) | +5 Days | 15 | Trade for info: Master Hobb (Ref: Ses_006) |
+| 3 | 14:20 | 006 | Custody Transfer | — | — | Vice-Clamp and 5-Day Rations moved to Kaelen (Ref: Ses_006) |

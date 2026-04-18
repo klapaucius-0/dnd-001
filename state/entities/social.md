@@ -113,6 +113,14 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 *   **Personality/Behavior:** Direct, observant, values integrity over aesthetics.
 *   **Outlook:** The mountains don't give up prizes without a cost; history is held in iron.
 
+### Mechanical Details (Unified Entity Protocol)
+
+#### Known Values (Observed)
+*   **Disposition (Current Mood):** Friendly (Baseline: Neutral)
+*   **Known Facts:** 
+    *   Profound respect for Wael's structural restoration of her wagon axle.
+    *   Directly provided "Old Cut" iron tools for a significant discount.
+
 ---
 
 ## Master Hobb [STRATUM: 1_FRAGILE_SURFACE]
@@ -128,6 +136,14 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 *   **Appearance:** Portly, well-groomed, wire-rimmed spectacles, signet ring.
 *   **Personality/Behavior:** Calculating, baritone voice, polite but extractive.
 *   **Outlook:** Information and standing are the currencies of the surface.
+
+### Mechanical Details (Unified Entity Protocol)
+
+#### Known Values (Observed)
+*   **Disposition (Current Mood):** Friendly (Baseline: Neutral)
+*   **Known Facts:** 
+    *   Values intelligence; traded survival gear for news of the Chapel's stability.
+    *   Source of the "Restless Yard" rumor regarding Berath's body.
 
 ---
 

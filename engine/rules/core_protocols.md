@@ -64,3 +64,8 @@ To keep the active workspace lean and optimized for AI agents, the following arc
 ### C. State Archiving (`state/archive/`)
 *   **Defunct Entities:** Move deceased or permanently departed NPC files from `state/entities/` to `state/archive/entities/`.
 *   **Legacy Characters:** Move historical character state snapshots to `state/archive/characters/`.
+
+## 9. Session Termination & Recursion
+Upon the conclusion of a narrative campaign session (indicated by the user command "End Session" or "End Campaign Session"), the agent **MUST NOT** simply stop. 
+
+Instead, the agent MUST immediately invoke the **Sacred Boot Sequence** defined in `GEMINI.md`. This allows the user to transition directly into **Maintenance & Configuration** mode or start a new narrative cycle within the same CLI session, ensuring continuous repository integrity and state synchronization.

@@ -73,7 +73,7 @@ To maintain consistency, you MUST interact with the campaign directory according
     *   New Artifact -> `artifact_template.md`
     *   Session Summary -> `session_summary_template.md`
     *   Session Transcript -> `session_transcript_template.md`
-4.  **Logging:** At the end of every session, create a detailed log and transcript following the naming and structure standards in **[[rules/core_protocols.md]]**.
+4.  **Logging:** At the end of every session, create a detailed log and transcript following the naming and structure standards in **[[rules/core_protocols.md]]**. Upon completion of all logs, **immediately invoke the Sacred Boot Sequence from `GEMINI.md`** to allow the user to transition into maintenance or start a new session.
 
 
 ## Resume Instructions

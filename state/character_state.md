@@ -63,7 +63,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 221.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 196.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
 **Currency:** 4 gp, 2 sp <!-- SOURCE: currency_log -->
 
 ### Equipped
@@ -90,7 +90,7 @@
 | Tinderbox | 1.0 | |
 | 10 Torches | 10.0 | |
 | 5 Days Rations (Plain) | 10.0 | |
-| 5 Days Rations (Salt-Pork) | 10.0 | |
+| 5 Days Rations (Salt-Pork) | 0.0 | (Carried by Kaelen) |
 | Full waterskin | 5.0 | |
 | Hempen Rope (50ft) | 10.0 | |
 | Berath's Journal | 1.0 | |
@@ -113,7 +113,7 @@
 | Waxed Linen Thread | 0.0 | (Negligible weight) |
 | Neatsfoot Oil | 0.5 | `atlas/crafting/materials.md` |
 | Master Leatherworker's Kit | 5.0 | Rusted; `atlas/crafting/tools.md` |
-| Old Cut Iron Vice-Clamp | 15.0 | Seized; `atlas/crafting/tools.md` |
+| Old Cut Iron Vice-Clamp | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone | 2.0 | `atlas/crafting/tools.md` |
 | Crate of Iron Nails | 5.0 | `atlas/crafting/materials.md` |
 | Currency (4 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |

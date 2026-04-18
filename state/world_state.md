@@ -2,7 +2,7 @@
 <!-- SOURCE: world_state -->
 
 **Current Day:** 3 <!-- SOURCE: time_log -->
-**Current Time:** 1:38 (Early Afternoon) <!-- SOURCE: time_log -->
+**Current Time:** 14:20 (Early Afternoon) <!-- SOURCE: time_log -->
 **Current Location:** Oakhaven (General Trader's Stall)
 
 ## Active Effects & Conditions
@@ -17,9 +17,9 @@
 *   **Social Vibe:** Paranoid, wary of outsiders, clinging to the Chapel's protection.
 
 ## Social Standing (SSOT: reputation_log / relationship_log)
-*   **Oakhaven:** Level 1 (25/100 SP) [Acquaintance]
+*   **Oakhaven:** Level 1 (40/100 SP) [Acquaintance]
     *   *Father Vane:* Level 0 (6/20 SP) [Stranger / Associate]
-    *   *Kaelen:* Level 1 (45/60 SP) [Acquaintance / Companion]
+    *   *Kaelen:* Level 1 (50/60 SP) [Acquaintance / Companion]
     *   *Hera:* Level 0 (6/20 SP) [Stranger / Associate]
     *   *Master Hobb:* Level 0 (5/20 SP) [Neutral / Associate]
     *   *Toren & Hov:* Level 0 (5/20 SP) [Stranger / Associate]
@@ -36,6 +36,6 @@
 | **Master's Toolkit** | Acquire all artisan tool sets & Mobile Storage. | [ ] Collecting |
 
 ## Summary of Active Parties
-*   **Wael:** At the Chapel entrance, preparing to leave.
-*   **Kaelen:** Waiting with Wael, anxious to find shelter.
+*   **Wael:** Near the South Gate at Hobb's stall, preparing to move to the East Gate.
+*   **Kaelen:** Heavily laden with the Vice-Clamp, waiting with Wael.
 *   **Father Vane:** Within the Chapel, tending to the mended rail.

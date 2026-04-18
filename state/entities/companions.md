@@ -6,10 +6,10 @@ This file tracks the mechanical and social state of characters traveling with Wa
 ---
 
 ## Kaelen [STRATUM: 1_FRAGILE_SURFACE]
-**Role/Type:** Human Guide
+**Role/Type:** Human Guide (Scout / Future Expert Sidekick)
 **Bond Type:** Companion
-**Standing:** Level 1 (40/60 SP) [Acquaintance]
-**Last Interaction:** Day 3 / 10:55
+**Standing:** Level 1 (50/60 SP) [Acquaintance]
+**Last Interaction:** Day 3 / 14:20
 
 ### Summary
 A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wael.
@@ -18,7 +18,7 @@ A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wae
 *   **Appearance:** Haunted, bird-like eyes; wearing salt-stained furs and scavenged leather.
 *   **Voice/Mannerisms:** Anxious, quiet, prone to quick glances at the shadows.
 *   **Personality/Behavior:** Observant and deeply loyal to those who provide safety.
-*   **Outlook on Life:** Survival is about navigating the fragile social echoes of civilization and staying close to the strong.
+*   **Outlook on Life:** Survival is about navigating the fragile social echoes of civilization and staying close to the strong. Prefers "the lie of survival" over the "truth of the cold."
 
 ### Mechanical Details (Unified Entity Protocol)
 
@@ -33,12 +33,12 @@ A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wae
 *   **Speed:** 30 ft.
 *   **Disposition (Current Mood):** Friendly (Baseline: Neutral)
 *   **Key Proficiencies:** Perception (+4), Survival (+4), Stealth (+4).
-#### Known Facts: 
+*   **Known Facts:** 
     *   Expert Scout: Advantage on Wisdom checks for mountain paths.
     *   Born in the Low-Sallows; lost home to the "things in the ice."
     *   Carries a shortbow and two daggers.
-    *   Outlook: Pragmatic survivalist; prioritizes mobility over gear; cautious of social altruism.
-    *   Utility: Carrying Wael's Old Cut Iron Vice-Clamp (15.0 lbs) and 5 Days Rations (10.0 lbs) to maintain party mobility.
+    *   Combat Style: Skirmisher; avoids melee, uses range and evasion.
+    *   Utility: Carrying Wael's Old Cut Iron Vice-Clamp (15.0 lbs) and 5 Days Rations (10.0 lbs).
 
 #### Unknown Values (??)
 *   **Secret Motives:** ??

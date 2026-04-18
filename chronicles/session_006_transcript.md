@@ -20,7 +20,10 @@
 **DM:** Finds Old Cut Iron Vice-Clamp and Masterwork Leatherworker's Kit.
 **Wael:** [Structural Restoration of Axle]. [Smith's Tools 22 (Guidance/Tallow/Help)].
 **Vesper:** [Currency -1gp, 2sp]. Tools and Nails secured.
-**Wael:** [Share news with Master Hobb]. [Charisma 19 (Guidance/Help)].
-**Hobb:** [SP +5]. Gifts Neatsfoot Oil and 5-Day Rations.
-**Wael:** [Inventory Audit]. Weight balanced at 221.3 lbs.
-**DM:** [Session Ends].
+**Wael:** [Interaction with Master Hobb]. Discovers his role as a high-surface trader.
+**Wael:** [Share news of Chapel restoration]. [Charisma 19 (Guidance/Help)].
+**Hobb:** [SP +5]. Gifts Neatsfoot Oil and 5-Day Salt-Pork Rations.
+**Hobb:** Shares rumor of "Restless Yard."
+**Wael:** [Logistics]. Offloads Old Cut Iron Vice-Clamp (15 lbs) and 5 Days Plain Rations (10 lbs) to Kaelen.
+**Wael:** [Inventory Audit]. Weight balanced at 221.3 lbs / 225.0 lbs.
+**DM:** [Session Ends at 14:20].

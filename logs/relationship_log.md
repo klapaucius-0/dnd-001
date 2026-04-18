@@ -13,5 +13,9 @@
 | 2 | 18:00 | 003 | Toren & Hov | +5 | 5 | Honest and respectful entry (Minor) |
 | 3 | 10:55 | 006 | Kaelen | +5 | 40 | Mutual respect through sparring and inquiry (Minor) |
 | 3 | 11:29 | 006 | Kaelen | +5 | 45 | Professional restoration of his survival gear (Minor) |
+| 3 | 14:20 | 006 | Kaelen | +5 | 50 | Collaboration: Success in 5/5 market challenges (Minor) |
+| 3 | 12:05 | 006 | Bram | +5 | 5 | Professional commerce and artisan respect (Minor) |
+| 3 | 12:30 | 006 | Elara | +1 | 1 | Clearing excess inventory (Trivial) |
+| 3 | 13:26 | 006 | Vesper | +10 | 10 | Critical structural repair of trade wagon (Moderate) |
 | 3 | 13:38 | 006 | Master Hobb | +5 | 5 | Providing valuable intelligence on the Chapel (Minor) |
-| 3 | 13:38 | 006 | Oakhaven | +10 | 25 | Strengthening social stability via news (Moderate) |
+| 3 | 13:38 | 006 | Oakhaven | +10 | 40 | Strengthening social stability via news (Moderate) |

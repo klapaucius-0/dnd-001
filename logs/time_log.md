@@ -25,6 +25,7 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 3 | 13:38 | 006 | Travel to General Trader's stall. | 0.2 | N/A | 0 |
 | 3 | 13:50 | 006 | Return to Vesper's wagon and lore exchange. | 0.2 | N/A | 0 |
 | 3 | 14:05 | 006 | Continued discussion with Vesper regarding the North Cut. | 0.25 | N/A | 0 |
+| 3 | 14:20 | 006 | Finalizing trade with Master Hobb and offloading gear to Kaelen. | 0.25 | N/A | 0 |
 
 ## Daily Time Budget (24 Hours)
 *   **Rest/Sleep:** 8 Hours (Required for Long Rest).
