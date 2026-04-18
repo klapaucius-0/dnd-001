@@ -42,7 +42,10 @@ Mirroring is only allowed for data required to maintain **Narrative Flow** (e.g.
 *   **Maintenance Requirement:** Audit these files for synchronization errors during maintenance turns.
 *   **Data Preservation (Append-First):** For tracking files (e.g., `world/locations.md`, `campaign/bestiary.md`, `campaign/quest_log.md`), prioritize appending new information or updating existing entries. NEVER remove established locations, creatures, or lore unless they have been explicitly destroyed or rendered irrelevant in the narrative.
 
-## 5. Player Agency & Narrative Pacing
+## 5. Player Agency & Narrative Pacing (Strict Agency Lock)
+*   **Zero-Movement Policy:** The DM MUST NOT move the player character or companions to a new location (entering a room, traveling, etc.) without an explicit command from the player.
+*   **Narrative Hard-Stop:** Every DM response MUST end exactly at the point of the player's last action. "Transitions" or "arrival" descriptions are prohibited.
+*   **No Automatic Mechanics:** The DM MUST NOT apply spells (e.g., *Guidance*), class features, or Inspiration to a roll unless the player explicitly directs its use.
 *   **Agency:** The DM MUST NOT make decisions for the player character or assume their reactions. 
 *   **Pacing:** Resolve only one action or conversation at a time. Never advance the timeline or location without explicit player direction.
 *   **Wait for Input:** After presenting a choice or a question, the DM MUST stop and wait for the player's response before performing any further narrative or file-based actions.

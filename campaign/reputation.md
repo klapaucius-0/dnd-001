@@ -1,10 +1,11 @@
 # Reputation & Factions
 
 ## Oakhaven (Frontier Town)
-**Standing:** Favorable (+1)
+**Standing:** Favorable (+2)
 *   **The North Gate Guards (Toren & Hov):** Favorable (+1). They respect your survival and your honesty.
-*   **The Common Folk:** Wary / Curious (+1). You have publicly claimed vengeance for Berath, a locally known murder victim. Some believe you to be a slayer of "shadows," while others remain skeptical of your injuries.
-*   **Hera (Boar and Barrel):** Neutral (+1). She respects a man who pays his way and makes bold claims, but she's watching you closely.
+*   **The Common Folk:** Favorable (+1). You have gained respect through your public claims and your visible skill as an artisan.
+*   **Hera (Boar and Barrel):** Favorable (+2). She respects your skill and your respect for her establishment. She has provided you with a new lead regarding the Chapel.
+*   **Father Vane (The Chapel):** Favorable (+3). He profoundly respects your mastery over stone and your ability to purge supernatural blights.
 *   **Mother Halsa:** Favorable (+1). You showed respect and a desire to mend her home.
 
 ## The Mountain Sentinels (Faction of Myth - DEBUNKED)

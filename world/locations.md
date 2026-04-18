@@ -6,6 +6,12 @@
     *   **The Boar and Barrel Tavern:** A common gathering place for travelers. Known for its thick walls and warm hearth.
     *   **The North Gate:** Heavily guarded entrance. Currently manned by Toren and Hov.
 
+## The North Cut
+*   **Description:** A narrow passage or mining excavation north of Oakhaven. It has recently been sealed by order of the town authorities.
+*   **Known Facts:** 
+    *   Rumored to be haunted by "shadows" or "hoods."
+    *   Father Vane believes the "remnants" are gathering here.
+
 ## The Frozen Grove
 *   **Description:** A hidden pocket of gnarled, frost-covered trees nestled in a glacier-vent.
 *   **Key Spots:**

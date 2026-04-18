@@ -48,3 +48,8 @@
 ## Philosophy of Power (Protagonist)
 1.  **Earned, Not Given:** For Wael, significant power (magical, social, or artisan) is the result of immense effort, sacrifice, and long-term commitment.
 2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant "Labor Hours." Power for Wael is never obtained fast or easily.
+
+## Narrative Focus & Style
+1.  **Strict Source Adherence:** All NPC spell descriptions, deity descriptions, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM).
+2.  **No Thematic Adaptation:** No descriptive flavoring or thematic adaptation is permitted for non-player entities.
+3.  **Mechanical Storytelling:** The narrative focus and style for NPCs and the world are established solely through the selection of existing "by the book" options, such as their chosen spells, deities, and established lore.
