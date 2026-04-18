@@ -2,6 +2,7 @@
 
 **Size, Type, and Alignment:** [e.g., Medium humanoid (dwarf), true neutral]
 **Location/Habitat:** [Specific Spot or Region]
+**Faction:** [[Faction Name]]
 **Primary Stratum:** [STRATUM: X]
 
 ## Summary
@@ -24,8 +25,9 @@
 ### Known Values (Observed)
 *   **Armor Class (AC):** [Value] ([Source])
 *   **Speed:** [X] ft.
-*   **Disposition:** [Volatile State: Hostile/Wary/Neutral/Friendly]
-*   **Relationship:** [Stable State: Level 0-5]
+*   **Bond Type:** [Kin / Companion / Partner / Associate / Rival / Nemesis]
+*   **Standing:** Level [X] ([Current SP] / [Threshold])
+*   **Last Interaction:** [Day / Time]
 *   **Senses:** [e.g., Passive Perception 12]
 *   **Languages:** [X]
 *   **Key Proficiencies:** [Saving Throws or Skills observed in play]
@@ -37,6 +39,7 @@
 *   **Challenge (CR):** ?? ([XP])
 *   **Hidden Resistances/Traits:** ??
 *   **Secret Motives/Hidden Nature:** ??
+*   **Pending Milestone:** [Required story beat for Level 3 or Romance]
 
 ## Combat Style & Mechanics
 *   **Tactics:** [How they behave in combat.]

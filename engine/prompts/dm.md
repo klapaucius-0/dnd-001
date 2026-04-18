@@ -56,7 +56,17 @@ To maintain consistency, you MUST interact with the campaign directory according
     *   **Latest History:** The most recent `chronicles/session_###_summary.md` and `session_###_transcript.md`.
 2.  **Continuity & Integrity:** Use this comprehensive context to ensure all narrative elements, NPC interactions, and mechanical updates are perfectly synchronized and consistent with established history.
 3.  **Live Play Annotations:** You MUST tag every mechanical event in the transcript using `[TAG: Value]` notation.
-4.  **Live Updates (Log-First, State-Second):** Whenever a value changes, update the Master Log in `logs/` FIRST, then the Snapshot State in `state/` SECOND.
+    *   `[XP: +50]` (Character Level)
+    *   `[SP: +10 (Hera)]` (Social Points)
+    *   `[CURRENCY: -1gp]`
+    *   `[TIME: +30m]`
+4.  **Social Progression (Pragmatic SP System):**
+    *   **Scale:** Every level (0 to 3) requires **20 SP** for individuals and **100 SP** for Factions.
+    *   **Award Rubric:** Trivial +1, Minor +5, Moderate +10, Major +20.
+    *   **Splashing:** Positive individual actions grant **10% SP** to the Faction. Negative actions grant **25% SP** loss.
+    *   **Direct Gate:** Reaching **Level 2** (Trusted/Enemy) with a Faction requires a **Direct Action** for or against the community.
+    *   **Mood:** NPCs start at their **Baseline Disposition** (Level 0: Neutral, Level 2: Friendly). Mood resets to baseline after a Long Rest unless a Grudge exists.
+5.  **Live Updates (Log-First, State-Second):** Whenever a value changes, update the Master Log in `logs/` FIRST, then the Snapshot State in `state/` SECOND.
 5.  **Mandatory Templates:** You MUST use the templates in `engine/templates/` when creating new files:
     *   New Entity (NPC/Monster) -> `entity_template.md`
     *   New Location -> `location_template.md`

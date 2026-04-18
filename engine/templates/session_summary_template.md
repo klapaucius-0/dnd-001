@@ -14,11 +14,12 @@
 | **Wealth** | `logs/currency_log.md` | [+/- X] | [Context] |
 | **XP** | `logs/experience_log.md` | [+X] | [Level Status] |
 | **Time** | `logs/time_log.md` | [+HH:MM] | [Activity] |
-| **Reputation** | `logs/reputation_log.md` | [+X] | [Faction] |
+| **SP (Individual)** | `logs/relationship_log.md` | [+X] | [NPC Name] |
+| **SP (Faction)** | `logs/reputation_log.md` | [+X] | [Faction Name] |
 
 ## Key Discoveries & Lore
 *   **[Lore Name]:** [Brief detail.]
-*   **[NPC Name]:** [Disposition/Relationship change.]
+*   **[NPC Name]:** [Update Bond Type or Pending Milestone.]
 
 ## Active Conditions & Effects
 *   [Injuries, Exhaustion, or Blessed status.]

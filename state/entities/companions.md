@@ -7,7 +7,9 @@ This file tracks the mechanical and social state of characters traveling with Wa
 
 ## Kaelen [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Human Guide
-**Location:** Oakhaven (The Boar and Barrel)
+**Bond Type:** Companion
+**Standing:** Level 0 (15/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 10:30
 
 ### Summary
 A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wael.
@@ -28,8 +30,7 @@ A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wae
 #### Known Values (Observed)
 *   **Armor Class (AC):** 14 (Scavenged Leather)
 *   **Speed:** 30 ft.
-*   **Disposition:** Friendly / Indebted
-*   **Relationship:** Level 1 (Trusting)
+*   **Disposition (Current Mood):** Friendly (Baseline: Neutral)
 *   **Key Proficiencies:** Perception (+4), Survival (+4), Stealth (+4).
 *   **Known Facts:** 
     *   Expert Scout: Advantage on Wisdom checks for mountain paths.

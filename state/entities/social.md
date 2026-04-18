@@ -7,7 +7,9 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 
 ## Hera [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Tavern Owner
-**Location:** The Boar and Barrel (Oakhaven)
+**Bond Type:** Associate
+**Standing:** Level 0 (10/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 07:15
 
 ### Summary
 The pragmatic and protective proprietor of Oakhaven's primary social hub.
@@ -27,8 +29,7 @@ The pragmatic and protective proprietor of Oakhaven's primary social hub.
 
 #### Known Values (Observed)
 *   **Armor Class (AC):** 11 (Padded apron / Natural)
-*   **Disposition:** Favorable (+2)
-*   **Relationship:** Level 1 (Trusting)
+*   **Disposition (Current Mood):** Friendly (Baseline: Neutral)
 *   **Known Facts:** 
     *   Appreciated Wael's expert repair of her hearth and shutter.
     *   Knowledgeable regarding local rumors and trade.
@@ -42,7 +43,9 @@ The pragmatic and protective proprietor of Oakhaven's primary social hub.
 
 ## Father Vane [STRATUM: 2_ERODING_AGE]
 **Role/Type:** Priest of Kelemvor
-**Location:** The Chapel of Oakhaven
+**Bond Type:** Associate
+**Standing:** Level 0 (6/20 SP) [Stranger]
+**Last Interaction:** Day 3 / 10:15
 
 ### Summary
 A solemn and patient priest burdened by the spiritual defense of Oakhaven.
@@ -61,8 +64,7 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven.
 
 #### Known Values (Observed)
 *   **Armor Class (AC):** 10 (Robes)
-*   **Disposition:** Favorable (+3)
-*   **Relationship:** Level 1 (Trusting)
+*   **Disposition (Current Mood):** Friendly (Baseline: Friendly)
 *   **Known Facts:** 
     *   Performs "Realignment" rituals that tax the body (cause Exhaustion).
     *   Senses resonances; recognized Wael's connection to the Deep-Form.
@@ -77,7 +79,8 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven.
 
 ## Toren & Hov [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Town Guards
-**Location:** North Gate (Oakhaven)
+**Standing:** Level 0 (10/100 SP) [Neutral]
+**Last Interaction:** Day 2 / 18:00
 
 ### Known Values (Observed)
 *   **Disposition:** Neutral / Weary
@@ -89,9 +92,11 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven.
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Citizen Group
+**Standing:** Level 0 (19/100 SP) [Neutral]
+**Last Interaction:** Day 3 / 10:15 (Splash from Vane)
 
 ### Known Values (Observed)
-*   **Disposition:** Favorable (+1)
+*   **Disposition:** Neutral
 *   **Known Facts:** 
     *   Awe of Wael's public claims of vengeance and visible artisan skill.
     *   Prone to paranoia and scarcity-driven friction.

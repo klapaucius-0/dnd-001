@@ -1,27 +1,33 @@
-# Session 005: The Chapel's Mercy
+# Session 005 Summary: The Chapel's Mercy
 
-**Date:** Friday, 17 April 2026
-**Location:** Oakhaven (The Chapel of Oakhaven)
-**Characters:** Wael (Cleric 2), Kaelen (NPC Companion)
+**Real Date:** 2026-04-17
+**Campaign Day:** 3
+**Current Time:** 10:30
+**Primary Stratum:** [STRATUM: 1_FRAGILE_SURFACE]
 
 ## Narrative Summary
-Wael woke on the third day of his journey, feeling the strength of a long rest. After blessing and donning his chain mail—a grueling task with one arm—he performed several acts of mending at the Boar and Barrel, earning the respect of Hera. Seeking treatment for his internal injury, he traveled to the Chapel of Oakhaven to meet Father Vane, a priest of Kelemvor. Through a display of master-tier mending on a supernatural blight affecting the altar rail, Wael secured a healing ritual. The ritual was physically taxing, leaving him exhausted but mending the most critical aspects of his internal trauma. Before leaving, Wael completed the restoration of the Chapel's fixtures, earning Father Vane's profound respect and a small sum of coin.
+Wael woke on the third day of his journey, feeling the strength of a long rest. After blessing and donning his chain mail—a grueling task with one arm—he performed several acts of mending at the Boar and Barrel. Seeking treatment for his internal injury, he traveled to the Chapel of Oakhaven to meet the solemn Father Vane. Through a display of mending on a supernatural blight affecting the altar rail, Wael secured a healing ritual. The ritual was physically taxing but mended the most critical aspects of his internal trauma. Before leaving, Wael completed minor repairs on the Chapel's fixtures.
 
-## Mechanical Highlights
-*   **Blessing of the Forge:** Applied to Chain Mail (+1 AC).
-*   **Athletics Check:** 17 (Donning armor with one arm).
-*   **Mending (Artisan Check):** Natural 20 (Purging "white-frost" from altar rail).
-*   **CON Saving Throw:** 10 (Partial success on internal injury realignment).
-*   **Conditions:** Lost Left Arm, Exhaustion (Level 1). Internal Injury (Mitigated).
-*   **Inspiration:** 1 point awarded for roleplay and artisan mastery.
-*   **XP Awarded:** 150 XP (Level 2 reached).
+*Note: These repairs were performed primarily via the Mending cantrip, representing minor social favors rather than major heroic feats.*
 
-## Rewards & Discoveries
-*   **Currency:** +13 silver pieces total (5 from Hera, 8 from Vane).
-*   **Reputation:** Hera (Favorable +2), Father Vane (Favorable +3).
-*   **Lore:** Father Vane serves Kelemvor (Grave Domain). Confirmed Berath died before achieving any goals. Information on supernatural phenomena drawn to the shard.
+## Mechanical Ripple Effects (Chain of Custody)
+| Category | Master Log | Change | Note / Source |
+| :--- | :--- | :--- | :--- |
+| **Wealth** | `logs/currency_log.md` | +13 sp | Hera (5), Vane (8) |
+| **XP** | `logs/experience_log.md` | +150 | Level 2 reached |
+| **Time** | `logs/time_log.md` | +2.5h | Repairs & Ritual |
+| **SP (Hera)** | `logs/relationship_log.md` | +5 SP | Hearth Repair (Minor) |
+| **SP (Vane)** | `logs/relationship_log.md` | +6 SP | Blight/Tiles (Minor/Trivial) |
+| **SP (Town)** | `logs/reputation_log.md` | +0 SP | Splash (Rounded 0) |
 
-## Next Steps
-*   Level Up (Wael has reached Level 2).
-*   Visit the Old Mason's Yard to find Berath's grave.
-*   Manage Exhaustion (Requires a Long Rest to remove).
+## Key Discoveries & Lore
+*   **Kelemvor:** Father Vane serves the Lord of the Dead; the Chapel is a bastion of "Correctness."
+*   **Berath's End:** Confirmed Berath died without completing his purpose.
+
+## Active Conditions & Effects
+*   **Lost Left Arm:** Permanent (Requires 7th Level magic).
+*   **Exhaustion (Level 1):** From the realignment ritual.
+*   **Internal Injury:** Mitigated (Requires one more Long Rest).
+
+## Transcript Reference
+*   [[session_005_transcript]]

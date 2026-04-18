@@ -8,6 +8,7 @@ This file contains discovery-based state blocks and tactical notes for creatures
 ## Resonant Figure [STRATUM: 5_RESONANT_VOID]
 **Role/Type:** Medium humanoid
 **Habitat:** High Peaks / Anomalous Zones
+**Faction:** [[Mountain Sentinels]]
 
 ### Summary
 Humanoid figures that move with a gravity-defying grace, drawn to the resonance of the Dark Shard.
@@ -46,6 +47,7 @@ Humanoid figures that move with a gravity-defying grace, drawn to the resonance 
 ## Void-Touched Sentinel [STRATUM: 5_RESONANT_VOID]
 **Role/Type:** Large skeletal construct
 **Habitat:** The Obelisk / Deep Excavations
+**Faction:** [[Mountain Sentinels]]
 
 ### Narrative & Identity
 *   **Appearance:** Massive skeletal frame reinforced with dark metal bands.

@@ -7,7 +7,9 @@ This file tracks named monsters, major story NPCs, and legacy figures.
 
 ## Mother Halsa [STRATUM: 3_FROZEN_EXPANSE]
 **Role/Type:** Hermit / Hunter
-**Location:** Mother Halsa's Shack (The Frozen Grove)
+**Bond Type:** Associate
+**Standing:** Level 0 (1/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 10:15 (via Vane / Messengers)
 
 ### Summary
 An elderly hermit surviving in the lethal cold of the Frozen Grove.
@@ -39,6 +41,7 @@ An elderly hermit surviving in the lethal cold of the Frozen Grove.
 
 ## Berath (Legacy) [STRATUM: 2_ERODING_AGE]
 **Role/Type:** Knowledge Domain Cleric (Mountain Dwarf)
+**Bond Type:** Kin
 **Status:** Deceased (Murdered in Oakhaven)
 
 ### Summary

@@ -16,13 +16,14 @@
 *   **Weather:** Overcast, biting wind from the North Cut.
 *   **Social Vibe:** Paranoid, wary of outsiders, clinging to the Chapel's protection.
 
-## Social Standing (SSOT: reputation_log)
-*   **Oakhaven:** Favorable (+2)
-    *   *Father Vane:* Level 1 (Trusting) / +3 Standing
-    *   *Hera:* +2 Standing
-    *   *Kaelen:* Level 1 (Trusting)
-    *   *Mother Halsa:* +1 Standing
-*   **Mountain Sentinels:** Nemesis (-5)
+## Social Standing (SSOT: reputation_log / relationship_log)
+*   **Oakhaven:** Level 0 (15/100 SP) [Neutral]
+    *   *Father Vane:* Level 0 (6/20 SP) [Stranger / Associate]
+    *   *Kaelen:* Level 0 (15/20 SP) [Stranger / Companion]
+    *   *Hera:* Level 0 (6/20 SP) [Stranger / Associate]
+    *   *Toren & Hov:* Level 0 (5/20 SP) [Stranger / Associate]
+    *   *Mother Halsa:* Level 0 (1/20 SP) [Neutral / Associate]
+*   **Mountain Sentinels:** Level 1 (-150/-300 SP) [Nuisance / Nemesis]
 
 ## Quest Tracker (SSOT: quest_state)
 | Quest | Objective | Status |

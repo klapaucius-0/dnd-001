@@ -13,6 +13,7 @@
 **Wael:** [CON Save 10]. Partial success. Internal Injury mitigated; Exhaustion Level 1.
 **Wael:** [Mending x2]. Fixes Votive Stand and Blue-Slate Tile (Success on retrial).
 **Father Vane:** [Pays 8 silver pieces].
+**Note:** These repairs were minor Cantrip-level social favors. SP awards have been adjusted to Minor (+5) and Trivial (+1) respectively.
 **Wael:** [Asks about Kelemvor and Berath].
 **Wael:** I thank the father and leave with kaelen.
 **DM:** [Session Ends].
