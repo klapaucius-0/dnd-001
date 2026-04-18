@@ -19,7 +19,7 @@ Wael woke on the third day of his journey, feeling the strength of a long rest. 
 ## Rewards & Discoveries
 *   **Currency:** +13 silver pieces total (5 from Hera, 8 from Vane).
 *   **Reputation:** Hera (Favorable +2), Father Vane (Favorable +3).
-*   **Lore:** Father Vane serves Kelemvor (Grave Domain). Confirmed Berath died before achieving any goals. Information on "Hoods" (remnants/shadows drawn to the shard).
+*   **Lore:** Father Vane serves Kelemvor (Grave Domain). Confirmed Berath died before achieving any goals. Information on supernatural phenomena drawn to the shard.
 
 ## Next Steps
 *   Level Up (Wael has reached Level 2).

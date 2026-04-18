@@ -22,10 +22,10 @@
 *   **Armor Class (AC):** 17 (Chain Mail +1)
 *   **Initiative:** +1
 *   **Speed:** 25 ft.
-*   **Hit Points (HP):** 10
-*   **Hit Dice:** [ ] (1d8)
-*   **Carrying Capacity:** 225 lbs <!-- SOURCE: inventory -->
-*   **Primary Weapon:** Heavy Smith's Hammer (1d8 bludgeoning)
+**Hit Points (HP):** 10
+**Hit Dice:** [ ] (1d8)
+**Total Weight:** <!-- SOURCE: inventory --> 186.9 lbs (Capacity: 225 lbs)
+**Primary Weapon:** Heavy Smith's Hammer (1d8 bludgeoning)
 *   **Secondary Weapon:** Light Crossbow (1d8 piercing, 80/320 ft.) and 20 Bolts
 *   **Spellcasting Focus:** Damp Blue-Green Stone Box <!-- SOURCE: artifacts --> (Mounted in damaged shield on pack)
 *   **Equipment Note:** Chain Mail (+1) is equipped. Shield is currently strapped to backpack.

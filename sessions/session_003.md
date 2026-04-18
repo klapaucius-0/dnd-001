@@ -5,7 +5,7 @@
 **Characters:** Wael (Cleric 1), Kaelen (NPC Companion)
 
 ## Narrative Summary
-After stabilizing in the Mountain's Throat, Wael and Kaelen navigated the treacherous inner tunnels of the Frozen Gap. They bypassed a fearful miner at the Ice-Lock and a "carpet" of Pale-Eyed Moths in a hidden grotto. Using the *Mending* cantrip, Wael smoothed a jagged crack to bypass a frozen Sentinel guarding the Western Breach, successfully reaching the surface.
+After stabilizing in the Mountain's Throat, Wael and Kaelen navigated the treacherous inner tunnels of the Frozen Gap. They bypassed a fearful miner at the Ice-Lock and a "carpet" of Dust-Moths in a hidden grotto. Using the *Mending* cantrip, Wael smoothed a jagged crack to bypass a Resonant Sentinel guarding the Western Breach, successfully reaching the surface.
 
 In the foothills, the pair stumbled into a hidden glacier-vent, falling into the Frozen Grove. There, they found sanctuary at the shack of Mother Halsa, an elderly hermit who knew Berath. Halsa provided Wael with **Ghost-Root** to dull his internal injury and confirmed that Berath had passed through three nights ago, appearing hunted. Wael and Kaelen pushed through the final miles to Oakhaven, successfully persuading the guards Toren and Hov to allow them entry. The session ended with the two weary travelers standing before the Boar and Barrel Tavern, seeking rest and the truth of Berath's fate.
 

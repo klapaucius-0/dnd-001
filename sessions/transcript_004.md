@@ -8,7 +8,7 @@
 **Wael:** [Insight Check 16]. Overhears rumors of the North Cut and "shadows."
 **Kaelen:** [Explains the Winch and the iron shipments].
 **Witness:** [Tells the story of Berath's murder]. Black cloak, dark blade, three nights ago.
-**Wael:** I killed the pale-eyed hooded figure that killed Berath... I got vengeance for him.
+**Wael:** I killed the pale-eyed figure that killed Berath... I got vengeance for him.
 **DM:** [Reputation Update: Oakhaven Favorable +1].
 **Wael:** [Persuasion Check 12 (with Guidance)].
 **DM:** The tavern is skeptical but respectful.

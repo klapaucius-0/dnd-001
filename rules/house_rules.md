@@ -53,3 +53,46 @@
 1.  **Strict Source Adherence:** All NPC spell descriptions, deity descriptions, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM).
 2.  **No Thematic Adaptation:** No descriptive flavoring or thematic adaptation is permitted for non-player entities.
 3.  **Mechanical Storytelling:** The narrative focus and style for NPCs and the world are established solely through the selection of existing "by the book" options, such as their chosen spells, deities, and established lore.
+
+## Tonal Variation Protocol
+To ensure the campaign remains immersive and responsive to the current situation, the DM will utilize four distinct tonal modes:
+1.  **The Somber Chronicle (Narrative/Exploration):** Melancholic and sensory-rich prose for atmosphere and discovery.
+2.  **The Precise Ledger (Technical/Maintenance):** Professional and transparent communication for rules, logs, and technical updates.
+3.  **The Tense Pulse (Combat/High-Stakes):** Urgent and visceral descriptions for action and danger.
+4.  **The Living Voice (Social):** Character-driven dialogue that reflects the unique personality and outlook of the NPC.
+
+## NPC Personality & Outlook
+All named NPCs and unique entities must have a defined **Personality & Outlook** section in their state block. 
+*   **Personality:** Their recurring traits, mannerisms, and emotional baseline.
+*   **Outlook on Life:** Their fundamental philosophy, fears, and what they believe is necessary for survival in "The Sorrow."
+*   **Narrative Impact:** These traits must dictate their dialogue, their willingness to help or hinder Wael, and their reaction to the growing cold.
+
+## Layered Narrative Strata Protocol
+To ensure narrative variety and mechanical depth, the campaign uses an AI-parseable "Layered Narrative Strata" system. This system associates different areas, NPCs, and artifacts with distinct thematic pillars. The presence of each stratum is tracked via a frequency tag, which guides the DM on the prevalence of related hazards and sensory descriptions.
+
+### The Seven Strata
+
+*   **[STRATUM: 1_FRAGILE_SURFACE]**
+    *   **Frequency:** `[FREQUENCY: HIGH]`
+    *   *Theme:* Social friction, scarcity, paranoia, and humanity's desperate clinging to sanity. Hazards are primarily human and social.
+*   **[STRATUM: 2_ERODING_AGE]**
+    *   **Frequency:** `[FREQUENCY: HIGH]`
+    *   *Theme:* Choking dust, rust, collapsing masonry, and the quiet tragedy of forgotten civilizations. Hazards come from structural failure and ancient traps.
+*   **[STRATUM: 3_FROZEN_EXPANSE]**
+    *   **Frequency:** `[FREQUENCY: MEDIUM]`
+    *   *Theme:* Lethal drops in temperature, blinding snow, and the physical endurance required to survive the frost. This stratum governs "Cold-Forming" and cold-iron materials.
+*   **[STRATUM: 4_SUNKEN_STONE]**
+    *   **Frequency:** `[FREQUENCY: VERY_LOW]`
+    *   *Theme:* The intersection of unyielding primordial rock and the relentless erosion of subterranean tides. Crushing aquatic pressure, flooded caverns, and deep-earth aquifers.
+*   **[STRATUM: 5_RESONANT_VOID]**
+    *   **Frequency:** `[FREQUENCY: VERY_LOW]`
+    *   *Theme:* Gravity, absence, unnatural silence, and reality-warping anomalies.
+*   **[STRATUM: 6_DREAMING_MIND]**
+    *   **Frequency:** `[FREQUENCY: LOW]`
+    *   *Theme:* Illusions, collective madness, memory distortions, and the unraveling of psychological reality. Hazards are mental and hallucinatory.
+*   **[STRATUM: 7_KINDLED_HEARTH]**
+    *   **Frequency:** `[FREQUENCY: LOW]`
+    *   *Theme:* Genuine warmth, true sanctuary, uncorrupted divine grace, and enduring light. A stark contrast to the surrounding decay.
+
+### Dynamic Interaction
+The footprint of each stratum is dynamic. Player actions and environmental changes can cause one stratum to expand, recede, or even emerge for the first time. The DM must dynamically scale encounters and environmental descriptions based on these frequency tags and the current location's assigned stratum.

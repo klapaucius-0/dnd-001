@@ -3,6 +3,7 @@
 ## Equipped Items
 | Item | Weight (lbs) | Notes |
 | :--- | :--- | :--- |
+| Chain Mail (+1) | 55.0 | Blessed (Active); Worn |
 | Heavy Smith's Hammer | 10.0 | Primary Weapon (1d8 bludgeoning) |
 | Light Crossbow | 5.0 | 1d8 piercing |
 | Damp Blue-Green Stone Box | 2.0 | Focus; contains the Dark Black Shard. |
@@ -10,9 +11,8 @@
 ## Stored Inventory (Backpack & Satchel)
 | Item | Weight (lbs) | Notes |
 | :--- | :--- | :--- |
-| Chain Mail (+1) | 55.0 | Blessed (Active); Stowed in backpack |
 | Shield | 6.0 | Damaged; strapped to backpack |
-| Currency (4 gp, 9 sp) | 0.1 | 50 coins = 1 lb |
+| Currency (6 gp, 2 sp) | 0.2 | 50 coins = 1 lb (Approx 0.12 lbs, rounded up) |
 | Crossbow bolts (20) | 1.5 | In quiver |
 | Mason's Tools | 8.0 | |
 | Smith's Tools | 8.0 | |
@@ -39,5 +39,5 @@
 | Pouch of Rare Minerals | 5.0 | |
 | Frost-Vein Lichen (0.5) | 0.1 | Potent numbing properties |
 
-**Total Weight:** 186.8 lbs
+**Total Weight:** 186.9 lbs
 **Carrying Capacity:** 225.0 lbs (Strength 15)

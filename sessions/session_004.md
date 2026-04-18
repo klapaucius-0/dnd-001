@@ -5,7 +5,7 @@
 **Characters:** Wael (Cleric 1), Kaelen (NPC Companion)
 
 ## Narrative Summary
-Wael and Kaelen entered Oakhaven and secured lodging at the **Boar and Barrel**, paying 14 silver pieces for stew and two rooms. While eating, they overheard unsettling rumors of the North Cut being sealed and "shadows" near the timberline. A local patron recounted the murder of Berath three nights ago: a silent, hooded figure in a black cloak stabbed him with a dark blade before vanishing into the snow. Wael publicly claimed to have killed Berath's murderer, showing the recovered satchel as proof. While the claim was met with a mixture of awe and skepticism, Wael's reputation in the town grew. The session ended with the two travelers preparing for a long rest to recover from their harrowing journey.
+Wael and Kaelen entered Oakhaven and secured lodging at the **Boar and Barrel**, paying 14 silver pieces for stew and two rooms. While eating, they overheard unsettling rumors of the North Cut being sealed and "shadows" near the timberline. A local patron recounted the murder of Berath three nights ago: a silent figure in a black cloak stabbed him with a dark blade before vanishing into the snow. Wael publicly claimed to have killed Berath's murderer, showing the recovered satchel as proof. While the claim was met with a mixture of awe and skepticism, Wael's reputation in the town grew. The session ended with the two travelers preparing for a long rest to recover from their harrowing journey.
 
 ## Mechanical Highlights
 *   **Insight:** 16 (Overhearing tavern rumors).
@@ -23,4 +23,3 @@ Wael and Kaelen entered Oakhaven and secured lodging at the **Boar and Barrel**,
 *   Complete a Long Rest to restore HP and Hit Dice.
 *   Visit the **Old Mason's Yard** to pay respects and search for clues.
 *   Locate a healer for the **Internal Injury**.
-*   Research the "shadows" and the sealing of the North Cut.

@@ -11,12 +11,15 @@
 *   **Appearance:** [Focus on decay, antiquity, or specific sensory details.]
 *   **Voice/Mannerisms:** [Formal, weary, hushed, etc.]
 *   **Scent:** [Tactile/Olfactory anchor.]
-*   **Personality:** [Melancholic, pragmatic, secretive, etc.]
+*   **Personality:** [Description of recurring traits and emotional baseline.]
+*   **Outlook on Life:** [Fundamental philosophy, fears, and views on survival in "The Sorrow."]
 
 ## Mechanical Details
 *   **Race/Class/Level:** [If applicable]
 *   **Armor Class (AC):** [X]
 *   **Hit Points (HP):** [X]
+*   **Disposition:** [Volatile State: Hostile/Wary/Neutral/Friendly]
+*   **Relationship:** [Stable State: Level 0-5]
 *   **Stats:** [Str, Dex, Con, Int, Wis, Cha]
 *   **Key Skills:** [X]
 
