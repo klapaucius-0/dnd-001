@@ -48,7 +48,7 @@ A rare and exceptionally dense form of iron recovered from the deepest, oldest l
 ### Resonance & Relationships
 *   **Related Entities:** [[Vesper]]
 *   **Related Locations:** [[The Old Cut]]
-*   **Mechanical Utility:** Provides superior stability as an artisan support tool; increases Hardness Rating (HR) of finished items.
+*   **Mechanical Utility:** Provides superior stability as an artisan support tool; increases the quality of finished items.
 
 ---
 

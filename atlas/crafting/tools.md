@@ -3,8 +3,8 @@
 
 ---
 
-# Old Cut Iron Vice-Clamp [TOOL] [TIER: 2] [HOMEBREW]
-A heavy, blue-grey iron mechanism pulled from the third-level collapse of the North Cut.
+# Vice-Clamp [TOOL] [TIER: 2] [MAT: OLD_CUT_IRON] [QUAL: STANDARD] [FREQ: RARE] [HOMEBREW]
+A heavy, blue-grey iron mechanism pulled from the North Cut.
 
 ## Technical Properties
 *   **Type:** Artisan Support Tool
@@ -12,7 +12,7 @@ A heavy, blue-grey iron mechanism pulled from the third-level collapse of the No
 *   **Weight:** 15.0 lbs.
 
 ## Mechanical Utility ([HOMEBREW])
-While bolted to a stable surface, this vice acts as a "Third Hand." It **negates the Disadvantage** Wael suffers for performing two-handed artisan tasks (like masonry or smithing) with only one arm. Required for working materials with HR 15+.
+While bolted to a stable surface, this vice acts as a "Third Hand." It **negates the Disadvantage** Wael suffers for performing two-handed artisan tasks (like masonry or smithing) with only one arm. It allows working with materials up to **WR 17**.
 
 ## Maintenance & Restoration
 *   **Condition:** Seized/Rusted.
@@ -20,7 +20,7 @@ While bolted to a stable surface, this vice acts as a "Third Hand." It **negates
 
 ---
 
-# Master Leatherworker's Kit [TOOL] [TIER: 1] [HOMEBREW]
+# Master Leatherworker's Kit [TOOL] [TIER: 1] [MAT: HI_CARBON_STEEL] [FREQ: RARE] [HOMEBREW]
 A complete set of high-carbon steel awls, needles, and punches.
 
 ## Technical Properties
@@ -29,7 +29,7 @@ A complete set of high-carbon steel awls, needles, and punches.
 *   **Weight:** 5.0 lbs.
 
 ## Mechanical Utility ([HOMEBREW])
-Once restored, this kit enables the crafting and repair of **Professional-grade** leather items. The high-carbon steel ensures the tools do not flex or dull when working heavy Daleland hides.
+Once restored, this kit is required to attempt **MASTERWORK** Quality checks for leather items. The high-carbon steel ensures tools do not flex or dull against heavy hides.
 
 ## Maintenance & Restoration
 *   **Condition:** Rusted.
@@ -37,42 +37,26 @@ Once restored, this kit enables the crafting and repair of **Professional-grade*
 
 ---
 
-# Heavy Slate Sharpening Stone [TOOL] [HOMEBREW]
-An industrial-grade natural abrasive used for honing heavy-duty chisels and blades.
+# Smith's Tools [TOOL] [TIER: 1] [MAT: IRON] [FREQ: COMMON] [[PHB]] [STANDARD]
+Standard set of hammers, tongs, and bellows.
 
 ## Technical Properties
-*   **Type:** Tool Maintenance Item
-*   **Weight:** 2.0 lbs.
+*   **Tier:** 1 (Standard)
+*   **Weight:** 8.0 lbs.
+
+---
+
+# Mason's Tools [TOOL] [TIER: 1] [MAT: IRON] [FREQ: COMMON] [[PHB]] [STANDARD]
+Standard set of chisels and mallets.
+
+## Technical Properties
+*   **Tier:** 1 (Standard)
+*   **Weight:** 8.0 lbs.
+
+---
+
+# Heavy Slate Sharpening Stone [TOOL] [MAT: SLATE] [FREQ: UNCOMMON] [HOMEBREW]
+Industrial-grade natural abrasive.
 
 ## Mechanical Utility ([HOMEBREW])
 Required to maintain the **"Sharp"** or **"Masterwork"** status of tools. Using dull/unmaintained tools increases the DC of artisan checks by 2.
-
----
-
-# Smith's Tools [TOOL] [TIER: 1] [[PHB]] [STANDARD]
-A standard set of hammers, tongs, and bellows.
-
-## Technical Properties
-*   **Type:** Artisan Kit
-*   **Tier:** 1 (Standard)
-*   **Weight:** 8.0 lbs.
-
----
-
-# Mason's Tools [TOOL] [TIER: 1] [[PHB]] [STANDARD]
-A standard set of chisels and mallets.
-
-## Technical Properties
-*   **Type:** Artisan Kit
-*   **Tier:** 1 (Standard)
-*   **Weight:** 8.0 lbs.
-
----
-
-# Herbalism Kit [TOOL] [TIER: 1] [[PHB]] [STANDARD]
-A standard set of pouches, shears, and grinding stones.
-
-## Technical Properties
-*   **Type:** Artisan Kit
-*   **Tier:** 1 (Standard)
-*   **Weight:** 3.0 lbs.

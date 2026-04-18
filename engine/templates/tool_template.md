@@ -1,4 +1,4 @@
-# [Tool Name] [TOOL] [TIER: X] [[SOURCEBOOK_TAG]] [HOMEBREW/STANDARD]
+# [Tool Name] [TOOL] [TIER: X] [MAT: Y] [FREQ: Z] [[SOURCE]] [HOMEBREW/STANDARD]
 <!-- SOURCE: atlas/crafting/tools.md -->
 
 [Narrative description of the tool's quality, weight, and history.]

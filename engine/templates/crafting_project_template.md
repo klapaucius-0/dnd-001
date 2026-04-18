@@ -12,7 +12,7 @@
 *   **Percentage Complete:** [X]%
 
 ## Technical Requirements
-*   **Hardness Rating (HR):** [Base DC]
+*   **Workability Rating (WR):** [Base DC]
 *   **Tools Required:** [e.g., Smith's Tools (Tier 1)]
 *   **Materials Required:**
     *   [Material 1]: [Quantity/Status]

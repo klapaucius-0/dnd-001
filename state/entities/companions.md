@@ -38,7 +38,7 @@ A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wae
     *   Born in the Low-Sallows; lost home to the "things in the ice."
     *   Carries a shortbow and two daggers.
     *   Combat Style: Skirmisher; avoids melee, uses range and evasion.
-    *   Utility: Carrying Wael's Old Cut Iron Vice-Clamp (15.0 lbs) and 5 Days Rations (10.0 lbs).
+    *   Utility: Carrying Wael's Vice-Clamp [MAT: OLD_CUT_IRON] (15.0 lbs) and 5 Days Rations (10.0 lbs).
 
 #### Unknown Values (??)
 *   **Secret Motives:** ??

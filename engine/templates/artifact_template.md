@@ -20,7 +20,7 @@
 
 ### Physical Properties
 *   **Dimensions:** [Tactile size description.]
-*   **Composition:** [Material details, hardness rating (HR).]
+*   **Composition:** [Material details, Workability Rating (WR).]
 *   **Condition:** [Age, erosion, antique decay level.]
 
 ### Sensory Profile

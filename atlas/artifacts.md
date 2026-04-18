@@ -17,7 +17,7 @@ This file contains high-resolution physical data for unique items. These descrip
 
 ### Physical Properties
 *   **Dimensions:** Roughly 3" x 1.5" x 1".
-*   **Composition:** Stone-like mineral (Copper/Silt color). Hardness Rating (HR): 18.
+*   **Composition:** Stone-like mineral (Copper/Silt color). Workability Rating (WR): 18.
 *   **Condition:** Ancient; edges rounded by subterranean aquatic erosion.
 
 ### Sensory Profile
