@@ -69,10 +69,12 @@
 ### Equipped
 | Item | Weight | Notes |
 | :--- | :--- | :--- |
-| Chain Mail (+1) | 55.0 | Blessed; Worn |
-| Heavy Smith's Hammer | 10.0 | 1d8 Bludgeoning |
-| Light Crossbow | 5.0 | 1d8 Piercing (80/320 ft.) |
+| Chain Mail (+1) | 55.0 | Blessed; Worn (AC 17) |
+| Heavy Smith's Hammer | 10.0 | 1d8 Bludgeoning; Versatile (1d10) |
+| Light Crossbow | 5.0 | 1d8 Piercing (80/320 ft.); Ammunition, Loading, Two-Handed* |
 | Damp Blue-Green Stone Box | 2.0 | <!-- SOURCE: artifacts --> Focus (Shield Mount) |
+
+*\*Note: Two-handed property currently hindered by Lost Left Arm injury.*
 
 ### Stored (Backpack & Satchel)
 | Item | Weight | Notes |

@@ -1,31 +1,73 @@
 # World Locations
+<!-- SOURCE: world_state -->
+
+This file contains the spatial hierarchy and navigation data for the campaign world.
+
+---
 
 ## Oakhaven [STRATUM: 1_FRAGILE_SURFACE]
-*   **Description:** A hardy frontier town built into the lower slopes of the mountain range. It serves as a vital trade hub for timber and ore, though it feels increasingly isolated as social friction and scarcity begin to wear down the resolve of its inhabitants.
-*   **Key Spots:**
-    *   **The Boar and Barrel Tavern:** A common gathering place for travelers. Known for its thick walls and warm hearth, it is a rare bastion of social interaction in a world growing increasingly paranoid.
-    *   **The North Gate:** Heavily guarded entrance. Currently manned by Toren and Hov, who watch for signs of instability from the higher slopes.
+**Setting Context:** Forgotten Realms (Sword Mountains, 120 miles East of Neverwinter)
+**Frequency:** HIGH
+**Scale:** Narrative (Settlement)
+
+### Summary
+A hardy frontier town built into the lower slopes of the mountain range. It serves as a vital trade hub for timber and ore, though it feels increasingly isolated.
+
+### Atmosphere & Mood
+*   **The "Vibe":** Social friction, scarcity, paranoia.
+*   **Sensory Details:** Smells of pine resin and wet wool; sound of constant mountain wind.
+*   **Layered Sensory:** The "fragility" of the surface is felt in the wary eyes of the locals.
+
+### Spatial Navigation
+*   **Parent Location:** [[The Sword Mountains]]
+*   **Travel Registry:**
+| Destination | Distance | Time (Base) | Notes |
+| :--- | :--- | :--- | :--- |
+| [[The North Cut]] | 8 miles | 3 hours | Rough mountain trail. |
+| [[The Frozen Gap]] | 25 miles | 12 hours | Steep ascent; lethal cold. |
+
+### Key Spots
+*   **The Boar and Barrel Tavern:** A rare bastion of social warmth.
+*   **The Chapel of Oakhaven:** A stone structure dedicated to Kelemvor.
+
+---
 
 ## The North Cut [STRATUM: 2_ERODING_AGE]
-*   **Description:** A narrow passage or mining excavation north of Oakhaven. It has recently been sealed by order of the town authorities due to growing structural instability.
-*   **Known Facts:** 
-    *   Rumored to be haunted by "shadows" or unnatural phenomena associated with ancient decay.
-    *   Father Vane believes the North Cut is a site where the history of the mountains is physically collapsing.
+**Setting Context:** Sword Mountains (North of Oakhaven)
+**Frequency:** HIGH
+**Scale:** Narrative (Excavation)
 
-## The Frozen Grove [STRATUM: 3_FROZEN_EXPANSE]
-*   **Description:** A hidden pocket of gnarled, frost-covered trees nestled in a glacier-vent where the lethality of the cold is a constant presence.
-*   **Key Spots:**
-    *   **Mother Halsa's Shack:** A modest, weathered dwelling where an elderly hermit tends to those who stumble into the grove, surviving only through extreme endurance and careful preparation.
+### Summary
+A narrow mining passage or excavation recently sealed due to structural instability.
 
-## The Mountain's Throat (Lower Caverns) [STRATUM: 2_ERODING_AGE]
-*   **Description:** A network of tunnels and fissures beneath the mountains, filled with the dust of ancient excavations and crumbling masonry.
-*   **Key Spots:**
-    *   **The Ice-Lock:** A narrow passage used by miners, currently under heavy guard or blocked by debris from structural failure.
-    *   **The New Cut:** A relatively fresh mining tunnel leading toward the northern foothills, showing signs of rapid erosion.
-    *   **The Western Breach:** A jagged crack in the mountain's side that leads to the surface, choked with the debris of ages.
+### Atmosphere & Mood
+*   **The "Vibe":** Antiquity, decay, collapsing history.
+*   **Sensory Details:** Choking dust; smell of ancient masonry.
+
+### Spatial Navigation
+*   **Parent Location:** [[Sword Mountains]]
+*   **Travel Registry:**
+| Destination | Distance | Time (Base) | Notes |
+| :--- | :--- | :--- | :--- |
+| [[Oakhaven]] | 8 miles | 3 hours | Downward descent. |
+
+---
 
 ## The Frozen Gap [STRATUM: 3_FROZEN_EXPANSE]
-*   **Description:** A high, narrow mountain pass that marks the boundary between the civilized frontier and the deep wilderness. It is a place of perpetual wind, blinding snow, and lethal drops in temperature.
-*   **Key Spots:**
-    *   **The Obelisk [STRATUM: 5_RESONANT_VOID]:** An ancient, weathered ruin at the highest point of the gap. Its dark metal surface is etched with runes that are nearly worn away. It is an anomalous zone of unnatural silence and gravity distortions, responding to the presence of the Dark Black Shard.
+**Setting Context:** High Pass (Sword Mountains)
+**Frequency:** VERY_LOW
+**Scale:** Narrative (Pass)
 
+### Summary
+A high, narrow mountain pass marking the boundary between the frontier and the deep wilderness.
+
+### Spatial Navigation
+*   **Parent Location:** [[Sword Mountains]]
+*   **Travel Registry:**
+| Destination | Distance | Time (Base) | Notes |
+| :--- | :--- | :--- | :--- |
+| [[Oakhaven]] | 25 miles | 12 hours | Hazardous descent. |
+| [[The Obelisk]] | 5 miles | 4 hours | High-altitude ascent. |
+
+### Key Spots
+*   **The Obelisk [STRATUM: 5_RESONANT_VOID]:** An ancient metal ruin reacting to the Dark Shard.

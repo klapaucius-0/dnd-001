@@ -5,31 +5,46 @@ This file contains high-resolution physical data for unique items. These descrip
 
 ---
 
-## 1. The Damp Blue-Green Stone Box [STRATUM: 4_SUNKEN_STONE]
-**Current Status:** Mounted as a spellcasting focus in the center of Wael's damaged shield. It contains the Dark Black Shard.
+## The Damp Blue-Green Stone Box [STRATUM: 4_SUNKEN_STONE]
+**Current Status:** Mounted as focus in Wael's shield.
+**Rarity:** Rare (Unique)
+**Attunement:** No
+
+### Combat & Mechanical Properties
+*   **Item Type:** Wondrous (Spellcasting Focus)
+*   **Weight:** 2.0 lbs.
+*   **Value:** 50 gp (Material value only; priceless narrative value)
 
 ### Physical Properties
-*   **Dimensions:** Roughly 3" x 1.5" x 1". The interior cavity is sized to hold the Shard with significant extra room.
-*   **Weight:** 2.0 lbs.
-*   **Composition:** An unidentifiable, stone-like mineral with the color of oxidized copper and deep-earth silt. It is harder than granite; Wael's current Tier 1 tools cannot mark its surface.
-*   **Condition:** Ancient. The edges are slightly rounded by aeons of subterranean aquatic erosion and tectonic pressure.
+*   **Dimensions:** Roughly 3" x 1.5" x 1".
+*   **Composition:** Stone-like mineral (Copper/Silt color). Hardness Rating (HR): 18.
+*   **Condition:** Ancient; edges rounded by subterranean aquatic erosion.
 
 ### Sensory Profile
-*   **Touch:** Perpetually "damp" or clammy, as if it has been submerged in the high-pressure tides of a lightless deep-earth aquifer, yet it leaves no moisture on the hand.
-*   **Sight:** The color shifts between a bruised blue and a deep-sea green. The surface seems to absorb light like a deep, light-drinking pool of water.
-*   **Effect:** It possesses an unyielding "stillness." Its primary function appears to be as an anchor or dampener, representing the crushing weight of the Sunken Stone to physically calm the erratic energy of the item held within.
+*   **Touch:** Perpetually damp/clammy without leaving moisture.
+*   **Sight:** Shifts between bruised blue and deep-sea green; absorbs light.
+*   **Sound/Frequency:** Absolute stillness.
+*   **Effect/Essence:** Acts as an anchor or dampener, representing the crushing weight of the Sunken Stone to physically calm the erratic energy of the item held within.
 
 ---
 
-## 2. The Dark Black Shard [STRATUM: 5_RESONANT_VOID]
-**Current Status:** Secured inside the Damp Blue-Green Stone Box.
+## The Dark Black Shard [STRATUM: 5_RESONANT_VOID]
+**Current Status:** Secured inside the Stone Box.
+**Rarity:** Very Rare (Unique)
+**Attunement:** Yes (Requirements Unknown)
+
+### Combat & Mechanical Properties
+*   **Item Type:** Wondrous (Anomaly)
+*   **Weight:** 5.0 lbs.
+*   **Properties:** Impossibly dense.
 
 ### Physical Properties
-*   **Dimensions:** Roughly the size of a dwarf’s thumb, jagged and irregular.
-*   **Weight:** Impossibly dense. It weighs exactly 5.0 lbs despite its small size.
-*   **Composition:** A matte, non-reflective material. It does not possess a grain, crystalline structure, or metallic sheen. It appears to "absorb" the light around its edges, acting as a metaphysical absence.
-*   **Frequency:** It vibrates at a low, nearly imperceptible frequency. This vibration is felt as a bone-deep "hum" or a crushing "silence" which is noticeably suppressed when the Box is closed.
-*   **Temperature:** Persistently cold, though this is perceived more as a total absence of heat or life rather than a physical drop in temperature.
+*   **Dimensions:** Size of a dwarf’s thumb, jagged and irregular.
+*   **Composition:** Matte, non-reflective material; metaphysical absence.
+*   **Condition:** Unknown; vibrates at low frequency.
 
 ### Sensory Profile
-*   **Touch:** Unnaturally smooth, yet it provides immense friction. It feels as though it is "pulling" toward the center of a void, its weight perceived as gravitational attraction rather than mass.
+*   **Touch:** Unnaturally smooth; provides immense friction; feels as though it is "pulling" toward the center of a void.
+*   **Sight:** Matte black; absorbs light around its edges.
+*   **Sound/Frequency:** Bone-deep hum or crushing silence (suppressed when boxed).
+*   **Effect/Essence:** An anomaly of the Resonant Void. It draws "wrongness" toward it.

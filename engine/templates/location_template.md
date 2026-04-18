@@ -1,22 +1,42 @@
-# Location Template
+# Location Template: [Name]
 
-**Name:** [Location Name]
-**Region:** [Oakhaven, etc.]
-**Type:** [Interior/Exterior/Dungeon]
+**Setting Context:** [Setting: Forgotten Realms / Homebrew / etc.]
+**Primary Stratum:** [STRATUM: X]
+**Frequency:** [FREQUENCY: Y]
+**Scale:** [SCALE: Narrative / Tactical]
+
+## Summary
+[One-sentence overview of the location's physical presence and thematic role.]
 
 ## Atmosphere & Mood
 *   **The "Vibe":** [Isolation, antiquity, decay, or fragile beauty.]
-*   **Sensory Details:** [Damp stone, chill of shadows, smell of ancient dust.]
-*   **Lighting:** [Flickering candles, oppressive darkness, grey twilight.]
+*   **Sensory Details:** [Tactile, auditory, and olfactory anchors.]
+*   **Layered Sensory:** [How the Stratum physically manifests here.]
+
+## Spatial Navigation
+### Parent Location
+*   [[Parent_Location]]
+
+### Travel Registry (Adjacent Destinations)
+| Destination | Distance | Time (Base) | Notes |
+| :--- | :--- | :--- | :--- |
+| [[Destination_A]] | [X] miles | [Y] hours | [Route conditions] |
 
 ## Key Areas
 ### 1. [Specific Area Name]
-*   **Description:** [Melancholic and tactile.]
-*   **Mechanics:** [Traps, DCs, exact distances.]
-*   **Loot/Secrets:** [Hidden items, clues.]
+*   **Description:** [Tactile details.]
+*   **Mechanics:** [Traps, DCs, lighting.]
+*   **Tactical Visual:** 
+```
+  1 2 3
+A . . .
+B . W .
+C . . .
+(Only used if SCALE: Tactical)
+```
 
-## NPCs Present
-*   [[NPC Name]]
+## Entities Present
+*   [[Entity Name]]
 
-## Plot Hooks & Triggers
-*   [What happens when the player arrives or interacts?]
+## Discovery & Lore
+*   [What can be learned or triggered here?]

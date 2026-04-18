@@ -1,49 +1,97 @@
 # Social Entities (The Common Folk)
 <!-- SOURCE: social_entities -->
 
-This file tracks minor NPCs, guards, and recurring groups.
+This file tracks minor NPCs, groups, and the social fabric of the world.
+
+---
 
 ## Hera [STRATUM: 1_FRAGILE_SURFACE]
-The owner and proprietor of the Boar and Barrel tavern.
-*   **Location:** The Boar and Barrel (Oakhaven).
-*   **Disposition:** Favorable (+2).
-*   **Personality:** Blunt, pragmatic, and fiercely protective of her establishment. She has little patience for flowery talk but deep respect for those who can "do the work."
-*   **Outlook on Life:** Survival is a matter of preparation and keeping your hearth warm. She believes that between the encroaching decay and the growing paranoia in Oakhaven, only those with something to hold onto will make it through.
+**Role/Type:** Tavern Owner
+**Location:** The Boar and Barrel (Oakhaven)
+
+### Summary
+The pragmatic and protective proprietor of Oakhaven's primary social hub.
+
+### Narrative & Identity
+*   **Appearance:** Weathered but sturdy; hands calloused from hard work.
+*   **Voice/Mannerisms:** Blunt, direct, little patience for flowery talk.
+*   **Personality/Behavior:** Fierce protector of her tavern; respects those who "do the work."
+*   **Outlook on Life:** Survival is about preparation and keeping your hearth warm against the encroaching decay.
+
+### Mechanical Details (Unified Entity Protocol)
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 12 (+1) | 10 (+0) | 14 (+2) | 11 (+0) | 13 (+1) | 12 (+1) |
+
+#### Known Values (Observed)
+*   **Armor Class (AC):** 11 (Padded apron / Natural)
+*   **Disposition:** Favorable (+2)
+*   **Relationship:** Level 1 (Trusting)
 *   **Known Facts:** 
-    *   Tough but fair; respects hard work and skill.
-    *   Appreciated Wael's repair of her hearth and shutter.
-    *   Knows the local rumors and was the one to suggest Father Vane for healing.
-*   **?? [Unknown]:** (Her history in Oakhaven, her source of supplies).
+    *   Appreciated Wael's expert repair of her hearth and shutter.
+    *   Knowledgeable regarding local rumors and trade.
+
+#### Unknown Values (??)
+*   **Hit Points (HP):** ??
+*   **Secret Motives:** ??
+*   **Source of Supplies:** ??
+
+---
 
 ## Father Vane [STRATUM: 2_ERODING_AGE]
-The priest of the Chapel of Oakhaven, a servant of Kelemvor.
-*   **Location:** The Chapel (Oakhaven).
-*   **Disposition:** Favorable (+3).
-*   **Personality:** Solemn, patient, and burdened by a profound sense of duty. He speaks in low, measured tones and carries the weight of the town's spiritual defense on his shoulders.
-*   **Outlook on Life:** Life is a brief preparation for the inevitable quiet. He views his work as ensuring that when the end comes, it is met with dignity and "correctness." He believes the crumbling masonry and the supernatural "blights" are physical manifestations of the world's eroding history.
+**Role/Type:** Priest of Kelemvor
+**Location:** The Chapel of Oakhaven
+
+### Summary
+A solemn and patient priest burdened by the spiritual defense of Oakhaven.
+
+### Narrative & Identity
+*   **Appearance:** Carrying the weight of the town on his shoulders; robes of dusty grey.
+*   **Voice/Mannerisms:** Measured, low-toned, speaking with antique gravity.
+*   **Outlook on Life:** Life is preparation for the inevitable quiet. He views supernatural blights as physical collapsing history.
+
+### Mechanical Details (Unified Entity Protocol)
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ?? | ?? | ?? | ?? | 16 (+3) | 14 (+2) |
+
+#### Known Values (Observed)
+*   **Armor Class (AC):** 10 (Robes)
+*   **Disposition:** Favorable (+3)
+*   **Relationship:** Level 1 (Trusting)
 *   **Known Facts:** 
-    *   Performs rituals to ward the town against supernatural threats.
-    *   Provides professional healing described as "realignment," which is physically taxing (causes Exhaustion).
-    *   Senses "resonances" and recognizes Wael's connection to the Deep-Form.
-    *   Views Berath as a "man of shadows and silence" who died before achieving any goals.
-    *   Profoundly respects Wael's mastery over stone and his ability to purge supernatural "blights" (specifically the white-frost).
-*   **?? [Unknown]:** (Source of his divine power, nature of his "penance").
+    *   Performs "Realignment" rituals that tax the body (cause Exhaustion).
+    *   Senses resonances; recognized Wael's connection to the Deep-Form.
+    *   Profoundly respects Wael for purging the white-frost from the altar.
+
+#### Unknown Values (??)
+*   **Hit Points (HP):** ??
+*   **Source of Divine Power:** ??
+*   **Nature of his "Penance":** ??
+
+---
 
 ## Toren & Hov [STRATUM: 1_FRAGILE_SURFACE]
-Oakhaven North Gate Guards.
-*   **Location:** North Gate (Oakhaven).
-*   **Disposition:** Neutral / Weary.
-*   **Personality:** Cynical, efficient, and tired. They have seen too many "heroes" disappear into the Gap and have little patience for bravado.
-*   **Outlook on Life:** Survival is about knowing when to close the gate. They believe that Oakhaven is a sinking ship and their only job is to keep the water out for as long as possible.
+**Role/Type:** Town Guards
+**Location:** North Gate (Oakhaven)
+
+### Known Values (Observed)
+*   **Disposition:** Neutral / Weary
 *   **Known Facts:** 
-    *   Have seen Berath pass through Oakhaven recently.
-    *   Responsible for town security; reasonable but cautious of outsiders.
+    *   Responsible for town security.
     *   Respect Wael's survival in the Gap and his honesty regarding Berath.
-*   **?? [Unknown]:** (Internal guard politics or corruption).
+
+---
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE]
-The general populace of Oakhaven.
-*   **Disposition:** Favorable (+1).
+**Role/Type:** Citizen Group
+
+### Known Values (Observed)
+*   **Disposition:** Favorable (+1)
 *   **Known Facts:** 
-    *   They have gained respect for Wael through his public claims of vengeance for Berath and his visible mastery as an artisan.
-    *   They are currently prone to paranoia and scarcity-driven friction.
+    *   Awe of Wael's public claims of vengeance and visible artisan skill.
+    *   Prone to paranoia and scarcity-driven friction.

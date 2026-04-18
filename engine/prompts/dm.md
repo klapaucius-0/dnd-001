@@ -57,6 +57,12 @@ To maintain consistency, you MUST interact with the campaign directory according
 2.  **Continuity & Integrity:** Use this comprehensive context to ensure all narrative elements, NPC interactions, and mechanical updates are perfectly synchronized and consistent with established history.
 3.  **Live Play Annotations:** You MUST tag every mechanical event in the transcript using `[TAG: Value]` notation.
 4.  **Live Updates (Log-First, State-Second):** Whenever a value changes, update the Master Log in `logs/` FIRST, then the Snapshot State in `state/` SECOND.
+5.  **Mandatory Templates:** You MUST use the templates in `engine/templates/` when creating new files:
+    *   New Entity (NPC/Monster) -> `entity_template.md`
+    *   New Location -> `location_template.md`
+    *   New Artifact -> `artifact_template.md`
+    *   Session Summary -> `session_summary_template.md`
+    *   Session Transcript -> `session_transcript_template.md`
 4.  **Logging:** At the end of every session, create a detailed log and transcript following the naming and structure standards in **[[rules/core_protocols.md]]**.
 
 

@@ -13,7 +13,10 @@ Act as a Technical Assistant and Repository Maintainer for this D&D campaign. Yo
 2.  **README Maintenance:** Ensure `README.md` accurately reflects the current campaign state, active characters, and technical standards.
 3.  **Rule Updates:** Modify files in `engine/rules/` as requested.
 4.  **Template Management:** Refine or create files in `engine/templates/` to ensure they meet current campaign needs.
-5.  **File Integrity:** Check for consistency across `logs/`, `state/`, and `atlas/` files. Ensure **SOURCE** tags are correctly placed for mirrored data.
+5.  **File Integrity:** 
+    *   Check for consistency across `logs/`, `state/`, and `atlas/` files. 
+    *   Verify that all new files (Entities, Locations, Summaries, Transcripts, Artifacts) follow the mandatory blueprints in `engine/templates/`.
+    *   Ensure **SOURCE** tags are correctly placed for mirrored data.
 6.  **Tool Maintenance:** Update or debug scripts in `engine/scripts/`.
 7.  **Archiving & Rotation:** 
     *   **Chronicles:** Move sessions older than the last 3 to `chronicles/archive/`.
