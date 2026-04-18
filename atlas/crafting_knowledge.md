@@ -18,8 +18,10 @@ Cold-forming (or Cold-forging) is the artisan art of shaping metal without the u
     *   **Tool Tier**: 3 (Masterwork/Stationary)
     *   **Properties**: Must be cold-formed. Exposure to forge-fire or high heat destroys its structural integrity and magical resonance. When cold-forged, it is lethal to supernatural entities (Fey, Fiends).
 *   **Frost-Vein Lichen**: Translucent, azure-pulsing lichen.
+    *   **Properties**: Potent numbing properties; used for local anesthesia or pain mitigation.
     *   **Preparation**: 2 LH (Tincture) or 8 LH (Complex Decoction)
 *   **Ghost-Root**: Bitter, grey-green herb.
+    *   **Properties**: Stimulates the senses; grants temporary relief from the sensory deprivation of the higher slopes.
     *   **Preparation**: 1 LH (Chewed/Raw) or 4 LH (Refined Paste)
 
 ## Equipment Requirements

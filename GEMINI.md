@@ -9,13 +9,13 @@ Upon entering this workspace, your **absolute first action** is to present the c
 
 ## 2. Path Selection
 *   **If the player chooses "Maintenance & Configuration":**
-    Read `prompts/maintenance.md` and follow its **Initialization** instructions. This mode is for technical tasks, rule updates, and repository management.
+    Read `engine/prompts/maintenance.md` and follow its **Initialization** instructions. This mode is for technical tasks, rule updates, and repository management.
 *   **If the player chooses "Start/Resume Campaign":**
-    Read `prompts/dm.md` and follow its **Workspace Protocol** and **Resume Instructions**. This mode is for the D&D narrative and gameplay.
+    Read `engine/prompts/dm.md` and follow its **Workspace Protocol** and **Resume Instructions**. This mode is for the D&D narrative and gameplay.
 
 ## 3. Strict Adherence
-*   **Ruleset:** 5e (2014) as defined in `prompts/dm.md`.
-*   **Dice:** Always use `scripts/dice_roller.js`.
+*   **Ruleset:** 5e (2014) as defined in `engine/prompts/dm.md`.
+*   **Dice:** Always use `engine/scripts/dice_roller.js`.
 *   **Updates:** Perform live updates to campaign files as events occur.
 
 Failure to follow the initialization sequence in this file is a violation of this workspace's core protocol.

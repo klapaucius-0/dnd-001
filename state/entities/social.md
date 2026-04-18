@@ -38,4 +38,12 @@ Oakhaven North Gate Guards.
 *   **Known Facts:** 
     *   Have seen Berath pass through Oakhaven recently.
     *   Responsible for town security; reasonable but cautious of outsiders.
+    *   Respect Wael's survival in the Gap and his honesty regarding Berath.
 *   **?? [Unknown]:** (Internal guard politics or corruption).
+
+## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE]
+The general populace of Oakhaven.
+*   **Disposition:** Favorable (+1).
+*   **Known Facts:** 
+    *   They have gained respect for Wael through his public claims of vengeance for Berath and his visible mastery as an artisan.
+    *   They are currently prone to paranoia and scarcity-driven friction.

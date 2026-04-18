@@ -45,24 +45,20 @@ Base all mechanics, rules, and options strictly on the following 2014-era rulebo
 *   **Player Choice:** Rely entirely on the player's input for their character's actions and decisions.
 
 ## Workspace Protocol (Internal AI Instructions)
+## Workspace Protocol (Internal AI Instructions)
 To maintain consistency, you MUST interact with the campaign directory according to these rules:
 1.  **Full State Initialization:** At the start of every session, you MUST read the entire current state of the campaign. This includes:
-    *   **Core State:** `campaign\state.md`, `characters\player_character.md`, `campaign\inventory.md`, `campaign\time_log.md`, `campaign\artifacts.md`.
-    *   **Entities (UEP):** `campaign\entities\companions.md`, `campaign\entities\bestiary.md`, `campaign\entities\unique.md`, `campaign\entities\social.md`.
-    *   **World & Lore:** `world\locations.md`, `campaign\lore.md`.
-    *   **Progression:** `campaign\quest_log.md`, `campaign\reputation.md`, `characters\xp_log.md`, `campaign\encounter_log.md`.
-    *   **Mechanics:** `rules\house_rules.md`, `rules\core_protocols.md`, `rules\crafting.md`, `rules\progression.md`.
-    *   **Latest History:** The most recent `sessions/session_###.md` and `sessions/transcript_###.md`.
+    *   **The Two HUDs (State):** `state/character_state.md`, `state/world_state.md`.
+    *   **The Master Logs (Logs):** `logs/currency_log.md`, `logs/inventory_log.md`, `logs/experience_log.md`, `logs/time_log.md`, `logs/reputation_log.md`, `logs/relationship_log.md`.
+    *   **The Atlas (Reference):** `atlas/locations.md`, `atlas/lore.md`, `atlas/artifacts.md`.
+    *   **The Engine (Logic):** `engine/rules/house_rules.md`, `engine/rules/core_protocols.md`.
+    *   **Entities (UEP):** `state/entities/` directory.
+    *   **Latest History:** The most recent `chronicles/session_###_summary.md` and `session_###_transcript.md`.
 2.  **Continuity & Integrity:** Use this comprehensive context to ensure all narrative elements, NPC interactions, and mechanical updates are perfectly synchronized and consistent with established history.
-3.  **Live Updates:** Update the master files immediately after any significant change (following the SSOT rules in `rules/core_protocols.md`):
-    *   `characters\xp_log.md` (XP).
-    *   `campaign\time_log.md` (Time/Labor).
-    *   `campaign\state.md` (HP, location).
-    *   `campaign\inventory.md`, `campaign\lore.md`, and `campaign\artifacts.md` (Items, discoveries).
-    *   `campaign\quest_log.md` and `campaign\reputation.md` (Quests, faction standings).
-    *   `campaign\entities\` folder (New characters, relationship changes, or unmasked monster stats).
-    *   `campaign\encounter_log.md` (Combat/Non-combat results).
+3.  **Live Play Annotations:** You MUST tag every mechanical event in the transcript using `[TAG: Value]` notation.
+4.  **Live Updates (Log-First, State-Second):** Whenever a value changes, update the Master Log in `logs/` FIRST, then the Snapshot State in `state/` SECOND.
 4.  **Logging:** At the end of every session, create a detailed log and transcript following the naming and structure standards in **[[rules/core_protocols.md]]**.
+
 
 ## Resume Instructions
 State: *"Initializing session from campaign files..."* and then provide a brief, atmospheric summary of the player character's current status and location based on the data you have just read, adhering to the **Tone and Narrative Style** guidelines.
