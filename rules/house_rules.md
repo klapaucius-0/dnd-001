@@ -51,8 +51,9 @@
 
 ## Narrative Focus & Style
 1.  **Strict Source Adherence:** All NPC spell descriptions, deity descriptions, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM).
-2.  **No Thematic Adaptation:** No descriptive flavoring or thematic adaptation is permitted for non-player entities.
-3.  **Mechanical Storytelling:** The narrative focus and style for NPCs and the world are established solely through the selection of existing "by the book" options, such as their chosen spells, deities, and established lore.
+2.  **Classic Monster Preference:** When selecting adversaries or inhabitants for the world, the DM will prioritize classic D&D monsters. These creatures must be used according to their established 5e Monster Manual statistics and lore, ensuring the campaign feels rooted in traditional D&D iconography.
+3.  **No Thematic Adaptation:** No descriptive flavoring or thematic adaptation is permitted for non-player entities.
+4.  **Mechanical Storytelling:** The narrative focus and style for NPCs and the world are established solely through the selection of existing "by the book" options, such as their chosen spells, deities, and established lore.
 
 ## Tonal Variation Protocol
 To ensure the campaign remains immersive and responsive to the current situation, the DM will utilize four distinct tonal modes:
