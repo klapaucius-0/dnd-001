@@ -2,8 +2,8 @@
 <!-- SOURCE: world_state -->
 
 **Current Day:** 3 <!-- SOURCE: time_log -->
-**Current Time:** 10:30 (Morning) <!-- SOURCE: time_log -->
-**Current Location:** Oakhaven (Outside the Chapel)
+**Current Time:** 1:38 (Early Afternoon) <!-- SOURCE: time_log -->
+**Current Location:** Oakhaven (General Trader's Stall)
 
 ## Active Effects & Conditions
 *   **Exhaustion (Level 1):** Disadvantage on Ability Checks. (Removes after Long Rest).
@@ -17,10 +17,11 @@
 *   **Social Vibe:** Paranoid, wary of outsiders, clinging to the Chapel's protection.
 
 ## Social Standing (SSOT: reputation_log / relationship_log)
-*   **Oakhaven:** Level 0 (15/100 SP) [Neutral]
+*   **Oakhaven:** Level 1 (25/100 SP) [Acquaintance]
     *   *Father Vane:* Level 0 (6/20 SP) [Stranger / Associate]
-    *   *Kaelen:* Level 0 (15/20 SP) [Stranger / Companion]
+    *   *Kaelen:* Level 1 (45/60 SP) [Acquaintance / Companion]
     *   *Hera:* Level 0 (6/20 SP) [Stranger / Associate]
+    *   *Master Hobb:* Level 0 (5/20 SP) [Neutral / Associate]
     *   *Toren & Hov:* Level 0 (5/20 SP) [Stranger / Associate]
     *   *Mother Halsa:* Level 0 (1/20 SP) [Neutral / Associate]
 *   **Mountain Sentinels:** Level 1 (-150/-300 SP) [Nuisance / Nemesis]

@@ -66,8 +66,26 @@ A high, narrow mountain pass marking the boundary between the frontier and the d
 *   **Travel Registry:**
 | Destination | Distance | Time (Base) | Notes |
 | :--- | :--- | :--- | :--- |
-| [[Oakhaven]] | 25 miles | 12 hours | Hazardous descent. |
-| [[The Obelisk]] | 5 miles | 4 hours | High-altitude ascent. |
+| [[The Frozen Gap]] | 25 miles | 12 hours | Hazardous descent. |
+| [[The Western Cut]] | 15 miles | 6-12 hours | Steep ascent; Shepherd's Path. |
 
 ### Key Spots
 *   **The Obelisk [STRATUM: 5_RESONANT_VOID]:** An ancient metal ruin reacting to the Dark Shard.
+
+---
+
+## The Western Cut [STRATUM: 6_DREAMING_MIND]
+**Setting Context:** High Valley (West of Oakhaven)
+**Frequency:** LOW
+**Scale:** Narrative (Ruined Village)
+
+### Summary
+A high-altitude valley formerly known for weavers and shepherds. Reported to be the first local victim of the "White Silence."
+
+### Spatial Navigation
+*   **Parent Location:** [[Sword Mountains]]
+*   **Travel Registry:**
+| Destination | Distance | Time (Base) | Notes |
+| :--- | :--- | :--- | :--- |
+| [[Oakhaven]] | 15 miles | 6-12 hours | Steep ascent. |
+

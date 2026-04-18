@@ -34,13 +34,44 @@ Berath was murdered in Oakhaven (The Boar and Barrel) by a figure in a black clo
 ---
 
 ## The White-Frost Blight [STRATUM: 3_FROZEN_EXPANSE]
-**Discovery Date:** Day 3 / 10:00
-**Source:** Father Vane
+...
+---
+
+## Old Cut Iron [STRATUM: 2_ERODING_AGE]
+**Discovery Date:** Day 3 / 13:26
+**Source:** Vesper's Wagon / Oakhaven Market
 **Reliability:** Confirmed
 
 ### Detailed Context
-A supernatural blight affecting the stone of Oakhaven, specifically the Chapel. Wael successfully purged this blight using cold-forming techniques and artisan mastery.
+A rare and exceptionally dense form of iron recovered from the deepest, oldest levels of the Sword Mountain mines. It is characterized by a dull, blue-grey sheen and extreme molecular stability. Unlike modern surface iron, it was forged under primordial pressure and responds perfectly to cold-forming techniques.
 
 ### Resonance & Relationships
-*   **Related Entities:** [[Father Vane]]
-*   **Related Locations:** [[The Chapel of Oakhaven]]
+*   **Related Entities:** [[Vesper]]
+*   **Related Locations:** [[The Old Cut]]
+*   **Mechanical Utility:** Provides superior stability as an artisan support tool; increases Hardness Rating (HR) of finished items.
+
+---
+
+## The White Silence [STRATUM: 6_DREAMING_MIND]
+**Discovery Date:** Day 3 / 12:05
+**Source:** Bram / Elara / Vesper
+**Reliability:** Probable (Rumor/Witness)
+
+### Detailed Context
+A supernatural phenomenon moving north through the Dalelands and toward the Sword Mountains. Witnesses describe entire villages that have simply "stopped." The inhabitants are found frozen in place—not dead in the traditional sense, but cold as ice and unresponsive, appearing like statues made of flesh. The air in these "Silenced" areas is reported to feel heavy and thick.
+
+### Resonance & Relationships
+*   **Related Locations:** [[The Western Cut]] (Reported Silenced)
+*   **Theories:** Possibly linked to the "Dreaming Mind" stratum or a metaphysical expansion of the frost.
+
+---
+
+## The Restless Yard
+**Discovery Date:** Day 3 / 13:38
+**Source:** Master Hobb
+**Reliability:** Probable (Intelligence)
+
+### Detailed Context
+Rumors from the Market Square suggest that the town guards stationed at the **Old Mason's Yard** (where Berath's body is held) are becoming increasingly anxious. They are reportedly not just standing watch, but keeping a vigil for something they expect to "wake up."
+
+

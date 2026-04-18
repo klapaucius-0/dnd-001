@@ -5,7 +5,7 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 350 <!-- SOURCE: experience_log -->
+**Experience (XP):** 500 <!-- SOURCE: experience_log -->
 **Alignment:** True Neutral
 **Age:** Unknown (Looks ravaged by time)
 
@@ -63,8 +63,8 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 187.0 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
-**Currency:** 6 gp, 2 sp <!-- SOURCE: currency_log -->
+**Total Weight:** 221.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
+**Currency:** 4 gp, 2 sp <!-- SOURCE: currency_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -80,7 +80,7 @@
 | Item | Weight | Notes |
 | :--- | :--- | :--- |
 | Dark Black Shard | 5.0 | <!-- SOURCE: artifacts --> Inside Stone Box |
-| Shield | 6.0 | Damaged; strapped to pack |
+| Shield | 6.0 | Repaired; strapped to pack |
 | Mason's Tools | 8.0 | |
 | Smith's Tools | 8.0 | |
 | Herbalism Kit | 3.0 | |
@@ -89,7 +89,8 @@
 | Mess kit | 1.0 | |
 | Tinderbox | 1.0 | |
 | 10 Torches | 10.0 | |
-| 10 Days Rations | 20.0 | |
+| 5 Days Rations (Plain) | 10.0 | |
+| 5 Days Rations (Salt-Pork) | 10.0 | |
 | Full waterskin | 5.0 | |
 | Hempen Rope (50ft) | 10.0 | |
 | Berath's Journal | 1.0 | |
@@ -103,7 +104,17 @@
 | Bag of Crystalline Shards | 1.0 | |
 | Cold-Iron Shard | 5.0 | |
 | Deep-Frost Crystal | 0.1 | |
-| Frost-Vein Lichen (0.5) | 0.1 | <!-- SOURCE: crafting_knowledge --> |
-| Currency (6 gp, 2 sp) | 0.2 | <!-- SOURCE: currency_log --> |
-
-**Total Weight:** 186.9 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
+| Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials.md` |
+| Weathered Ox-Hide | 8.0 | `atlas/crafting/materials.md` |
+| Steel Hardware | 2.0 | `atlas/crafting/materials.md` |
+| Industrial Felt | 5.0 | `atlas/crafting/materials.md` |
+| Tallow & Beeswax | 1.0 | `atlas/crafting/materials.md` |
+| Abrasive Sand | 1.0 | `atlas/crafting/materials.md` |
+| Waxed Linen Thread | 0.0 | (Negligible weight) |
+| Neatsfoot Oil | 0.5 | `atlas/crafting/materials.md` |
+| Master Leatherworker's Kit | 5.0 | Rusted; `atlas/crafting/tools.md` |
+| Old Cut Iron Vice-Clamp | 15.0 | Seized; `atlas/crafting/tools.md` |
+| Sharpening Stone | 2.0 | `atlas/crafting/tools.md` |
+| Crate of Iron Nails | 5.0 | `atlas/crafting/materials.md` |
+| Currency (4 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
+<!-- END OF FILE -->

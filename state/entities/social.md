@@ -8,7 +8,7 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 ## Hera [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Tavern Owner
 **Bond Type:** Associate
-**Standing:** Level 0 (10/20 SP) [Neutral]
+**Standing:** Level 0 (6/20 SP) [Neutral]
 **Last Interaction:** Day 3 / 07:15
 
 ### Summary
@@ -33,11 +33,6 @@ The pragmatic and protective proprietor of Oakhaven's primary social hub.
 *   **Known Facts:** 
     *   Appreciated Wael's expert repair of her hearth and shutter.
     *   Knowledgeable regarding local rumors and trade.
-
-#### Unknown Values (??)
-*   **Hit Points (HP):** ??
-*   **Secret Motives:** ??
-*   **Source of Supplies:** ??
 
 ---
 
@@ -70,16 +65,75 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven.
     *   Senses resonances; recognized Wael's connection to the Deep-Form.
     *   Profoundly respects Wael for purging the white-frost from the altar.
 
-#### Unknown Values (??)
-*   **Hit Points (HP):** ??
-*   **Source of Divine Power:** ??
-*   **Nature of his "Penance":** ??
+---
+
+## Bram [STRATUM: 1_FRAGILE_SURFACE]
+**Role/Type:** Daleland Leather Merchant
+**Bond Type:** Associate
+**Standing:** Level 0 (5/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 12:05
+
+### Summary
+A pragmatic Daleland trader who knows the value of hard work and honest materials.
+
+### Narrative & Identity
+*   **Appearance:** Mahogany skin, thick grey beard, dark-stained hands.
+*   **Personality/Behavior:** Gruff but respectful of fellow artisans.
+*   **Outlook:** Survival is about stubbornness and having a trade to anchor you.
+
+---
+
+## Elara [STRATUM: 1_FRAGILE_SURFACE]
+**Role/Type:** Felt/Wool Merchant
+**Bond Type:** Associate
+**Standing:** Level 0 (1/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 12:30
+
+### Summary
+A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpness.
+
+### Narrative & Identity
+*   **Appearance:** Early sixties, gaunt frame, pale blue eyes.
+*   **Personality/Behavior:** Blunt, efficient, respects those who clear her inventory.
+*   **Outlook:** Scarcity is the only certainty; sanity is a luxury of the warm.
+
+---
+
+## Vesper [STRATUM: 2_ERODING_AGE]
+**Role/Type:** Scavenger / Tool Merchant
+**Bond Type:** Associate
+**Standing:** Level 0 (10/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 13:50
+
+### Summary
+A lithe and soot-stained survivor of the North Cut collapse with a deep respect for "Old Cut" iron.
+
+### Narrative & Identity
+*   **Appearance:** Muscular frame, soot-smudged face, silver-scarred hands.
+*   **Personality/Behavior:** Direct, observant, values integrity over aesthetics.
+*   **Outlook:** The mountains don't give up prizes without a cost; history is held in iron.
+
+---
+
+## Master Hobb [STRATUM: 1_FRAGILE_SURFACE]
+**Role/Type:** General Trader
+**Bond Type:** Associate
+**Standing:** Level 0 (5/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 13:38
+
+### Summary
+A well-fed mercantile broker who manages the town's scarcity with politeness and opportunism.
+
+### Narrative & Identity
+*   **Appearance:** Portly, well-groomed, wire-rimmed spectacles, signet ring.
+*   **Personality/Behavior:** Calculating, baritone voice, polite but extractive.
+*   **Outlook:** Information and standing are the currencies of the surface.
 
 ---
 
 ## Toren & Hov [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Town Guards
-**Standing:** Level 0 (10/100 SP) [Neutral]
+**Standing:** Level 0 (5/20 SP) [Neutral]
 **Last Interaction:** Day 2 / 18:00
 
 ### Known Values (Observed)
@@ -92,11 +146,10 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven.
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Citizen Group
-**Standing:** Level 0 (19/100 SP) [Neutral]
-**Last Interaction:** Day 3 / 10:15 (Splash from Vane)
+**Standing:** Level 1 (25/100 SP) [Acquaintance]
+**Last Interaction:** Day 3 / 13:38
 
 ### Known Values (Observed)
-*   **Disposition:** Neutral
+*   **Disposition:** Wary but observant.
 *   **Known Facts:** 
-    *   Awe of Wael's public claims of vengeance and visible artisan skill.
-    *   Prone to paranoia and scarcity-driven friction.
+    *   Respect Wael's visible artisan skill and news of the Chapel's stability.

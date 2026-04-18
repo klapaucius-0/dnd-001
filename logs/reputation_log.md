@@ -9,4 +9,7 @@
 | 3 | 07:15 | 005 | Oakhaven | +0 | 15 | Splash: Expert repair of Hera's hearth (10% of Hera - Round 0) |
 | 3 | 10:15 | 005 | Oakhaven | +0 | 15 | Splash: Restoration of Chapel (10% of Vane - Round 0) |
 | 3 | 10:15 | 005 | Oakhaven | +0 | 15 | Splash: Respect for Mother Halsa (10% of Halsa - Round 0) |
+| 3 | 12:05 | 006 | Oakhaven | +5 | 20 | Direct: Professional commerce with Bram (Minor) |
+| 3 | 13:26 | 006 | Oakhaven | +10 | 30 | Direct: Structural repair of trader wagon (Moderate) |
+| 3 | 13:38 | 006 | Oakhaven | +10 | 40 | Direct: Providing stability news to Master Hobb (Moderate) |
 | 2 | 14:00 | 002 | Sentinels | -150 | -150 | Combat / Defeat in the Gap (Negative-Legendary) |

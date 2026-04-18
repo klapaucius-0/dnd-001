@@ -6,3 +6,15 @@
 | 1 | 08:00 | 001 | Starting Kit | — | — | Standard Hermit/Cleric Loadout |
 | 1 | 16:00 | 001 | Dark Black Shard | +1 | 1 | Recovered from Berath's legacy (Ref: Ses_001) |
 | 3 | 07:05 | 005 | Chain Mail (+1) | (Bless) | 1 | Applied Blessing of the Forge (Ref: Ses_005) |
+| 3 | 12:05 | 006 | Weathered Ox-Hide | +1 Bundle | 1 | Salvaged from Bram (Ref: Ses_006) |
+| 3 | 12:05 | 006 | Steel Hardware | +1 Pouch | 1 | Salvaged from Bram (Ref: Ses_006) |
+| 3 | 12:25 | 006 | Industrial Felt | +1 Bolt | 1 | Salvaged from market (Ref: Ses_006) |
+| 3 | 12:25 | 006 | Tallow & Beeswax | +1 Tin | 1 | Salvaged from market (Ref: Ses_006) |
+| 3 | 12:25 | 006 | Abrasive Sand | +1 Pouch | 1 | Salvaged from market (Ref: Ses_006) |
+| 3 | 12:25 | 006 | Waxed Linen Thread | +1 Spool | 1 | Salvaged from market (Ref: Ses_006) |
+| 3 | 13:26 | 006 | Master Leatherworker's Kit | +1 Kit | 1 | Reclaimed from Vesper (Ref: Ses_006) |
+| 3 | 13:26 | 006 | Old Cut Iron Vice-Clamp | +1 Tool | 1 | Reclaimed from Vesper (Ref: Ses_006) |
+| 3 | 13:26 | 006 | Sharpening Stone | +1 Stone | 1 | Reclaimed from Vesper (Ref: Ses_006) |
+| 3 | 13:26 | 006 | Crate of Iron Nails | +1 Crate | 1 | Reclaimed from Vesper (Ref: Ses_006) |
+| 3 | 13:38 | 006 | Neatsfoot Oil | +1 Vial | 1 | Trade for info: Master Hobb (Ref: Ses_006) |
+| 3 | 13:38 | 006 | Rations (5 days) | +5 Days | 15 | Trade for info: Master Hobb (Ref: Ses_006) |
