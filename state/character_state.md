@@ -112,7 +112,7 @@
 | Abrasive Sand | 1.0 | `atlas/crafting/materials.md` |
 | Waxed Linen Thread | 0.0 | (Negligible weight) |
 | Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | `atlas/crafting/materials.md` |
-| Master Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: MASTERWORK] | 5.0 | Rusted; `atlas/crafting/tools.md` |
+| Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Rusted; `atlas/crafting/tools.md` |
 | Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
 | Crate of Iron Nails [MAT: IRON] | 5.0 | `atlas/crafting/materials.md` |

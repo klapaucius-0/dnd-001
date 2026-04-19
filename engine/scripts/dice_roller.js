@@ -7,10 +7,19 @@ const crypto = require('crypto');
  * Supports: +, -, h (keep highest), l (keep lowest), dl (drop lowest), dh (drop highest)
  */
 
-const input = process.argv.slice(2).join('');
+const args = process.argv.slice(2);
+const input = args.join('');
+
 if (!input) {
   console.error("Please provide a dice expression (e.g., 1d20, 2d6+4, 2d20l1+4-1d4)");
   process.exit(1);
+}
+
+// Validation for ambiguous run-on numbers
+for (let i = 1; i < args.length; i++) {
+  if (/^\d/.test(args[i]) && !/[+-]$/.test(args[i - 1])) {
+    console.warn("WARNING: Ambiguous input detected. Numbers in adjacent arguments without operators may concatenate (e.g., '1d20+4' '1d4' becomes '1d20+41d4'). Use explicit operators or quotes.");
+  }
 }
 
 function rollDie(sides) {

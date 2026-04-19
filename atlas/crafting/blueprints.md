@@ -3,24 +3,111 @@
 
 ---
 
-# The Crude Brace [BLUEPRINT] [TYPE: PROSTHETIC] [COMPLEXITY: MINOR] [HOMEBREW]
-A static, non-articulated prosthetic frame designed to anchor a shield or heavy tool to a dwarf’s shoulder.
+# The Iron-Nail Sleeve [BLUEPRINT] [TYPE: PROSTHETIC] [SCALE: MINOR] [MOD: +0] [HOMEBREW]
+A heavy, industrial sleeve constructed from cold-hammered iron nails and steel hardware. It is a "trash" variant designed for raw utility at the cost of mobility and stealth.
 
 ## Technical Requirements
-*   **Tool Tier Required:** Tier 2 (Cold-Forming Implement / Vice-Clamp).
-*   **Total Labor Hours (LH):** 20 LH.
-*   **Projected Difficulty:** WR 15 ([HOMEBREW] Base DC).
+*   **Tool Tier Required:** Tier 2 (Vice-Clamp).
+*   **Total Blocks:** 4 Blocks (16 LH).
+*   **Base DC Calculation:** `node engine/scripts/crafting_dc_calc.js <Material_WR> 0 [Quality]`
 *   **Required Workshop:** Stable Anvil or Stone Table; Vice-Clamp secured.
 
 ## Component List
-*   **Refined Frame:** 4x Dark Metal Rods (`[MAT: DEEP_IRON]`).
-*   **Heavy Harness:** 1x Bundle Daleland Ox-Hide (`[MAT: DALELAND_HIDE]`).
-*   **Padding:** 1x Bolt Industrial Felt (`[MAT: FELT]`).
-*   **Mechanical Anchor:** 1x Pouch Steel Hardware (`[MAT: STANDARD_STEEL]`).
+*   **Structural Mesh:** 1x Crate of Iron Nails (`[MAT: IRON]`).
+*   **Mounting Hardware:** 1x Pouch Steel Hardware (`[MAT: STANDARD_STEEL]`).
+*   **Rigid Harness:** 1x Bundle Daleland Ox-Hide (`[MAT: DALELAND_HIDE]`).
+*   **Internal Padding:** 1x Bolt Industrial Felt (`[MAT: FELT]`).
+*   **Refinement:** Neatsfoot Oil, Waxed Thread.
+
+## Final Item Result
+*   **Name:** The Iron-Nail Sleeve ([HOMEBREW])
+*   **Resulting Tags:** `[MAT: STANDARD_STEEL] [QUAL: STANDARD]`
+*   **Mechanical:**
+    *   **Rigid Anchor:** Can strap a shield to the sleeve for full AC bonus. Cannot perform shield bashes.
+    *   **Tool Socket:** One artisan tool can be bolted into the sleeve (1 minute to swap).
+    *   **Brute Leverage:** Negates Disadvantage on Strength-based tool checks (Smithing, Masonry).
+    *   **Weight:** 12.0 lbs.
+    *   **Noise (Drawback):** Gives **Disadvantage on Stealth** checks due to clanking and creaking.
+    *   **Limitation:** No fine motor tasks; cannot use two-handed weapons.
+*   **Sensory:** Uncomfortably heavy and loud; smells of industrial oil and old, wet leather.
+
+## Crafting Process (4 Blocks)
+*   **Block 1 (Smith's Tools vs Base DC):** Hammering iron nails into interlocking flat slats and cold-welding them into a cylindrical form using the Vice-Clamp.
+*   **Block 2 (Smith's Tools vs Base DC):** Integrating the steel hardware into the cylinder to create the modular "Vise-Socket" mounting point.
+*   **Block 3 (Leatherworker's Tools vs Base DC):** Rigidizing the Daleland Ox-Hide through boiling and lining the interior with industrial felt for stump protection.
+*   **Block 4 (Smith's Tools vs Base DC):** Riveting the iron mesh to the leather harness and applying Neatsfoot Oil for a final, durable finish.
+
+---
+
+# The Crude Brace [BLUEPRINT] [TYPE: PROSTHETIC] [SCALE: MINOR] [MOD: +1] [HOMEBREW]
+A static, non-articulated prosthetic frame designed to serve as a heavy anchor. It utilizes a modular "Vise-Socket" to secure equipment directly to the stump.
+
+## Technical Requirements
+*   **Tool Tier Required:** Tier 2 (Cold-Forming Implement / Vice-Clamp).
+*   **Total Blocks:** 6 Blocks (24 LH).
+*   **Base DC Calculation:** `node engine/scripts/crafting_dc_calc.js <Material_WR> 1 [Quality]`
+*   **Required Workshop:** Stable Anvil or Stone Table; Vice-Clamp secured.
+
+## Component List
+*   **Refined Frame:** 4x Dark Metal Rods (`[CAT: METAL]`).
+*   **Heavy Harness:** 1x Bundle Daleland Ox-Hide (`[CAT: LEATHER]`).
+*   **Padding:** 1x Bolt Industrial Felt (`[CAT: TEXTILE]`).
+*   **Vise-Socket:** 1x Pouch Steel Hardware (`[MAT: STANDARD_STEEL]`) & 1x Crate of Iron Nails.
 *   **Refinement:** Neatsfoot Oil, Tallow/Wax, Waxed Thread.
 
 ## Final Item Result
 *   **Name:** The Crude Brace ([HOMEBREW])
-*   **Resulting Tags:** `[MAT: DEEP_IRON] [QUAL: STANDARD]` (or `[QUAL: MASTERWORK]` if DC 30 hit).
-*   **Mechanical:** Negates the combat penalty for a missing left arm when using a shield. Does not allow for two-handed weapon use.
-*   **Sensory:** Rigid, heavy, and cold; smells of beeswax and mountain stone.
+*   **Resulting Tags:** `[MAT: DEEP_IRON] [QUAL: STANDARD]`
+*   **Mechanical:**
+    *   **Shield Anchor:** Negates the combat penalty for a missing left arm when using a shield (provides full AC).
+    *   **Tool Socket:** One artisan tool can be clamped into the brace (1 minute to swap).
+    *   **Brute Leverage:** Negates Disadvantage on Strength-based tool checks (Smithing, Masonry).
+    *   **Limitation:** Cannot perform fine motor tasks (Medicine, Sleight of Hand, Thieves' Tools) or use two-handed weapons.
+*   **Sensory:** Heavy, rigid, and vibrates when struck; smells of neatsfoot oil and old iron.
+
+## Crafting Process (6 Blocks)
+*   **Blocks 1-2 (Smith's Tools vs Base DC):** Cold-hammering the metal rods into a rigid support lattice.
+*   **Block 3 (Smith's Tools vs Base DC):** Fabricating the Vise-Socket from hardware and iron nails.
+*   **Block 4 (Leatherworker's Tools vs Base DC):** Cutting and rigidizing the leather for the shoulder anchor.
+*   **Block 5 (Smith's Tools vs Base DC):** Lining the harness with felt and riveting the frame to the leather.
+*   **Block 6 (Smith's Tools vs Base DC):** Adjusting the straps and oiling the assembly for rust prevention.
+
+---
+
+# The Deep-Forged Anatomy [BLUEPRINT] [TYPE: PROSTHETIC] [SCALE: MODERATE] [MOD: +4] [HOMEBREW]
+An articulated, multi-segmented limb mimicking the reach and pivot of a natural arm. It uses internal tension cables and interlocking plates for fluid movement.
+
+## Technical Requirements
+*   **Tool Tier Required:** Tier 2 (Precision Cold-Work).
+*   **Total Blocks:** 12 Blocks (48 LH).
+*   **Base DC Calculation:** `node engine/scripts/crafting_dc_calc.js <Material_WR> 4 [Quality]`
+*   **Required Workshop:** High-Pressure Setup (Vice-Clamp + Tier 2 Tools); Cold-Annealing environment.
+
+## Component List
+*   **Articulated Segments:** 6x Dark Metal Rods (`[CAT: METAL]`).
+*   **Core Resonance:** 1x Deep-Frost Crystal (`[CAT: MINERAL]`) - Used as a thermal-stable pivot.
+*   **Tension Cables:** 2x Spools Waxed Linen Thread & Braided Leather strips.
+*   **Precision Joints:** 1x Professional Leatherworker's Kit (Salvaged Steel for hinges) & Steel Hardware.
+*   **Refinement:** Abrasive Sand (for polishing), Tallow, Neatsfoot Oil.
+
+## Final Item Result
+*   **Name:** The Deep-Forged Anatomy ([HOMEBREW])
+*   **Resulting Tags:** `[MAT: DEEP_IRON] [QUAL: FINE]`
+*   **Mechanical:**
+    *   **Fluid Motion:** Full shield use and tool use without Disadvantage.
+    *   **Artisan's Grip:** Can use any tool, including those requiring fine motor skills (Thieves' Tools, Medicine).
+    *   **Versatile Grip:** Can use Versatile weapons (e.g., Warhammer) with two hands for 1d10 damage.
+    *   **Limitation:** Cannot use true Heavy Two-Handed weapons (Mauls, Greatswords) due to lack of wrist torque.
+*   **Sensory:** Emits a low, crystalline hum when moving; feels strangely light and cold to the touch.
+
+## Crafting Process (12 Blocks)
+*   **Blocks 1-2 (Smith's Tools vs Base DC):** Shaping the interlocking Deep Iron plates to mimic anatomical reach.
+*   **Block 3 (Mason's Tools vs Base DC):** Precision carving of the Deep Iron to house the crystal pivot.
+*   **Block 4 (Arcana or Religion vs Base DC):** Harmonizing the Deep-Frost Crystal to act as a friction-less joint.
+*   **Block 5 (Smith's Tools vs Base DC):** Fabricating micro-hinges from salvaged high-carbon steel.
+*   **Blocks 6-7 (Smith's Tools vs Base DC):** Assembling the segments and hinges into a functional limb.
+*   **Block 8 (Leatherworker's Tools vs Base DC):** Braiding linen and leather into high-tensile "tendons."
+*   **Block 9 (Medicine or Smith's Tools vs Base DC):** Mapping the internal cables to mirror dwarf musculature.
+*   **Block 10 (Leatherworker's Tools vs Base DC):** Fitting the professional harness and felt padding for a seamless interface.
+*   **Block 11 (Dexterity Check vs Base DC):** Tuning the tension for fluid, non-disadvantage movement.
+*   **Block 12 (Artisan Check vs Base DC):** Polishing with abrasive sand and treating with neatsfoot oil.

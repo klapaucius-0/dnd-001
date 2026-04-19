@@ -12,7 +12,7 @@
 | 3 | 12:25 | 006 | Tallow & Beeswax | +1 Tin | 1 | Salvaged from market (Ref: Ses_006) |
 | 3 | 12:25 | 006 | Abrasive Sand | +1 Pouch | 1 | Salvaged from market (Ref: Ses_006) |
 | 3 | 12:25 | 006 | Waxed Linen Thread | +1 Spool | 1 | Salvaged from market (Ref: Ses_006) |
-| 3 | 13:26 | 006 | Master Leatherworker's Kit | +1 Kit | 1 | Reclaimed from Vesper (Ref: Ses_006) |
+| 3 | 13:26 | 006 | Professional Leatherworker's Kit | +1 Kit | 1 | Reclaimed from Vesper (Ref: Ses_006) |
 | 3 | 13:26 | 006 | Vice-Clamp [MAT: OLD_CUT_IRON] | +1 Tool | 1 | Reclaimed from Vesper (Ref: Ses_006) |
 | 3 | 13:26 | 006 | Sharpening Stone | +1 Stone | 1 | Reclaimed from Vesper (Ref: Ses_006) |
 | 3 | 13:26 | 006 | Crate of Iron Nails | +1 Crate | 1 | Reclaimed from Vesper (Ref: Ses_006) |

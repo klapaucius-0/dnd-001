@@ -20,12 +20,12 @@ While bolted to a stable surface, this vice acts as a "Third Hand." It **negates
 
 ---
 
-# Master Leatherworker's Kit [TOOL] [TIER: 1] [MAT: HI_CARBON_STEEL] [FREQ: RARE] [HOMEBREW]
+# Professional Leatherworker's Kit [TOOL] [TIER: 2] [MAT: HI_CARBON_STEEL] [FREQ: RARE] [HOMEBREW]
 A complete set of high-carbon steel awls, needles, and punches.
 
 ## Technical Properties
 *   **Type:** Artisan Kit
-*   **Tier:** 1 (Standard)
+*   **Tier:** 2 (Professional)
 *   **Weight:** 5.0 lbs.
 
 ## Mechanical Utility ([HOMEBREW])
@@ -52,6 +52,15 @@ Standard set of chisels and mallets.
 ## Technical Properties
 *   **Tier:** 1 (Standard)
 *   **Weight:** 8.0 lbs.
+
+---
+
+# Herbalism Kit [TOOL] [TIER: 1] [MAT: VARIOUS] [FREQ: COMMON] [[PHB]] [STANDARD]
+A collection of pouches, vials, and basic tools for gathering and preparing herbs.
+
+## Technical Properties
+*   **Tier:** 1 (Standard)
+*   **Weight:** 3.0 lbs.
 
 ---
 

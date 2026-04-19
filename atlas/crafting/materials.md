@@ -3,7 +3,7 @@
 
 ---
 
-# Standard Steel [MAT: STANDARD_STEEL] [FREQ: COMMON] [[PHB]] [STANDARD]
+# Standard Steel [MAT: STANDARD_STEEL] [CAT: METAL] [FREQ: COMMON] [[PHB]] [STANDARD]
 Standard iron or steel found in frontier towns and abandoned mines.
 
 ## Properties
@@ -13,7 +13,7 @@ Standard iron or steel found in frontier towns and abandoned mines.
 
 ---
 
-# Copper / Scrap [MAT: COPPER] [FREQ: VERY_COMMON] [[PHB]] [STANDARD]
+# Copper / Scrap [MAT: COPPER] [CAT: METAL] [FREQ: VERY_COMMON] [[PHB]] [STANDARD]
 Low-grade metal or repurposed junk.
 
 ## Properties
@@ -22,7 +22,7 @@ Low-grade metal or repurposed junk.
 
 ---
 
-# Deep-Iron [MAT: DEEP_IRON] [FREQ: RARE] [HOMEBREW]
+# Deep-Iron [MAT: DEEP_IRON] [CAT: METAL] [FREQ: RARE] [HOMEBREW]
 Rare geological formations from the deepest strata (e.g., North Cut). Extremely dense.
 
 ## Properties
@@ -32,7 +32,7 @@ Rare geological formations from the deepest strata (e.g., North Cut). Extremely 
 
 ---
 
-# Cold-Formed Steel [MAT: COLD_FORMED_STEEL] [FREQ: VERY_RARE] [HOMEBREW]
+# Cold-Formed Steel [MAT: COLD_FORMED_STEEL] [CAT: METAL] [FREQ: VERY_RARE] [HOMEBREW]
 **CRITICAL:** This is not a raw material, but the *resulting property* of applying the Cold-Forming process to Standard Steel.
 
 ## Mechanical Utility ([HOMEBREW])
@@ -41,7 +41,7 @@ Rare geological formations from the deepest strata (e.g., North Cut). Extremely 
 
 ---
 
-# Crystalline Shards / Crystal [MAT: CRYSTAL] [FREQ: UNCOMMON] [HOMEBREW]
+# Crystalline Shards / Crystal [MAT: CRYSTAL] [CAT: MINERAL] [FREQ: UNCOMMON] [HOMEBREW]
 Translucent minerals found in the higher slopes.
 
 ## Properties
@@ -50,7 +50,7 @@ Translucent minerals found in the higher slopes.
 
 ---
 
-# Daleland Ox-Hide [MAT: DALELAND_HIDE] [FREQ: RARE] [HOMEBREW]
+# Daleland Ox-Hide [MAT: DALELAND_HIDE] [CAT: LEATHER] [FREQ: RARE] [HOMEBREW]
 Heavy-cured leather from the south. Currently in "Weathered" state in Wael's inventory.
 
 ## Properties
@@ -59,7 +59,7 @@ Heavy-cured leather from the south. Currently in "Weathered" state in Wael's inv
 
 ---
 
-# Industrial Felt [MAT: FELT] [FREQ: UNCOMMON] [HOMEBREW]
+# Industrial Felt [MAT: FELT] [CAT: TEXTILE] [FREQ: UNCOMMON] [HOMEBREW]
 High-density compressed wool.
 
 ## Properties
@@ -68,8 +68,53 @@ High-density compressed wool.
 
 ---
 
-# Neatsfoot Oil [MAT: NEATSFOOT_OIL] [FREQ: UNCOMMON] [HOMEBREW]
+# Neatsfoot Oil [MAT: NEATSFOOT_OIL] [CAT: CATALYST] [FREQ: UNCOMMON] [HOMEBREW]
 A light, bone-rendered oil.
 
 ## Mechanical Utility ([HOMEBREW])
 *   Reduces the WR of dry leather (like Weathered Ox-Hide) by 2 for the duration of a project.
+
+---
+
+# Wood [MAT: WOOD] [CAT: TIMBER] [FREQ: COMMON] [[PHB]] [STANDARD]
+Standard pine, oak, or ash used for shafts, shields, and structures.
+
+## Properties
+*   **Workability Rating (WR):** 11 ([HOMEBREW] Base DC for Artisan Checks)
+*   **Weight:** Varies by item.
+
+---
+
+# Iron [MAT: IRON] [CAT: METAL] [FREQ: COMMON] [[PHB]] [STANDARD]
+Basic forged iron, heavier and more prone to rust than steel.
+
+## Properties
+*   **Workability Rating (WR):** 12 ([HOMEBREW] Base DC for Artisan Checks)
+*   **Weight:** 1 gp per lb (Ingot).
+
+---
+
+# High-Carbon Steel [MAT: HI_CARBON_STEEL] [CAT: METAL] [FREQ: UNCOMMON] [HOMEBREW]
+Steel with a higher carbon content, allowing for extreme sharpness and rigidity.
+
+## Properties
+*   **Workability Rating (WR):** 15 ([HOMEBREW] Base DC for Artisan Checks)
+*   **Mechanical Effects:** Required for [QUAL: MASTERWORK] cutting tools.
+
+---
+
+# Old Cut Iron [MAT: OLD_CUT_IRON] [CAT: METAL] [FREQ: RARE] [HOMEBREW]
+A distinctive blue-grey iron found in the ruins of the North Cut. Extremely resilient to vibration.
+
+## Properties
+*   **Workability Rating (WR):** 16 ([HOMEBREW] Base DC for Artisan Checks)
+*   **Mechanical Effects:** Absorbs kinetic energy. Tools made of this material grant **Advantage** on checks to avoid tool breakage.
+
+---
+
+# Slate [MAT: SLATE] [CAT: MINERAL] [FREQ: COMMON] [HOMEBREW]
+Fine-grained, foliated metamorphic rock.
+
+## Properties
+*   **Workability Rating (WR):** 10 ([HOMEBREW] Base DC to shape)
+*   **Mechanical Utility:** Used for sharpening stones and roofing.

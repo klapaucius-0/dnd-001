@@ -69,3 +69,83 @@ To keep the active workspace lean and optimized for AI agents, the following arc
 Upon the conclusion of a narrative campaign session (indicated by the user command "End Session" or "End Campaign Session"), the agent **MUST NOT** simply stop. 
 
 Instead, the agent MUST immediately invoke the **Sacred Boot Sequence** defined in `GEMINI.md`. This allows the user to transition directly into **Maintenance & Configuration** mode or start a new narrative cycle within the same CLI session, ensuring continuous repository integrity and state synchronization.
+
+## 10. AI Metadata & Tag Registry
+This section serves as the central hub for all campaign tags and metadata to ensure schema consistency and prevent hallucination.
+
+### A. Static Enumerations (Strictly Locked)
+*These values cannot be altered or expanded by the DM during narrative play. Changes require explicit Player directives during Maintenance mode.*
+
+*   **`[STRATUM: ]`**
+    *   **Purpose:** Defines the environmental layer and thematic tone.
+    *   **Values Type:** Static.
+    *   **Values in use:** `1_FRAGILE_SURFACE`, `2_ERODING_AGE`, `3_FROZEN_EXPANSE`, `4_SUNKEN_STONE`, `5_RESONANT_VOID`, `6_DREAMING_MIND`, `7_KINDLED_HEARTH`.
+    *   **Mechanical Rules Reference:** `engine/rules/house_rules.md`
+    *   **Reference Index:** `engine/prompts/dm.md`
+*   **`[FREQUENCY: ]`**
+    *   **Purpose:** Determines how often elements of a stratum should appear.
+    *   **Values Type:** Static.
+    *   **Values in use:** `VERY_LOW`, `LOW`, `MEDIUM`, `HIGH`.
+    *   **Reference Index:** `engine/rules/house_rules.md`
+*   **`[QUAL: ]`**
+    *   **Purpose:** Denotes the craftsmanship and durability of an item.
+    *   **Values Type:** Static.
+    *   **Values in use:** `POOR`, `STANDARD`, `FINE`, `SUPERIOR`, `MASTERWORK`.
+    *   **Mechanical Rules Reference:** `engine/rules/crafting.md`
+*   **`[FREQ: ]`**
+    *   **Purpose:** Denotes the rarity or availability of an item or material.
+    *   **Values Type:** Static.
+    *   **Values in use:** `VERY_COMMON`, `COMMON`, `UNCOMMON`, `RARE`, `VERY_RARE`, `LEGENDARY`.
+    *   **Reference Index:** Used in `atlas/crafting/materials.md` and `atlas/crafting/tools.md`.
+*   **`[TIER: ]`**
+    *   **Purpose:** Represents the technological or magical complexity of a tool.
+    *   **Values Type:** Static.
+    *   **Values in use:** `1`, `2`, `3`.
+    *   **Reference Index:** `atlas/crafting/tools.md`
+*   **`<!-- SOURCE: -->`**
+    *   **Purpose:** Enforces data integrity by linking state variables to their master logs.
+    *   **Values Type:** Static (Log filenames).
+    *   **Values in use:** `currency_log`, `experience_log`, `time_log`, `inventory_log`, `reputation_log`, `relationship_log`, `artifacts`, `world_state`, `unique_entities`, `social_entities`, `companions`, `bestiary`, `lore`, `crafting`, `atlas/crafting/blueprints.md`, `atlas/crafting/materials.md`, `atlas/crafting/tools.md`, `pc_sheet`, `quest_state`.
+    *   **Reference Index:** See Section 3 of this file.
+
+### B. Dynamic & Extensible Tags (DM Managed)
+*The DM is encouraged to create new values for these tags dynamically during narrative play. When a new value is generated, the DM must ensure it is formally documented in the corresponding Reference Index.*
+
+*   **`[MAT: ]`**
+    *   **Purpose:** Identifies the primary material of an item.
+    *   **Values Type:** Dynamic.
+    *   **Reference Index:** Must be logged in `atlas/crafting/materials.md`.
+*   **`[CAT: ]`**
+    *   **Purpose:** Broadly categorizes materials to allow for substitution in generic recipes.
+    *   **Values Type:** Dynamic. The DM may invent new categories (e.g., `METAL`, `LEATHER`).
+    *   **Reference Index:** Must be logged in `atlas/crafting/materials.md`.
+*   **`[TOOL]`**
+    *   **Purpose:** Identifies an item as a functional tool requiring proficiency.
+    *   **Values Type:** Dynamic (Item presence).
+    *   **Reference Index:** Must be logged in `atlas/crafting/tools.md`.
+*   **`[BLUEPRINT]`**
+    *   **Purpose:** Identifies an entry as a crafting schematic.
+    *   **Values Type:** Dynamic.
+    *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
+*   **`[SCALE: ]`**
+    *   **Purpose:** Represents the project's size and duration (number of blocks).
+    *   **Values Type:** Dynamic. Values: `TRIVIAL`, `MINOR`, `MODERATE`, `MAJOR`, `MASSIVE`.
+    *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
+*   **`[MOD: ]`**
+    *   **Purpose:** The mechanical difficulty modifier passed to `crafting_dc_calc.js`.
+    *   **Values Type:** Dynamic (Integer).
+    *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
+*   **`[TYPE: ]`**
+    *   **Purpose:** Broad categorization of a blueprint's output.
+    *   **Values Type:** Dynamic.
+    *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
+
+### C. Live Play Annotation Tags (Transcript Only)
+*These tags are used exclusively within `chronicles/*_transcript.md` files by the DM to explicitly demarcate state changes during gameplay.*
+
+*   **`[XP: ]`**: Experience points gained (Numeric).
+*   **`[SP: ]`**: Social Points change with an entity/faction (Numeric + Entity Name).
+*   **`[CURRENCY: ]`**: Change in monetary wealth (Numeric + Denomination).
+*   **`[TIME: ]`**: Passage of in-game time (Time format).
+*   **`[QUEST: ]`**: Update to the quest tracker (Status string).
+*   **`[UEP: ]`**: Unmasking of a Unified Entity Protocol fact/trait (String).

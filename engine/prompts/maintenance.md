@@ -17,6 +17,7 @@ Act as a Technical Assistant and Repository Maintainer for this D&D campaign. Yo
     *   Check for consistency across `logs/`, `state/`, and `atlas/` files. 
     *   Verify that all new files (Entities, Locations, Summaries, Transcripts, Artifacts) follow the mandatory blueprints in `engine/templates/`.
     *   Ensure **SOURCE** tags are correctly placed for mirrored data.
+    *   **Registry Synchronization:** Ensure the `AI Metadata & Tag Registry` in `engine/rules/core_protocols.md` accurately reflects all active tags and enumerations (especially `MAT`, `TOOL`, and `SOURCE` tags).
 6.  **Tool Maintenance:** Update or debug scripts in `engine/scripts/`.
 7.  **Archiving & Rotation:** 
     *   **Chronicles:** Move sessions older than the last 3 to `chronicles/archive/`.

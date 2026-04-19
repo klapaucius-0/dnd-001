@@ -48,3 +48,35 @@ Quality applies exclusively to finished items resulting from an Artisan Check. I
 ## 6. Maintenance & Restoration
 *   **Minor Repair:** Restoring 1 HP to a damaged object. (1 LH, DC 10).
 *   **Structural Restoration:** Fixing a "Broken" item. (4-8 LH, DC 15). Requires 1/4 the original material cost.
+
+## 7. Material Substitution & Blueprint Resolution ([HOMEBREW])
+This protocol defines how the AI resolves crafting actions when multiple blueprints or generic material categories are involved.
+
+### A. The Blueprint Consultation Phase (Mandatory DM Workflow)
+To ensure player agency, the DM must follow this phase **before** any Labor Hours are committed:
+1.  **Player Proposal:** Player states the Blueprint, Material, and target Quality.
+2.  **DM Calculation:** DM uses `node engine/scripts/crafting_dc_calc.js <Material_WR> <Blueprint_Mod> <Quality>` to find the Final DC.
+3.  **The Pitch:** DM presents the Total Blocks (from the SCALE tag) and the Final DC to the player.
+4.  **Player Decision:** Player confirms, adjusts, or cancels the project.
+
+### B. Scale & Duration ([HOMEBREW])
+The `[SCALE: X]` tag on a blueprint determines the duration of the project (Labor Hours), while the `[MOD: +Y]` tag determines its mechanical difficulty.
+
+| Scale Tier | Total 4-hour Blocks | Total Labor Hours (LH) |
+| :--- | :---: | :---: |
+| **TRIVIAL** | 1-2 | 4-8 |
+| **MINOR** | 3-6 | 12-24 |
+| **MODERATE** | 7-12 | 28-48 |
+| **MAJOR** | 13-24 | 52-96 |
+| **MASSIVE** | 25+ | 100+ |
+
+### C. The Specificity Rule (AI Resolution Logic)
+1.  **Exact Match (High Priority):** If a blueprint exists specifically for the `[MAT: X]` used, it **MUST** be used.
+2.  **Category Fallback (Low Priority):** If no exact match exists, the AI uses a generic blueprint matching the material's `[CAT: Y]`.
+
+### D. Dynamic DC Calculation
+For all blueprint-based crafting, the AI **MUST** use the `engine/scripts/crafting_dc_calc.js` script to determine the final DC.
+
+### E. Output Scaling
+The resulting item inherits the `[MAT: X]` tag of the specific material used, along with its intrinsic properties.
+

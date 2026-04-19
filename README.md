@@ -3,7 +3,7 @@
 This repository contains the structured data, logs, and rules for a solo Dungeons & Dragons 5th Edition (2014) campaign.
 
 ## Project Overview
-*   **Campaign Setting:** Frontier path toward Oakhaven.
+*   **Campaign Setting:** Oakhaven and the surrounding North Cut.
 *   **Tone:** Melancholic, psychological dread, classic weird fiction.
 *   **Protagonist:** Wael, a Mountain Dwarf Forge Cleric (Level 2).
 
@@ -28,4 +28,4 @@ This repository contains the structured data, logs, and rules for a solo Dungeon
 All agents interacting with this repository must adhere to the **[[engine/rules/core_protocols.md]]**. This document defines the naming conventions, SSOT registry, and structural rules (including the **Unified Entity Protocol**) required for consistent campaign management.
 
 ---
-*Last Technical Maintenance: 2026-04-18 (Consistency Audit, Session 005 Sync & Layered Narrative Strata Implementation)*
+*Last Technical Maintenance: 2026-04-19 (Consistency Audit, Archive Rotation, & Registry Sync)*
