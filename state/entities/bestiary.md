@@ -72,3 +72,39 @@ Humanoid figures that move with a gravity-defying grace, drawn to the resonance 
 *   **Hit Points (HP):** ?? (~30 wounded observed)
 *   **Challenge (CR):** ?? (approx 2)
 *   **Hidden Resistances:** ?? (High physical resistance suspected)
+
+---
+
+## Rat-Dogs (Giant Rats) [STRATUM: 1_FRAGILE_SURFACE]
+**Role/Type:** Small beast
+**Habitat:** Urban ruins / Cellars / Granaries
+**Faction:** [[Unassigned]]
+
+### Summary
+Feral rodents that have grown to unnatural size, driven by a desperate and aggressive hunger.
+
+### Narrative & Identity
+*   **Appearance:** Matted fur, yellowed incisors, and eyes that reflect a dim, sickly light.
+*   **Sounds:** Wet, rhythmic scratching and low, guttural hisses.
+*   **Behavior:** Unnaturally persistent; they will fight to the death even when the pack is broken.
+
+### Mechanical Details (Unified Entity Protocol)
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) |
+
+#### Known Values (Observed)
+*   **Armor Class (AC):** 12
+*   **Speed:** 30 ft.
+*   **Disposition:** Hostile
+*   **Known Facts:** 
+    *   **Pack Tactics:** Advantage on attack rolls if an ally is within 5 feet of the target.
+    *   **Keen Smell:** Advantage on Wisdom (Perception) checks that rely on smell.
+
+#### Unknown Values (??)
+*   **Hit Points (HP):** 7 (Standard)
+*   **Challenge (CR):** 1/8 (Standard)
+*   **Hidden Resistances:** None observed.
+
