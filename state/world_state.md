@@ -42,15 +42,6 @@
 *   **Divine / Lore:** Father Vane (Associate) - *Oakhaven Chapel.*
 *   **Security / Information:** Toren & Hov (Associate) - *Town Guards / Gate Access.*
 
-## Quest Tracker (SSOT: quest_state)
-| Quest | Objective | Status |
-| :--- | :--- | :--- |
-| **The First Step** | Complete a Long Rest in Oakhaven. | [X] Complete |
-| **Consolidation** | Audit and restock survival gear. | [ ] In Progress |
-| **The Crude Brace** | Design and gather materials for a static arm brace. | [ ] Designing |
-| **Restoration** | Seek 7th-level magic (*Regenerate*) for the lost arm. | [ ] Searching |
-| **Master's Toolkit** | Acquire all artisan tool sets & Mobile Storage. | [ ] Collecting |
-
 ## Summary of Active Parties
 *   **Wael:** At Harlen's Forge, constructing the Scavenger's Anchor.
 *   **Kaelen:** At Harlen's Forge, assisting Wael.

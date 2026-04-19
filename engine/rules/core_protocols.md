@@ -16,6 +16,7 @@ Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 2.  **Update the State:** Only after the log is updated, refresh the corresponding `*_state.md` file in `state/` to mirror the new total.
 3.  **Active Modifier Registry (HUD) Protocol:** If a state change introduces a persistent bonus, penalty, advantage, or disadvantage (e.g., equipping an item, gaining a condition like Exhaustion, or casting a long-term buff), the **Active Modifier Registry (HUD)** section in `state/character_state.md` MUST be updated in the same turn. The DM must reference this HUD before every roll.
 4.  **Source Tags:** States MUST use Source Tags (e.g., `<!-- SOURCE: currency_log -->`) to identify their master log.
+5.  **Quest State Review (Mandatory):** At the start of every session, or after a Long Rest, the DM MUST read `state/quest_state.md` and check the `[OPEN]` or `[REQUIRES: X]` tags of the currently active quests to ensure narrative tracking is maintained without forcing the player down a specific path.
 
 ## 3. SSOT Registry (The Five Pillars)
 | Category | Master History Log (SSOT) | Reference Snapshot (State) | Source Tag |

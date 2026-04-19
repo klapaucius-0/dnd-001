@@ -1,39 +1,26 @@
-# Campaign Quest Log
+# Campaign Quest Log (HUD)
+<!-- SOURCE: quest_state -->
 
-## Active Quests
+## Active Short-Term Goals
+*   **[Q003] The South Grove Escort** (ACTIVE) -> `state/quests/Q003_south_grove_escort.md`
+*   **[Q004] Masking the Ravage** (ACTIVE) -> `state/quests/Q004_masking_the_ravage.md`
+*   **[Q005] Strength in Numbers** (ACTIVE) -> `state/quests/Q005_strength_in_numbers.md`
+*   **[Q007] Consolidation** (ACTIVE) -> `state/quests/Q007_consolidation.md`
+*   **[Q008] The Master's Toolkit** (ACTIVE) -> `state/quests/Q008_masters_toolkit.md`
+*   **[Q011] The Deep-Forged Anatomy** (PENDING) -> `state/quests/Q011_deep_forged_anatomy.md`
 
-### Short-Term Goals (Immediate Survival & Consolidation)
-| Quest | Status | Description | Objectives |
-| :--- | :--- | :--- | :--- |
-| **The First Step** | Active | Recover strength and navigate the social echoes of Oakhaven. | [ ] Secure safe shelter for an extended stay.<br>&nbsp;&nbsp;&nbsp;&nbsp;[X] Secure a room at the Boar and Barrel.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Negotiate housing with a local resident.<br>[X] Obtain treatment for the Internal Injury.<br>&nbsp;&nbsp;&nbsp;&nbsp;[X] Locate a professional healer.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Acquire a potent healing potion or tincture.<br>[X] Complete a full Long Rest. |
-| **The South Grove Escort** | Active | Escort Mother Halsa through the shadows of the South Grove path. | [ ] Locate Mother Halsa.<br>[ ] Ensure her safe passage through the grove. |
-| **Masking the Ravage** | Active | Secure a mundane patch or glass eye to hide the scarring of the left eye. | [ ] Acquire a sturdy leather eyepatch or a polished glass sphere.<br>[ ] Mitigate the social penalty for "unsettling appearance." |
-| **Strength in Numbers** | Active | Find and recruit another capable ally to join your journey. | [ ] Identify potential candidates in Oakhaven or the surrounding wilds.<br>[ ] Prove your worth or provide a service to earn their loyalty.<br>[ ] Formalize a bond of companionship. |
-| **The Deep-Forged Anatomy** | Pending | A superior limb using interlocking plates and heavy bindings to mimic anatomical movement. | [ ] Study anatomical proportions for a custom fit.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Consult medical texts or ancient smithing records.<br>[ ] Obtain refined deep-formed steel or rare minerals.<br>[ ] Establish a workshop capable of precision cold-work. |
-| **Consolidation** | Active | Audit and replace gear lost to the eroding mountains. | [X] Assess the state of your current kit.<br>&nbsp;&nbsp;&nbsp;&nbsp;[X] Perform a detailed inventory audit.<br>[ ] Restock essential survival supplies.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Purchase rations and oil at Oakhaven markets.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Trade stone-carving services for supplies.<br>[X] Restore gear damaged by antiquity and decay.<br>&nbsp;&nbsp;&nbsp;&nbsp;[X] Anneal the cracks in the stowed shield.<br>&nbsp;&nbsp;&nbsp;&nbsp;[X] Re-bind the leather straps on the chain mail. |
-| **The Master's Toolkit** | Active | Systematically acquire every individual non-magical tool. | [ ] Complete the "Artisan" set.<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Alchemist's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Brewer's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Calligrapher's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Carpenter's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Cartographer's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Cobbler's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Cook's utensils<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Glassblower's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Jeweler's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Leatherworker's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Painter's supplies<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Potter's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Tinker's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Weaver's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Woodcarver's tools<br>[ ] Complete the "Professional" set.<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Thieves' tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Disguise kit<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Forgery kit<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Navigator's tools<br>&nbsp;&nbsp;&nbsp;&nbsp;[ ] Poisoner's kit<br>[ ] Organize a high-capacity mobile storage system. |
+## Active Mid-Term Goals
+*   **[Q006] The Plate of the Deep-Form** (ACTIVE) -> `state/quests/Q006_plate_of_the_deep_form.md`
+*   **[Q009] Restoration of the Flesh** (ACTIVE) -> `state/quests/Q009_restoration_of_the_flesh.md`
+*   **[Q010] Vision Restored** (ACTIVE) -> `state/quests/Q010_vision_restored.md`
+*   **[Q014] Building the Bastion** (ACTIVE) -> `state/quests/Q014_building_the_bastion.md`
 
-### Mid-Term Goals (Growth & Restoration)
-| Quest | Status | Description | Objectives |
-| :--- | :--- | :--- | :--- |
-| **Restoration of the Flesh** | Active | Seek out the power or magic required to fully regain your lost arm. | [ ] Secure a source of powerful restorative magic.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Seek an audience with the High Priest of Oakhaven (7th-level Regenerate).<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Research legends of "The Living Frost" or other ancient healing sources.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Search for a rare magic item (Ring of Regeneration or similar).<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Attain the personal power required to manifest the healing (Reach Level 4+).<br>[ ] Fulfill the requirements for the restoration.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Perform a significant service for the faith or the town.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Locate a rare focus or ingredient required for the spell/item. |
-| **Vision Restored** | Active | Seek out the power or magic required to fully regain your lost eye. | [ ] Secure a source of powerful restorative magic.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Seek an audience with a master of the divine arts.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Research legends of "Ersatz Eyes" or magical optics.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Search for a rare magic item (Ersatz Eye or similar). |
-| **Building the Bastion** | Active | Establish a network of allies and resources to ensure you never fall alone again. | [ ] Establish a reputation as a reliable artisan.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Fulfill commissions or repairs for the guard or guilds.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Contribute to the town's maintenance or defense.<br>[ ] Establish reliable professional contacts.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Identify merchants for high-grade stone/ore.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Find local guards or scouts for hire.<br>( ) Secure a permanent workspace in Oakhaven.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Identify a cellar or abandoned masonry shop.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Earn enough standing for a permit. |
-| **The Plate of the Deep-Form** | Active | Acquire or forge a set of full Plate Armor. | [ ] Secure a blueprint or design for Plate Armor.<br>[ ] Acquire 1,500 gp or a Massive amount of Standard Steel scrap.<br>[ ] Devote 100+ Labor Hours to the forge. |
+## Active Endgame Goals
+*   **[Q012] The Weight of the Void** (PENDING) -> `state/quests/Q012_weight_of_the_void.md`
+*   **[Q013] The Stillness of the Deep** (PENDING) -> `state/quests/Q013_stillness_of_the_deep.md`
 
-### Long-Term Goals (Growth & Legacy)
-| Quest | Status | Description | Objectives |
-| :--- | :--- | :--- | :--- |
-| **The Monolith of the Deep-Form** | Active | Construct an impossibly high and infinitely deep stronghold to serve as a permanent sanctuary, crafting hub, and home. | [ ] Construct the central monolith.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Raise a tower that pierces the highest mountain winds.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Excavate foundations and vaults deep into the primordial rock.<br>[ ] Establish comprehensive crafting and magical hubs.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Build specialized stations for all non-magical artisan crafts.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Construct sealed, high-pressure chambers for precision cold-forming.<br>[ ] Cultivate life and rare resources within the stronghold.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Design high-altitude greenhouses and subterranean fungal grottos for herbs/potions.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Cultivate veins of rare minerals or crystalline shards.<br>[ ] Assemble a grand library of deep and ancient lore.<br>[ ] Gather friends, allies, and build a found family to populate the stronghold. |
-
-### Endgame Goals (Legendary Mastery - Level 17-20)
-| Quest | Status | Description | Objectives |
-| :--- | :--- | :--- | :--- |
-| **The Weight of the Void** | Active | Uncover the ultimate truth and origin of the Dark Black Shard. | [ ] Decipher the resonance properties of the Dark Black Shard.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Observe the Shard's behavior in the presence of high-tier Resonant Figures.<br>[ ] Gain access to a legendary and extremely rare void archive.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Locate the hidden repository of void lore.<br>[ ] Recover lost knowledge of the Dark Black Shard.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Research ancient texts specific to the void (extremely difficult to find and to read). |
-| **The Stillness of the Deep** | Active | Uncover the origin and purpose of the unyielding Damp Blue-Green Stone Box. | [ ] Decipher the structural nature of the Damp Blue-Green Stone Box.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Observe the Stone Box's behavior near primordial geological forces.<br>[ ] Gain access to a legendary and extremely rare pre human archive.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Locate the hidden repository of pre human lore.<br>[ ] Recover lost knowledge of the Damp Blue-Green Stone Box.<br>&nbsp;&nbsp;&nbsp;&nbsp;( ) Research ancient texts specific to "Primordial Formations" (extremely difficult to find and to read). |
-
-## Completed Quests
-| Quest | Summary | Reward |
-| :--- | :--- | :--- |
-| **Verminer's Request** | Cleared three giant rats from Master Hobb's cellar. Wael was severely injured but stabilized by Kaelen. | 1 gp; 2 Days Quality Travel Bread. |
-| **The Crude Brace** | Designed and constructed a static iron and leather prosthetic (The Scavenger's Anchor) to restore shield use. | Restored Shield Use; AC +2; Disadvantage on Dex. |
+## Recently Completed (Last 3)
+*For the full historical record of all completed quests, see: `state/archive/completed_quests.md`*
+*   **[Q002] Verminer's Request** -> `state/archive/quests/Q002_verminers_request.md`
+*   **[Q001] The Crude Brace** -> `state/archive/quests/Q001_crude_brace.md`
+*   **[Q000] The First Step** -> `state/archive/quests/Q000_first_step.md`
