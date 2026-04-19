@@ -39,7 +39,7 @@ Quality applies exclusively to finished items resulting from an Artisan Check. I
 
 | Quality Tag | Target DC | Mechanical Utility (Strictly Non-Combat Math) |
 | :--- | :---: | :--- |
-| `[QUAL: POOR]` | Fail | **Fragile:** 50% chance to break on a Nat 1 (Attack) or Critical Hit (Armor). |
+| `[QUAL: POOR]` | Fail | **Static Burden:** The item functions, but imposes permanent static drawbacks (e.g., Disadvantage on checks, reduced speed, or social penalties). It does not randomly break. |
 | `[QUAL: STANDARD]` | Material WR | Standard PHB rules. No utility bonus. |
 | `[QUAL: FINE]` | **20** | **Superior Fit:** Advantage vs. Disarm (Weapon); sleep in armor without Exhaustion. |
 | `[QUAL: SUPERIOR]` | **25** | **Silvered Construction:** Bypasses mundane resistances; half time to don/doff. |
@@ -87,4 +87,10 @@ For all blueprint-based crafting, the AI **MUST** use the `engine/scripts/crafti
 
 ### E. Output Scaling
 The resulting item inherits the `[MAT: X]` tag of the specific material used, along with its intrinsic properties.
+
+## 8. Salvage & Scrap Resolution ([HOMEBREW])
+To provide a structured path toward heavy armor or large-scale projects, mundane scrap can be refined into usable materials.
+*   **The Yield Ratio:** 10 lbs of scavenged, rusted, or impure scrap yields 1 lb of refined material.
+*   **Material Conservation:** The refined output perfectly matches the input material (e.g., 10 lbs of iron scrap yields 1 lb of `[MAT: IRON]`; 10 lbs of steel scrap yields 1 lb of `[MAT: STANDARD_STEEL]`).
+*   **The Process:** Requires 1 Labor Hour (often done during a Short Rest) and access to Smith's Tools.
 

@@ -33,8 +33,18 @@
 4.  **Ability Scores:** Rolled (4d6 drop lowest) - COMPLETED.
 5.  **Flanking:** Enabled (Advantage for melee attackers on opposite sides).
 6.  **Inspiration:** Enabled (Awarded for roleplay).
-7.  **Lingering Injuries:** Enabled (Applied on massive damage or dropping to 0 HP).
-8.  **Morale:** Enabled (Enemies may flee or surrender).
+7.  **Lingering Injuries (The Toll of the Void):** Enabled. Every time Wael drops to 0 Hit Points, he must immediately roll 1d20 on the Toll of the Void table:
+    *   **1 (Catastrophic Trauma):** Wael suffers a permanent, progressive trauma. It requires high-level magic (e.g., *Regenerate*) to heal.
+        *   *1st Occurrence:* Internal Damage.
+        *   *2nd Occurrence:* Maimed (e.g., severe limp, lost eye/ear).
+        *   *3rd Occurrence:* Lost Limb (Arm or Leg).
+        *   *4th+ Occurrence:* Another Lost Limb or Permanent Blindness/Deafness. (Death only occurs through standard Death Save failures).
+    *   **2-10 (Systemic Shock):** Wael gains 1 level of Exhaustion upon regaining consciousness.
+    *   **11-20 (A Close Call):** Wael gains a permanent cosmetic scar, but no mechanical penalty.
+8.  **Morale (DMG Variant):** Enabled. A creature or group must make a DC 10 Wisdom saving throw or flee (Dash/Disengage) or surrender under the following conditions:
+    *   The creature is reduced to half its hit points or fewer for the first time in battle.
+    *   The group's leader is reduced to 0 hit points.
+    *   The group's size is reduced to half its original number.
 9.  **Healer's Kit Dependency:** Disabled (Standard 5e resting/healing rules apply for now).
 10. **Encumbrance (Weight Tracking):** **Enabled**. 
     *   **Carrying Capacity:** 15 x Strength score.

@@ -7,6 +7,7 @@
 
 ## Active Effects & Conditions
 *   **Lost Left Arm:** Cannot use shields or two-handed weapons. Requires 7th-level *Regenerate* to heal.
+*   **Maimed (Left Eye):** Disadvantage on Perception (Sight) and Persuasion checks.
 *   **Environmental Stratum:** [STRATUM: 1_FRAGILE_SURFACE] (High Frequency).
 *   **Active Blight:** White-Frost (Suppressed in Oakhaven Chapel).
 
@@ -27,6 +28,19 @@
     *   *Vesper:* Level 0 (10/20 SP) [Neutral / Associate]
     *   *Harlen:* Level 1 (20/20 SP) [Associate]
 *   **Mountain Sentinels:** Level 1 (-150/-300 SP) [Nuisance / Nemesis]
+
+## Essential Services (Oakhaven)
+*If a service is not listed here, its availability is **Unknown (??)** until investigated. Services confirmed to be absent will be explicitly marked as **[Unavailable]**.*
+*   **Healing (Magical):** Father Vane (Associate) - *Healing Rituals / Divine Favor.*
+*   **Healing (Mundane/Herbalism):** Mother Halsa (Associate) - *Mountain Herbs / Ghost-Root / Poultices.*
+*   **Lodging & Meals:** Hera (Associate) - *The Boar and Barrel Tavern.*
+*   **Smithing / Metalwork:** Harlen (Associate) - *Harlen's Forge.*
+*   **General Trade / Supplies:** Master Hobb (Associate) - *Granary / High-Surface Goods.*
+*   **Leatherwork / Pelts:** Bram (Associate) - *Daleland Hides & Hardware.*
+*   **Textiles / Wool:** Elara (Neutral) - *Felt & Wool Merchant.*
+*   **Scavenged Tools / Scrap:** Vesper (Neutral) - *North Cut Scavenger.*
+*   **Divine / Lore:** Father Vane (Associate) - *Oakhaven Chapel.*
+*   **Security / Information:** Toren & Hov (Associate) - *Town Guards / Gate Access.*
 
 ## Quest Tracker (SSOT: quest_state)
 | Quest | Objective | Status |

@@ -56,6 +56,7 @@
     *   **Artisan's Blessing:** 1-hour ritual to create a metal item (up to 100gp).
     *   **Turn Undead:** Standard feature.
 *   **Permanent Injury:** Lost Left Arm. Cannot use shields or two-handed weapons.
+*   **Permanent Injury:** Maimed (Left Eye). Disadvantage on Sight-Perception and Persuasion.
 
 ## Resource Tracker
 *   **Spell Slots (1st Level):** [ ] [ ] [ ]

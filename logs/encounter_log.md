@@ -28,3 +28,14 @@
 *   **Rounding Hammer Restoration:** DC 13 Strength (Smith's Tools) check (16) to cold-form mushroomed iron.
 *   **Workshop Restoration:** Series of Artisan checks to restore bellows, tank, and anvil stand. Success.
 *   **Anchor Construction:** Complete design and fabrication of the Scavenger's Anchor prosthetic. Success.
+
+## Encounter Log: Session 008
+
+### Encounter 001: The Granary Cellar
+*   **Date:** 2026-04-19 (Day 4)
+*   **Location:** Oakhaven Granary (Lower Cellar)
+*   **Enemies:** 3x Giant Rats
+*   **Outcome:** Victory. Rats slaughtered. Wael dropped to 0 HP and suffered a catastrophic failure on his first death save.
+*   **Casualties:** Wael (Maimed - Left Eye).
+*   **Toll of the Void:** Roll: 1 (Natural 1). Result: Permanent facial scarring and sightless left eye.
+*   **XP Awarded:** 75 XP (Combat) / 50 XP (Quest)

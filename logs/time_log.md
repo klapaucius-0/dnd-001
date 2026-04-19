@@ -39,7 +39,7 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 4 | 11:30 | 008 | Travel to Market Square; searching notice board. | 0.15 | N/A | 0 |
 | 4 | 11:45 | 008 | Arrival at the Oakhaven Granary; seeking Master Hobb. | 0.25 | N/A | 0 |
 | 4 | 11:50 | 008 | Descent into the Granary Cellar; Hobb bolts the door. | 0.1 | N/A | 0 |
-| 4 | 12:50 | 008 | Recovery and aftermath of cellar combat. | 1.0 | N/A | 0 |
+| 4 | 12:50 | 008 | Recovery and aftermath of cellar combat. [Injury: Maimed - Left Eye]. | 1.0 | N/A | 0 |
 | 4 | 13:00 | 008 | Leaving the Granary; pausing in Market Square to speak with Kaelen. | 0.15 | N/A | 0 |
 
 ## Daily Time Budget (24 Hours)
