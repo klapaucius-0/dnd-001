@@ -5,7 +5,7 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 
 ---
 
-## Hera [STRATUM: 1_FRAGILE_SURFACE]
+## Hera [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Tavern Owner
 **Bond Type:** Associate
 **Standing:** Level 0 (6/20 SP) [Neutral]
@@ -36,14 +36,14 @@ The pragmatic and protective proprietor of Oakhaven's primary social hub.
 
 ---
 
-## Father Vane [STRATUM: 2_ERODING_AGE]
-**Role/Type:** Priest of Kelemvor
+## Father Vane [STRATUM: 2_ERODING_AGE] [NPC_TYPE: LEGENDARY]
+**Role/Type:** Priest of Kelemvor (Elite NPC: Cleric)
 **Bond Type:** Associate
-**Standing:** Level 0 (6/20 SP) [Stranger]
-**Last Interaction:** Day 3 / 10:15
+**Standing:** Level 0 (11/20 SP) [Stranger]
+**Last Interaction:** Day 4 / 17:15
 
 ### Summary
-A solemn and patient priest burdened by the spiritual defense of Oakhaven.
+A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is a true conduit of Kelemvor's power, standing as one of the few active divine spellcasters in the region.
 
 ### Narrative & Identity
 *   **Appearance:** Carrying the weight of the town on his shoulders; robes of dusty grey.
@@ -51,23 +51,38 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven.
 *   **Outlook on Life:** Life is preparation for the inevitable quiet. He views supernatural blights as physical collapsing history.
 
 ### Mechanical Details (Unified Entity Protocol)
+**Note:** As a Legendary NPC, Vane operates with a "Stationary Master" profile. He possesses power beyond a commoner but is tied to the spiritual sanctity of the Chapel.
 
 #### Statistics
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ?? | ?? | ?? | ?? | 16 (+3) | 14 (+2) |
+| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 14 (+2) |
 
 #### Known Values (Observed)
+*   **Class Level:** 4th Level Cleric (Grave/Life Variant)
 *   **Armor Class (AC):** 10 (Robes)
+*   **Hit Points:** ?? (Approx. 25-30)
 *   **Disposition (Current Mood):** Friendly (Baseline: Friendly)
-*   **Known Facts:** 
-    *   Performs "Realignment" rituals that tax the body (cause Exhaustion).
-    *   Senses resonances; recognized Wael's connection to the Deep-Form.
-    *   Profoundly respects Wael for purging the white-frost from the altar.
+*   **Key Proficiencies:** Medicine (+5), Religion (+3), Insight (+5).
+
+#### Capabilities & Rituals
+*   **True Cleric Status:** Unlike a common priest, Vane has access to 1st and 2nd level spell slots (Spell Save DC 13).
+*   **Ritual of Realignment:** A unique, high-tax ritual to purge deep corruption or blights. 
+    *   *Effect:* Cleanses supernatural "White-Frost" or "Void-Rot."
+    *   *Cost:* The target immediately gains **1 Level of Exhaustion**.
+*   **Discern Resonance:** Vane can sense the presence of artifacts and divine connection (Identified Wael's Forge-Blessing and the Dark Shard).
+*   **Sanctuary of Kelemvor:** The Chapel acts as a Tier 7 [KINDLED_HEARTH] while Vane is present and active, providing a safe haven against environmental "Void" effects.
+
+#### Known Facts: 
+*   Performs "Realignment" rituals that tax the body (cause Exhaustion).
+*   Senses resonances; recognized Wael's connection to the Deep-Form.
+*   Profoundly respects Wael for purging the white-frost from the altar.
+*   Treated Wael's maimed eye on Day 4; confirmed the wound is free of "Rat-Dog" rot.
+
 
 ---
 
-## Bram [STRATUM: 1_FRAGILE_SURFACE]
+## Bram [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Daleland Leather Merchant
 **Bond Type:** Associate
 **Standing:** Level 0 (5/20 SP) [Neutral]
@@ -83,7 +98,7 @@ A pragmatic Daleland trader who knows the value of hard work and honest material
 
 ---
 
-## Elara [STRATUM: 1_FRAGILE_SURFACE]
+## Elara [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Felt/Wool Merchant
 **Bond Type:** Associate
 **Standing:** Level 0 (1/20 SP) [Neutral]
@@ -99,7 +114,7 @@ A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpne
 
 ---
 
-## Vesper [STRATUM: 2_ERODING_AGE]
+## Vesper [STRATUM: 2_ERODING_AGE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Scavenger / Tool Merchant
 **Bond Type:** Associate
 **Standing:** Level 0 (10/20 SP) [Neutral]
@@ -123,7 +138,7 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 
 ---
 
-## Master Hobb [STRATUM: 1_FRAGILE_SURFACE]
+## Master Hobb [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** General Trader
 **Bond Type:** Associate
 **Standing:** Level 0 (5/20 SP) [Neutral]
@@ -147,7 +162,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ---
 
-## Toren & Hov [STRATUM: 1_FRAGILE_SURFACE]
+## Toren & Hov [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Town Guards
 **Standing:** Level 0 (5/20 SP) [Neutral]
 **Last Interaction:** Day 2 / 18:00
@@ -160,7 +175,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ---
 
-## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE]
+## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: FACTION]
 **Role/Type:** Citizen Group
 **Standing:** Level 1 (46/100 SP) [Acquaintance]
 **Last Interaction:** Day 3 / 21:24
@@ -172,7 +187,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ---
 
-## Mother Halsa [STRATUM: 1_FRAGILE_SURFACE]
+## Mother Halsa [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Grove Keeper / Herbalist
 **Bond Type:** Associate
 **Standing:** Level 0 (1/20 SP) [Neutral]
@@ -196,7 +211,7 @@ A quiet and observant caretaker of the small grove within Oakhaven's protective 
 
 ---
 
-## Harlen [STRATUM: 1_FRAGILE_SURFACE]
+## Harlen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Town Blacksmith
 **Bond Type:** Associate
 **Standing:** Level 1 (20/20 SP) [Associate]

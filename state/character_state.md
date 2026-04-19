@@ -5,12 +5,12 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 850 <!-- SOURCE: experience_log -->
+**Experience (XP):** 915 <!-- SOURCE: experience_log -->
 **Alignment:** True Neutral
 **Age:** Unknown (Looks ravaged by time)
 
 ## Vital Stats
-**Hit Points (HP):** 1 / 16
+**Hit Points (HP):** 13 / 16
 **Armor Class (AC):** 19 (Chain Mail +1, Shield)
 **Initiative:** +1
 **Speed:** 25 ft.
@@ -60,7 +60,7 @@
 
 ## Resource Tracker
 *   **Spell Slots (1st Level):** [ ] [ ] [ ]
-*   **Hit Dice:** [ ] [ ] (1d8)
+*   **Hit Dice:** [X] [X] (1d8)
 *   **Blessing of the Forge:** [X] (Active on Chain Mail)
 *   **Inspiration:** [Yes]
 

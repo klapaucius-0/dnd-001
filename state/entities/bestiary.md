@@ -5,7 +5,7 @@ This file contains discovery-based state blocks and tactical notes for creatures
 
 ---
 
-## Resonant Figure [STRATUM: 5_RESONANT_VOID]
+## Resonant Figure [STRATUM: 5_RESONANT_VOID] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Medium humanoid
 **Habitat:** High Peaks / Anomalous Zones
 **Faction:** [[Mountain Sentinels]]
@@ -44,7 +44,7 @@ Humanoid figures that move with a gravity-defying grace, drawn to the resonance 
 
 ---
 
-## Void-Touched Sentinel [STRATUM: 5_RESONANT_VOID]
+## Void-Touched Sentinel [STRATUM: 5_RESONANT_VOID] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Large skeletal construct
 **Habitat:** The Obelisk / Deep Excavations
 **Faction:** [[Mountain Sentinels]]
@@ -75,7 +75,7 @@ Humanoid figures that move with a gravity-defying grace, drawn to the resonance 
 
 ---
 
-## Rat-Dogs (Giant Rats) [STRATUM: 1_FRAGILE_SURFACE]
+## Rat-Dogs (Giant Rats) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Small beast
 **Habitat:** Urban ruins / Cellars / Granaries
 **Faction:** [[Unassigned]]

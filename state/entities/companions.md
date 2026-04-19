@@ -5,7 +5,7 @@ This file tracks the mechanical and social state of characters traveling with Wa
 
 ---
 
-## Kaelen [STRATUM: 1_FRAGILE_SURFACE]
+## Kaelen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Human Guide (Scout / Future Expert Sidekick)
 **Bond Type:** Companion
 **Standing:** Level 2 (60/60 SP) [Companion]
@@ -28,7 +28,7 @@ A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wae
 | 10 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 14 (+2) | 10 (+0) |
 
 #### Known Values (Observed)
-*   **Hit Points (HP):** 8 / 16
+*   **Hit Points (HP):** 14 / 16
 *   **Armor Class (AC):** 14 (Scavenged Leather)
 *   **Speed:** 30 ft.
 *   **Disposition (Current Mood):** Friendly (Baseline: Neutral)

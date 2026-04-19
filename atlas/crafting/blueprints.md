@@ -114,6 +114,36 @@ An articulated, multi-segmented limb mimicking the reach and pivot of a natural 
 
 ---
 
+# The Mason's Blinder [BLUEPRINT] [TYPE: GEAR] [SCALE: TRIVIAL] [MOD: +0] [HOMEBREW]
+A rigid, anatomical eyepatch designed to protect a ruined socket while maintaining the wearer's remaining peripheral focus. It is sculpted from hardened leather and lined with soft felt to provide a seamless, low-profile concealment.
+
+## Technical Requirements
+*   **Tool Tier Required:** Tier 1 (Leatherworker's Tools).
+*   **Total Blocks:** 2 Blocks (8 LH).
+*   **Base DC Calculation:** `node engine/scripts/crafting_dc_calc.js <Material_WR> 0 [Quality]`
+*   **Required Workshop:** Any stable surface.
+
+## Component List
+*   **Outer Shell:** 0.25x Unit of Leather (`[CAT: LEATHER]`).
+*   **Internal Lining:** 0.25x Unit of Felt (`[CAT: TEXTILE]`).
+*   **Binding:** 1x Use of Waxed Linen Thread.
+*   **Refinement:** Tallow & Beeswax.
+
+## Final Item Result
+*   **Name:** The Mason's Blinder ([HOMEBREW])
+*   **Resulting Tags:** `[MAT: (Inherited)] [QUAL: STANDARD]`
+*   **Mechanical:**
+    *   **Anatomical Guard:** Seals the eye socket, negating risks of infection or further trauma from environmental debris.
+    *   **The Shadowed Brow:** Fully conceals the "Maimed" injury, nullifying the social Disadvantage on Persuasion checks caused by the injury's appearance.
+    *   **Artisan's Focus:** Provides a **+1 bonus** to saving throws against being blinded by non-magical environmental effects (dust, smoke, sparks).
+*   **Sensory:** Rigid and scentless once cured; sits flush against the skin and feels like a natural extension of the brow.
+
+## Crafting Process (2 Blocks)
+*   **Block 1 (Leatherworker's Tools vs Base DC):** Cutting the leather to match the anatomical sketch and boiling it to achieve a rigid, protective shape.
+*   **Block 2 (Leatherworker's Tools vs Base DC):** Lining the interior with felt and stitching the adjustable head-straps using waxed thread.
+
+---
+
 # The Scavenger's Anchor [BLUEPRINT] [TYPE: PROSTHETIC] [SCALE: MINOR] [MOD: -2] [HOMEBREW]
 The absolute minimum requirement for a functional prosthetic. A heavy, rigid harness of ox-hide and iron nails that provides a static loop for gear. It makes no attempt at comfort or aesthetics.
 

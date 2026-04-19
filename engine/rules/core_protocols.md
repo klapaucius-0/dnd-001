@@ -104,6 +104,19 @@ This section serves as the central hub for all campaign tags and metadata to ens
     *   **Values Type:** Static.
     *   **Values in use:** `1`, `2`, `3`.
     *   **Reference Index:** `atlas/crafting/tools.md`
+*   **`[NPC_TYPE: ]`**
+    *   **Purpose:** Defines the mechanical complexity, progression potential, and role of an NPC based on standard D&D 5e (2014) sourcebooks.
+    *   **Values Type:** Static.
+    *   **Values in use:** 
+        *   `SIDEKICK`: Uses Tasha's Sidekick rules; levels up with the PC.
+        *   `HIRELING`: Uses PHB rules for skilled/untrained service; static stats, no leveling.
+        *   `LEGENDARY`: Uses MM rules for Legendary Actions/Resistances; represents high-tier threats.
+        *   `STATBLOCK`: Uses standard, non-scaling MM/VGM entries (e.g., Commoner, Guard, Priest).
+        *   `FACTION`: Uses DMG rules for tracking collective reputation and Renown.
+        *   `MOUNT`: Uses PHB rules for carrying capacity, speed, and controlled/independent combat.
+        *   `SUMMON`: Uses PHB/TCoE rules for magically brought forth creatures with limited duration.
+        *   `LEGACY`: Narrative tag for deceased or historical figures of significant influence.
+    *   **Reference Index:** `state/entities/` directory.
 *   **`<!-- SOURCE: -->`**
     *   **Purpose:** Enforces data integrity by linking state variables to their master logs.
     *   **Values Type:** Static (Log filenames).

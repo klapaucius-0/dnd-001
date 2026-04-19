@@ -21,3 +21,4 @@
 | 3 | 17:02 | 007 | Harlen | +20 | **20** | Professional workshop audit and full restoration (Moderate) |
 | 4 | 11:45 | 008 | Master Hobb | +5 | 10 | Successful negotiation for higher hazard pay (Minor) |
 | 4 | 12:50 | 008 | Kaelen | +10 | **60** | Shared life-and-death struggle in the granary cellar (Moderate) |
+| 4 | 17:15 | 009 | Father Vane | +5 | 11 | Assisted with medical treatment of Wael's eye. |
