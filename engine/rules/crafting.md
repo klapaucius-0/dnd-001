@@ -52,7 +52,15 @@ Quality applies exclusively to finished items resulting from an Artisan Check. I
 ## 7. Material Substitution & Blueprint Resolution ([HOMEBREW])
 This protocol defines how the AI resolves crafting actions when multiple blueprints or generic material categories are involved.
 
-### A. The Blueprint Consultation Phase (Mandatory DM Workflow)
+### A. Material Consumption & Partial Usage ([HOMEBREW])
+To maintain inventory integrity, the following rules apply to all crafting projects:
+1.  **Immediate Consumption:** All materials listed in a blueprint's Component List are removed from the inventory **immediately** upon the completion of the final Labor Hour block.
+2.  **Discrete vs. Continuous Materials:**
+    *   **Discrete (Bolts, Crates, Bundles):** These items are consumed in their entirety for a single project (e.g., 1x Crate of Nails).
+    *   **Continuous (Tallow, Oil, Thread):** These items are tracked by **Uses** (typically 10 uses per standard unit). Each project consumes 1 Use unless otherwise specified by the blueprint.
+3.  **Partial Logging:** When a continuous material is used, the `logs/inventory_log.md` must reflect the change as `-1 Use` and show the remaining total (e.g., `9/10`).
+
+### B. The Blueprint Consultation Phase (Mandatory DM Workflow)
 To ensure player agency, the DM must follow this phase **before** any Labor Hours are committed:
 1.  **Player Proposal:** Player states the Blueprint, Material, and target Quality.
 2.  **DM Calculation:** DM uses `node engine/scripts/crafting_dc_calc.js <Material_WR> <Blueprint_Mod> <Quality>` to find the Final DC.

@@ -35,7 +35,7 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 4 | 06:20 | 007 | Professional restoration of Leatherworker's Kit (Abrasive/Oil). | 2.0 | N/A | 0 |
 | 4 | 08:20 | 007 | Scavenger's Anchor Construction: Block 1 (Leatherwork). | 1.0 | The Scavenger's Anchor | 1.5 |
 | 4 | 09:20 | 007 | Scavenger's Anchor Construction: Block 2 (Smithing). | 1.0 | The Scavenger's Anchor | 2.5 |
-| 4 | 10:20 | 007 | Scavenger's Anchor Construction: Block 3 (Assembly/Completion). | 1.0 | The Scavenger's Anchor | 3.5 |
+| 4 | 11:20 | 007 | Scavenger's Anchor Construction: Block 3 (Assembly/Completion). | 1.0 | The Scavenger's Anchor | 3.5 |
 
 ## Daily Time Budget (24 Hours)
 *   **Rest/Sleep:** 8 Hours (Required for Long Rest).

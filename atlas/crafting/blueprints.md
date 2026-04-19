@@ -114,7 +114,7 @@ An articulated, multi-segmented limb mimicking the reach and pivot of a natural 
 
 ---
 
-# The Scavenger's Anchor [BLUEPRINT] [TYPE: PROSTHETIC] [SCALE: TRIVIAL] [MOD: -2] [HOMEBREW]
+# The Scavenger's Anchor [BLUEPRINT] [TYPE: PROSTHETIC] [SCALE: MINOR] [MOD: -2] [HOMEBREW]
 The absolute minimum requirement for a functional prosthetic. A heavy, rigid harness of ox-hide and iron nails that provides a static loop for gear. It makes no attempt at comfort or aesthetics.
 
 ## Technical Requirements

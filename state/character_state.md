@@ -74,7 +74,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 221.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 206.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
 **Currency:** 4 gp, 2 sp <!-- SOURCE: currency_log -->
 
 ### Equipped
@@ -119,15 +119,12 @@
 | Deep-Frost Crystal [MAT: CRYSTAL] | 0.1 | |
 | Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials.md` |
 | Steel Hardware [MAT: STANDARD_STEEL] | 2.0 | `atlas/crafting/materials.md` |
-| Industrial Felt [MAT: FELT] | 5.0 | **PARTIAL**; `atlas/crafting/materials.md` |
-| Tallow & Beeswax | 1.0 | **PARTIAL**; `atlas/crafting/materials.md` |
-| Abrasive Sand | 1.0 | **PARTIAL**; `atlas/crafting/materials.md` |
+| Tallow & Beeswax (9/10 Uses) | 1.0 | `atlas/crafting/materials.md` |
 | Waxed Linen Thread | 0.0 | (Negligible weight) |
 | Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | **PARTIAL**; `atlas/crafting/materials.md` |
 | Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
 | Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
-| Crate of Iron Nails [MAT: IRON] | 5.0 | **PARTIAL**; `atlas/crafting/materials.md` |
 | Currency (4 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
 <!-- END OF FILE -->
 OF FILE -->

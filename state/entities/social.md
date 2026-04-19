@@ -172,6 +172,30 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ---
 
+## Mother Halsa [STRATUM: 1_FRAGILE_SURFACE]
+**Role/Type:** Grove Keeper / Herbalist
+**Bond Type:** Associate
+**Standing:** Level 0 (1/20 SP) [Neutral]
+**Last Interaction:** Day 3 / 10:15
+
+### Summary
+A quiet and observant caretaker of the small grove within Oakhaven's protective circle.
+
+### Narrative & Identity
+*   **Appearance:** Small, hunched, skin like wrinkled bark; eyes the color of dried moss.
+*   **Voice/Mannerisms:** Rare speech, mostly communicates through small gestures or hums.
+*   **Outlook on Life:** Life is a slow growth against a fast decay; respect the roots.
+
+### Mechanical Details (Unified Entity Protocol)
+
+#### Known Values (Observed)
+*   **Disposition (Current Mood):** Neutral (Baseline: Neutral)
+*   **Known Facts:** 
+    *   Tends to the Frost-Vein Lichen and local medicinal herbs.
+    *   Values silence and respect for the living world.
+
+---
+
 ## Harlen [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Town Blacksmith
 **Bond Type:** Associate

@@ -21,3 +21,6 @@
 | 3 | 14:20 | 006 | Custody Transfer | — | — | Vice-Clamp and 5-Day Rations moved to Kaelen (Ref: Ses_006) |
 | 4 | 11:20 | 007 | Scavenger's Anchor | +1 | 1 | Constructed at Harlen's Forge (Ref: Ses_007) |
 | 4 | 11:20 | 007 | Weathered Ox-Hide | -1 | 0 | Consumed in construction (Ref: Ses_007) |
+| 4 | 11:20 | 007 | Crate of Iron Nails | -1 Crate | 0 | Consumed in construction (Ref: Ses_007) |
+| 4 | 11:20 | 007 | Industrial Felt | -1 Bolt | 0 | Consumed in construction (Ref: Ses_007) |
+| 4 | 11:20 | 007 | Tallow & Beeswax | -1 Use | 9/10 | Partial consumption (Ref: Ses_007) |
