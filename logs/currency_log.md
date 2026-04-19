@@ -12,4 +12,5 @@
 | 3 | 12:25 | 006 | -3 sp | 5 gp, 4 sp | Purchase: Industrial felt, tallow, & thread (Ref: Ses_006) |
 | 3 | 13:26 | 006 | -1 gp, 2 sp | 4 gp, 2 sp | Purchase: Vice-clamp, Kit, Stone (Ref: Service Discount) |
 | 3 | 17:02 | 007 | +1 gp | 5 gp, 2 sp | Reward: Professional Workshop Restoration for Harlen (Ref: Ses_007) |
-| 3 | 21:30 | 007 | -1 gp | **4 gp, 2 sp** | Lodging & Meals (2 rooms) at Boar and Barrel (Ref: Ses_007) |
+| 3 | 21:30 | 007 | -1 gp | 4 gp, 2 sp | Lodging & Meals (2 rooms) at Boar and Barrel (Ref: Ses_007) |
+| 4 | 12:50 | 008 | +1 gp | **5 gp, 2 sp** | Reward: Verminer's Request (Ref: Ses_008) |

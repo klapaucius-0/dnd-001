@@ -19,3 +19,5 @@
 | 3 | 13:26 | 006 | Vesper | +10 | 10 | Critical structural repair of trade wagon (Moderate) |
 | 3 | 13:38 | 006 | Master Hobb | +5 | 5 | Providing valuable intelligence on the Chapel (Minor) |
 | 3 | 17:02 | 007 | Harlen | +20 | **20** | Professional workshop audit and full restoration (Moderate) |
+| 4 | 11:45 | 008 | Master Hobb | +5 | 10 | Successful negotiation for higher hazard pay (Minor) |
+| 4 | 12:50 | 008 | Kaelen | +10 | **60** | Shared life-and-death struggle in the granary cellar (Moderate) |

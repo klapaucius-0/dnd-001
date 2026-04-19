@@ -12,6 +12,8 @@
 | 2026-04-19 | 007 | Social Observation: Evening at Boar and Barrel | 25 | 625 |
 | 2026-04-20 | 007 | Artisan Labor: Scavenger's Anchor (Block 1) | 25 | 650 |
 | 2026-04-20 | 007 | Artisan Labor: Scavenger's Anchor (Block 2) | 25 | 675 |
-| 2026-04-20 | 007 | Project Completion: The Scavenger's Anchor | 50 | **725** |
+| 2026-04-20 | 007 | Project Completion: The Scavenger's Anchor | 50 | 725 |
+| 2026-04-20 | 008 | Combat: Giant Rats (3) | 75 | 800 |
+| 2026-04-20 | 008 | Quest Completion: Verminer's Request | 50 | **850** |
 
 

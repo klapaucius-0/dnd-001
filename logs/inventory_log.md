@@ -24,3 +24,4 @@
 | 4 | 11:20 | 007 | Crate of Iron Nails | -1 Crate | 0 | Consumed in construction (Ref: Ses_007) |
 | 4 | 11:20 | 007 | Industrial Felt | -1 Bolt | 0 | Consumed in construction (Ref: Ses_007) |
 | 4 | 11:20 | 007 | Tallow & Beeswax | -1 Use | 9/10 | Partial consumption (Ref: Ses_007) |
+| 4 | 12:50 | 008 | Quality Travel Bread | +2 Days | 2 | Reward: Verminer's Request (Ref: Ses_008) |

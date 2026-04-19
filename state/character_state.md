@@ -5,12 +5,12 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 725 <!-- SOURCE: experience_log -->
+**Experience (XP):** 850 <!-- SOURCE: experience_log -->
 **Alignment:** True Neutral
 **Age:** Unknown (Looks ravaged by time)
 
 ## Vital Stats
-**Hit Points (HP):** 16 / 16
+**Hit Points (HP):** 1 / 16
 **Armor Class (AC):** 19 (Chain Mail +1, Shield)
 **Initiative:** +1
 **Speed:** 25 ft.
@@ -75,7 +75,7 @@
 
 ## Inventory & Gear
 **Total Weight:** 206.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
-**Currency:** 4 gp, 2 sp <!-- SOURCE: currency_log -->
+**Currency:** 5 gp, 2 sp <!-- SOURCE: currency_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -125,6 +125,7 @@
 | Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
 | Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
-| Currency (4 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
+| Quality Travel Bread (2 Days) | 2.0 | Reward: Verminer's Request |
+| Currency (5 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
 <!-- END OF FILE -->
 OF FILE -->
