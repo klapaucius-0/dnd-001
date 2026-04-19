@@ -63,7 +63,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 196.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 221.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
 **Currency:** 4 gp, 2 sp <!-- SOURCE: currency_log -->
 
 ### Equipped
@@ -89,7 +89,7 @@
 | Mess kit | 1.0 | |
 | Tinderbox | 1.0 | |
 | 10 Torches | 10.0 | |
-| 5 Days Rations (Plain) | 10.0 | |
+| 10 Days Rations (Plain) | 20.0 | |
 | 5 Days Rations (Salt-Pork) | 0.0 | (Carried by Kaelen) |
 | Full waterskin | 5.0 | |
 | Hempen Rope (50ft) | 10.0 | |

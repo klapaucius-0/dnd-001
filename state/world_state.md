@@ -24,6 +24,9 @@
     *   *Master Hobb:* Level 0 (5/20 SP) [Neutral / Associate]
     *   *Toren & Hov:* Level 0 (5/20 SP) [Stranger / Associate]
     *   *Mother Halsa:* Level 0 (1/20 SP) [Neutral / Associate]
+    *   *Bram:* Level 0 (5/20 SP) [Neutral / Associate]
+    *   *Elara:* Level 0 (1/20 SP) [Neutral / Associate]
+    *   *Vesper:* Level 0 (10/20 SP) [Neutral / Associate]
 *   **Mountain Sentinels:** Level 1 (-150/-300 SP) [Nuisance / Nemesis]
 
 ## Quest Tracker (SSOT: quest_state)

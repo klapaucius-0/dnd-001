@@ -162,7 +162,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Citizen Group
-**Standing:** Level 1 (25/100 SP) [Acquaintance]
+**Standing:** Level 1 (40/100 SP) [Acquaintance]
 **Last Interaction:** Day 3 / 13:38
 
 ### Known Values (Observed)
