@@ -111,3 +111,34 @@ An articulated, multi-segmented limb mimicking the reach and pivot of a natural 
 *   **Block 10 (Leatherworker's Tools vs Base DC):** Fitting the professional harness and felt padding for a seamless interface.
 *   **Block 11 (Dexterity Check vs Base DC):** Tuning the tension for fluid, non-disadvantage movement.
 *   **Block 12 (Artisan Check vs Base DC):** Polishing with abrasive sand and treating with neatsfoot oil.
+
+---
+
+# The Scavenger's Anchor [BLUEPRINT] [TYPE: PROSTHETIC] [SCALE: TRIVIAL] [MOD: -2] [HOMEBREW]
+The absolute minimum requirement for a functional prosthetic. A heavy, rigid harness of ox-hide and iron nails that provides a static loop for gear. It makes no attempt at comfort or aesthetics.
+
+## Technical Requirements
+*   **Tool Tier Required:** Tier 1 (Smith's Tools).
+*   **Total Blocks:** 3 Blocks (3 LH).
+*   **Base DC Calculation:** `node engine/scripts/crafting_dc_calc.js <Material_WR> -2 [Quality]`
+*   **Required Workshop:** Any stable surface.
+
+## Component List
+*   **Rigid Harness:** 1x Bundle Weathered Ox-Hide (`[MAT: DALELAND_HIDE]`).
+*   **Mounting Loop:** 1x Crate of Iron Nails (`[MAT: IRON]`).
+*   **Support Padding:** 1x Bolt Industrial Felt (`[MAT: FELT]`).
+*   **Refinement:** Tallow & Beeswax.
+
+## Final Item Result
+*   **Name:** The Scavenger's Anchor ([HOMEBREW])
+*   **Resulting Tags:** `[MAT: IRON] [QUAL: POOR]`
+*   **Mechanical:**
+    *   **Static Loop:** Can secure a shield or tool grip into the loop. Provides full AC for shields and negates tool Disadvantage.
+    *   **Restrictive (Drawback):** Reduces Speed by 5ft and gives **Disadvantage** on all Dexterity-based checks while equipped.
+    *   **Ugly:** Provides **Disadvantage** on Charisma (Persuasion) checks against non-artisans due to its grotesque appearance.
+*   **Sensory:** Smells strongly of wet hide and tallow; bites into the shoulder with every movement.
+
+## Crafting Process (3 Blocks)
+*   **Block 1 (Dexterity vs DC 10):** Cutting the hide into a crude shoulder wrap and chest strap. (Ref: WR 12 - 2).
+*   **Block 2 (Smith's Tools vs DC 10):** Hammering iron nails into a heavy, static "C-loop" to hold equipment. (Ref: WR 12 - 2).
+*   **Block 3 (Strength vs DC 10):** Riveting the loop to the leather and stuffing the felt underneath for minimum padding. (Ref: WR 12 - 2).

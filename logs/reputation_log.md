@@ -12,4 +12,7 @@
 | 3 | 12:05 | 006 | Oakhaven | +5 | 20 | Direct: Professional commerce with Bram (Minor) |
 | 3 | 13:26 | 006 | Oakhaven | +10 | 30 | Direct: Structural repair of trader wagon (Moderate) |
 | 3 | 13:38 | 006 | Oakhaven | +10 | 40 | Direct: Providing stability news to Master Hobb (Moderate) |
+| 3 | 17:02 | 007 | Oakhaven | +5 | 45 | Direct: Restoring local industrial infrastructure (Minor) |
+| 3 | 21:24 | 007 | Oakhaven | +1 | **46** | Direct: Quiet presence and respectful conduct (Trivial) |
 | 2 | 14:00 | 002 | Sentinels | -150 | -150 | Combat / Defeat in the Gap (Negative-Legendary) |
+

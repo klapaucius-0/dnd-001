@@ -18,3 +18,13 @@
 *   **The Altar Railing:** DC 12 Smith's Tools check (Natural 20) to purge supernatural white-frost from iron.
 *   **Internal Realignment:** DC 13 CON save (10) to endure Father Vane's healing ritual. Partial success.
 *   **Chapel Restoration:** DC 10/13 Artisan checks to repair the votive stand and floor. (Success).
+
+## Non-Combat Encounters: Session 006
+*   **The Wagon Axle:** DC 14 Mason's Tools check (15) to perform critical structural repair on Vesper's trade wagon.
+*   **Sparring Kaelen:** Combat sparring with Kaelen; Wael won 3-2. Confirmed Kaelen's potential as a skirmisher.
+
+## Non-Combat Encounters: Session 007
+*   **Forge Audit:** DC 12 Wisdom (Insight) check (25) to diagnose "sick" iron and shop failures.
+*   **Rounding Hammer Restoration:** DC 13 Strength (Smith's Tools) check (16) to cold-form mushroomed iron.
+*   **Workshop Restoration:** Series of Artisan checks to restore bellows, tank, and anvil stand. Success.
+*   **Anchor Construction:** Complete design and fabrication of the Scavenger's Anchor prosthetic. Success.

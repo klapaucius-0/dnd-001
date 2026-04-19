@@ -18,4 +18,4 @@
 | 3 | 12:30 | 006 | Elara | +1 | 1 | Clearing excess inventory (Trivial) |
 | 3 | 13:26 | 006 | Vesper | +10 | 10 | Critical structural repair of trade wagon (Moderate) |
 | 3 | 13:38 | 006 | Master Hobb | +5 | 5 | Providing valuable intelligence on the Chapel (Minor) |
-| 3 | 13:38 | 006 | Oakhaven | +10 | 40 | Strengthening social stability via news (Moderate) |
+| 3 | 17:02 | 007 | Harlen | +20 | **20** | Professional workshop audit and full restoration (Moderate) |

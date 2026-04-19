@@ -41,3 +41,9 @@ Wael follows the standard 5e (2014) experience table.
 Wael's capability to work rare materials is gated by his **Tool Tier**, not just his level.
 *   **Tier Upgrades:** Moving from Tier 1 to Tier 2/3 requires completing specific "Building" or "Research" quests in the `campaign/quest_log.md`.
 *   **Labor Hours:** High-tier progress is governed by the rules in `rules/crafting.md`.
+
+## 5. Mandatory Level-Up Audit
+To ensure mechanical integrity, the following protocol is mandatory:
+1.  **Trigger:** At the conclusion of every **Long Rest**, the DM MUST perform a check of Wael's current XP against the advancement table.
+2.  **Notification:** If the threshold for a new level has been met, the DM must pause the narrative and guide the player through the level-up process (HP roll/average, spell choices, and feature unmasking) before continuing the day.
+3.  **Synchronization:** All new features must be added to `state/character_state.md` and any relevant roll modifiers must be updated in the `Active Modifier Registry (HUD)`.

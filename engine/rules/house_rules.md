@@ -12,7 +12,10 @@
 ## Tactical Mechanics
 1.  **Grid-Lite Combat:** ASCII grids with chess-style coordinates (A-Z, 1-N).
 2.  **DC Transparency:** The DM will state the DC or target AC before rolling.
-3.  **Range & Melee:**
+3.  **Advantage & Disadvantage Protocol:** 
+    *   **Cancellation:** If a roll is subject to both Advantage and Disadvantage, they cancel each other out and you roll a **straight d20**. This remains true regardless of the number of sources for either (e.g., two sources of Disadvantage and one source of Advantage still result in a straight roll).
+    *   **Exhaustion (Level 1):** Grants **Disadvantage on all Ability Checks**. This stacks with other sources of Disadvantage for the purpose of cancellation but does not result in rolling more than two d20s.
+4.  **Range & Melee:**
     *   **Close Quarters:** Ranged attacks have **Disadvantage** if an enemy is within 5 feet of the attacker.
     *   **Opportunity Attacks:** Moving out of an enemy's reach (usually 5 feet) triggers an Opportunity Attack unless the Disengage action is used.
     *   **Distance Impact:** Attacks beyond "Normal Range" but within "Long Range" have **Disadvantage**. Attacks beyond "Long Range" automatically fail.

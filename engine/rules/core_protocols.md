@@ -14,7 +14,8 @@ To ensure campaign integrity and AI optimization, every file type has a strictly
 Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 1.  **Update the Log:** Append a new entry to the appropriate `*_log.md` file in `logs/`. Include the Day/Time, the Change, the New Total, and a Note/Source reference.
 2.  **Update the State:** Only after the log is updated, refresh the corresponding `*_state.md` file in `state/` to mirror the new total.
-3.  **Source Tags:** States MUST use Source Tags (e.g., `<!-- SOURCE: currency_log -->`) to identify their master log.
+3.  **Active Modifier Registry (HUD) Protocol:** If a state change introduces a persistent bonus, penalty, advantage, or disadvantage (e.g., equipping an item, gaining a condition like Exhaustion, or casting a long-term buff), the **Active Modifier Registry (HUD)** section in `state/character_state.md` MUST be updated in the same turn. The DM must reference this HUD before every roll.
+4.  **Source Tags:** States MUST use Source Tags (e.g., `<!-- SOURCE: currency_log -->`) to identify their master log.
 
 ## 3. SSOT Registry (The Five Pillars)
 | Category | Master History Log (SSOT) | Reference Snapshot (State) | Source Tag |
@@ -117,7 +118,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
     *   **Reference Index:** Must be logged in `atlas/crafting/materials.md`.
 *   **`[CAT: ]`**
     *   **Purpose:** Broadly categorizes materials to allow for substitution in generic recipes.
-    *   **Values Type:** Dynamic. The DM may invent new categories (e.g., `METAL`, `LEATHER`).
+    *   **Values Type:** Dynamic. The DM may invent new categories (e.g., `METAL`, `LEATHER`, `TEXTILE`, `CATALYST`).
     *   **Reference Index:** Must be logged in `atlas/crafting/materials.md`.
 *   **`[TOOL]`**
     *   **Purpose:** Identifies an item as a functional tool requiring proficiency.

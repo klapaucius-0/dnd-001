@@ -26,6 +26,16 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 3 | 13:50 | 006 | Return to Vesper's wagon and lore exchange. | 0.2 | N/A | 0 |
 | 3 | 14:05 | 006 | Continued discussion with Vesper regarding the North Cut. | 0.25 | N/A | 0 |
 | 3 | 14:20 | 006 | Finalizing trade with Master Hobb and offloading gear to Kaelen. | 0.25 | N/A | 0 |
+| 3 | 14:32 | 007 | Arrival and initial audit of Harlen's Forge. | 0.2 | N/A | 0 |
+| 3 | 17:02 | 007 | Professional maintenance and repair of Harlen's Workshop. | 2.5 | N/A | 0 |
+| 3 | 17:24 | 007 | Travel from Harlen's Forge to the Boar and Barrel. | 0.3 | N/A | 0 |
+| 3 | 21:24 | 007 | Evening socialization and rumor gathering at the Tavern. | 4.0 | N/A | 0 |
+| 3-4 | 05:24 | 007 | Long Rest at the Boar and Barrel (Quest: The First Step). | 8.0 | N/A | 0 |
+| 4 | 05:50 | 007 | Applied Blessing of the Forge and initiated Crude Brace. | 0.1 | The Crude Brace | 0.5 |
+| 4 | 06:20 | 007 | Professional restoration of Leatherworker's Kit (Abrasive/Oil). | 2.0 | N/A | 0 |
+| 4 | 08:20 | 007 | Scavenger's Anchor Construction: Block 1 (Leatherwork). | 1.0 | The Scavenger's Anchor | 1.5 |
+| 4 | 09:20 | 007 | Scavenger's Anchor Construction: Block 2 (Smithing). | 1.0 | The Scavenger's Anchor | 2.5 |
+| 4 | 10:20 | 007 | Scavenger's Anchor Construction: Block 3 (Assembly/Completion). | 1.0 | The Scavenger's Anchor | 3.5 |
 
 ## Daily Time Budget (24 Hours)
 *   **Rest/Sleep:** 8 Hours (Required for Long Rest).

@@ -5,13 +5,13 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 500 <!-- SOURCE: experience_log -->
+**Experience (XP):** 725 <!-- SOURCE: experience_log -->
 **Alignment:** True Neutral
 **Age:** Unknown (Looks ravaged by time)
 
 ## Vital Stats
-**Hit Points (HP):** 17 / 17
-**Armor Class (AC):** 17 (Chain Mail +1)
+**Hit Points (HP):** 16 / 16
+**Armor Class (AC):** 19 (Chain Mail +1, Shield)
 **Initiative:** +1
 **Speed:** 25 ft.
 **Passive Perception:** 12
@@ -24,6 +24,17 @@
 *   **INT:** 11 (+0)
 *   **WIS:** 15 (+2)
 *   **CHA:** 10 (+0)
+
+## Active Modifier Registry (HUD)
+*Always check this block before rolling.*
+
+| Trigger / Condition | Source | Effect on Rolls & Checks |
+| :--- | :--- | :--- |
+| **Lost Left Arm** | Permanent Injury | Disadvantage on two-handed tasks without a brace. Cannot use two-handed weapons. |
+| **Scavenger's Anchor** | Prosthetic (Equipped) | Negates two-handed Disadvantage for Tools/Shields. **Disadvantage** on all Dexterity-based checks. **Disadvantage** on Charisma (Persuasion) vs non-artisans. Speed -5ft. |
+| **Blessing of the Forge** | Active Spell | +1 AC (factored into Vital Stats). |
+| **Dwarven Resilience** | Racial Trait | **Advantage** on poison saving throws. |
+| **Stonecunning** | Racial Trait | Double proficiency bonus on INT (History) checks related to stonework. |
 
 ## Proficiencies & Languages
 *   **Armor:** Light, Medium, Heavy, Shields.
@@ -57,8 +68,8 @@
 *   **Spell Attack Bonus:** +4
 *   **Cantrips:** Guidance, Mending, Toll the Dead.
 *   **Prepared Spells (4 Total):**
-    *   **Domain:** Identify, Cold-Shaping Smite.
-    *   **Daily:** Bane, Command, Healing Word, ?? (Open slot).
+    *   **Domain:** Identify, Searing Smite (Cold-Shaped).
+    *   **Daily:** Bane, Command, Healing Word, Guiding Bolt.
 
 ---
 
@@ -70,6 +81,8 @@
 | Item | Weight | Notes |
 | :--- | :--- | :--- |
 | Chain Mail (+1) [MAT: STANDARD_STEEL] [QUAL: STANDARD] | 55.0 | Blessed; Worn (AC 17) |
+| Shield [MAT: WOOD] [QUAL: STANDARD] | 6.0 | Equipped via Anchor (AC +2) |
+| Scavenger's Anchor [MAT: IRON] [QUAL: POOR] | 8.0 | Prosthetic; Reduces Speed by 5ft |
 | Heavy Smith's Hammer [MAT: STANDARD_STEEL] [QUAL: STANDARD] | 10.0 | 1d8 Bludgeoning; Versatile (1d10) |
 | Light Crossbow [MAT: WOOD] [QUAL: STANDARD] | 5.0 | 1d8 Piercing (80/320 ft.); Ammunition, Loading, Two-Handed* |
 | Damp Blue-Green Stone Box | 2.0 | <!-- SOURCE: artifacts --> Focus (Shield Mount) |
@@ -105,16 +118,16 @@
 | Cold-Iron Shard [MAT: DEEP_IRON] | 5.0 | `atlas/crafting/materials.md` |
 | Deep-Frost Crystal [MAT: CRYSTAL] | 0.1 | |
 | Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials.md` |
-| Weathered Ox-Hide [MAT: DALELAND_HIDE] | 8.0 | Stiff; `atlas/crafting/materials.md` |
 | Steel Hardware [MAT: STANDARD_STEEL] | 2.0 | `atlas/crafting/materials.md` |
-| Industrial Felt [MAT: FELT] | 5.0 | `atlas/crafting/materials.md` |
-| Tallow & Beeswax | 1.0 | `atlas/crafting/materials.md` |
-| Abrasive Sand | 1.0 | `atlas/crafting/materials.md` |
+| Industrial Felt [MAT: FELT] | 5.0 | **PARTIAL**; `atlas/crafting/materials.md` |
+| Tallow & Beeswax | 1.0 | **PARTIAL**; `atlas/crafting/materials.md` |
+| Abrasive Sand | 1.0 | **PARTIAL**; `atlas/crafting/materials.md` |
 | Waxed Linen Thread | 0.0 | (Negligible weight) |
-| Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | `atlas/crafting/materials.md` |
-| Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Rusted; `atlas/crafting/tools.md` |
+| Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | **PARTIAL**; `atlas/crafting/materials.md` |
+| Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
 | Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
-| Crate of Iron Nails [MAT: IRON] | 5.0 | `atlas/crafting/materials.md` |
+| Crate of Iron Nails [MAT: IRON] | 5.0 | **PARTIAL**; `atlas/crafting/materials.md` |
 | Currency (4 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
 <!-- END OF FILE -->
+OF FILE -->

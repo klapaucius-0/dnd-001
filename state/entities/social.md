@@ -162,10 +162,37 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE]
 **Role/Type:** Citizen Group
-**Standing:** Level 1 (40/100 SP) [Acquaintance]
-**Last Interaction:** Day 3 / 13:38
+**Standing:** Level 1 (46/100 SP) [Acquaintance]
+**Last Interaction:** Day 3 / 21:24
 
 ### Known Values (Observed)
 *   **Disposition:** Wary but observant.
 *   **Known Facts:** 
     *   Respect Wael's visible artisan skill and news of the Chapel's stability.
+
+---
+
+## Harlen [STRATUM: 1_FRAGILE_SURFACE]
+**Role/Type:** Town Blacksmith
+**Bond Type:** Associate
+**Standing:** Level 1 (20/20 SP) [Associate]
+**Last Interaction:** Day 3 / 17:02
+
+### Summary
+A gruff, overworked blacksmith struggling against contaminated iron and failing tools.
+
+### Narrative & Identity
+*   **Appearance:** Broad-shouldered, soot-stained, skin like cured leather.
+*   **Personality/Behavior:** Defensive, blunt, respects those who "see the iron."
+*   **Outlook on Life:** Survival is a losing battle against rot and blunt tools.
+*   **Personality & Outlook:** Harlen believes the world is grinding down to nothing. He views his work as a temporary delay of the inevitable collapse.
+
+### Mechanical Details (Unified Entity Protocol)
+
+#### Known Values (Observed)
+*   **Disposition (Current Mood):** Friendly (Baseline: Neutral)
+*   **Known Facts:** 
+    *   Struggles with White-Frost contaminated iron.
+    *   Suffers from a right shoulder injury (rotator cuff strain).
+    *   Profoundly impressed by Wael's cold-forming and *Mending* skills.
+    *   Wael has restored his bellows and quench tank, and performed a miracle stabilization of his anvil stand.

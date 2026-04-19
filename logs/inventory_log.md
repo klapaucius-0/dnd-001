@@ -19,3 +19,5 @@
 | 3 | 13:38 | 006 | Neatsfoot Oil | +1 Vial | 1 | Trade for info: Master Hobb (Ref: Ses_006) |
 | 3 | 13:38 | 006 | Rations (5 days) | +5 Days | 15 | Trade for info: Master Hobb (Ref: Ses_006) |
 | 3 | 14:20 | 006 | Custody Transfer | — | — | Vice-Clamp and 5-Day Rations moved to Kaelen (Ref: Ses_006) |
+| 4 | 11:20 | 007 | Scavenger's Anchor | +1 | 1 | Constructed at Harlen's Forge (Ref: Ses_007) |
+| 4 | 11:20 | 007 | Weathered Ox-Hide | -1 | 0 | Consumed in construction (Ref: Ses_007) |
