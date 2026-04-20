@@ -51,7 +51,7 @@ To maintain consistency, you MUST interact with the campaign directory according
     *   **The Two HUDs (State):** `state/character_state.md`, `state/world_state.md`.
     *   **The Master Logs (Logs):** `logs/currency_log.md`, `logs/inventory_log.md`, `logs/experience_log.md`, `logs/time_log.md`, `logs/reputation_log.md`, `logs/relationship_log.md`.
     *   **The Atlas (Reference):** `atlas/locations.md`, `atlas/lore.md`, `atlas/artifacts.md`.
-    *   **The Engine (Logic):** `engine/rules/house_rules.md`, `engine/rules/core_protocols.md`.
+    *   **The Engine (Logic):** `engine/rules/house_rules.md`, `engine/rules/core_protocols.md`, `engine/rules/economy.md`.
     *   **Entities (UEP):** `state/entities/` directory.
     *   **Latest History:** The most recent `chronicles/session_###_summary.md` and `session_###_transcript.md`.
 2.  **Continuity & Integrity:** Use this comprehensive context to ensure all narrative elements, NPC interactions, and mechanical updates are perfectly synchronized and consistent with established history.

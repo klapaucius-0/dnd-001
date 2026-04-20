@@ -1,7 +1,7 @@
 # Alchemical Materials Encyclopedia [CAT: ALCHEMICAL]
 <!-- SOURCE: atlas/crafting/materials/alchemicals.md -->
 
-| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit* | Core Utility / Origin |
 | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | **Neatsfoot Oil** | `[MAT: NEATSFOOT_OIL]`| `[FREQ: UNCOMMON]`| `[HOMEBREW]` | N/A | N/A | Bone-rendered oil; reduces WR of dry leather by 2 for project duration. |
 | **Coal / Charcoal**| `[MAT: COAL]` | `[FREQ: COMMON]` | `[[PHB]]` | N/A | 2 cp / lb | Essential carbon-rich fuel for smelting and refining. |
@@ -16,3 +16,8 @@
 | **Bitumen** | `[MAT: BITUMEN]` | `[FREQ: UNCOMMON]` | `[HOMEBREW]` | 9 | 1 sp / lb | Viscous hydrocarbon mixture; superior sealant and binder. |
 | **Gum Arabic** | `[MAT: GUM_ARABIC]` | `[FREQ: RARE]` | `[[XGTE]]` | N/A | 5 gp / lb | Hardened sap; essential binder for inks, dyes, and medicines. |
 | **Soap** | `[MAT: SOAP]` | `[FREQ: COMMON]` | `[[PHB]]` | N/A | 2 cp / lb | Rendered fats and lye; used for hygiene and as a lubricant. |
+
+---
+
+*\*Calculated via [[engine/rules/economy.md]]*
+

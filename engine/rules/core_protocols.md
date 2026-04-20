@@ -27,6 +27,7 @@ Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 | **Inventory** | `logs/inventory_log.md` | `state/character_state.md` | `<!-- SOURCE: inventory_log -->` |
 | **Reputation** | `logs/reputation_log.md` | `state/world_state.md` | `<!-- SOURCE: reputation_log -->` |
 | **Relationships** | `logs/relationship_log.md` | `state/world_state.md` | `<!-- SOURCE: relationship_log -->` |
+| **Economy** | `engine/rules/economy.md` | N/A (Algorithmic) | `[VALUE: ]` |
 
 ## 4. Chronological Logging Protocol
 *   **Summaries:** `chronicles/session_###_summary.md` (e.g., `session_001_summary.md`).
@@ -168,3 +169,4 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[TIME: ]`**: Passage of in-game time (Time format).
 *   **`[QUEST: ]`**: Update to the quest tracker (Status string).
 *   **`[UEP: ]`**: Unmasking of a Unified Entity Protocol fact/trait (String).
+*   **`[VALUE: ]`**: Algorithmic valuation of an item or material (Numeric + Denomination). See [[engine/rules/economy.md]].

@@ -1,7 +1,7 @@
 # Consumables Encyclopedia [CAT: CONSUMABLE]
 <!-- SOURCE: atlas/crafting/materials/consumables.md -->
 
-| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit* | Core Utility / Origin |
 | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | **Glaze** | `[MAT: GLAZE]` | `[FREQ: UNCOMMON]` | `[[XGTE]]` | 12 | 5 sp / lb | Vitreous substance; provides a waterproof finish to ceramics. |
 | **Grain** | `[MAT: GRAIN]` | `[FREQ: VERY_COMMON]`| `[[PHB]]` | N/A | 1 cp / lb | Wheat/Barley; primary product for food and fermentation. |
@@ -19,3 +19,8 @@
 | **Spices** | `[MAT: SPICES]` | `[FREQ: RARE]` | `[[PHB]]` | N/A | 2 gp / lb | Aromatic vegetable substances used in medicine/alchemy. |
 | **Ink** | `[MAT: INK]` | `[FREQ: UNCOMMON]` | `[[PHB]]` | N/A | 10 gp / 1 oz | Pigmented liquid; required for scrolls and cartography. |
 | **Dye & Pigment** | `[MAT: DYE]` | `[FREQ: UNCOMMON]` | `[[XGTE]]` | 10 | 1 gp / 1 oz | Concentrated colors; used for textiles and leather. |
+
+---
+
+*\*Calculated via [[engine/rules/economy.md]]*
+

@@ -1,7 +1,7 @@
-# Artifacts of the Deep-Form
+# Unique Artifacts Registry (Plot SSOT)
 <!-- SOURCE: artifacts -->
 
-This file contains high-resolution physical data for unique items. These descriptions represent the "objective reality" Wael perceives through his artisan's intuition.
+**Protocol:** This file is reserved *exclusively* for unique, named plot devices and sentient items. Standard magic items, homebrew gear, and consumables must be logged in the [[atlas/items/]] directory.
 
 ---
 

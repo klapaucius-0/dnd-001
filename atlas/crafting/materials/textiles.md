@@ -1,7 +1,7 @@
 # Textiles Encyclopedia [CAT: TEXTILE]
 <!-- SOURCE: atlas/crafting/materials/textiles.md -->
 
-| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit* | Core Utility / Origin |
 | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | **Industrial Felt** | `[MAT: FELT]` | `[FREQ: UNCOMMON]` | `[HOMEBREW]` | N/A | N/A | Compressed wool; absorbs high-impact vibrations. |
 | **Wool** | `[MAT: WOOL]` | `[FREQ: COMMON]` | `[[PHB]]` | 10 | 5 sp / lb | Insulation; used for padding, blankets, and gear. |
@@ -13,3 +13,8 @@
 | **Paper** | `[MAT: PAPER]` | `[FREQ: UNCOMMON]` | `[[PHB]]` | 12 | 2 sp / sheet | Processed wood pulp; standard medium for correspondence. |
 | **Parchment** | `[MAT: PAPER]` | `[FREQ: UNCOMMON]` | `[[PHB]]` | 12 | 1 sp / sheet | Processed animal skin; standard medium for spells/maps. |
 | **Cotton** | `[MAT: COTTON]` | `[FREQ: COMMON]` | `[[PHB]]` | 10 | 5 sp / lb | Soft fiber; standard for common clothing and bandages. |
+
+---
+
+*\*Calculated via [[engine/rules/economy.md]]*
+

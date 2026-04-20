@@ -1,7 +1,7 @@
 # Organics Encyclopedia [CAT: ORGANIC]
 <!-- SOURCE: atlas/crafting/materials/organics.md -->
 
-| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit* | Core Utility / Origin |
 | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | **Bone** | `[MAT: BONE]` | `[FREQ: COMMON]` | `[[PHB]]` | 12 | 1 cp / lb | Rigid skeletal material; used for handles, fasteners, and tools. |
 | **Horn** | `[MAT: HORN]` | `[FREQ: UNCOMMON]` | `[[PHB]]` | 13 | 5 sp / lb | Hard keratin sheath; can be softened with heat and shaped. |
@@ -15,3 +15,8 @@
 | **Fruit** | `[MAT: FRUIT]` | `[FREQ: VERY_COMMON]` | `[[PHB]]` | N/A | 1 cp / lb | Edible plant matter. |
 | **Vegetable** | `[MAT: VEGETABLE]` | `[FREQ: VERY_COMMON]` | `[[PHB]]` | N/A | 1 cp / lb | Edible plant matter. |
 | **Fat (Raw)** | `[MAT: FAT]` | `[FREQ: VERY_COMMON]` | `[[XGTE]]` | N/A | 1 cp / lb | Unrefined lipids; rendered into Tallow or used for Soap. |
+
+---
+
+*\*Calculated via [[engine/rules/economy.md]]*
+

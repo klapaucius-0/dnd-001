@@ -89,12 +89,15 @@ To ensure narrative variety and mechanical depth, the campaign uses an AI-parsea
 *   **[STRATUM: 1_FRAGILE_SURFACE]**
     *   **Frequency:** `[FREQUENCY: HIGH]`
     *   *Theme:* Social friction, scarcity, paranoia, and humanity's desperate clinging to sanity. Hazards are primarily human and social.
+    *   **Economic Impact:** Desperation Goods = **Weapons & Ammunition** (+50% Price). See [[engine/rules/economy.md]].
 *   **[STRATUM: 2_ERODING_AGE]**
     *   **Frequency:** `[FREQUENCY: HIGH]`
     *   *Theme:* Choking dust, rust, collapsing masonry, and the quiet tragedy of forgotten civilizations. Hazards come from structural failure and ancient traps.
 *   **[STRATUM: 3_FROZEN_EXPANSE]**
     *   **Frequency:** `[FREQUENCY: MEDIUM]`
     *   *Theme:* Lethal drops in temperature, blinding snow, and the physical endurance required to survive the frost. This stratum governs "Cold-Forming" and cold-iron materials.
+    *   **Economic Impact:** Desperation Goods = **Fuel & Heat** (+50% Price). See [[engine/rules/economy.md]].
+
 *   **[STRATUM: 4_SUNKEN_STONE]**
     *   **Frequency:** `[FREQUENCY: VERY_LOW]`
     *   *Theme:* The intersection of unyielding primordial rock and the relentless erosion of subterranean tides. Crushing aquatic pressure, flooded caverns, and deep-earth aquifers.

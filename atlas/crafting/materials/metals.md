@@ -1,7 +1,7 @@
 # Metals Encyclopedia [CAT: METAL]
 <!-- SOURCE: atlas/crafting/materials/metals.md -->
 
-| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit* | Core Utility / Origin |
 | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | **Steel** | `[MAT: STEEL]` | `[FREQ: COMMON]` | `[[PHB]]` | 13 | 1 gp / lb | Standard iron or steel found in frontier towns and abandoned mines. |
 | **Copper** | `[MAT: COPPER]` | `[FREQ: COMMON]` | `[[PHB]]` | 11 | 5 sp / lb | Soft, ductile metal with high thermal and electrical conductivity. |
@@ -44,3 +44,8 @@
 
 ### Mithral `[MAT: MITHRAL]`
 *   **Mechanical Effects:** Mithral armor negates Disadvantage on Stealth checks and removes Strength requirements.
+
+---
+
+*\*Calculated via [[engine/rules/economy.md]]*
+

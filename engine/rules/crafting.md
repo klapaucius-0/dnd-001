@@ -26,7 +26,7 @@ The **Workability Rating (WR)** of a material determines the base difficulty of 
 
 ## 4. The Cold-Forming Process ([HOMEBREW])
 Cold-Forming is an extreme-pressure crafting *process* applied to metals (usually Standard Steel).
-*   **Labor Hours (LH):** 1 hour = 1.25gp of base PHB value (4x slower than fire-forging).
+*   **Labor Hours (LH):** 1 hour = 1.25gp of base PHB value (4x slower than fire-forging). See [[engine/rules/economy.md]] for the 0.5 gp/LH conversion rate for custom projects.
 *   **The Result:** Finished items gain the `[MAT: COLD_FORMED_STEEL]` tag.
 *   **Strain Fatigue:** Every 4-hour block carries a risk.
     *   **Success (vs WR/DC):** Progress made (4 LH).
