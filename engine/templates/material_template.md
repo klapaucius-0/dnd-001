@@ -1,5 +1,5 @@
 # [Material Name] [MAT: NAME] [CAT: Y] [FREQ: X] [[SOURCE]] [HOMEBREW/STANDARD]
-<!-- SOURCE: atlas/crafting/materials.md -->
+<!-- SOURCE: atlas/crafting/materials/[category].md -->
 
 [Narrative description of the material's origin, appearance, and rarity.]
 
