@@ -5,7 +5,6 @@
 | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | **Steel** | `[MAT: STEEL]` | `[FREQ: COMMON]` | `[[PHB]]` | 13 | 1 gp / lb | Standard iron or steel found in frontier towns and abandoned mines. |
 | **Copper** | `[MAT: COPPER]` | `[FREQ: COMMON]` | `[[PHB]]` | 11 | 5 sp / lb | Soft, ductile metal with high thermal and electrical conductivity. |
-| **Scrap Metal** | `[MAT: SCRAP]` | `[FREQ: VERY_COMMON]` | `[HOMEBREW]` | 10 | 1 sp / lb | Low-grade metal; yields [QUAL: POOR] results unless refined. |
 | **Deep-Iron** | `[MAT: DEEP_IRON]` | `[FREQ: RARE]` | `[HOMEBREW]` | 18 | N/A | Rare dense formations. Required for Tier 3 tools. *See Detailed Mechanics.* |
 | **Cold-Formed Steel**| `[MAT: COLD_FORMED_STEEL]`| `[FREQ: VERY_RARE]`| `[HOMEBREW]` | N/A | N/A | Resulting property of Cold-Forming process. *See Detailed Mechanics.* |
 | **Iron** | `[MAT: IRON]` | `[FREQ: COMMON]` | `[[PHB]]` | 12 | 1 gp / lb | Basic forged iron, heavier and more prone to rust than steel. |
