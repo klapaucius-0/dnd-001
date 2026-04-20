@@ -1,29 +1,15 @@
 # Leathers Encyclopedia [CAT: LEATHER]
 <!-- SOURCE: atlas/crafting/materials/leathers.md -->
 
-# Daleland Ox-Hide [MAT: DALELAND_HIDE] [CAT: LEATHER] [FREQ: RARE] [HOMEBREW]
-Heavy-cured leather from the south. Currently in "Weathered" state in Wael's inventory.
-
-## Properties
-*   **Workability Rating (WR):** 12 ([HOMEBREW] Base DC to shape)
-*   **Refining Requirements:** 2 LH of oiling/cleaning with Neatsfoot Oil to restore to Standard status.
-
----
-
-# Leather [MAT: LEATHER] [CAT: LEATHER] [FREQ: COMMON] [[PHB]] [STANDARD]
-Animal skin that has been tanned or otherwise treated to preserve it and make it flexible.
-
-## Properties
-*   **Workability Rating (WR):** 11 ([HOMEBREW] Base DC to shape/sew)
-*   **Mechanical Utility:** Versatile material for armor, pouches, and bindings.
-*   **Market Value:** 2 sp per lb (Raw/Cured).
+| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| :--- | :--- | :--- | :--- | :---: | :--- | :--- |
+| **Daleland Ox-Hide**| `[MAT: DALELAND_HIDE]`| `[FREQ: RARE]` | `[HOMEBREW]` | 12 | N/A | Heavy-cured leather from the south. *See Detailed Mechanics.* |
+| **Leather** | `[MAT: LEATHER]` | `[FREQ: COMMON]` | `[[PHB]]` | 11 | 2 sp / lb | Tanned animal skin; versatile material for armor and bindings. |
+| **Hide (Raw)** | `[MAT: HIDE]` | `[FREQ: COMMON]` | `[[PHB]]` | 10 | 1 sp / lb | Untreated animal skin; base material for Leather or Fur. |
 
 ---
 
-# Hide (Raw) [MAT: HIDE] [CAT: LEATHER] [FREQ: COMMON] [[PHB]] [STANDARD]
-Untreated animal skin with or without hair.
+## Detailed Mechanics
 
-## Properties
-*   **Workability Rating (WR):** 10 ([HOMEBREW] Base DC to clean)
-*   **Mechanical Utility:** The base material required for tanning into Leather or processing into Fur.
-*   **Market Value:** 1 sp per lb.
+### Daleland Ox-Hide `[MAT: DALELAND_HIDE]`
+*   **Refining Requirements:** 2 LH of oiling/cleaning with Neatsfoot Oil to restore to Standard status if in "Weathered" state.

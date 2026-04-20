@@ -1,18 +1,15 @@
-# [Material Name] [MAT: NAME] [CAT: Y] [FREQ: X] [[SOURCE]] [HOMEBREW/STANDARD]
+# [Category Name] Encyclopedia [CAT: CATEGORY]
 <!-- SOURCE: atlas/crafting/materials/[category].md -->
 
-[Narrative description of the material's origin, appearance, and rarity.]
+| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| :--- | :--- | :--- | :--- | :---: | :--- | :--- |
+| **[Material Name]** | `[MAT: TAG]` | `[FREQ: TAG]` | `[[SOURCE]]` | [Integer or N/A] | [X / Unit] | [Brief 1-sentence summary of usage, origin, or simple mechanical note] |
 
-## Properties
-*   **Type:** [Herb / Ore / Hide / Mineral / Catalyst]
-*   **Workability Rating (WR):** [DC] ([HOMEBREW] Base DC for Artisan Checks)
-*   **Weight:** [X] lbs per unit
-*   **Market Value:** [X] gp per unit
+---
 
-## Mechanical Effects
-[Detailed description of any mechanical bonuses, damage types, alchemical reactions, or survival benefits.]
+## Detailed Mechanics
+*Only use this section for materials whose mechanical rules (e.g., specific weapon properties, complex alchemical reactions, or unique refining rules) are too long for the "Core Utility" column.*
 
-## Refining Requirements
-*   **Preparation:** [Labor Hours]
-*   **Tools Required:** [e.g., Tier 1 Artisan Kit]
-*   **Special Conditions:** [e.g., Sub-zero ambient temperature / High Pressure]
+### [Material Name] `[MAT: TAG]`
+*   **Mechanical Utility:** [Complex rule text...]
+*   **Refining Requirements:** [Complex refining steps...]
