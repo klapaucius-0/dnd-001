@@ -141,8 +141,8 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 ## Master Hobb [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** General Trader
 **Bond Type:** Associate
-**Standing:** Level 0 (5/20 SP) [Neutral]
-**Last Interaction:** Day 3 / 13:38
+**Standing:** Level 0 (10/20 SP) [Neutral]
+**Last Interaction:** Day 4 / 11:45
 
 ### Summary
 A well-fed mercantile broker who manages the town's scarcity with politeness and opportunism.
