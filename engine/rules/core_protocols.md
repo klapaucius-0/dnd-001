@@ -98,7 +98,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
     *   **Purpose:** Denotes the rarity or availability of an item or material.
     *   **Values Type:** Static.
     *   **Values in use:** `VERY_COMMON`, `COMMON`, `UNCOMMON`, `RARE`, `VERY_RARE`, `LEGENDARY`.
-    *   **Reference Index:** Used in `atlas/crafting/materials.md` and `atlas/crafting/tools.md`.
+    *   **Reference Index:** Used in `atlas/crafting/materials/` and `atlas/crafting/tools.md`.
 *   **`[TIER: ]`**
     *   **Purpose:** Represents the technological or magical complexity of a tool.
     *   **Values Type:** Static.
@@ -120,7 +120,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`<!-- SOURCE: -->`**
     *   **Purpose:** Enforces data integrity by linking state variables to their master logs.
     *   **Values Type:** Static (Log filenames).
-    *   **Values in use:** `currency_log`, `experience_log`, `time_log`, `inventory_log`, `reputation_log`, `relationship_log`, `artifacts`, `world_state`, `unique_entities`, `social_entities`, `companions`, `bestiary`, `lore`, `crafting`, `atlas/crafting/blueprints.md`, `atlas/crafting/materials.md`, `atlas/crafting/tools.md`, `pc_sheet`, `quest_state`.
+    *   **Values in use:** `currency_log`, `experience_log`, `time_log`, `inventory_log`, `reputation_log`, `relationship_log`, `artifacts`, `world_state`, `unique_entities`, `social_entities`, `companions`, `bestiary`, `lore`, `crafting`, `atlas/crafting/blueprints.md`, `atlas/crafting/materials/`, `atlas/crafting/tools.md`, `pc_sheet`, `quest_state`.
     *   **Reference Index:** See Section 3 of this file.
 
 ### B. Dynamic & Extensible Tags (DM Managed)

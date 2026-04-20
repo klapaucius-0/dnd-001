@@ -109,20 +109,20 @@
 | Hempen Rope (50ft) | 10.0 | |
 | Berath's Journal | 1.0 | |
 | Berath's Satchel | 2.0 | |
-| Dark Metal Rods (4 total) [MAT: DEEP_IRON] | 8.0 | `atlas/crafting/materials.md` |
+| Dark Metal Rods (4 total) [MAT: DEEP_IRON] | 8.0 | `atlas/crafting/materials/` |
 | Pouch of Rare Minerals | 5.0 | |
 | Scroll case of notes | 1.0 | |
 | Winter blanket | 3.0 | |
 | Common clothes | 3.0 | |
 | Crossbow bolts (20) | 1.5 | |
-| Bag of Crystalline Shards [MAT: CRYSTAL] | 1.0 | `atlas/crafting/materials.md` |
-| Cold-Iron Shard [MAT: DEEP_IRON] | 5.0 | `atlas/crafting/materials.md` |
+| Bag of Crystalline Shards [MAT: CRYSTAL] | 1.0 | `atlas/crafting/materials/` |
+| Cold-Iron Shard [MAT: DEEP_IRON] | 5.0 | `atlas/crafting/materials/` |
 | Deep-Frost Crystal [MAT: CRYSTAL] | 0.1 | |
-| Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials.md` |
-| Steel Hardware [MAT: STANDARD_STEEL] | 2.0 | `atlas/crafting/materials.md` |
-| Tallow & Beeswax (9/10 Uses) [MAT: WAX] | 1.0 | `atlas/crafting/materials.md` |
+| Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials/` |
+| Steel Hardware [MAT: STEEL] | 2.0 | `atlas/crafting/materials/` |
+| Tallow & Beeswax (9/10 Uses) [MAT: WAX] | 1.0 | `atlas/crafting/materials/` |
 | Waxed Linen Thread | 0.0 | (Negligible weight) |
-| Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | **PARTIAL**; `atlas/crafting/materials.md` |
+| Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | **PARTIAL**; `atlas/crafting/materials/` |
 | Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
 | Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
