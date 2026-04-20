@@ -91,6 +91,6 @@ The resulting item inherits the `[MAT: X]` tag of the specific material used, al
 ## 8. Salvage & Scrap Resolution ([HOMEBREW])
 To provide a structured path toward heavy armor or large-scale projects, mundane scrap can be refined into usable materials.
 *   **The Yield Ratio:** 10 lbs of scavenged, rusted, or impure scrap yields 1 lb of refined material.
-*   **Material Conservation:** The refined output perfectly matches the input material (e.g., 10 lbs of iron scrap yields 1 lb of `[MAT: IRON]`; 10 lbs of steel scrap yields 1 lb of `[MAT: STANDARD_STEEL]`).
+*   **Material Conservation:** The refined output perfectly matches the input material (e.g., 10 lbs of iron scrap yields 1 lb of `[MAT: IRON]`; 10 lbs of steel scrap yields 1 lb of `[MAT: STEEL]`).
 *   **The Process:** Requires 1 Labor Hour (often done during a Short Rest) and access to Smith's Tools.
 

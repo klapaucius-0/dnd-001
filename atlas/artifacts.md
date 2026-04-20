@@ -5,7 +5,7 @@ This file contains high-resolution physical data for unique items. These descrip
 
 ---
 
-## The Damp Blue-Green Stone Box [STRATUM: 4_SUNKEN_STONE]
+## The Damp Blue-Green Stone Box [STRATUM: 4_SUNKEN_STONE] [MAT: MINERAL]
 **Current Status:** Mounted as focus in Wael's shield.
 **Rarity:** Rare (Unique)
 **Attunement:** No
@@ -28,7 +28,7 @@ This file contains high-resolution physical data for unique items. These descrip
 
 ---
 
-## The Dark Black Shard [STRATUM: 5_RESONANT_VOID]
+## The Dark Black Shard [STRATUM: 5_RESONANT_VOID] [MAT: ANOMALY]
 **Current Status:** Secured inside the Stone Box.
 **Rarity:** Very Rare (Unique)
 **Attunement:** Yes (Requirements Unknown)

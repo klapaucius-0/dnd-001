@@ -14,14 +14,14 @@ A heavy, industrial sleeve constructed from cold-hammered iron nails and steel h
 
 ## Component List
 *   **Structural Mesh:** 1x Crate of Iron Nails (`[MAT: IRON]`).
-*   **Mounting Hardware:** 1x Pouch Steel Hardware (`[MAT: STANDARD_STEEL]`).
+*   **Mounting Hardware:** 1x Pouch Steel Hardware (`[MAT: STEEL]`).
 *   **Rigid Harness:** 1x Bundle Daleland Ox-Hide (`[MAT: DALELAND_HIDE]`).
 *   **Internal Padding:** 1x Bolt Industrial Felt (`[MAT: FELT]`).
 *   **Refinement:** Neatsfoot Oil, Waxed Thread.
 
 ## Final Item Result
 *   **Name:** The Iron-Nail Sleeve ([HOMEBREW])
-*   **Resulting Tags:** `[MAT: STANDARD_STEEL] [QUAL: STANDARD]`
+*   **Resulting Tags:** `[MAT: STEEL] [QUAL: STANDARD]`
 *   **Mechanical:**
     *   **Rigid Anchor:** Can strap a shield to the sleeve for full AC bonus. Cannot perform shield bashes.
     *   **Tool Socket:** One artisan tool can be bolted into the sleeve (1 minute to swap).
@@ -52,7 +52,7 @@ A static, non-articulated prosthetic frame designed to serve as a heavy anchor. 
 *   **Refined Frame:** 4x Dark Metal Rods (`[CAT: METAL]`).
 *   **Heavy Harness:** 1x Bundle Daleland Ox-Hide (`[CAT: LEATHER]`).
 *   **Padding:** 1x Bolt Industrial Felt (`[CAT: TEXTILE]`).
-*   **Vise-Socket:** 1x Pouch Steel Hardware (`[MAT: STANDARD_STEEL]`) & 1x Crate of Iron Nails.
+*   **Vise-Socket:** 1x Pouch Steel Hardware (`[MAT: STEEL]`) & 1x Crate of Iron Nails.
 *   **Refinement:** Neatsfoot Oil, Tallow/Wax, Waxed Thread.
 
 ## Final Item Result

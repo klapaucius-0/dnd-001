@@ -187,7 +187,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ---
 
-## Mother Halsa [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+## Mother Halsa [STRATUM: 3_FROZEN_EXPANSE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Grove Keeper / Herbalist
 **Bond Type:** Associate
 **Standing:** Level 0 (1/20 SP) [Neutral]

@@ -129,10 +129,12 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[MAT: ]`**
     *   **Purpose:** Identifies the primary material of an item.
     *   **Values Type:** Dynamic.
+    *   **Observed Values:** `STEEL`, `WOOD`, `IRON`, `DEEP_IRON`, `CRYSTAL`, `NEATSFOOT_OIL`, `HI_CARBON_STEEL`, `OLD_CUT_IRON`, `SLATE`, `VARIOUS`, `MINERAL`, `ANOMALY`, `BRONZE`, `BRASS`, `SILVER`, `GOLD`, `COPPER`, `SCRAP`, `COAL`, `TIN`, `ZINC`, `WOOL`, `LINEN`, `HEMP`, `SILK`, `LEATHER`, `BONE`, `HORN`, `ANTLER`, `CLAY`, `GLASS`, `PLATINUM`, `LEAD`, `COTTON`, `SALT`, `FLOUR`, `SUGAR`, `SPICES`, `TAR`, `INK`, `PAPER`, `SOAP`, `OIL`, `GRANITE`, `MARBLE`, `SAND`, `CHALK`, `WAX`, `RESIN`, `GLUE`, `CANVAS`, `FEATHER`, `ADAMANTINE`, `MITHRAL`.
     *   **Reference Index:** Must be logged in `atlas/crafting/materials.md`.
 *   **`[CAT: ]`**
     *   **Purpose:** Broadly categorizes materials to allow for substitution in generic recipes.
-    *   **Values Type:** Dynamic. The DM may invent new categories (e.g., `METAL`, `LEATHER`, `TEXTILE`, `CATALYST`).
+    *   **Values Type:** Dynamic. 
+    *   **Observed Values:** `METAL`, `MINERAL`, `LEATHER`, `TEXTILE`, `CATALYST`, `TIMBER`, `COMPOSITE`, `FUEL`, `ORGANIC`, `REAGENT`.
     *   **Reference Index:** Must be logged in `atlas/crafting/materials.md`.
 *   **`[TOOL]`**
     *   **Purpose:** Identifies an item as a functional tool requiring proficiency.
@@ -144,7 +146,8 @@ This section serves as the central hub for all campaign tags and metadata to ens
     *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
 *   **`[SCALE: ]`**
     *   **Purpose:** Represents the project's size and duration (number of blocks).
-    *   **Values Type:** Dynamic. Values: `TRIVIAL`, `MINOR`, `MODERATE`, `MAJOR`, `MASSIVE`.
+    *   **Values Type:** Dynamic. 
+    *   **Observed Values:** `TRIVIAL` (2 Blocks), `MINOR` (3-6 Blocks), `MODERATE` (12 Blocks), `MAJOR`, `MASSIVE`.
     *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
 *   **`[MOD: ]`**
     *   **Purpose:** The mechanical difficulty modifier passed to `crafting_dc_calc.js`.
@@ -153,6 +156,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[TYPE: ]`**
     *   **Purpose:** Broad categorization of a blueprint's output.
     *   **Values Type:** Dynamic.
+    *   **Observed Values:** `PROSTHETIC`, `GEAR`, `WEAPON`, `ARMOR`.
     *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
 
 ### C. Live Play Annotation Tags (Transcript Only)

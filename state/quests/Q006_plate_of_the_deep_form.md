@@ -23,5 +23,5 @@ Acquire or forge a set of full Plate Armor to achieve a high-tier defensive stat
 
 ## 5. Rewards & Integration
 *   **XP Awarded:** [UNLOGGED] [250 XP] -> `experience_log.md`
-*   **Loot/Currency:** [UNLOGGED] [Plate Armor [MAT: STEEL] [QUAL: TBD]] -> `inventory_log.md`
+*   **Loot/Currency:** [UNLOGGED] [Plate Armor [MAT: STEEL] [QUAL: ??]] -> `inventory_log.md`
 *   **Standing/SP:** [UNLOGGED] [+20 Harlen (if forged there)] -> `relationship_log.md`

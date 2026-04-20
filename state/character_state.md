@@ -81,10 +81,10 @@
 ### Equipped
 | Item | Weight | Notes |
 | :--- | :--- | :--- |
-| Chain Mail (+1) [MAT: STANDARD_STEEL] [QUAL: STANDARD] | 55.0 | Blessed; Worn (AC 17) |
+| Chain Mail (+1) [MAT: STEEL] [QUAL: STANDARD] | 55.0 | Blessed; Worn (AC 17) |
 | Shield [MAT: WOOD] [QUAL: STANDARD] | 6.0 | Equipped via Anchor (AC +2) |
 | Scavenger's Anchor [MAT: IRON] [QUAL: POOR] | 8.0 | Prosthetic; Reduces Speed by 5ft |
-| Heavy Smith's Hammer [MAT: STANDARD_STEEL] [QUAL: STANDARD] | 10.0 | 1d8 Bludgeoning; Versatile (1d10) |
+| Heavy Smith's Hammer [MAT: STEEL] [QUAL: STANDARD] | 10.0 | 1d8 Bludgeoning; Versatile (1d10) |
 | Light Crossbow [MAT: WOOD] [QUAL: STANDARD] | 5.0 | 1d8 Piercing (80/320 ft.); Ammunition, Loading, Two-Handed* |
 | Damp Blue-Green Stone Box | 2.0 | <!-- SOURCE: artifacts --> Focus (Shield Mount) |
 
@@ -120,7 +120,7 @@
 | Deep-Frost Crystal [MAT: CRYSTAL] | 0.1 | |
 | Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials.md` |
 | Steel Hardware [MAT: STANDARD_STEEL] | 2.0 | `atlas/crafting/materials.md` |
-| Tallow & Beeswax (9/10 Uses) | 1.0 | `atlas/crafting/materials.md` |
+| Tallow & Beeswax (9/10 Uses) [MAT: WAX] | 1.0 | `atlas/crafting/materials.md` |
 | Waxed Linen Thread | 0.0 | (Negligible weight) |
 | Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | **PARTIAL**; `atlas/crafting/materials.md` |
 | Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
@@ -130,3 +130,4 @@
 | Currency (5 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
 <!-- END OF FILE -->
 OF FILE -->
+ILE -->

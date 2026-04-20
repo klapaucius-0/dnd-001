@@ -42,6 +42,10 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 4 | 12:50 | 008 | Recovery and aftermath of cellar combat. [Injury: Maimed - Left Eye]. | 1.0 | N/A | 0 |
 | 4 | 13:00 | 008 | Leaving the Granary; pausing in Market Square to speak with Kaelen. | 0.15 | N/A | 0 |
 | 4 | 14:15 | 009 | Short Rest at the Boar and Barrel Tavern. | 1.25 | N/A | 0 |
+| 4 | 15:30 | 009 | Travel from Boar and Barrel to Oakhaven Chapel. | 0.25 | N/A | 0 |
+| 4 | 15:45 | 009 | Arrival at Chapel; consultation with Father Vane. | 1.5 | N/A | 0 |
+| 4 | 17:15 | 009 | Medical Treatment: Purging infection from Wael's eye. | 1.0 | N/A | 0 |
+| 4 | 18:15 | 009 | Recovery and quiet reflection within the Chapel sanctuary. | 0.25 | N/A | 0 |
 
 ## Daily Time Budget (24 Hours)
 *   **Rest/Sleep:** 8 Hours (Required for Long Rest).
