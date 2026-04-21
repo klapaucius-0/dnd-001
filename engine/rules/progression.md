@@ -1,25 +1,32 @@
 # Campaign Progression & XP
 
 ## 1. The Philosophy of Growth
-In "The Sorrow," power is a heavy and hard-won resource. Adhering to the **Philosophy of Power (Protagonist)** found in `rules/house_rules.md`, Wael’s advancement is measured by his survival, his discoveries, and his craft.
+In "The Sorrow," power is a heavy and hard-won resource. Adhering to the **Philosophy of Power (Protagonist)** found in `rules/house_rules.md`, Wael’s advancement is measured by his survival, his discoveries, and his social impact.
 
 ## 2. Experience Point (XP) Awards
-Experience is awarded at the end of each session based on the following criteria:
+Experience is awarded at the end of each session based strictly on the **Three Pillars of Adventuring** (Combat, Exploration, Social Interaction). Character progression reflects overcoming lethal risk and narrative obstacles, not time spent in safety.
 
-### Combat & Survival
+### Pillar 1: Combat & Survival (Risk of Death)
 *   **Combat Victory:** Standard 5e XP based on the creature's Challenge Rating (CR).
 *   **Tactical Survival:** If Wael survives a lethal encounter through retreat, cleverness, or stabilization, he earns **50% of the Combat XP**.
 
-### Non-Combat Challenges
-*   **Skill-Based Obstacles:** Resolving a high-stakes social or environmental challenge (DC 15+).
-    *   *Minor:* 25-50 XP.
-    *   *Major:* 50-100 XP.
-*   **Discovery:** Finding a legendary location, recovering a rare material, or uncovering a "Mystery/Secret" in `campaign/lore.md`.
-    *   *Standard:* 50 XP.
+### Pillar 2: Exploration & Discovery (Risk of Depletion)
+*   **Environmental Obstacles:** Overcoming hazards that carry a meaningful risk of injury, resource drain, or severe narrative consequences (DC 15+).
+    *   *Minor Obstacle:* 25-50 XP.
+    *   *Major Obstacle:* 50-100 XP.
+*   **Legendary Discovery:** Discovering a legendary location or uncovering a "Mystery/Secret" that fundamentally changes the narrative landscape.
+    *   *Reward:* 50-100 XP.
 
-### Artisan Milestones
-*   **Project Completion:** Finishing a major crafting quest (e.g., *The Crude Brace*).
-    *   *Reward:* 100-200 XP (depending on complexity/LH).
+### Pillar 3: Social Interaction (Risk of Reputation)
+*   **High-Stakes Negotiation:** Resolving a social conflict where failure would result in immediate hostility, loss of sanctuary, or a major faction setback.
+    *   *Reward:* 50-100 XP.
+
+### The "No Downtime XP" Mandate
+To ensure character levels are earned through struggle, the following activities yield **0 XP**:
+*   **Artisan Labor:** Crafting, repairing, or designing items/blueprints.
+*   **Research:** Reading lore or studying materials in a safe location.
+*   **Safe-Haven Tasks:** Any activity performed within the relative safety of a settlement where failure carries no immediate physical or resource risk.
+*   **Reward:** These activities are rewarded with the resulting item, monetary profit, or Social Points (`SP`).
 
 ## 3. Leveling Up (5e 2014 Table)
 Wael follows the standard 5e (2014) experience table.

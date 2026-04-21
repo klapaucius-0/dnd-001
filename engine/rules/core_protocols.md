@@ -155,10 +155,10 @@ This section serves as the central hub for all campaign tags and metadata to ens
     *   **Values Type:** Dynamic (Integer).
     *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
 *   **`[TYPE: ]`**
-    *   **Purpose:** Broad categorization of a blueprint's output.
+    *   **Purpose:** Broad categorization of a blueprint's output or a campaign goal.
     *   **Values Type:** Dynamic.
-    *   **Observed Values:** `PROSTHETIC`, `GEAR`, `WEAPON`, `ARMOR`.
-    *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
+    *   **Observed Values:** `PROSTHETIC`, `GEAR`, `WEAPON`, `ARMOR`, `QUEST`, `PROJECT`.
+    *   **Reference Index:** `atlas/crafting/blueprints.md` and `state/quest_state.md`.
 
 ### C. Live Play Annotation Tags (Transcript Only)
 *These tags are used exclusively within `chronicles/*_transcript.md` files by the DM to explicitly demarcate state changes during gameplay.*

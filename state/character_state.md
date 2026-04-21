@@ -5,7 +5,7 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 915 <!-- SOURCE: experience_log -->
+**Experience (XP):** 650 <!-- SOURCE: experience_log -->
 **Alignment:** True Neutral
 **Age:** Unknown (Looks ravaged by time)
 
