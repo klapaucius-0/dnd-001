@@ -18,15 +18,15 @@
 ## Social Standing (SSOT: reputation_log / relationship_log)
 *   **Oakhaven:** Level 1 (46/100 SP) [Acquaintance]
     *   *Father Vane:* Level 0 (11/20 SP) [Stranger / Associate]
-    *   *Kaelen:* Level 2 (60/60 SP) [Companion]
+    *   *Kaelen:* Level 2 (60/60 SP) [Trusted Ally / Companion]
     *   *Hera:* Level 0 (6/20 SP) [Stranger / Associate]
-    *   *Master Hobb:* Level 0 (10/20 SP) [Neutral / Associate]
+    *   *Master Hobb:* Level 0 (10/20 SP) [Stranger / Associate]
     *   *Toren & Hov:* Level 0 (5/20 SP) [Stranger / Associate]
-    *   *Mother Halsa:* Level 0 (1/20 SP) [Neutral / Associate]
-    *   *Bram:* Level 0 (5/20 SP) [Neutral / Associate]
-    *   *Elara:* Level 0 (1/20 SP) [Neutral / Associate]
-    *   *Vesper:* Level 0 (10/20 SP) [Neutral / Associate]
-    *   *Harlen:* Level 1 (20/20 SP) [Associate]
+    *   *Mother Halsa:* Level 0 (1/20 SP) [Stranger / Associate]
+    *   *Bram:* Level 0 (5/20 SP) [Stranger / Associate]
+    *   *Elara:* Level 0 (1/20 SP) [Stranger / Associate]
+    *   *Vesper:* Level 0 (10/20 SP) [Stranger / Associate]
+    *   *Harlen:* Level 1 (20/20 SP) [Acquaintance / Associate]
 *   **Mountain Sentinels:** Level 1 (-150/-300 SP) [Nuisance / Nemesis]
 
 ## Essential Services (Oakhaven)

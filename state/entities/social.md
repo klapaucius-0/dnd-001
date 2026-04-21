@@ -8,7 +8,7 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 ## Hera [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Tavern Owner
 **Bond Type:** Associate
-**Standing:** Level 0 (6/20 SP) [Neutral]
+**Standing:** Level 0 (6/20 SP) [Stranger]
 **Last Interaction:** Day 3 / 07:15
 
 ### Summary
@@ -85,7 +85,7 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is
 ## Bram [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Daleland Leather Merchant
 **Bond Type:** Associate
-**Standing:** Level 0 (5/20 SP) [Neutral]
+**Standing:** Level 0 (5/20 SP) [Stranger]
 **Last Interaction:** Day 3 / 12:05
 
 ### Summary
@@ -101,7 +101,7 @@ A pragmatic Daleland trader who knows the value of hard work and honest material
 ## Elara [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Felt/Wool Merchant
 **Bond Type:** Associate
-**Standing:** Level 0 (1/20 SP) [Neutral]
+**Standing:** Level 0 (1/20 SP) [Stranger]
 **Last Interaction:** Day 3 / 12:30
 
 ### Summary
@@ -117,7 +117,7 @@ A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpne
 ## Vesper [STRATUM: 2_ERODING_AGE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Scavenger / Tool Merchant
 **Bond Type:** Associate
-**Standing:** Level 0 (10/20 SP) [Neutral]
+**Standing:** Level 0 (10/20 SP) [Stranger]
 **Last Interaction:** Day 3 / 13:50
 
 ### Summary
@@ -141,7 +141,7 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 ## Master Hobb [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** General Trader
 **Bond Type:** Associate
-**Standing:** Level 0 (10/20 SP) [Neutral]
+**Standing:** Level 0 (10/20 SP) [Stranger]
 **Last Interaction:** Day 4 / 11:45
 
 ### Summary
@@ -164,7 +164,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ## Toren & Hov [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Town Guards
-**Standing:** Level 0 (5/20 SP) [Neutral]
+**Standing:** Level 0 (5/20 SP) [Stranger]
 **Last Interaction:** Day 2 / 18:00
 
 ### Known Values (Observed)
@@ -190,7 +190,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 ## Mother Halsa [STRATUM: 3_FROZEN_EXPANSE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Grove Keeper / Herbalist
 **Bond Type:** Associate
-**Standing:** Level 0 (1/20 SP) [Neutral]
+**Standing:** Level 0 (1/20 SP) [Stranger]
 **Last Interaction:** Day 3 / 10:15
 
 ### Summary
@@ -214,7 +214,7 @@ A quiet and observant caretaker of the small grove within Oakhaven's protective 
 ## Harlen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Town Blacksmith
 **Bond Type:** Associate
-**Standing:** Level 1 (20/20 SP) [Associate]
+**Standing:** Level 1 (20/20 SP) [Acquaintance]
 **Last Interaction:** Day 3 / 17:02
 
 ### Summary

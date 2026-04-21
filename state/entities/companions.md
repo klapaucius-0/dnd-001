@@ -8,7 +8,7 @@ This file tracks the mechanical and social state of characters traveling with Wa
 ## Kaelen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Human Guide (Scout / Future Expert Sidekick)
 **Bond Type:** Companion
-**Standing:** Level 2 (60/60 SP) [Companion]
+**Standing:** Level 2 (60/60 SP) [Trusted Ally]
 **Last Interaction:** Day 4 / 12:50
 
 ### Summary
