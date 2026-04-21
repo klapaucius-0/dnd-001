@@ -1,9 +1,9 @@
 # [Category Name] Encyclopedia [CAT: CATEGORY]
 <!-- SOURCE: atlas/crafting/materials/[category].md -->
 
-| Material | MAT Tag | Freq | Source | WR (DC) | Value/Unit | Core Utility / Origin |
-| :--- | :--- | :--- | :--- | :---: | :--- | :--- |
-| **[Material Name]** | `[MAT: TAG]` | `[FREQ: TAG]` | `[[SOURCE]]` | [Integer or N/A] | [X / Unit] | [Brief 1-sentence summary of usage, origin, or simple mechanical note] |
+| Material | MAT Tag | Freq | WGT (Mult) | Source | WR (DC) | Value/Unit | Core Utility / Origin |
+| :--- | :--- | :--- | :---: | :--- | :---: | :--- | :--- |
+| **[Material Name]** | `[MAT: TAG]` | `[FREQ: TAG]` | [x1.0] | `[[SOURCE]]` | [Integer or N/A] | [X / Unit] | [Brief 1-sentence summary of usage, origin, or simple mechanical note] |
 
 ---
 
