@@ -25,7 +25,7 @@ A dark shard of unknown material recovered from Berath. It is exceptionally dens
 **Reliability:** Probable
 
 ### Detailed Context
-Berath was murdered in Oakhaven (The Boar and Barrel) by a figure in a black cloak who moved with unnatural speed. The killer used a dark blade. Berath's body was taken to the Old Mason's Yard.
+Berath's body was taken to the Old Mason's Yard for holding.
 
 ### Resonance & Relationships
 *   **Related Entities:** [[Berath]], [[Hera]]

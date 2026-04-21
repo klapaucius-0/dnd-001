@@ -129,5 +129,3 @@
 | Quality Travel Bread (2 Days) | 2.0 | Reward: Verminer's Request |
 | Currency (5 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
 <!-- END OF FILE -->
-OF FILE -->
-ILE -->

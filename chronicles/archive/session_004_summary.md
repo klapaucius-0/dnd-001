@@ -21,5 +21,5 @@ Wael and Kaelen entered Oakhaven and secured lodging at the **Boar and Barrel**,
 
 ## Next Steps
 *   Complete a Long Rest to restore HP and Hit Dice.
-*   Visit the **Old Mason's Yard** to pay respects and search for clues.
+*   Visit the **Old Mason's Yard** to pay final respects to Berath.
 *   Locate a healer for the **Internal Injury**.
