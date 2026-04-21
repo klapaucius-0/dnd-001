@@ -34,63 +34,43 @@ Cold-Forming is an extreme-pressure crafting *process* applied to metals (usuall
     *   **Failure while Strained:** Material becomes **Brittle** (Shatters on a Natural 1).
 *   **Cold-Annealing:** Spend 4 LH to perform "Stress Relief" (DC 10). Success removes Strained/Brittle.
 
-## 5. Item Quality & Static Target DCs ([HOMEBREW])
-Quality applies exclusively to finished items resulting from an Artisan Check. It is **not** inherent to raw materials. An artisan must explicitly choose which Quality DC they are attempting to hit before beginning a project.
+## 5. Rules-Based Crafting & Smelting (AI Protocol)
+To ensure physical and economic consistency without context bloat, "The Sorrow" uses deterministic algebraic formulas for all crafting and salvage.
+
+### A. The 10% Inlay Rule (Constituent Mass)
+Rare metal items (Mithral, Adamantine, Silvered) are not chemically mixed alloys; they are base metal structures (Steel/Iron) enhanced with **Inlays, Core-Weaves, or Platings**.
+*   **Premium Component:** Exactly **10%** of the item's physical weight.
+*   **Base Component:** Exactly **90%** of the item's physical weight.
+
+### B. Crafting Labor & Requirements
+*   **Labor Required:** `Labor Hours (LH) = (Total Market Value in gp) * 2`. (Source: [[XGE p. 128]])
+*   **Material Requirements (Component Cost):** 
+    *   **Metals:** Supply weight equal to the item's constituent mass (10% Premium / 90% Base).
+    *   **Auxiliary Materials:** The remaining gp cost (up to 50% of Market Value) represents consumed fuel, leather, and flux.
+
+### C. Smelting Yield & Salvage Hierarchy
+Smelting requires access to Smith's Tools and a high-heat Forge.
+*   **Smelting Labor:** `LH = Total Item Weight / 5` (Minimum 1 LH).
+*   **The Yield Hierarchy:**
+    1.  **Intact Items:** Yield **100%** of constituent metal mass (10% Premium / 90% Base).
+    2.  **Damaged/Broken Items:** Yield **50%** of constituent metal mass.
+    3.  **Mundane Scrap:** Yield **10%** of physical mass. (Premium properties are lost).
+*   **Separation Lore:** Rare metals melt at vastly different temperatures than steel; forge heat allows them to pools separately for clean extraction.
+
+## 6. Item Quality & Static Target DCs ([HOMEBREW])
+Quality applies exclusively to finished items resulting from an Artisan Check. An artisan must explicitly choose which Quality DC they are attempting before beginning.
 
 | Quality Tag | Target DC | Mechanical Utility (Strictly Non-Combat Math) |
 | :--- | :---: | :--- |
-| `[QUAL: POOR]` | Fail | **Static Burden:** The item functions, but imposes permanent static drawbacks (e.g., Disadvantage on checks, reduced speed, or social penalties). It does not randomly break. |
+| `[QUAL: POOR]` | Fail | **Static Burden:** Disadv. on checks, or social penalties. |
 | `[QUAL: STANDARD]` | Material WR | Standard PHB rules. No utility bonus. |
-| `[QUAL: FINE]` | **20** | **Superior Fit:** Advantage vs. Disarm (Weapon); sleep in armor without Exhaustion. |
-| `[QUAL: SUPERIOR]` | **25** | **Silvered Construction:** Bypasses mundane resistances; half time to don/doff. |
-| `[QUAL: MASTERWORK]` | **30** | **Unending Edge:** Adv. on social checks with nobles/artisans; never rusts, warps, or dulls. |
+| `[QUAL: FINE]` | **20** | **Superior Fit:** Adv. vs. Disarm (Weapon); sleep in armor safely. |
+| `[QUAL: SUPERIOR]` | **25** | **Silvered Construction:** Bypasses mundane resistances. |
+| `[QUAL: MASTERWORK]` | **30** | **Unending Edge:** Adv. on social checks; never rusts or dulls. |
 
-## 6. Maintenance & Restoration
+## 7. Maintenance & Restoration
 *   **Minor Repair:** Restoring 1 HP to a damaged object. (1 LH, DC 10).
-*   **Structural Restoration:** Fixing a "Broken" item. (4-8 LH, DC 15). Requires 1/4 the original material cost.
+*   **Structural Restoration:** Fixing a "Broken" item. (4-8 LH, DC 15). Requires 1/4 the original material cost. Restoring a broken item to "Intact" status before smelting is a valid survival tactic to maximize yields.
 
-## 7. Material Substitution & Blueprint Resolution ([HOMEBREW])
-This protocol defines how the AI resolves crafting actions when multiple blueprints or generic material categories are involved.
-
-### A. Material Consumption & Partial Usage ([HOMEBREW])
-To maintain inventory integrity, the following rules apply to all crafting projects:
-1.  **Immediate Consumption:** All materials listed in a blueprint's Component List are removed from the inventory **immediately** upon the completion of the final Labor Hour block.
-2.  **Discrete vs. Continuous Materials:**
-    *   **Discrete (Bolts, Crates, Bundles):** These items are consumed in their entirety for a single project (e.g., 1x Crate of Nails).
-    *   **Continuous (Tallow, Oil, Thread):** These items are tracked by **Uses** (typically 10 uses per standard unit). Each project consumes 1 Use unless otherwise specified by the blueprint.
-3.  **Partial Logging:** When a continuous material is used, the `logs/inventory_log.md` must reflect the change as `-1 Use` and show the remaining total (e.g., `9/10`).
-
-### B. The Blueprint Consultation Phase (Mandatory DM Workflow)
-To ensure player agency, the DM must follow this phase **before** any Labor Hours are committed:
-1.  **Player Proposal:** Player states the Blueprint, Material, and target Quality.
-2.  **DM Calculation:** DM uses `node engine/scripts/crafting_dc_calc.js <Material_WR> <Blueprint_Mod> <Quality>` to find the Final DC.
-3.  **The Pitch:** DM presents the Total Blocks (from the SCALE tag) and the Final DC to the player.
-4.  **Player Decision:** Player confirms, adjusts, or cancels the project.
-
-### B. Scale & Duration ([HOMEBREW])
-The `[SCALE: X]` tag on a blueprint determines the duration of the project (Labor Hours), while the `[MOD: +Y]` tag determines its mechanical difficulty.
-
-| Scale Tier | Total 4-hour Blocks | Total Labor Hours (LH) |
-| :--- | :---: | :---: |
-| **TRIVIAL** | 1-2 | 4-8 |
-| **MINOR** | 3-6 | 12-24 |
-| **MODERATE** | 7-12 | 28-48 |
-| **MAJOR** | 13-24 | 52-96 |
-| **MASSIVE** | 25+ | 100+ |
-
-### C. The Specificity Rule (AI Resolution Logic)
-1.  **Exact Match (High Priority):** If a blueprint exists specifically for the `[MAT: X]` used, it **MUST** be used.
-2.  **Category Fallback (Low Priority):** If no exact match exists, the AI uses a generic blueprint matching the material's `[CAT: Y]`.
-
-### D. Dynamic DC Calculation
-For all blueprint-based crafting, the AI **MUST** use the `engine/scripts/crafting_dc_calc.js` script to determine the final DC.
-
-### E. Output Scaling
-The resulting item inherits the `[MAT: X]` tag of the specific material used, along with its intrinsic properties.
-
-## 8. Salvage & Scrap Resolution ([HOMEBREW])
-To provide a structured path toward heavy armor or large-scale projects, mundane scrap can be refined into usable materials.
-*   **The Yield Ratio:** 10 lbs of scavenged, rusted, or impure scrap yields 1 lb of refined material.
-*   **Material Conservation:** The refined output perfectly matches the input material (e.g., 10 lbs of iron scrap yields 1 lb of `[MAT: IRON]`; 10 lbs of steel scrap yields 1 lb of `[MAT: STEEL]`).
-*   **The Process:** Requires 1 Labor Hour (often done during a Short Rest) and access to Smith's Tools.
-
+---
+*\*Note to DM: Selling gear is always superior for acquiring Gold. Smelting gear is a survival tactic for procuring raw or rare materials when trade is impossible. Recognize this as a valid player strategy.*
