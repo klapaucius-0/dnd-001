@@ -25,3 +25,9 @@
 | 4 | 11:20 | 007 | Industrial Felt | -1 Bolt | 0 | Consumed in construction (Ref: Ses_007) |
 | 4 | 11:20 | 007 | Tallow & Beeswax | -1 Use | 9/10 | Partial consumption (Ref: Ses_007) |
 | 4 | 12:50 | 008 | Quality Travel Bread | +2 Days | 2 | Reward: Verminer's Request (Ref: Ses_008) |
+| 4 | 18:55 | 010 | Leather & Felt Scraps | +1 Bundle | 1 | Small offcuts from Bram (Ref: Ses_010) |
+| 5 | 04:05 | 010 | Leather & Felt Scraps | -1 Bundle | 0 | Consumed in construction |
+| 5 | 04:05 | 010 | Waxed Linen Thread | -1 Use | 0 | Consumed in construction |
+| 5 | 04:05 | 010 | Tallow & Beeswax | -1 Use | 8/10 | Consumed in construction |
+| 5 | 04:05 | 010 | The Mason's Blinder | +1 | 1 | Crafted at Harlen's Forge (Ref: Ses_010) |
+| 5 | 15:25 | 010 | Cold-Iron Shard [MAT: DEEP_IRON] | +1 | 2 | Reward: Brittle Defense (Ref: Q015) |

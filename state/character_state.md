@@ -10,7 +10,7 @@
 **Age:** Unknown (Looks ravaged by time)
 
 ## Vital Stats
-**Hit Points (HP):** 13 / 16
+**Hit Points (HP):** 16 / 16
 **Armor Class (AC):** 19 (Chain Mail +1, Shield)
 **Initiative:** +1
 **Speed:** 25 ft.
@@ -32,6 +32,7 @@
 | :--- | :--- | :--- |
 | **Lost Left Arm** | Permanent Injury | Disadvantage on two-handed tasks without a brace. Cannot use two-handed weapons. |
 | **Scavenger's Anchor** | Prosthetic (Equipped) | Negates two-handed Disadvantage for Tools/Shields. **Disadvantage** on all Dexterity-based checks. **Disadvantage** on Charisma (Persuasion) vs non-artisans. Speed -5ft. |
+| **The Mason's Blinder** | Gear (Equipped) | Negates Persuasion penalty from Maimed Eye. +1 bonus to saves vs non-magical blinding effects. |
 | **Blessing of the Forge** | Active Spell | +1 AC (factored into Vital Stats). |
 | **Dwarven Resilience** | Racial Trait | **Advantage** on poison saving throws. |
 | **Stonecunning** | Racial Trait | Double proficiency bonus on INT (History) checks related to stonework. |
@@ -60,7 +61,7 @@
 
 ## Resource Tracker
 *   **Spell Slots (1st Level):** [ ] [ ] [ ]
-*   **Hit Dice:** [X] [X] (1d8)
+*   **Hit Dice:** [X] [ ] (1d8)
 *   **Blessing of the Forge:** [X] (Active on Chain Mail)
 *   **Inspiration:** [Yes]
 
@@ -75,8 +76,8 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 206.3 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
-**Currency:** 5 gp, 2 sp <!-- SOURCE: currency_log -->
+**Total Weight:** 222.0 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
+**Currency:** 4 gp, 1 sp <!-- SOURCE: currency_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -85,6 +86,7 @@
 | Shield [MAT: WOOD] [QUAL: STANDARD] | 6.0 | Equipped via Anchor (AC +2) |
 | Scavenger's Anchor [MAT: IRON] [QUAL: POOR] | 8.0 | Prosthetic; Reduces Speed by 5ft |
 | Heavy Smith's Hammer [MAT: STEEL] [QUAL: STANDARD] | 10.0 | 1d8 Bludgeoning; Versatile (1d10) |
+| The Mason's Blinder [MAT: LEATHER] [QUAL: STANDARD] | 0.1 | Anatomical eyepatch |
 | Light Crossbow [MAT: WOOD] [QUAL: STANDARD] | 5.0 | 1d8 Piercing (80/320 ft.); Ammunition, Loading, Two-Handed* |
 | Damp Blue-Green Stone Box | 2.0 | <!-- SOURCE: artifacts --> Focus (Shield Mount) |
 
@@ -116,16 +118,14 @@
 | Common clothes | 3.0 | |
 | Crossbow bolts (20) | 1.5 | |
 | Bag of Crystalline Shards [MAT: CRYSTAL] | 1.0 | `atlas/crafting/materials/` |
-| Cold-Iron Shard [MAT: DEEP_IRON] | 5.0 | `atlas/crafting/materials/` |
+| Cold-Iron Shard [MAT: DEEP_IRON] | 10.0 | (2 total) `atlas/crafting/materials/` |
 | Deep-Frost Crystal [MAT: CRYSTAL] | 0.1 | |
 | Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials/` |
 | Steel Hardware [MAT: STEEL] | 2.0 | `atlas/crafting/materials/` |
-| Tallow & Beeswax (9/10 Uses) [MAT: WAX] | 1.0 | `atlas/crafting/materials/` |
-| Waxed Linen Thread | 0.0 | (Negligible weight) |
-| Neatsfoot Oil [MAT: NEATSFOOT_OIL] | 0.5 | **PARTIAL**; `atlas/crafting/materials/` |
+| Tallow & Beeswax (8/10 Uses) [MAT: WAX] | 1.0 | `atlas/crafting/materials/` |
 | Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
 | Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
 | Quality Travel Bread (2 Days) | 2.0 | Reward: Verminer's Request |
-| Currency (5 gp, 2 sp) | 0.1 | <!-- SOURCE: currency_log --> |
+| Currency (4 gp, 1 sp) | 0.1 | <!-- SOURCE: currency_log --> |
 <!-- END OF FILE -->

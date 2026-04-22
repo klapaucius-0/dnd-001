@@ -22,3 +22,8 @@
 | 4 | 11:45 | 008 | Master Hobb | +5 | 10 | Successful negotiation for higher hazard pay (Minor) |
 | 4 | 12:50 | 008 | Kaelen | +10 | **60** | Shared life-and-death struggle in the granary cellar (Moderate) |
 | 4 | 17:15 | 009 | Father Vane | +5 | 11 | Assisted with medical treatment of Wael's eye. |
+| 4 | 18:55 | 010 | Bram | +2 | 7 | Professional commerce (Scrap purchase) |
+| 5 | 04:15 | 010 | Hera | +1 | 7 | Respectful conduct and continued patronage |
+| 5 | 12:25 | 010 | Harlen | +1 | 21 | Professional use of forge and workshop respect |
+| 5 | 15:15 | 010 | Father Vane | +2 | 13 | Showing religious devotion before labor |
+| 5 | 15:25 | 010 | Harlen | +5 | 26 | Quest Completion: Brittle Defense |

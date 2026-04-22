@@ -85,7 +85,7 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is
 ## Bram [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Daleland Leather Merchant
 **Bond Type:** Associate
-**Standing:** Level 0 (5/20 SP) [Stranger]
+**Standing:** Level 0 (7/20 SP) [Stranger]
 **Last Interaction:** Day 3 / 12:05
 
 ### Summary
@@ -177,7 +177,7 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: FACTION]
 **Role/Type:** Citizen Group
-**Standing:** Level 1 (46/100 SP) [Acquaintance]
+**Standing:** Level 1 (48/100 SP) [Acquaintance]
 **Last Interaction:** Day 3 / 21:24
 
 ### Known Values (Observed)

@@ -18,3 +18,6 @@
 | 2026-04-20 | 009 | Artisan Discovery: The Mason's Blinder (Blueprint) | 0 | 650 |
 | 2026-04-20 | 009 | Artisan Iteration: Redesigning for Concealment | 0 | 650 |
 | 2026-04-20 | 009 | Precision Design: Finalizing the Blinder | 0 | **650** |
+| 2026-04-20 | 010 | Project Completion: The Mason's Blinder | 0 | 650 |
+| 2026-04-20 | 010 | Artisan Labor: Mending & Spear Restoration | 0 | 650 |
+| 2026-04-20 | 010 | Quest Completion: Brittle Defense | 0 | 650 |

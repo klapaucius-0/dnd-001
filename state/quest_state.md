@@ -21,6 +21,6 @@
 
 ## Recently Completed (Last 3)
 *For the full historical record of all completed quests, see: `state/archive/completed_quests.md`*
+*   **[Q015] Brittle Defense** [TYPE: QUEST] -> `state/quests/Q015_brittle_defense.md`
 *   **[Q002] Verminer's Request** [TYPE: QUEST] -> `state/archive/quests/Q002_verminers_request.md`
 *   **[Q001] The Crude Brace** [TYPE: PROJECT] -> `state/archive/quests/Q001_crude_brace.md`
-*   **[Q000] The First Step** [TYPE: QUEST] -> `state/archive/quests/Q000_first_step.md`

@@ -51,3 +51,7 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 *   **Rest/Sleep:** 8 Hours (Required for Long Rest).
 *   **Activity/Travel:** 9 Hours.
 *   **Flex/Crafting:** 7 Hours (Can be pushed with CON saves).
+| 5 | 04:05 | 010 | +8.0 LH | Night Labor: Crafting The Mason's Blinder |
+| 5 | 12:15 | 010 | +8.0 LH | Long Rest at Boar and Barrel |
+| 5 | 12:25 | 010 | +10m | Travel: Boar and Barrel to Harlen's Forge |
+| 5 | 15:25 | 010 | +3.0 LH | Restoring 3x Frost-Bitten Spearheads (Mending) |

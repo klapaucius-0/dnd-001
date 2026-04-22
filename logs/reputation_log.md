@@ -16,3 +16,4 @@
 | 3 | 17:02 | 007 | Oakhaven | +5 | 45 | Direct: Restoring local industrial infrastructure (Minor) |
 | 3 | 21:24 | 007 | Oakhaven | +1 | **46** | Direct: Quiet presence and respectful conduct (Trivial) |
 
+| 5 | 15:25 | 010 | +2 (Oakhaven) | Quest Completion: Brittle Defense | 48 |
