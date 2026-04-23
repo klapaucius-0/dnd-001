@@ -60,7 +60,7 @@
 *   **Permanent Injury:** Maimed (Left Eye). Disadvantage on Sight-Perception and Persuasion.
 
 ## Resource Tracker
-*   **Spell Slots (1st Level):** [ ] [ ] [ ]
+*   **Spell Slots (1st Level):** [X] [X] [X]
 *   **Hit Dice:** [X] [ ] (1d8)
 *   **Blessing of the Forge:** [X] (Active on Chain Mail)
 *   **Inspiration:** [Yes]
@@ -77,7 +77,7 @@
 
 ## Inventory & Gear
 **Total Weight:** 222.0 lbs / 225.0 lbs <!-- SOURCE: inventory_log -->
-**Currency:** 4 gp, 1 sp <!-- SOURCE: currency_log -->
+**Currency:** 9 gp, 1 sp <!-- SOURCE: currency_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -105,7 +105,7 @@
 | Mess kit | 1.0 | |
 | Tinderbox | 1.0 | |
 | 10 Torches | 10.0 | |
-| 10 Days Rations (Plain) | 20.0 | |
+| 10 Days Rations (Plain) | 10.0 | (5 Days moved to Kaelen) |
 | 5 Days Rations (Salt-Pork) | 0.0 | (Carried by Kaelen) |
 | Full waterskin | 5.0 | |
 | Hempen Rope (50ft) | 10.0 | |
@@ -118,14 +118,19 @@
 | Common clothes | 3.0 | |
 | Crossbow bolts (20) | 1.5 | |
 | Bag of Crystalline Shards [MAT: CRYSTAL] | 1.0 | `atlas/crafting/materials/` |
-| Cold-Iron Shard [MAT: DEEP_IRON] | 10.0 | (2 total) `atlas/crafting/materials/` |
+| Cold-Iron Shard [MAT: DEEP_IRON] | 10.0 | (1 moved to Kaelen) |
 | Deep-Frost Crystal [MAT: CRYSTAL] | 0.1 | |
 | Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials/` |
-| Steel Hardware [MAT: STEEL] | 2.0 | `atlas/crafting/materials/` |
+| Steel Hardware [MAT: STEEL] | 0.0 | (Moved to Kaelen) |
+| Blessed Oil (Mason's Rest) | 0.0 | (Consumed) |
+| Heavy Masonry Pry-bar [MAT: IRON] | 10.0 | Gift: Harlen; Tool |
+| Mason's Pitons (6) [MAT: IRON] | 0.0 | (Consumed) |
 | Tallow & Beeswax (8/10 Uses) [MAT: WAX] | 1.0 | `atlas/crafting/materials/` |
 | Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
 | Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
 | Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
 | Quality Travel Bread (2 Days) | 2.0 | Reward: Verminer's Request |
 | Currency (4 gp, 1 sp) | 0.1 | <!-- SOURCE: currency_log --> |
+<!-- END OF FILE -->
+log --> |
 <!-- END OF FILE -->

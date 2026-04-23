@@ -31,3 +31,9 @@
 | 5 | 04:05 | 010 | Tallow & Beeswax | -1 Use | 8/10 | Consumed in construction |
 | 5 | 04:05 | 010 | The Mason's Blinder | +1 | 1 | Crafted at Harlen's Forge (Ref: Ses_010) |
 | 5 | 15:25 | 010 | Cold-Iron Shard [MAT: DEEP_IRON] | +1 | 2 | Reward: Brittle Defense (Ref: Q015) |
+| 5 | 16:30 | 011 | Blessed Oil (Mason's Rest) | +1 Vial | 1 | Gift from Father Vane (Ref: Q016) |
+| 5 | 16:57 | 011 | Heavy Masonry Pry-bar | +1 | 1 | Gift from Harlen (Ref: Q016) |
+| 5 | 16:57 | 011 | Mason's Pitons | +6 | 6 | Gift from Harlen (Ref: Q016) |
+| 5 | 17:15 | 011 | Custody Transfer | — | — | 5 Days Rations, Steel Hardware, 1 Cold-Iron Shard moved to Kaelen |
+| 5 | 17:42 | 011 | Blessed Oil (Mason's Rest) | -1 Vial | 0 | Consumed in anointing Berath's slab (Ref: Q016) |
+| 5 | 17:42 | 011 | Mason's Pitons | -6 | 0 | Consumed in anchoring Berath's slab (Ref: Q016) |

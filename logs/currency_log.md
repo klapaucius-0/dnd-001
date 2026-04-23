@@ -15,4 +15,6 @@
 | 3 | 21:30 | 007 | -1 gp | 4 gp, 2 sp | Lodging & Meals (2 rooms) at Boar and Barrel (Ref: Ses_007) |
 | 4 | 12:50 | 008 | +1 gp | **5 gp, 2 sp** | Reward: Verminer's Request (Ref: Ses_008) |
 | 4 | 18:55 | 010 | -1 sp | **5 gp, 1 sp** | Purchase: Poor Leather & Felt Scraps (Bram) |
-| 5 | 04:15 | 010 | -1 gp | **4 gp, 1 sp** | Lodging & Morning Meals (2 rooms) at Boar and Barrel |
+| 5 | 04:15 | 010 | -1 gp | 4 gp, 1 sp | Lodging & Morning Meals (2 rooms) at Boar and Barrel |
+| 5 | 16:05 | 011 | +5 gp | 9 gp, 1 sp | Upfront payment: Q016 The Restless Yard |
+

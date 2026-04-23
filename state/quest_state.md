@@ -8,6 +8,7 @@
 *   **[Q007] Consolidation** [TYPE: PROJECT] (ACTIVE) -> `state/quests/Q007_consolidation.md`
 *   **[Q008] The Master's Toolkit** [TYPE: PROJECT] (ACTIVE) -> `state/quests/Q008_masters_toolkit.md`
 *   **[Q011] The Deep-Forged Anatomy** [TYPE: PROJECT] (PENDING) -> `state/quests/Q011_deep_forged_anatomy.md`
+*   **[Q016] The Restless Yard** [TYPE: QUEST] (FAILED) -> `state/quests/Q016_the_restless_yard.md`
 
 ## Active Mid-Term Goals
 *   **[Q006] The Plate of the Deep-Form** [TYPE: PROJECT] (ACTIVE) -> `state/quests/Q006_plate_of_the_deep_form.md`

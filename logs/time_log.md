@@ -55,3 +55,13 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 5 | 12:15 | 010 | +8.0 LH | Long Rest at Boar and Barrel |
 | 5 | 12:25 | 010 | +10m | Travel: Boar and Barrel to Harlen's Forge |
 | 5 | 15:25 | 010 | +3.0 LH | Restoring 3x Frost-Bitten Spearheads (Mending) |
+| 5 | 15:40 | 011 | +15m | Travel: Harlen's Forge to Granary |
+| 5 | 16:05 | 011 | +25m | Negotiation with Master Hobb |
+| 5 | 16:17 | 011 | +12m | Travel: Granary to Oakhaven Chapel |
+| 5 | 16:32 | 011 | +15m | Consultation with Father Vane |
+| 5 | 16:47 | 011 | +15m | Travel: Oakhaven Chapel to Harlen's Forge |
+| 5 | 16:57 | 011 | +10m | Final preparations and gifts from Harlen |
+| 5 | 17:12 | 011 | +15m | Travel: Harlen's Forge to Old Mason's Yard |
+| 5 | 17:42 | 011 | +30m | Vigil Preparation: Piton placement & anointing |
+| 5 | 17:45 | 011 | +1.5m | Combat: The Battle of the Old Mason's Yard |
+| 5 | 18:00 | 011 | +15m | Outcome: Wael Falls; Silence claims the Yard. |

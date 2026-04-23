@@ -2,24 +2,24 @@
 <!-- SOURCE: world_state -->
 
 **Current Day:** 5 <!-- SOURCE: time_log -->
-**Current Time:** 15:25 (Afternoon) <!-- SOURCE: time_log -->
-**Current Location:** Oakhaven (Harlen's Forge)
+**Current Time:** 18:00 (Night) <!-- SOURCE: time_log -->
+
+**Current Location:** Oakhaven (Old Mason's Yard)
 
 ## Active Effects & Conditions
-*   **Lost Left Arm:** Cannot use shields or two-handed weapons. Requires 7th-level *Regenerate* to heal.
-*   **Maimed (Left Eye):** Disadvantage on Perception (Sight) and Persuasion checks.
-*   **Environmental Stratum:** [STRATUM: 1_FRAGILE_SURFACE] (High Frequency).
-*   **Active Blight:** White-Frost (Suppressed in Oakhaven Chapel).
+*   **Wael (PC):** DECEASED.
+*   **Environmental Stratum:** [STRATUM: 5_RESONANT_VOID] (Yard only).
+*   **The Silence:** The Old Mason's Yard has fallen into absolute silence.
 
 ## Global Status
-*   **Weather:** Overcast, biting wind from the North Cut.
+*   **Weather:** Bitter cold; wind suppressed within the Yard's resonance.
 
 ## Social Standing (SSOT: reputation_log / relationship_log)
-*   **Oakhaven:** Level 1 (48/100 SP) [Acquaintance]
-    *   *Father Vane:* Level 0 (13/20 SP) [Stranger / Associate]
-    *   *Kaelen:* Level 2 (60/60 SP) [Trusted Ally / Companion]
+*   **Oakhaven:** Level 1 (68/100 SP) [Acquaintance]
+    *   *Father Vane:* Level 0 (15/20 SP) [Stranger / Associate]
+    *   *Kaelen:* Level 2 (70/60 SP) [Trusted Ally / Companion]
     *   *Hera:* Level 0 (7/20 SP) [Stranger / Associate]
-    *   *Master Hobb:* Level 0 (10/20 SP) [Stranger / Associate]
+    *   *Master Hobb:* Level 0 (15/20 SP) [Stranger / Associate]
     *   *Toren & Hov:* Level 0 (5/20 SP) [Stranger / Associate]
     *   *Mother Halsa:* Level 0 (1/20 SP) [Stranger / Associate]
     *   *Bram:* Level 0 (7/20 SP) [Stranger / Associate]

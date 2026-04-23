@@ -27,3 +27,7 @@
 | 5 | 12:25 | 010 | Harlen | +1 | 21 | Professional use of forge and workshop respect |
 | 5 | 15:15 | 010 | Father Vane | +2 | 13 | Showing religious devotion before labor |
 | 5 | 15:25 | 010 | Harlen | +5 | 26 | Quest Completion: Brittle Defense |
+| 5 | 16:05 | 011 | Master Hobb | +5 | 15 | Accepting the contract for the Restless Yard (Moderate) |
+| 5 | 16:32 | 011 | Father Vane | +2 | 15 | Seeking spiritual guidance before a vigil (Minor) |
+| 5 | 17:45 | 011 | Kaelen | +10 | 70 | Mutual defense; Wael's final stand (Moderate) |
+| 5 | 18:00 | 011 | Oakhaven | +20 | 68 | Sacrifice: Defending the town's borders (Major) |
