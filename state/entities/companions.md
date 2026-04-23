@@ -5,20 +5,19 @@ This file tracks the mechanical and social state of characters traveling with Wa
 
 ---
 
-## Kaelen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
-**Role/Type:** Human Guide (Scout / Future Expert Sidekick)
-**Bond Type:** Companion
-**Standing:** Level 2 (60/60 SP) [Trusted Ally]
-**Last Interaction:** Day 4 / 12:50
+## Kaelen (Legacy Companion) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
+**Role/Type:** Human Guide (Scout / Veteran Survivor)
+**Bond Type:** Legacy (Indebted to Wael)
+**Standing:** Level 0 (0/20 SP) [Stranger]
+**Last Interaction:** Day 26 (Current)
 
 ### Summary
-A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wael.
+A wiry human guide who survived the Battle of the Old Mason's Yard. He is deeply traumatized by the loss of his partner, the dwarf Wael, and feels a heavy responsibility to see his mission through.
 
 ### Narrative & Identity
-*   **Appearance:** Haunted, bird-like eyes; wearing salt-stained furs and scavenged leather.
-*   **Voice/Mannerisms:** Anxious, quiet, prone to quick glances at the shadows.
-*   **Personality/Behavior:** Observant and deeply loyal to those who provide safety.
-*   **Outlook on Life:** Survival is about navigating the fragile social echoes of civilization and staying close to the strong. Prefers "the lie of survival" over the "truth of the cold."
+*   **Appearance:** Haunted eyes; wearing salt-stained furs. He carries a heavy burden—both literally and figuratively.
+*   **Voice/Mannerisms:** Quiet, watchful, prone to long silences. He touches the Blue-Green Box at his belt frequently.
+*   **Outlook on Life:** Survival was a lie; sacrifice is the only truth he has left. He stays in Oakhaven, waiting for a reason to move again.
 
 ### Mechanical Details (Unified Entity Protocol)
 
@@ -28,18 +27,15 @@ A wiry, gaunt human guide who survived the Frozen Gap and is now indebted to Wae
 | 10 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 14 (+2) | 10 (+0) |
 
 #### Known Values (Observed)
-*   **Hit Points (HP):** 14 / 16
+*   **Hit Points (HP):** 16 / 16 (Recovered)
 *   **Armor Class (AC):** 14 (Scavenged Leather)
 *   **Speed:** 30 ft.
-*   **Disposition (Current Mood):** Friendly (Baseline: Neutral)
+*   **Disposition (Current Mood):** Grieving / Guarded.
 *   **Key Proficiencies:** Perception (+4), Survival (+4), Stealth (+4).
 *   **Known Facts:** 
     *   Expert Scout: Advantage on Wisdom checks for mountain paths.
-    *   Born in the Low-Sallows; lost home to the "things in the ice."
-    *   Carries a shortbow and two daggers.
-    *   Combat Style: Skirmisher; avoids melee, uses range and evasion.
-    *   Utility: Carrying Wael's Vice-Clamp [MAT: OLD_CUT_IRON] (15.0 lbs), 10 Days Rations (20.0 lbs), Steel Hardware (2.0 lbs), and 1 Cold-Iron Shard (10.0 lbs).
+    *   Holds the remnants of a fallen ally's mission: The Dark Shard (in the Box), the Vice-Clamp, and Wael's journal.
+    *   Survived the "Silence of the Yard."
 
 #### Unknown Values (??)
-*   **Secret Motives:** ??
-*   **Hidden Trauma:** ??
+*   **Hidden Trauma:** Level 2 Progressive (Active).

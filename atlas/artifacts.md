@@ -6,7 +6,8 @@
 ---
 
 ## The Damp Blue-Green Stone Box [STRATUM: 4_SUNKEN_STONE] [MAT: MINERAL]
-**Current Status:** Mounted as focus in Wael's shield.
+**Current Status:** Held by Kaelen (Boar and Barrel).
+**Discovery:** Found by Wael (Day 1) near the Cleft.
 **Rarity:** Rare (Unique)
 **Attunement:** No
 
@@ -48,3 +49,4 @@
 *   **Sight:** Matte black; absorbs light around its edges.
 *   **Sound/Frequency:** Bone-deep hum or crushing silence (suppressed when boxed).
 *   **Effect/Essence:** An anomaly of the Resonant Void. It draws "wrongness" toward it.
+ness" toward it.

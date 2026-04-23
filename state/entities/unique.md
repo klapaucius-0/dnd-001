@@ -28,7 +28,8 @@ An elderly hermit surviving in the lethal cold of the Frozen Grove.
 
 #### Known Values (Observed)
 *   **Disposition:** Friendly / Cautious
-*   **Relationship:** Level 1 (Trusting)
+*   **Relationship:** Level 0 (0/20 SP) [Stranger]
+*   **Historical Connection:** Provided Wael with **Ghost-Root** to treat his internal injury on Day 2.
 *   **Known Facts:** 
     *   Expert in mountain herbs and survival.
     *   Knew Berath well; confirmed he passed through looking hunted.
@@ -39,21 +40,55 @@ An elderly hermit surviving in the lethal cold of the Frozen Grove.
 
 ---
 
+## Wael (Legacy) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: LEGACY]
+**Role/Type:** Forge Domain Cleric (Mountain Dwarf)
+**Bond Type:** Former Protagonist
+**Status:** Deceased (Sacrificed at the Old Mason's Yard)
+
+### Summary
+A master-mason and smith who became the first bulwark against the encroaching Silence in Oakhaven.
+
+### Narrative & Identity
+*   **Personality/Behavior:** Grounded, unyielding, and deeply protective. He believed in the permanence of stone and the truth of the hammer.
+*   **Legacy:** 
+    *   Restored Harlen's Forge and Oakhaven's defenses.
+    *   Constructed the "Scavenger's Anchor" (iron prosthetic) and "The Mason's Blinder."
+    *   Discovered the Blue-Green Stone Box.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Final Level:** 2
+*   **Known Facts:** 
+    *   Fell while defending Kaelen, Toren, and Hov from a Void-Touched Sentinel.
+    *   His name is spoken with somber respect by the town's artisans and guards.
+
+---
+
 ## Berath (Legacy) [STRATUM: 2_ERODING_AGE] [NPC_TYPE: LEGACY]
 **Role/Type:** Knowledge Domain Cleric (Mountain Dwarf)
-**Bond Type:** Kin
+**Bond Type:** Kin (Wael)
 **Status:** Deceased (Murdered in Oakhaven)
 
 ### Summary
-Wael's "found family" whose murder sparked the current mission.
+A secretive scholar of the deep mountain who brought the Dark Shard into Oakhaven.
 
 ### Narrative & Identity
 *   **Personality/Behavior:** A man of shadows and silence; highly secretive.
-*   **Legacy:** Left behind a brittle journal, a satchel, and the Dark Black Shard.
+*   **Legacy:** Left behind a brittle journal and the Dark Black Shard, sparking the investigation into the Sorrow.
 
 ### Mechanical Details (Unified Entity Protocol)
-
-#### Known Values (Historical)
 *   **Known Facts:** 
     *   Attempted to fuse his soul with the Black Shard; rejected.
     *   Expert in antiquities and "cold-forging" lore.
+
+---
+
+## The Pale-Eyed Figure [STRATUM: ??] [NPC_TYPE: UNIQUE]
+**Role/Type:** Murderer / Shadow
+**Status:** Active (At Large)
+
+### Summary
+The silent, black-cloaked figure who murdered Berath in the Boar and Barrel on Day 1.
+
+### Narrative & Identity
+*   **Weapon:** A dark blade that leaves no blood.
+*   **Goal:** Pursuing the Black Shard.

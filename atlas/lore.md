@@ -11,44 +11,41 @@ This file contains the consolidated repository of knowledge discovered during th
 **Reliability:** Confirmed
 
 ### Detailed Context
-A dark shard of unknown material recovered from Berath. It is exceptionally dense (5.0 lbs) and acts as a metaphysical absence. It draws supernatural "wrongness" toward it and vibrates at a bone-deep frequency.
+A dark shard of unknown material recovered from Berath. It is exceptionally dense (5.0 lbs) and acts as a metaphysical absence. It draws supernatural "wrongness" toward it and vibrates at a bone-deep frequency. It acts as a beacon for Resonant threats.
 
 ### Resonance & Relationships
-*   **Related Entities:** [[Berath]], [[Pale-Eyed Figure]]
-*   **Related Locations:** [[The Obelisk]]
+*   **Related Entities:** [[Berath]], [[Pale-Eyed Figure]], [[Void-Touched Sentinel]]
+*   **Related Locations:** [[The Obelisk]], [[The Old Mason's Yard]]
 
 ---
 
 ## The Murder of Berath
 **Discovery Date:** Day 2 / 19:30
 **Source:** Oakhaven Witnesses
-**Reliability:** Probable
+**Reliability:** Confirmed
 
 ### Detailed Context
-Berath's body was taken to the Old Mason's Yard for holding.
-
-### Resonance & Relationships
-*   **Related Entities:** [[Berath]], [[Hera]]
-*   **Related Locations:** [[The Old Mason's Yard]]
+Berath was murdered in the gap. His body was taken to the Old Mason's Yard for holding, where it became a focal point for the mountain's "reaching."
 
 ---
 
 ## The White-Frost Blight [STRATUM: 3_FROZEN_EXPANSE]
-...
----
-
-## Old Cut Iron [STRATUM: 2_ERODING_AGE]
-**Discovery Date:** Day 3 / 13:26
-**Source:** Vesper's Wagon / Oakhaven Market
+**Discovery Date:** Day 3
+**Source:** Harlen / Father Vane
 **Reliability:** Confirmed
 
 ### Detailed Context
-A rare and exceptionally dense form of iron recovered from the deepest, oldest levels of the Sword Mountain mines. It is characterized by a dull, blue-grey sheen and extreme molecular stability. Unlike modern surface iron, it was forged under primordial pressure and responds perfectly to cold-forming techniques.
+A supernatural cold that actively consumes the "will" of materials and flesh. It makes iron brittle, causing weapons to shatter, and can induce physical paralysis or stiffness in living tissue (observed in Harlen's shoulder). It can be purged via the *Mending* cantrip or divine realignment rituals.
 
-### Resonance & Relationships
-*   **Related Entities:** [[Vesper]]
-*   **Related Locations:** [[The Old Cut]]
-*   **Mechanical Utility:** Provides superior stability as an artisan support tool; increases the quality of finished items.
+---
+
+## Old Cut Iron (Deep Iron) [STRATUM: 2_ERODING_AGE]
+**Discovery Date:** Day 3 / 13:26
+**Source:** Vesper / Harlen
+**Reliability:** Confirmed
+
+### Detailed Context
+A rare, dense, night-black metal recovered from the oldest levels of the mountains. It is characterized by extreme molecular stability and resists mundane forge-heat, but responds perfectly to cold-forming techniques. It is highly valued for its ability to resist the White-Frost.
 
 ---
 
@@ -58,20 +55,44 @@ A rare and exceptionally dense form of iron recovered from the deepest, oldest l
 **Reliability:** Probable (Rumor/Witness)
 
 ### Detailed Context
-A supernatural phenomenon moving north through the Dalelands and toward the Sword Mountains. Witnesses describe entire villages that have simply "stopped." The inhabitants are found frozen in place—not dead in the traditional sense, but cold as ice and unresponsive, appearing like statues made of flesh. The air in these "Silenced" areas is reported to feel heavy and thick.
-
-### Resonance & Relationships
-*   **Related Locations:** [[The Western Cut]] (Reported Silenced)
-*   **Theories:** Possibly linked to the "Dreaming Mind" stratum or a metaphysical expansion of the frost.
+A phenomenon moving north. Entire villages are found "stopped"—inhabitants appear like flesh statues, frozen but not dead in a traditional sense. The air feels heavy and thick.
 
 ---
 
-## The Restless Yard
-**Discovery Date:** Day 3 / 13:38
-**Source:** Master Hobb
-**Reliability:** Probable (Intelligence)
+## The Silence of the Yard [STRATUM: 5_RESONANT_VOID]
+**Discovery Date:** Day 5 / 18:00
+**Source:** Battle of the Old Mason's Yard
+**Reliability:** Confirmed
 
 ### Detailed Context
-Rumors from the Market Square suggest that the town guards stationed at the **Old Mason's Yard** (where Berath's body is held) are becoming increasingly anxious. They are reportedly not just standing watch, but keeping a vigil for something they expect to "wake up."
+Following the emergence of a Void-Touched Sentinel from Berath's tomb, the Old Mason's Yard has been claimed by a permanent **Aura of Silence**. No sound can be produced or heard within its walls. The site is currently quarantined by the Oakhaven Guard.
 
+---
 
+## Void-Touched Sentinel [STRATUM: 5_RESONANT_VOID]
+**Discovery Date:** Day 5 / 17:45
+**Source:** Direct Encounter
+**Reliability:** Confirmed
+
+### Detailed Context
+A seven-foot-tall skeletal construct reinforced with rusted iron bands. It emits an absolute Aura of Silence (10ft radius) that prevents verbal communication and spellcasting. Its strikes carry the "Toll of the Void," causing lingering, catastrophic physical and metaphysical injuries.
+
+---
+
+## Resonant Figures [STRATUM: 5_RESONANT_VOID]
+**Discovery Date:** Day 5 / 17:15
+**Source:** Direct Encounter
+**Reliability:** Confirmed
+
+### Detailed Context
+Pale, elongated humanoid figures with white, pupilless eyes. They move with a jerky, gravity-defying grace and scuttle along walls. Upon death, they dissolve into grey ash. They appear to be drawn to resonant artifacts and the "reaching" of the mountain.
+
+---
+
+## The Mountain's Reach
+**Discovery Date:** Day 5 / 16:30
+**Source:** Father Vane
+**Reliability:** Confirmed (Theology)
+
+### Detailed Context
+The Sound of the mountain scratching or thumping against stone is not a body waking, but the mountain itself *reaching* for a soul. When a resonant individual dies, the transition to the "Quiet" can be exploited by the mountain's hunger, using the stone itself as a vessel to manifest horrors.

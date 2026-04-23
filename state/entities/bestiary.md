@@ -11,36 +11,28 @@ This file contains discovery-based state blocks and tactical notes for creatures
 **Faction:** [[Mountain Sentinels]]
 
 ### Summary
-Humanoid figures that move with a gravity-defying grace, drawn to the resonance of the Dark Shard.
+Pale, elongated humanoid figures that move with a gravity-defying grace. They appear to be scouts or harbingers for deeper void threats.
 
 ### Narrative & Identity
-*   **Appearance:** Pale-eyed, wearing tattered black cloaks that seem to absorb light.
-*   **Sounds:** A low, rhythmic clicking or humming.
-*   **Personality/Behavior:** Aggressive toward those carrying Resonant objects.
+*   **Appearance:** Pupilless white eyes; skin like dead fish; jerky, scuttling movements.
+*   **Sounds:** A low, rhythmic clicking; high-pitched glass-like shrieks upon death.
+*   **Personality/Behavior:** Aggressive; drawn to resonant objects and the "reaching" of the mountain.
 
 ### Mechanical Details (Unified Entity Protocol)
 
 #### Statistics
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ?? | 14 (+2) | ?? | ?? | ?? | ?? |
+| 10 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 #### Known Values (Observed)
 *   **Armor Class (AC):** 12 (Natural)
-*   **Speed:** 30 ft. (Gravity-defying)
+*   **Hit Points (HP):** 12 (Standard)
+*   **Speed:** 30 ft. (Can move along vertical surfaces)
 *   **Disposition:** Hostile
 *   **Known Facts:** 
-    *   Attacks with a "Void-Touch" that causes force damage.
-    *   Moves with unnatural grace and speed.
-
-#### Unknown Values (??)
-*   **Hit Points (HP):** ?? (~15 observed)
-*   **Challenge (CR):** ?? (approx 1/2)
-*   **Hidden Resistances:** ??
-
-### Combat Style & Mechanics
-*   **Tactics:** Ambushes from high ground; uses terrain to strike and retreat.
-*   **Sensory Cues:** Air grows heavy and silent before they appear.
+    *   **Void-Touch:** Claws cause slashing/force damage.
+    *   **Dissolution:** Dissolves into grey ash upon death.
 
 ---
 
@@ -50,61 +42,30 @@ Humanoid figures that move with a gravity-defying grace, drawn to the resonance 
 **Faction:** [[Mountain Sentinels]]
 
 ### Narrative & Identity
-*   **Appearance:** Massive skeletal frame reinforced with dark metal bands.
-*   **Sounds:** Bone-on-bone grinding; absolute silence emitted in a radius.
+*   **Appearance:** Seven-foot skeletal frame reinforced with rusted iron bands; hollow head emitting a dark void.
+*   **Sounds:** Bone-on-bone grinding; absolute silence.
 
 ### Mechanical Details (Unified Entity Protocol)
 
 #### Statistics
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 16 (+3) | ?? | 14 (+2) | ?? | ?? | ?? |
+| 16 (+3) | 10 (+0) | 14 (+2) | 6 (-2) | 14 (+2) | 12 (+1) |
 
 #### Known Values (Observed)
-*   **Armor Class (AC):** 14 (Metal Re-enforcement)
+*   **Armor Class (AC):** 14 (Metal Reinforcement)
+*   **Hit Points (HP):** ~35-40
 *   **Speed:** 30 ft.
+*   **Challenge (CR):** 2
 *   **Known Facts:** 
-    *   Makes a "Multiattack" with resonant claws.
-    *   Critical hits cause lingering injuries.
-    *   Emits an Aura of Silence.
+    *   **Multiattack:** Two claw strikes per action.
+    *   **Aura of Silence:** 10ft radius; no sound can be produced or heard (prevents Verbal spellcasting).
+    *   **Toll of the Void:** Critical hits inflict Lingering Injuries.
 
 #### Unknown Values (??)
-*   **Hit Points (HP):** ?? (~30 wounded observed)
-*   **Challenge (CR):** ?? (approx 2)
-*   **Hidden Resistances:** ?? (High physical resistance suspected)
+*   **Resistances:** Suspected resistance to cold and non-magical physical damage.
 
 ---
 
 ## Rat-Dogs (Giant Rats) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
-**Role/Type:** Small beast
-**Habitat:** Urban ruins / Cellars / Granaries
-**Faction:** [[Unassigned]]
-
-### Summary
-Feral rodents that have grown to unnatural size, driven by a desperate and aggressive hunger.
-
-### Narrative & Identity
-*   **Appearance:** Matted fur, yellowed incisors, and eyes that reflect a dim, sickly light.
-*   **Sounds:** Wet, rhythmic scratching and low, guttural hisses.
-*   **Behavior:** Unnaturally persistent; they will fight to the death even when the pack is broken.
-
-### Mechanical Details (Unified Entity Protocol)
-
-#### Statistics
-| STR | DEX | CON | INT | WIS | CHA |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) |
-
-#### Known Values (Observed)
-*   **Armor Class (AC):** 12
-*   **Speed:** 30 ft.
-*   **Disposition:** Hostile
-*   **Known Facts:** 
-    *   **Pack Tactics:** Advantage on attack rolls if an ally is within 5 feet of the target.
-    *   **Keen Smell:** Advantage on Wisdom (Perception) checks that rely on smell.
-
-#### Unknown Values (??)
-*   **Hit Points (HP):** 7 (Standard)
-*   **Challenge (CR):** 1/8 (Standard)
-*   **Hidden Resistances:** None observed.
-
+... (Unchanged)

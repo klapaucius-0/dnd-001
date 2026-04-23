@@ -11,12 +11,12 @@ This file contains the spatial hierarchy and navigation data for the campaign wo
 **Scale:** Narrative (Settlement)
 
 ### Summary
-A hardy frontier town built into the lower slopes of the mountain range. It serves as a vital trade hub for timber and ore, though it feels increasingly isolated.
+A hardy frontier town built into the lower slopes of the mountain range. It serves as a vital trade hub for timber and ore, though it feels increasingly isolated and paranoid.
 
 ### Atmosphere & Mood
 *   **The "Vibe":** Social friction, scarcity, paranoia.
 *   **Sensory Details:** Smells of pine resin and wet wool; sound of constant mountain wind.
-*   **Layered Sensory:** The "fragility" of the surface is felt in the wary eyes of the locals.
+*   **Deepening Winter:** Frost now forms on the *inside* of windowpanes; fuel is rationed.
 
 ### Spatial Navigation
 *   **Parent Location:** [[The Sword Mountains]]
@@ -25,10 +25,28 @@ A hardy frontier town built into the lower slopes of the mountain range. It serv
 | :--- | :--- | :--- | :--- |
 | [[The North Cut]] | 8 miles | 3 hours | Rough mountain trail. |
 | [[The Frozen Gap]] | 25 miles | 12 hours | Steep ascent; lethal cold. |
+| [[Old Mason's Yard]] | 0.5 miles | 30 mins | High Alley; steep climb. |
 
 ### Key Spots
 *   **The Boar and Barrel Tavern:** A rare bastion of social warmth.
-*   **The Chapel of Oakhaven:** A stone structure dedicated to Kelemvor.
+*   **The Chapel of Oakhaven:** Stone sanctuary dedicated to Kelemvor; provides spiritual protection.
+*   **Harlen's Forge:** Central industrial hub; currently struggling with contaminated iron.
+*   **The Granary:** Massive timber-framed warehouse; controlled by Master Hobb.
+
+---
+
+## Old Mason's Yard [STRATUM: 5_RESONANT_VOID]
+**Setting Context:** Oakhaven (High Alley)
+**Frequency:** LOW
+**Scale:** Narrative (Quarantined Zone)
+
+### Summary
+A stark, walled enclosure at the town's highest point where the fortifications meet the cliffside. Formerly a mason's workshop and temporary tomb, it is now the site of the "Battle of the Yard."
+
+### Atmosphere & Mood
+*   **The Silence:** An absolute Aura of Silence permeates the Yard. No sound can be produced or heard within its walls.
+*   **Sensory Details:** Crushing stillness; bitter, unnatural cold; the smell of grey ash and pulverized granite.
+*   **Condition:** Quarantined. Heavily bolted iron gates; guards station themselves at a distance.
 
 ---
 
@@ -38,18 +56,11 @@ A hardy frontier town built into the lower slopes of the mountain range. It serv
 **Scale:** Narrative (Excavation)
 
 ### Summary
-A narrow mining passage or excavation recently sealed due to structural instability.
+A narrow mining passage or excavation recently sealed due to structural instability. The source of the North Cut wind and periodic "White-Frost" outbreaks.
 
 ### Atmosphere & Mood
 *   **The "Vibe":** Antiquity, decay, collapsing history.
-*   **Sensory Details:** Choking dust; smell of ancient masonry.
-
-### Spatial Navigation
-*   **Parent Location:** [[Sword Mountains]]
-*   **Travel Registry:**
-| Destination | Distance | Time (Base) | Notes |
-| :--- | :--- | :--- | :--- |
-| [[Oakhaven]] | 8 miles | 3 hours | Downward descent. |
+*   **Sensory Details:** Choking dust; smell of ancient masonry; rhythmic, hollow howling.
 
 ---
 
@@ -61,16 +72,11 @@ A narrow mining passage or excavation recently sealed due to structural instabil
 ### Summary
 A high, narrow mountain pass marking the boundary between the frontier and the deep wilderness.
 
-### Spatial Navigation
-*   **Parent Location:** [[Sword Mountains]]
-*   **Travel Registry:**
-| Destination | Distance | Time (Base) | Notes |
-| :--- | :--- | :--- | :--- |
-| [[The Frozen Gap]] | 25 miles | 12 hours | Hazardous descent. |
-| [[The Western Cut]] | 15 miles | 6-12 hours | Steep ascent; Shepherd's Path. |
-
 ### Key Spots
-*   **The Obelisk [STRATUM: 5_RESONANT_VOID]:** An ancient metal ruin reacting to the Dark Shard.
+*   **The Obelisk [STRATUM: 5_RESONANT_VOID]:** An ancient metal ruin reacting to resonant artifacts.
+*   **The Weeping Shelf:** A treacherous ridge where Wael first encountered Kaelen.
+*   **The Mountain's Throat:** A deep fissure leading to the lower caverns.
+*   **The Frozen Grove:** A hidden valley near the timberline containing Mother Halsa's Shack.
 
 ---
 
@@ -80,12 +86,4 @@ A high, narrow mountain pass marking the boundary between the frontier and the d
 **Scale:** Narrative (Ruined Village)
 
 ### Summary
-A high-altitude valley formerly known for weavers and shepherds. Reported to be the first local victim of the "White Silence."
-
-### Spatial Navigation
-*   **Parent Location:** [[Sword Mountains]]
-*   **Travel Registry:**
-| Destination | Distance | Time (Base) | Notes |
-| :--- | :--- | :--- | :--- |
-| [[Oakhaven]] | 15 miles | 6-12 hours | Steep ascent. |
-
+A high-altitude valley formerly known for weavers and shepherds. The first local victim of the "White Silence." Entire populations are reported to be frozen in place like statues.
