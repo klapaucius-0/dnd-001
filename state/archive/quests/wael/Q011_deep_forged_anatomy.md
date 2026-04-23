@@ -1,5 +1,5 @@
 # [Q011] The Deep-Forged Anatomy
-**Status:** [PENDING]
+**Status:** [ABANDONED]
 **Scale:** [MAJOR]
 **Related Stratum:** [STRATUM: 3_FROZEN_EXPANSE]
 

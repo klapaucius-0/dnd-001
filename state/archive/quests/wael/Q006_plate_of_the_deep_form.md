@@ -1,5 +1,5 @@
 # [Q006] The Plate of the Deep-Form
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MASSIVE]
 **Related Stratum:** [STRATUM: 2_ERODING_AGE]
 

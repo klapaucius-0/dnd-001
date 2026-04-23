@@ -89,6 +89,21 @@ Pale, elongated humanoid figures with white, pupilless eyes. They move with a je
 
 ---
 
+## Berath's Journal
+**Discovery Date:** Day 1 / 17:00
+**Source:** Cold-Iron Obelisk (Berath's Satchel)
+**Reliability:** Confirmed
+
+### Detailed Context
+A brittle journal recovered by Wael from the Frozen Gap. The entries are frantic and cryptic, detailing Berath's research into the mountain's deeper rhythmic layers.
+
+### Key Discoveries
+*   **The Deep Frost Network:** A hypothesized web of resonance connecting various siphons (like the Obelisk) across the Sword Mountains.
+*   **The "Still-Forge" Ruse:** A mention of a "Still-Forge" which Wael identified as a deceptive term used to mask deeper intentions or a specific resonant frequency.
+*   **The Roots:** Mentions of the mountain's "Roots" being active and hungry.
+
+---
+
 ## The Mountain's Reach
 **Discovery Date:** Day 5 / 16:30
 **Source:** Father Vane

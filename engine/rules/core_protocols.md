@@ -46,9 +46,18 @@ Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 
 ## 7. Unified Entity Protocol (UEP)
 All non-player beings follow a discovery-based state model in `state/entities/`.
-1.  **Known Values:** Data observed in play.
-2.  **Unknown Values (??):** Data hidden from the player.
-3.  **Discovery Triggers:** New values are unmasked through checks or observation.
+1.  **Revealed Facts:** Data observed or discovered by the current protagonist.
+2.  **Unrevealed Facts:** Data hidden from the current player, marked with the **`[NOT_REVEALED]`** tag.
+3.  **Historical Connection:** Relevant interactions or shared history with deceased or departed PC characters. The name of the former PC character (e.g., **Wael**, **Berath**) MUST be explicitly stated to ensure clarity and avoid confusion with the active protagonist.
+4.  **Social Connection:** Documented relationships or significant interactions between NPCs.
+5.  **Historical Contributions:** Specific physical, structural, or significant narrative impacts made by a previous PC on the NPC or their environment (e.g., restoring a forge, saving their life). These MUST be explicitly attributed to the former character by name.
+6.  **Discovery Triggers:** Facts tagged as `[NOT_REVEALED]` are unmasked through checks, observation, or narrative events.
+7.  **Transition Rule:** When preparing for a new protagonist, existing NPC details MUST NOT be deleted. Instead:
+    *   Interactions with previous PCs are moved to the **Historical Connection** section.
+    *   Actions or impacts from previous PCs MUST be explicitly added to a **Historical Contributions** section.
+    *   Any revealed facts that the new character would not logically know are re-tagged as **`[NOT_REVEALED]`**.
+    *   All **Standing** values are reset to Level 0 (0/20 SP) [Stranger].
+    *   All **Last Interaction** fields are reset to `---` or Day 0.
 
 ## 8. Archiving & Lifecycle Management
 To keep the active workspace lean and optimized for AI agents, the following archiving protocols are mandatory:
@@ -67,6 +76,22 @@ To keep the active workspace lean and optimized for AI agents, the following arc
 ### C. State Archiving (`state/archive/`)
 *   **Defunct Entities:** Move deceased or permanently departed NPC files from `state/entities/` to `state/archive/entities/`.
 *   **Legacy Characters:** Move historical character state snapshots to `state/archive/characters/`.
+
+### D. New Character Transition Protocol (Mandatory Reset)
+When preparing for a new protagonist after a character's death or departure, the following synchronization steps are MANDATORY to ensure a clean mechanical start while maintaining narrative depth:
+
+1.  **Social & Reputation SP:** Reset all Individual SP (Relationship log) and Faction SP (Reputation log) to `0`. The new character starts as a `[Stranger]` mechanically.
+2.  **NPC Last Interactions:** Reset the `Last Interaction` field for all NPCs in `state/entities/` and `state/world_state.md` to `---` or Day 0, reflecting that the new PC has no prior history with them.
+3.  **Quests:** Update the status of all active/pending quests (e.g., FAILED, ABANDONED, COMPLETED) and move the files to the appropriate quest archive directory (`state/archive/quests/`).
+4.  **Atlas Synchronization (CRITICAL MANDATE):** Before finalizing the transition, the DM MUST painstakingly parse **ALL non-archived AND ALL archived logs and chronicles without exception**. It is absolutely paramount that both historical archived data and recent non-archived data are used in tandem to update every relevant file in the `atlas/` directory. This ensure the world perfectly reflects the campaign's discoveries and the fallen character's legacy. This explicitly includes:
+    *   `atlas/lore.md`
+    *   `atlas/locations.md`
+    *   `atlas/graveyard.md`
+    *   `atlas/artifacts.md`
+    *   `atlas/crafting/blueprints.md`
+    *   `atlas/crafting/materials/` (all relevant files)
+    *   `atlas/crafting/tools.md`
+5.  **UEP Preservation & Contributions:** Apply the **UEP Transition Rule** (Section 7.7). NPC details MUST NOT be deleted. Instead, they should be shifted to **Historical Connection**, **Historical Contributions**, or **Social Connection** sections, explicitly naming the previous PC character (e.g., **Wael**, **Berath**) to prevent confusion with the active protagonist. Any revealed facts that the new character would not logically know are re-tagged as **`[NOT_REVEALED]`**.
 
 ## 9. Session Termination & Recursion
 Upon the conclusion of a narrative campaign session (indicated by the user command "End Session" or "End Campaign Session"), the agent **MUST NOT** simply stop. 
@@ -170,3 +195,9 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[QUEST: ]`**: Update to the quest tracker (Status string).
 *   **`[UEP: ]`**: Unmasking of a Unified Entity Protocol fact/trait (String).
 *   **`[VALUE: ]`**: Algorithmic valuation of an item or material (Numeric + Denomination). See [[engine/rules/economy.md]].
+
+## 11. AI Operational & Editing Standards
+To ensure repository integrity and maintain a clean file history:
+1.  **Surgical Edits:** Every edit in any file MUST be made with extreme care to ensure only the intended lines are modified. 
+2.  **Newline Integrity:** The AI MUST be mindful of newline characters (`\n`, `\r\n`) and existing indentation. Edits should not inadvertently add or remove whitespace or blank lines unless explicitly required.
+3.  **Ambiguity Avoidance:** When using tools like `replace`, provide enough context in the `old_string` to ensure a unique match and avoid "ghost" changes in surrounding text.

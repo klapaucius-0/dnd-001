@@ -1,5 +1,5 @@
 # [Q013] The Stillness of the Deep
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [EPIC]
 **Related Stratum:** [STRATUM: 4_SUNKEN_STONE]
 

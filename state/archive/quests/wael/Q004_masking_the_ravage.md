@@ -1,5 +1,5 @@
 # [Q004] Masking the Ravage
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MINOR]
 **Related Stratum:** [STRATUM: 1_FRAGILE_SURFACE]
 

@@ -1,5 +1,5 @@
 # [Q009] Restoration of the Flesh
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MAJOR]
 **Related Stratum:** [STRATUM: 7_KINDLED_HEARTH]
 

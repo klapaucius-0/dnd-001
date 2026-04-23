@@ -1,5 +1,5 @@
 # [Q005] Strength in Numbers
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MODERATE]
 **Related Stratum:** [STRATUM: 1_FRAGILE_SURFACE]
 

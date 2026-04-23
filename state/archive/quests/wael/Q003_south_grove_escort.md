@@ -1,5 +1,5 @@
 # [Q003] The South Grove Escort
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MINOR]
 **Related Stratum:** [STRATUM: 1_FRAGILE_SURFACE]
 

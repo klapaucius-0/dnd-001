@@ -1,5 +1,5 @@
 # [Q014] Building the Bastion
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MAJOR]
 **Related Stratum:** [STRATUM: 1_FRAGILE_SURFACE]
 

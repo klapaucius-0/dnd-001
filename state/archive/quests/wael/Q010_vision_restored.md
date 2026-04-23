@@ -1,5 +1,5 @@
 # [Q010] Vision Restored
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MAJOR]
 **Related Stratum:** [STRATUM: 7_KINDLED_HEARTH]
 

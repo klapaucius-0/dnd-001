@@ -8,35 +8,30 @@ This file tracks named monsters, major story NPCs, and legacy figures.
 ## Mother Halsa [STRATUM: 3_FROZEN_EXPANSE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Hermit / Hunter
 **Bond Type:** Associate
-**Standing:** Level 0 (1/20 SP) [Neutral]
-**Last Interaction:** Day 3 / 10:15 (via Vane / Messengers)
+**Standing:** Level 0 (0/20 SP) [Stranger]
+**Last Interaction:** ---
 
 ### Summary
 An elderly hermit surviving in the lethal cold of the Frozen Grove.
 
+### Historical Connection
+*   **Wael:** Provided the dwarf with **Ghost-Root** on Day 2.
+*   **Berath:** Knew the scholar-cleric before his death.
+
+### Historical Contributions
+*   **Wael:** Showed deep respect for the sanctity of the grove.
+
 ### Narrative & Identity
-*   **Appearance:** Weathered and ancient; wearing heavy, frost-rimed pelts.
-*   **Personality/Behavior:** Friendly but cautious; surviving through extreme endurance.
-*   **Outlook on Life:** Survival is a craft that requires constant attention and preparation.
+*   **Appearance:** [NOT_REVEALED] (Weathered and ancient; frost-rimed pelts).
+*   **Personality/Behavior:** [NOT_REVEALED] (Friendly but cautious).
+*   **Outlook on Life:** [NOT_REVEALED] (Survival is a craft).
 
 ### Mechanical Details (Unified Entity Protocol)
-
-#### Statistics
-| STR | DEX | CON | INT | WIS | CHA |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ?? | ?? | 16 (+3) | ?? | 15 (+2) | ?? |
-
-#### Known Values (Observed)
-*   **Disposition:** Friendly / Cautious
-*   **Relationship:** Level 0 (0/20 SP) [Stranger]
-*   **Historical Connection:** Provided Wael with **Ghost-Root** to treat his internal injury on Day 2.
-*   **Known Facts:** 
+*   **Statistics:** [NOT_REVEALED] (CON 16, WIS 15).
+*   **Revealed Facts:** 
     *   Expert in mountain herbs and survival.
-    *   Knew Berath well; confirmed he passed through looking hunted.
-
-#### Unknown Values (??)
-*   **Hit Points (HP):** ??
-*   **Hidden History:** ?? (Connection to the mountain's deeper strata)
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Her connection to the mountain's deeper strata.
 
 ---
 
@@ -90,5 +85,5 @@ A secretive scholar of the deep mountain who brought the Dark Shard into Oakhave
 The silent, black-cloaked figure who murdered Berath in the Boar and Barrel on Day 1.
 
 ### Narrative & Identity
-*   **Weapon:** A dark blade that leaves no blood.
-*   **Goal:** Pursuing the Black Shard.
+*   **Weapon:** [NOT_REVEALED] (A dark blade that leaves no blood).
+*   **Goal:** [NOT_REVEALED] (Pursuing the Black Shard).

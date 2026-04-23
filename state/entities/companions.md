@@ -1,41 +1,37 @@
 # Active Companions
 <!-- SOURCE: companions -->
 
-This file tracks the mechanical and social state of characters traveling with Wael.
+This file tracks the mechanical and social state of characters traveling with the protagonist.
+
+---
+
+*(No active companions for the current protagonist. Legacy companions are listed below.)*
 
 ---
 
 ## Kaelen (Legacy Companion) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Human Guide (Scout / Veteran Survivor)
-**Bond Type:** Legacy (Indebted to Wael)
+**Bond Type:** Legacy
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26 (Current)
+**Last Interaction:** ---
 
-### Summary
-A wiry human guide who survived the Battle of the Old Mason's Yard. He is deeply traumatized by the loss of his partner, the dwarf Wael, and feels a heavy responsibility to see his mission through.
+### Historical Connection
+*   **Wael:** Indebted to the dwarf for shared survival and rescue in the Gap; witnessed Wael's final stand.
+*   **Oakhaven:** Survivor of the "Silence of the Yard."
+
+### Historical Contributions
+*   **Wael:** Saved Kaelen's life during the collapse at the Weeping Shelf (Day 2); restored his survival gear (Day 3).
 
 ### Narrative & Identity
-*   **Appearance:** Haunted eyes; wearing salt-stained furs. He carries a heavy burden—both literally and figuratively.
-*   **Voice/Mannerisms:** Quiet, watchful, prone to long silences. He touches the Blue-Green Box at his belt frequently.
-*   **Outlook on Life:** Survival was a lie; sacrifice is the only truth he has left. He stays in Oakhaven, waiting for a reason to move again.
+*   **Appearance:** [NOT_REVEALED] (Haunted eyes; salt-stained furs).
+*   **Personality/Behavior:** [NOT_REVEALED] (Quiet, watchful).
+*   **Outlook on Life:** [NOT_REVEALED] (Survival was a lie).
 
 ### Mechanical Details (Unified Entity Protocol)
-
-#### Statistics
-| STR | DEX | CON | INT | WIS | CHA |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 10 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 14 (+2) | 10 (+0) |
-
-#### Known Values (Observed)
-*   **Hit Points (HP):** 16 / 16 (Recovered)
-*   **Armor Class (AC):** 14 (Scavenged Leather)
-*   **Speed:** 30 ft.
-*   **Disposition (Current Mood):** Grieving / Guarded.
-*   **Key Proficiencies:** Perception (+4), Survival (+4), Stealth (+4).
-*   **Known Facts:** 
-    *   Expert Scout: Advantage on Wisdom checks for mountain paths.
-    *   Holds the remnants of a fallen ally's mission: The Dark Shard (in the Box), the Vice-Clamp, and Wael's journal.
-    *   Survived the "Silence of the Yard."
-
-#### Unknown Values (??)
-*   **Hidden Trauma:** Level 2 Progressive (Active).
+*   **Class Level:** [NOT_REVEALED] (Level 2 Sidekick: Expert).
+*   **Statistics:** [NOT_REVEALED] (STR 10, DEX 14, CON 12, INT 11, WIS 14, CHA 10).
+*   **Revealed Facts:** 
+    *   Expert Scout; carries a shortbow and two daggers.
+    *   Holds the remnants of a fallen ally's mission (Wael's journal and artifacts).
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] The depth of his current trauma.

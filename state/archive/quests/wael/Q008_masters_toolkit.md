@@ -1,5 +1,5 @@
 # [Q008] The Master's Toolkit
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [MAJOR]
 **Related Stratum:** [STRATUM: 1_FRAGILE_SURFACE]
 

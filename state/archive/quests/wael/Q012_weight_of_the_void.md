@@ -1,5 +1,5 @@
 # [Q012] The Weight of the Void
-**Status:** [ACTIVE]
+**Status:** [ABANDONED]
 **Scale:** [EPIC]
 **Related Stratum:** [STRATUM: 5_RESONANT_VOID]
 

@@ -9,16 +9,31 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 **Role/Type:** Tavern Owner
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
 The pragmatic proprietor of the Boar and Barrel. She keeps a watchful eye on the local scouts and ensures her hearth stays lit against the deepening winter.
 
+### Historical Connection
+*   **Wael:** Known as the dwarf who mended the town's spears and recently fell at the Old Mason's Yard.
+
+### Historical Contributions
+*   **Wael:** Performed expert repair of the tavern's hearth and window shutter on Day 3.
+
+### Social Connection
+*   **Kaelen:** Provides lodging and watchful oversight as he resides at the tavern.
+
 ### Narrative & Identity
-*   **Known Facts:** 
-    *   Speaks with somber respect of the dwarf who fixed her hearth but fell at the Yard.
-    *   Deeply concerned by the "Silent Quarantine" and its effect on town morale.
-*   **Historical Connection:** Respected the dwarf Wael for his expert repair of her hearth and shutter on Day 3.
+*   **Appearance:** [NOT_REVEALED] (Weathered but sturdy; hands calloused).
+*   **Voice/Mannerisms:** [NOT_REVEALED] (Blunt, direct).
+*   **Outlook on Life:** [NOT_REVEALED] (Survival is about preparation).
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Statistics:** [NOT_REVEALED] (STR 12, DEX 10, CON 14, INT 11, WIS 13, CHA 12).
+*   **Revealed Facts:** 
+    *   Proprietor of the primary social hub in Oakhaven.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Her true opinion of the "Silent Quarantine" and the town's guard.
 
 ---
 
@@ -26,46 +41,32 @@ The pragmatic proprietor of the Boar and Barrel. She keeps a watchful eye on the
 **Role/Type:** Priest of Kelemvor (Elite NPC: Cleric)
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
-A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is a true conduit of Kelemvor's power, standing as one of the few active divine spellcasters in the region.
+A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is a true conduit of Kelemvor's power.
+
+### Historical Connection
+*   **Wael:** Recognized the divine resonance of the dwarf; treated his internal injuries and maimed eye (Day 3/4).
+*   **Berath:** Knew the scholar-cleric before his death.
+
+### Historical Contributions
+*   **Wael:** Purged supernatural White-Frost from the Chapel's altar and restored damaged masonry via *Mending* on Day 3.
 
 ### Narrative & Identity
-*   **Appearance:** Carrying the weight of the town on his shoulders; robes of dusty grey.
-*   **Voice/Mannerisms:** Measured, low-toned, speaking with antique gravity.
-*   **Outlook on Life:** Life is preparation for the inevitable quiet. He views supernatural blights as physical collapsing history.
+*   **Appearance:** [NOT_REVEALED] (Carrying the weight of the town; dusty grey robes).
+*   **Voice/Mannerisms:** [NOT_REVEALED] (Measured, low-toned).
+*   **Outlook on Life:** [NOT_REVEALED] (Life is preparation for the quiet).
 
 ### Mechanical Details (Unified Entity Protocol)
-**Note:** As a Legendary NPC, Vane operates with a "Stationary Master" profile. He possesses power beyond a commoner but is tied to the spiritual sanctity of the Chapel.
-
-#### Statistics
-| STR | DEX | CON | INT | WIS | CHA |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 14 (+2) |
-
-#### Known Values (Observed)
-*   **Class Level:** 4th Level Cleric (Grave/Life Variant)
-*   **Armor Class (AC):** 10 (Robes)
-*   **Hit Points:** ?? (Approx. 25-30)
-*   **Disposition (Current Mood):** Friendly (Baseline: Friendly)
-*   **Key Proficiencies:** Medicine (+5), Religion (+3), Insight (+5).
-
-#### Capabilities & Rituals
-*   **True Cleric Status:** Unlike a common priest, Vane has access to 1st and 2nd level spell slots (Spell Save DC 13).
-*   **Ritual of Realignment:** A unique, high-tax ritual to purge deep corruption or blights. 
-    *   *Effect:* Cleanses supernatural "White-Frost" or "Void-Rot."
-    *   *Cost:* The target immediately gains **1 Level of Exhaustion**.
-*   **Discern Resonance:** Vane can sense the presence of artifacts and divine connection (Identified Wael's Forge-Blessing and the Dark Shard).
-*   **Sanctuary of Kelemvor:** The Chapel acts as a Tier 7 [KINDLED_HEARTH] while Vane is present and active, providing a safe haven against environmental "Void" effects.
-
-#### Known Facts: 
-*   Performs "Realignment" rituals that tax the body (cause Exhaustion).
-*   Senses resonances; recognized the divine connection of the "Dwarf of the Forge."
-*   The Chapel acts as a Tier 7 [KINDLED_HEARTH] while Vane is present and active.
-*   **Historical Facts:**
-    *   Treated the injuries of the Yard's survivors (Day 4/5).
-
+*   **Class Level:** [NOT_REVEALED] (4th Level Cleric).
+*   **Statistics:** [NOT_REVEALED] (STR 10, DEX 10, CON 12, INT 13, WIS 16, CHA 14).
+*   **Capabilities & Rituals:** [NOT_REVEALED] (Access to 1st/2nd level slots; Ritual of Realignment).
+*   **Revealed Facts:** 
+    *   Priest of Kelemvor; maintains the Chapel.
+    *   The Chapel acts as a Tier 7 [KINDLED_HEARTH] while he is active.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Senses resonances.
 
 ---
 
@@ -73,15 +74,21 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is
 **Role/Type:** Daleland Leather Merchant
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
 A pragmatic Daleland trader who knows the value of hard work and honest materials.
 
+### Historical Connection
+*   **Wael:** Engaged in professional commerce and artisan respect (Day 3/4).
+
+### Historical Contributions
+*   **Wael:** Provided reliable business during the early winter supply strain.
+
 ### Narrative & Identity
-*   **Appearance:** Mahogany skin, thick grey beard, dark-stained hands.
-*   **Personality/Behavior:** Gruff but respectful of fellow artisans.
-*   **Outlook:** Survival is about stubbornness and having a trade to anchor you.
+*   **Appearance:** [NOT_REVEALED] (Mahogany skin, thick grey beard).
+*   **Personality/Behavior:** [NOT_REVEALED] (Gruff but respectful).
+*   **Outlook:** [NOT_REVEALED] (Survival is about stubbornness).
 
 ---
 
@@ -89,15 +96,21 @@ A pragmatic Daleland trader who knows the value of hard work and honest material
 **Role/Type:** Felt/Wool Merchant
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
 A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpness.
 
+### Historical Connection
+*   **Wael:** Traded goods to clear excess inventory (Day 3).
+
+### Historical Contributions
+*   **Wael:** Supported her trade during a period of extreme scarcity.
+
 ### Narrative & Identity
-*   **Appearance:** Early sixties, gaunt frame, pale blue eyes.
-*   **Personality/Behavior:** Blunt, efficient, respects those who clear her inventory.
-*   **Outlook:** Scarcity is the only certainty; sanity is a luxury of the warm.
+*   **Appearance:** [NOT_REVEALED] (Early sixties, gaunt frame, pale blue eyes).
+*   **Personality/Behavior:** [NOT_REVEALED] (Blunt, efficient).
+*   **Outlook:** [NOT_REVEALED] (Scarcity is the only certainty).
 
 ---
 
@@ -105,24 +118,27 @@ A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpne
 **Role/Type:** Scavenger / Tool Merchant
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
 A lithe and soot-stained survivor of the North Cut collapse with a deep respect for "Old Cut" iron.
 
+### Historical Connection
+*   **Wael:** Held profound respect for the dwarf's structural restoration of her wagon axle (Day 3).
+
+### Historical Contributions
+*   **Wael:** Performed a structural restoration of her trade wagon axle on Day 3.
+
 ### Narrative & Identity
-*   **Appearance:** Muscular frame, soot-smudged face, silver-scarred hands.
-*   **Personality/Behavior:** Direct, observant, values integrity over aesthetics.
-*   **Outlook:** The mountains don't give up prizes without a cost; history is held in iron.
+*   **Appearance:** [NOT_REVEALED] (Muscular frame, soot-smudged face, silver-scarred hands).
+*   **Personality/Behavior:** [NOT_REVEALED] (Direct, observant).
+*   **Outlook:** [NOT_REVEALED] (History is held in iron).
 
 ### Mechanical Details (Unified Entity Protocol)
-
-#### Known Values (Observed)
-*   **Disposition (Current Mood):** Neutral (Baseline: Neutral)
-*   **Known Facts:** 
+*   **Revealed Facts:** 
     *   Sells tools and scavenged materials.
-*   **Historical Facts:** 
-    *   Profound respect for the master-mason who restored her wagon axle on Day 3.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Knowledge of "Old Cut" iron sources.
 
 ---
 
@@ -130,25 +146,28 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 **Role/Type:** General Trader
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
 A well-fed mercantile broker who manages the town's scarcity with politeness and opportunism.
 
+### Historical Connection
+*   **Wael:** Commissioned the dwarf for the "Restless Yard" vigil and the clearing of "rat-dogs" from the Granary.
+*   **Oakhaven:** Source of rumors regarding the "Silent Quarantine."
+
+### Historical Contributions
+*   **Wael:** Cleared a lethal "rat-dog" infestation from the Granary cellar on Day 4.
+
 ### Narrative & Identity
-*   **Appearance:** Portly, well-groomed, wire-rimmed spectacles, signet ring.
-*   **Personality/Behavior:** Calculating, baritone voice, polite but extractive.
-*   **Outlook:** Information and standing are the currencies of the surface.
+*   **Appearance:** [NOT_REVEALED] (Portly, well-groomed, wire-rimmed spectacles).
+*   **Personality/Behavior:** [NOT_REVEALED] (Calculating, baritone voice).
+*   **Outlook:** [NOT_REVEALED] (Information and standing are currency).
 
 ### Mechanical Details (Unified Entity Protocol)
-
-#### Known Values (Observed)
-*   **Disposition (Current Mood):** Neutral (Baseline: Neutral)
-*   **Known Facts:** 
+*   **Revealed Facts:** 
     *   Knowledgeable regarding local trade and supply lines.
-*   **Historical Facts:** 
-    *   Commissioned the "Restless Yard" vigil that resulted in a permanent silence.
-    *   Previously traded survival gear for intelligence on town stability.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] The extent of his stockpiles.
 
 ---
 
@@ -156,24 +175,31 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 **Role/Type:** Town Guard (Veteran)
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
-A vocal but high-strung guard who survived the Battle of the Old Mason's Yard. The experience has left him with a visible nervous tic.
+A vocal but high-strung guard who survived the Battle of the Old Mason's Yard.
+
+### Historical Connection
+*   **Wael:** Saved by the dwarf's command and sacrifice at the Old Mason's Yard.
+
+### Historical Contributions
+*   **Wael:** Restored Toren's frost-bitten spear via *Mending* on Day 5.
+
+### Social Connection
+*   **Hov:** Shared survival at the Yard; fellow Veteran.
 
 ### Narrative & Identity
-*   **Appearance:** Often seen touching the iron gorget at his throat; eyes are constantly scanning the shadows.
-*   **Voice/Mannerisms:** Gravelly voice, prone to speaking more than necessary to fill the silence.
-*   **Personality:** Prone to panic but disciplined enough to stay at his post if led.
-*   **Outlook:** Believes the town is a sinking ship, but he's determined to go down with his spear in hand.
+*   **Appearance:** [NOT_REVEALED] (Touches iron gorget; eyes scanning shadows).
+*   **Voice/Mannerisms:** [NOT_REVEALED] (Gravelly voice; prone to speaking to fill silence).
+*   **Personality:** [NOT_REVEALED] (Prone to panic but disciplined).
 
 ### Mechanical Details (Unified Entity Protocol)
-*   **Disposition:** Wary / Respectful.
-*   **Known Facts:** 
+*   **Revealed Facts:** 
     *   Responsible for town security.
-*   **Historical Facts:**
-    *   Survived the "Silence of the Yard" incident and was promoted to Veteran status.
-    *   Respects the fallen dwarf who mended the town's spears and held the line at the Yard.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] The psychological toll of the Yard.
+
 
 ---
 
@@ -181,35 +207,45 @@ A vocal but high-strung guard who survived the Battle of the Old Mason's Yard. T
 **Role/Type:** Town Guard (Veteran)
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
-A young, disciplined, and mostly silent guard who carries the trauma of the Yard with rigid military focus.
+A young, disciplined, and mostly silent guard who carries the trauma of the Yard.
+
+### Historical Connection
+*   **Wael:** Witnessed the dwarf's final stand; carries a spear mended by Wael.
+
+### Historical Contributions
+*   **Wael:** Restored Hov's frost-bitten spear via *Mending* on Day 5.
+
+### Social Connection
+*   **Toren:** Shared survival at the Yard; fellow Veteran.
 
 ### Narrative & Identity
-*   **Appearance:** Face partially obscured by a salt-stained scarf; knuckles are often white from gripping his spear.
-*   **Voice/Mannerisms:** Rarely speaks; communicates through sharp, military nods.
-*   **Personality:** Stoic and intensely focused on duty as a shield against fear.
-*   **Outlook:** Order is the only thing that keeps the frost out.
+*   **Appearance:** [NOT_REVEALED] (Face obscured by scarf; white-knuckled grip).
+*   **Personality:** [NOT_REVEALED] (Stoic and focused on duty).
 
 ### Mechanical Details (Unified Entity Protocol)
-*   **Disposition:** Stoic / Respectful.
-*   **Known Facts:** 
+*   **Revealed Facts:** 
     *   Responsible for town security and wall patrols.
-*   **Historical Facts:** 
-    *   Survived the "Silence of the Yard" alongside Toren and was promoted to Veteran status.
-    *   Carries a mended spear and remembers the sacrifice made to hold the Yard.
 
 ---
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: FACTION]
 **Role/Type:** Citizen Group
 **Standing:** Level 0 (0/100 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Historical Context
-*   The town remembers the "Dwarf of the Forge" who mended their spears during the first week of winter.
-*   The community is increasingly paranoid regarding the "Silent Quarantine" at the Old Mason's Yard.
+*   **Wael:** The town remembers the "Dwarf of the Forge" who mended their spears during the first week of winter.
+
+### Historical Contributions
+*   **Wael:** Significant industrial restoration including the forge and chapel.
+
+### Narrative Summary
+*   **Revealed Facts:** [NOT_REVEALED] (Respect for artisan skill).
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] The community's increasing paranoia regarding the "Silent Quarantine."
 
 ---
 
@@ -217,23 +253,27 @@ A young, disciplined, and mostly silent guard who carries the trauma of the Yard
 **Role/Type:** Grove Keeper / Herbalist
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
-A quiet and observant caretaker of the small grove within Oakhaven's protective circle.
+A quiet and observant caretaker of the small grove within Oakhaven.
+
+### Historical Connection
+*   **Wael:** Provided the dwarf with **Ghost-Root** on Day 2.
+*   **Berath:** Knew the scholar-cleric before his death.
+
+### Historical Contributions
+*   **Wael:** Showed deep respect for the sanctity of the grove.
 
 ### Narrative & Identity
-*   **Appearance:** Small, hunched, skin like wrinkled bark; eyes the color of dried moss.
-*   **Voice/Mannerisms:** Rare speech, mostly communicates through small gestures or hums.
-*   **Outlook on Life:** Life is a slow growth against a fast decay; respect the roots.
+*   **Appearance:** [NOT_REVEALED] (Small, hunched, skin like wrinkled bark).
+*   **Outlook on Life:** [NOT_REVEALED] (Life is slow growth against fast decay).
 
 ### Mechanical Details (Unified Entity Protocol)
-
-#### Known Values (Observed)
-*   **Disposition (Current Mood):** Neutral (Baseline: Neutral)
-*   **Known Facts:** 
+*   **Revealed Facts:** 
     *   Tends to the Frost-Vein Lichen and local medicinal herbs.
-    *   Values silence and respect for the living world.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Her connection to the mountain's deeper strata.
 
 ---
 
@@ -241,21 +281,25 @@ A quiet and observant caretaker of the small grove within Oakhaven's protective 
 **Role/Type:** Town Blacksmith
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** Day 26
+**Last Interaction:** ---
 
 ### Summary
-A gruff, overworked blacksmith struggling against contaminated iron and failing tools.
+A gruff, overworked blacksmith struggling against contaminated iron.
+
+### Historical Connection
+*   **Wael:** Profoundly impressed by the dwarf who restored his workshop and stabilized his anvil.
+
+### Historical Contributions
+*   **Wael:** Performed professional workshop audit, restored bellows and quench tank, and stabilized anvil stand on Day 3.
 
 ### Narrative & Identity
-*   **Appearance:** Broad-shouldered, soot-stained, skin like cured leather.
-*   **Personality/Behavior:** Defensive, blunt, respects those who "see the iron."
-*   **Outlook on Life:** Survival is a losing battle against rot and blunt tools.
-*   **Outlook:** Harlen believes the world is grinding down to nothing. He views his work as a temporary delay of the inevitable collapse.
+*   **Appearance:** [NOT_REVEALED] (Broad-shouldered, soot-stained).
+*   **Outlook on Life:** [NOT_REVEALED] (Survival is a losing battle).
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Revealed Facts:** 
+    *   Expert in mundane metalwork.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Suffers from a right shoulder injury.
+    *   [NOT_REVEALED] Struggles with White-Frost contaminated iron.
 
-#### Known Values (Observed)
-*   **Disposition (Current Mood):** Neutral (Baseline: Neutral)
-*   **Historical Facts:** 
-    *   Profoundly impressed by the dwarf who mended the town's spears and recently fell.
-    *   Workshop was recently stabilized and the anvil stand repaired by a master-mason.
