@@ -9,6 +9,56 @@ This file tracks the mechanical and social state of characters traveling with th
 
 ---
 
+## The Bound Weaver [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
+**Role/Type:** Solitary Weaver (Expert)
+**Bond Type:** Neutral (Traveler)
+**Standing:** Level 1 (20/20 SP) [Stranger]
+**Last Interaction:** Day 28
+
+### Summary
+A gaunt figure from the Western Cut who survived the "White Silence" and now seeks a way to restore their people. They specialize in rhythmic spindle weaving and mountain lore.
+
+### Narrative & Identity
+*   **Appearance:** [REVEALED] Gaunt frame, face obscured by grey felted wool, pale and watchful eyes.
+*   **Voice/Mannerisms:** [REVEALED] Dry, parchment-like voice; mechanical, hypnotic economy of motion.
+*   **Outlook on Life:** [REVEALED] The journey is the only truth; life is a rhythm that must be maintained.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Class Level:** [NOT_REVEALED] (Level 1 Sidekick: Expert).
+*   **Statistics:** [NOT_REVEALED] (STR 10, DEX 14, CON 12, INT 13, WIS 16, CHA 10).
+*   **Revealed Facts:** 
+    *   Expert in rhythmic spindle weaving.
+    *   Practitioner of the "Ghost-Hearth" survival technique.
+    *   Knowledgeable in mountain flora (Ghost-Root, Iron-Needle Pine, Weaver's Moss).
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Their true name.
+
+---
+
+## Alen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: HIRELING]
+**Role/Type:** Siphon-Carrier (Scout / Guide)
+**Bond Type:** Neutral (Indebted)
+**Standing:** Level 1 (20/20 SP) [Stranger]
+**Last Interaction:** Day 28
+
+### Summary
+An Oakhaven-born scout and specialized courier for the Granary. He was rescued by Skaen after being "stopped" by a leaking Siphon-Seal. He knows the secret routes and social hierarchy of Oakhaven.
+
+### Narrative & Identity
+*   **Appearance:** [REVEALED] Salt-stained scout's furs, lead-heavy boots, silver-wired uniform. Weathered face with a jagged jaw scar.
+*   **Voice/Mannerisms:** [REVEALED] Low, gravelly voice; weary but capable.
+*   **Outlook on Life:** [REVEALED] The mountain is an active, predatory force; trust is earned through grounding.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Specialty:** Can grant Advantage on checks to navigate the Western Reach or bypass Oakhaven social obstacles.
+*   **Revealed Facts:** 
+    *   Siphon-Carrier for Master Hobb.
+    *   Born in Oakhaven; father was a mason.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] The true nature of the cargo he was carrying.
+
+---
+
 ## Kaelen (Legacy Companion) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Human Guide (Scout / Veteran Survivor)
 **Bond Type:** Legacy

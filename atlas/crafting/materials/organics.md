@@ -15,6 +15,7 @@
 | **Fruit** | `[MAT: FRUIT]` | `[FREQ: VERY_COMMON]` | x1.0 | `[[PHB]]` | N/A | 1 cp / lb | Edible plant matter. |
 | **Vegetable** | `[MAT: VEGETABLE]` | `[FREQ: VERY_COMMON]` | x1.0 | `[[PHB]]` | N/A | 1 cp / lb | Edible plant matter. |
 | **Fat (Raw)** | `[MAT: FAT]` | `[FREQ: VERY_COMMON]` | x1.0 | `[[XGTE]]` | N/A | 1 cp / lb | Unrefined lipids; rendered into Tallow or used for Soap. |
+| **Mountain Moss** | `[MAT: ORGANIC]` | `[FREQ: COMMON]` | x0.1 | `[HOMEBREW]` | 8 | 1 cp / lb | Dried slow-burning mountain flora; used as fuel base/wick. |
 
 ---
 

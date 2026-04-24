@@ -6,7 +6,7 @@
 **Source:** Skaen's Arrival
 
 ## Summary
-Skaen must traverse the 30-mile stretch of the Old Iron Road to reach the settlement of Oakhaven. The deepening winter and the isolation of the forest present a constant threat to his progress.
+Skaen must traverse the 30-mile stretch of the Old Iron Road to reach the settlement of Oakhaven. The focus of this quest is the **journey** itself—the exploration of the Western Reach, the discovery of what remains on the road, and the slow, methodical navigation of the mountain's silence. The destination is secondary to the experiences and discoveries made along the way.
 
 ## Objectives
 *   [ ] Travel 30 miles toward Oakhaven (0/30 miles).

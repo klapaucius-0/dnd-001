@@ -28,7 +28,7 @@ A narrow, ancient trade route of crushed slate and packed earth. It is a lonely 
 *   **Mechanics:** Perception checks to navigate or spot rare signs of activity.
 
 ## Entities Present
-*   [NOT_REVEALED]
+*   **The Bound Weaver:** A lone, gaunt figure huddled under a canvas lean-to.
 
 ## Discovery & Lore
-*   [NOT_REVEALED]
+*   **The Ghost-Hearth:** A fire fueled by Ghost-Root and dried moss, producing a steady, clean heat with minimal smoke. This is a survival technique of the Western Cut weavers.

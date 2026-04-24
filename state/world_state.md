@@ -1,17 +1,18 @@
 # World State: The Sorrow
 <!-- SOURCE: world_state -->
 
-**Current Day:** 26 (Three weeks since the Battle of the Yard) <!-- SOURCE: time_log -->
-**Current Time:** 10:00 (Morning) <!-- SOURCE: time_log -->
-**Current Location:** Oakhaven
+**Current Day:** 29 (The Stone Path) <!-- SOURCE: time_log -->
+**Current Time:** 13:30 (Afternoon) <!-- SOURCE: time_log -->
+
+**Current Location:** Old Iron Road (Ravine Camp - 26 miles West of Oakhaven)
 
 ## Active Effects & Conditions
 *   **The Silence of the Yard:** The Old Mason's Yard is officially quarantined by the town guard. No sound can be produced within its walls.
 *   **Environmental Stratum:** [STRATUM: 1_FRAGILE_SURFACE] (High Frequency).
-*   **The Deepening Winter:** The North Cut wind has turned predatory; fuel is now extremely scarce.
+*   **The Fraying Tether:** The Old Iron Road is abandoned. Trade has ceased; the primary challenge is the isolation and the absence of others.
 
 ## Global Status
-*   **Weather:** Constant, blinding snow squalls; visibility is less than 30 feet outside the town walls.
+*   **Weather:** Clear skies; extreme cold. Visibility is high.
 
 ## Social Standing (SSOT: reputation_log / relationship_log)
 *   **Oakhaven:** Level 0 (0/100 SP) [Stranger]
@@ -23,9 +24,10 @@
     *   *Hov:* Level 0 (0/20 SP) [Stranger] (Promoted to Veteran status after the Yard incident)
     *   *Mother Halsa:* Level 0 (0/20 SP) [Stranger]
     *   *Bram:* Level 0 (0/20 SP) [Stranger]
-    *   *Elara:* Level 0 (0/20 SP) [Stranger]
+    *   *Elara:* Level 1 (20/20 SP) [Stranger]
     *   *Vesper:* Level 0 (0/20 SP) [Stranger]
     *   *Harlen:* Level 0 (0/20 SP) [Stranger]
+    *   *Alen (Siphon-Carrier):* Level 1 (20/20 SP) [Stranger] (NEW: Rescued on Day 28)
 
 ## Essential Services (Oakhaven)
 *   **Healing (Magical):** Father Vane (Associate) - *Healing Rituals.*
@@ -36,4 +38,4 @@
 
 ## Summary of Active Parties
 *   **Kaelen:** Within Oakhaven, currently residing at the Boar and Barrel. He carries the remnants of Wael's mission (The Stone Box).
-*   **Skaen:** Currently on the Old Iron Road, approximately 30 miles west of Oakhaven.
+*   **Skaen & Party:** Currently on the Old Iron Road (Ravine Camp - 26 miles west). Carrying Siphon-Seal payload.

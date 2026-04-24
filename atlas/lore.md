@@ -122,3 +122,27 @@ Skaen, a Mountain Dwarf and Forge Cleric, spent years in deep seclusion as a her
 ### Resonance & Relationships
 *   **Related Entities:** [[Skaen]]
 *   **Related Items:** [[The Old Blood]]
+
+---
+
+## Ghost-Root [STRATUM: 1_FRAGILE_SURFACE]
+**Discovery Date:** Day 2 / 12:00
+**Source:** Mother Halsa
+**Reliability:** Confirmed
+
+### Detailed Context
+A resin-rich subterranean tuber found in high-altitude mountain fissures. It is highly valued by hermits and scouts for its ability to burn with intense, steady heat while producing almost no smoke and a clean, medicinal scent.
+
+---
+
+## Hermit Customs (The Silence of the Stone)
+**Discovery Date:** Day 27 / 18:30
+**Source:** Skaen's Knowledge
+**Reliability:** Confirmed
+
+### Detailed Context
+A set of unwritten, rhythmic rules governing social interactions between solitary mountain dwellers.
+1.  **Announcement:** Approaching via deliberate sound (e.g., three rhythmic taps) rather than stealth.
+2.  **The Hearth:** A five-foot sacred circle around a fire that requires an explicit invitation to enter.
+3.  **Exchange of Utility:** Communication through the trade of practical goods (salt, leather, twigs) rather than names or history.
+4.  **Respect of the Work:** Waiting for a craft cycle (e.g., spinning, carving) to finish before initiating contact.

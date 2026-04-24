@@ -12,6 +12,7 @@
 | **Perfume** | `[MAT: PERFUME]` | `[FREQ: UNCOMMON]` | x1.0 | `[[PHB]]` | N/A | 5 gp / 1 oz | Scented oils; used in social contexts and as a mask. |
 | **Venom (Raw)** | `[MAT: VENOM]` | `[FREQ: RARE]` | x1.0 | `[[PHB]]` | 15 | 50 gp / dose | Unrefined toxins; base material for the Poisoner's Kit. |
 | **Herbs** | `[MAT: HERB]` | `[FREQ: COMMON]` | x1.0 | `[[XGTE]]` | 10 | 5 sp / lb | Medicinal/alchemical plants; foundational for kits. |
+| **Ghost-Root** | `[MAT: HERB]` | `[FREQ: UNCOMMON]` | x1.0 | `[HOMEBREW]` | 12 | 2 gp / lb | Resinous tuber; burns with intense, clean heat and minimal smoke. |
 | **Vinegar** | `[MAT: VINEGAR]` | `[FREQ: COMMON]` | x1.0 | `[[XGTE]]` | N/A | 2 cp / lb | Acidic liquid; used for pickling and cleaning metal. |
 | **Salt** | `[MAT: SALT]` | `[FREQ: COMMON]` | x1.0 | `[[PHB]]` | N/A | 5 cp / lb | Essential for life and food preservation (curing). |
 | **Flour** | `[MAT: FLOUR]` | `[FREQ: COMMON]` | x1.0 | `[[PHB]]` | N/A | 2 cp / lb | Finely ground grain; primary ingredient in baking. |

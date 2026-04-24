@@ -303,3 +303,29 @@ A gruff, overworked blacksmith struggling against contaminated iron.
     *   [NOT_REVEALED] Suffers from a right shoulder injury.
     *   [NOT_REVEALED] Struggles with White-Frost contaminated iron.
 
+---
+
+## The Bound Weaver [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+**Role/Type:** Solitary Weaver
+**Bond Type:** Neutral
+**Standing:** Level 1 (20/20 SP) [Stranger]
+**Last Interaction:** Day 27
+
+### Summary
+A lone, gaunt figure huddled under a canvas lean-to at The Low Ridge. A practitioner of the "Ghost-Hearth" survival technique.
+
+### Historical Connection
+*   **Western Cut:** Likely a survivor of the village frozen by the White Silence.
+
+### Narrative & Identity
+*   **Appearance:** [NOT_REVEALED] (Gaunt, draped in grey felted wool).
+*   **Voice/Mannerisms:** [NOT_REVEALED].
+*   **Outlook on Life:** [NOT_REVEALED].
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Revealed Facts:** 
+    *   Expert in rhythmic spindle weaving.
+    *   Maintains a Ghost-Hearth fire.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] Their purpose on the road.
+

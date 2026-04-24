@@ -37,7 +37,7 @@ Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 ## 5. Sacred Dice Protocol
 *   **Tool:** `engine/scripts/dice_roller.js`.
 *   **Rule:** Every roll MUST be performed via the script. Hallucinating or "inventing" rolls is a protocol violation.
-*   **Transparency:** Always state the Difficulty Class (DC) or target AC before rolling.
+*   **DC Transparency:** The DM MUST explicitly state the Difficulty Class (DC) or target Armor Class (AC) before any roll is performed. This is a foundational mandate for transparency and player agency.
 
 ## 6. Player Agency & Narrative Pacing (Strict Agency Lock)
 *   **Zero-Movement Policy:** The DM MUST NOT move the player character or companions to a new location without an explicit command from the player.
@@ -155,7 +155,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[MAT: ]`**
     *   **Purpose:** Identifies the primary material of an item.
     *   **Values Type:** Dynamic.
-    *   **Observed Values:** `STEEL`, `WOOD`, `IRON`, `DEEP_IRON`, `CRYSTAL`, `NEATSFOOT_OIL`, `HI_CARBON_STEEL`, `OLD_CUT_IRON`, `SLATE`, `VARIOUS`, `MINERAL`, `ANOMALY`, `BRONZE`, `BRASS`, `SILVER`, `GOLD`, `COPPER`, `SCRAP`, `COAL`, `TIN`, `ZINC`, `WOOL`, `LINEN`, `HEMP`, `SILK`, `LEATHER`, `BONE`, `HORN`, `ANTLER`, `CLAY`, `GLASS`, `PLATINUM`, `LEAD`, `COTTON`, `SALT`, `FLOUR`, `SUGAR`, `SPICES`, `TAR`, `INK`, `PAPER`, `SOAP`, `OIL`, `GRANITE`, `MARBLE`, `SAND`, `CHALK`, `WAX`, `RESIN`, `GLUE`, `CANVAS`, `FEATHER`, `ADAMANTINE`, `MITHRAL`, `SULFUR`, `SALTPETER`, `WATER_DISTILLED`, `ALUM`, `MORTAR`, `VELLUM`, `SINEW`, `PERFUME`, `VENOM`, `ELECTRUM`, `HERB`, `CHITIN`, `SHELL`, `MEAT`, `FRUIT`, `VEGETABLE`, `HIDE`, `FAT`, `BITUMEN`, `GUM_ARABIC`, `LIMESTONE`, `VINEGAR`, `COLD_FORMED_STEEL`, `MERCURY`.
+    *   **Observed Values:** `STEEL`, `WOOD`, `IRON`, `DEEP_IRON`, `CRYSTAL`, `NEATSFOOT_OIL`, `HI_CARBON_STEEL`, `OLD_CUT_IRON`, `SLATE`, `VARIOUS`, `MINERAL`, `ANOMALY`, `BRONZE`, `BRASS`, `SILVER`, `GOLD`, `COPPER`, `SCRAP`, `COAL`, `TIN`, `ZINC`, `WOOL`, `LINEN`, `HEMP`, `SILK`, `LEATHER`, `BONE`, `HORN`, `ANTLER`, `CLAY`, `GLASS`, `PLATINUM`, `LEAD`, `COTTON`, `SALT`, `FLOUR`, `SUGAR`, `SPICES`, `TAR`, `INK`, `PAPER`, `SOAP`, `OIL`, `GRANITE`, `MARBLE`, `SAND`, `CHALK`, `WAX`, `RESIN`, `GLUE`, `CANVAS`, `FEATHER`, `ADAMANTINE`, `MITHRAL`, `SULFUR`, `SALTPETER`, `WATER_DISTILLED`, `ALUM`, `MORTAR`, `VELLUM`, `SINEW`, `PERFUME`, `VENOM`, `ELECTRUM`, `HERB`, `CHITIN`, `SHELL`, `MEAT`, `FRUIT`, `VEGETABLE`, `HIDE`, `FAT`, `BITUMEN`, `GUM_ARABIC`, `LIMESTONE`, `VINEGAR`, `COLD_FORMED_STEEL`, `MERCURY`, `GHOST_ROOT`, `IRON_NEEDLE_RESIN`, `WEAVER_MOSS`, `WINTER_GLINT_BERRY`, `FROST_VEIN_SPORE`, `FROZEN_HEART_BLOOM`, `MOUNTAIN_MOSS`.
     *   **Reference Index:** Must be logged in the `atlas/crafting/materials/` directory.
 *   **`[CAT: ]`**
     *   **Purpose:** Broadly categorizes materials to allow for substitution in generic recipes.
@@ -212,6 +212,8 @@ The DM MUST NOT begin the narrative, describe the starting scene, or transition 
 
 ## 13. AI Operational & Editing Standards
 To ensure repository integrity and maintain a clean file history:
-1.  **Surgical Edits:** Every edit in any file MUST be made with extreme care to ensure only the intended lines are modified. 
+1.  **Surgical Edits:** Every edit in any file MUST be made with extreme care to ensure only the intended lines are modified. Edits should avoid causing the entire file to appear modified in git diffs (e.g., by changing line endings or reformatting unaffected blocks).
 2.  **Newline Integrity:** The AI MUST be mindful of newline characters (`\n`, `\r\n`) and existing indentation. Edits should not inadvertently add or remove whitespace or blank lines unless explicitly required.
+3.  **Ambiguity Avoidance:** When using tools like `replace`, provide enough context in the `old_string` to ensure a unique match and avoid "ghost" changes in surrounding text.
+e mindful of newline characters (`\n`, `\r\n`) and existing indentation. Edits should not inadvertently add or remove whitespace or blank lines unless explicitly required.
 3.  **Ambiguity Avoidance:** When using tools like `replace`, provide enough context in the `old_string` to ensure a unique match and avoid "ghost" changes in surrounding text.
