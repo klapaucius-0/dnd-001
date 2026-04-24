@@ -49,4 +49,25 @@
 *   **Sight:** Matte black; absorbs light around its edges.
 *   **Sound/Frequency:** Bone-deep hum or crushing silence (suppressed when boxed).
 *   **Effect/Essence:** An anomaly of the Resonant Void. It draws "wrongness" toward it.
-ness" toward it.
+
+---
+
+## The Legacy Key [STRATUM: 2_ERODING_AGE] [MAT: [NOT_REVEALED]]
+**Current Status:** Secured inside a Siphon-Seal; held by Skaen.
+**Discovery:** Found with Alen (Day 28) on the Old Iron Road.
+**Rarity:** Very Rare (Unique)
+**Attunement:** Unknown
+
+### Combat & Mechanical Properties
+*   **Item Type:** [NOT_REVEALED]
+*   **Weight:** [NOT_REVEALED] (Payload weight contributes to Siphon-Seal's 5.0 lbs).
+
+### Physical Properties
+*   **Dimensions:** [NOT_REVEALED].
+*   **Composition:** [NOT_REVEALED].
+*   **Condition:** Potentially unstable (caused Siphon leak).
+
+### Sensory Profile
+*   **Touch:** Cool pressure; presence vibrates against grounding focuses.
+*   **Sound/Frequency:** Emits a "hunger" when the seal is compromised.
+*   **Effect/Essence:** A relic of the deeper North Cut levels; essential for Oakhaven's defense.

@@ -146,3 +146,33 @@ A set of unwritten, rhythmic rules governing social interactions between solitar
 2.  **The Hearth:** A five-foot sacred circle around a fire that requires an explicit invitation to enter.
 3.  **Exchange of Utility:** Communication through the trade of practical goods (salt, leather, twigs) rather than names or history.
 4.  **Respect of the Work:** Waiting for a craft cycle (e.g., spinning, carving) to finish before initiating contact.
+
+---
+
+## Frozen Heart-Bloom [STRATUM: 1_FRAGILE_SURFACE]
+**Discovery Date:** Day 29 / 09:30
+**Source:** Elora / Skaen
+**Reliability:** Confirmed
+
+### Detailed Context
+A rare crystalline blue flower that germinates only in the aftermath of extreme cold anomalies (like the Iron-Lock Squall). It blooms for a few short hours in clear, biting sunlight. It is a powerful mental restorative and alchemical stabilizer.
+
+---
+
+## Anti-Frost Wash
+**Discovery Date:** Day 29 / 11:45
+**Source:** Elora / Skaen
+**Reliability:** Confirmed
+
+### Detailed Context
+An alchemical mixture of Iron-Needle Resin and vinegar. When applied to metal gear, it prevents the material from becoming brittle or seizing due to supernatural cold or high resonance.
+
+---
+
+## The Siphon-Seal [STRATUM: 2_ERODING_AGE]
+**Discovery Date:** Day 28 / 17:10
+**Source:** Alen / Skaen
+**Reliability:** Confirmed
+
+### Detailed Context
+An advanced lead-sealed container bound in silver wire. It is designed to ground and suppress highly resonant artifacts, preventing them from "reaching" the mountain and triggering local collapses or "stopping" events. These are specialized equipment used by Oakhaven's Siphon-Carriers.

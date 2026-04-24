@@ -22,8 +22,10 @@ Through the mending of lead and the redirection of resonance, Skaen released the
 ## Key Discoveries & Lore
 *   **Deep Iron:** A high-resonance mineral that absorbs mountain frequencies; required for advanced crafting.
 *   **Siphon-Seal:** A lead-lined container used to suppress highly resonant artifacts; marked by Oakhaven Granary.
+*   **Frozen Heart-Bloom:** A rare crystalline blue flower discovered after the Iron-Lock Squall; used for focus tea and alchemical stabilization.
 *   **Elora (Bound Weaver):** Mastered the First Knot from her; she seeks to restart the "stopped" ones of the Western Cut.
 *   **Alen (Carrier):** Rescued from the White Silence; knows the bypasses into Oakhaven.
+*   **Mountain Flora:** Learned the utility of Ghost-Root, Iron-Needle Resin, and Weaver's Moss.
 
 ## Active Conditions & Effects
 *   **Blessing of the Forge:** +1 AC (Chain Mail) until next Long Rest.

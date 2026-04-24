@@ -182,7 +182,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[TYPE: ]`**
     *   **Purpose:** Broad categorization of a blueprint's output or a campaign goal.
     *   **Values Type:** Dynamic.
-    *   **Observed Values:** `PROSTHETIC`, `GEAR`, `WEAPON`, `ARMOR`, `QUEST`, `PROJECT`.
+    *   **Observed Values:** `PROSTHETIC`, `GEAR`, `WEAPON`, `ARMOR`, `QUEST`, `PROJECT`, `CONSUMABLE`.
     *   **Reference Index:** `atlas/crafting/blueprints.md` and `state/quest_state.md`.
 
 ### C. Live Play Annotation Tags (Transcript Only)

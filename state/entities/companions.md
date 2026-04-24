@@ -11,6 +11,9 @@ This file tracks the mechanical and social state of characters traveling with th
 
 ## The Bound Weaver [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Solitary Weaver (Expert)
+**Age:** Late sixties (Elora)
+**Sex:** Female
+**Race:** Human
 **Bond Type:** Neutral (Traveler)
 **Standing:** Level 1 (20/20 SP) [Stranger]
 **Last Interaction:** Day 28
@@ -24,8 +27,8 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 *   **Outlook on Life:** [REVEALED] The journey is the only truth; life is a rhythm that must be maintained.
 
 ### Mechanical Details (Unified Entity Protocol)
-*   **Class Level:** [NOT_REVEALED] (Level 1 Sidekick: Expert).
-*   **Statistics:** [NOT_REVEALED] (STR 10, DEX 14, CON 12, INT 13, WIS 16, CHA 10).
+*   **Class Level:** [REVEALED] Level 1 Sidekick (Expert).
+*   **Statistics:** [REVEALED] (STR 10, DEX 14, CON 12, INT 13, WIS 16, CHA 10).
 *   **Revealed Facts:** 
     *   Expert in rhythmic spindle weaving.
     *   Practitioner of the "Ghost-Hearth" survival technique.
@@ -61,6 +64,11 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 
 ## Kaelen (Legacy Companion) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Human Guide (Scout / Veteran Survivor)
+**Age:** Mid-thirties
+**Sex:** Male
+**Race:** Human
+**Bond Type:** Legacy
+
 **Bond Type:** Legacy
 **Standing:** Level 0 (0/20 SP) [Stranger]
 **Last Interaction:** ---
@@ -85,3 +93,4 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
     *   Holds the remnants of a fallen ally's mission (Wael's journal and artifacts).
 *   **Unrevealed Facts:**
     *   [NOT_REVEALED] The depth of his current trauma.
+

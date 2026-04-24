@@ -7,6 +7,9 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 
 ## Hera [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Tavern Owner
+**Age:** Early fifties
+**Sex:** Female
+**Race:** Human
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
 **Last Interaction:** ---
@@ -229,6 +232,31 @@ A young, disciplined, and mostly silent guard who carries the trauma of the Yard
 *   **Revealed Facts:** 
     *   Responsible for town security and wall patrols.
 
+## Alen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: HIRELING]
+**Role/Type:** Siphon-Carrier (Scout / Guide)
+**Age:** Early thirties
+**Sex:** Male
+**Race:** Human
+**Bond Type:** Neutral (Indebted)
+**Standing:** Level 1 (20/20 SP) [Stranger]
+**Last Interaction:** Day 28
+
+### Summary
+An Oakhaven-born scout and specialized courier rescued from the "White Silence" by Skaen. He possesses expert knowledge of Oakhaven's social bypasses and resonance navigation.
+
+### Narrative & Identity
+*   **Appearance:** [REVEALED] Salt-stained scout's furs, lead-heavy boots, silver-wired uniform. Weathered face with a jagged jaw scar.
+*   **Voice/Mannerisms:** [REVEALED] Low, gravelly voice; weary but capable.
+*   **Outlook on Life:** [REVEALED] The mountain is an active, predatory force; trust is earned through grounding.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Specialty:** Can grant Advantage on checks to navigate the Western Reach or bypass Oakhaven social obstacles.
+*   **Revealed Facts:** 
+    *   Siphon-Carrier for Master Hobb.
+    *   Born in Oakhaven; father was a mason.
+*   **Unrevealed Facts:**
+    *   [NOT_REVEALED] The true nature of the cargo he was carrying.
+
 ---
 
 ## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: FACTION]
@@ -305,27 +333,38 @@ A gruff, overworked blacksmith struggling against contaminated iron.
 
 ---
 
-## The Bound Weaver [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
-**Role/Type:** Solitary Weaver
-**Bond Type:** Neutral
+## Elora (The Bound Weaver) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
+**Role/Type:** Solitary Weaver (Expert)
+**Bond Type:** Neutral (Traveler)
 **Standing:** Level 1 (20/20 SP) [Stranger]
-**Last Interaction:** Day 27
+**Last Interaction:** Day 28
 
 ### Summary
-A lone, gaunt figure huddled under a canvas lean-to at The Low Ridge. A practitioner of the "Ghost-Hearth" survival technique.
+A gaunt survivor from the Western Cut who now travels with Skaen. She seeks a way to restore her people from the "White Silence" and specializes in rhythmic spindle weaving and mountain lore.
 
 ### Historical Connection
 *   **Western Cut:** Likely a survivor of the village frozen by the White Silence.
 
 ### Narrative & Identity
-*   **Appearance:** [NOT_REVEALED] (Gaunt, draped in grey felted wool).
-*   **Voice/Mannerisms:** [NOT_REVEALED].
-*   **Outlook on Life:** [NOT_REVEALED].
+*   **Appearance:** [REVEALED] Gaunt frame, face mapped with thread-burns, pale blue watchful eyes. Draped in complex grey wool armor.
+*   **Voice/Mannerisms:** [REVEALED] Dry, parchment-like voice; mechanical, hypnotic economy of motion.
+*   **Outlook on Life:** [REVEALED] The journey is the only truth; life is a rhythm that must be maintained.
 
 ### Mechanical Details (Unified Entity Protocol)
 *   **Revealed Facts:** 
     *   Expert in rhythmic spindle weaving.
-    *   Maintains a Ghost-Hearth fire.
+    *   Practitioner of the "Ghost-Hearth" survival technique.
+    *   Conducts silver-white resonance through her weaving.
 *   **Unrevealed Facts:**
-    *   [NOT_REVEALED] Their purpose on the road.
+    *   [NOT_REVEALED] The full extent of her Western Cut ancestry.
+
+ Cut ancestry.
+
+
+
+n Cut ancestry.
+
+ Cut ancestry.
+
+
 

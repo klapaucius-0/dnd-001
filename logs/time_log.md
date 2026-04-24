@@ -25,8 +25,9 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 28 | 2026-04-26 | Harvested rare herbs and resin with the Weaver (2 LH). | 0 | — | 0 |
 | 28 | 2026-04-26 | Exhaustive foraging for rare mountain materials (2 LH). | 0 | — | 0 |
 | 28 | 2026-04-26 | Slow travel and observation on the road (1 LH). | 0 | — | 0 |
-| 28 | 2026-04-26 | Stabilized and mended Siphon-Seal; rescued frozen scout (1 LH). | 0 | — | 0 |
-| 28 | 2026-04-26 | Harvested 4 lbs of Deep Iron from ravine (1 LH). | 0 | — | 0 |
+| 28 | 2026-04-26 | Stabilized leaking Siphon-Seal; rescued Alen (1 LH). | 0 | — | 0 |
+| 28 | 2026-04-26 | Established camp in ravine; discussed Siphon-runs (1 LH). | 0 | — | 0 |
+| 28 | 2026-04-26 | Harvested 4 lbs of Deep Iron (1 LH). | 0 | — | 0 |
 | 28 | 2026-04-26 | Additional harvest of 2 lbs of Deep Iron (1 LH). | 0 | — | 0 |
 | 28/29 | 2026-04-26 | Long Rest (8 Hours) at Ravine Camp. | 0 | — | 0 |
 | 29 | 2026-04-27 | Applied Blessing of the Forge to Chain Mail. | 0 | — | 0 |

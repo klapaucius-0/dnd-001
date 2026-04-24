@@ -24,10 +24,10 @@
 | 27 | 16:00 | 012 | Pine Firewood | +10.0 lbs | 10.0 lbs | Processed from skeletal pines. |
 | 27 | 16:00 | 012 | Pouch of Kindling | +1.0 lb | 1.0 lb | Processed from skeletal pines. |
 | 27 | 19:30 | 012 | Pine Firewood | -10.0 lbs | 0 lbs | Donated to the Bound Weaver. |
-| 28 | 11:00 | 012 | Pine Firewood | +10.0 lbs | 10.0 lbs | Gathered with the Bound Weaver. |
-| 28 | 11:00 | 012 | Pouch of Kindling | +1.0 lb | 2.0 lbs | Gathered with the Bound Weaver. |
-| 28 | 12:00 | 012 | Pine Firewood | +10.0 lbs | 20.0 lbs | Additional gathering with Weaver. |
-| 28 | 12:00 | 012 | Pouch of Kindling | +1.0 lb | 3.0 lbs | Additional gathering with Weaver. |
+| 28 | 11:00 | 012 | Pine Firewood | +10.0 lbs | 10.0 lbs | Hour 1 gathering with the Bound Weaver. |
+| 28 | 11:00 | 012 | Pouch of Kindling | +1.0 lb | 2.0 lbs | Hour 1 gathering with the Bound Weaver. |
+| 28 | 12:00 | 012 | Pine Firewood | +10.0 lbs | 20.0 lbs | Hour 2 gathering with Weaver. |
+| 28 | 12:00 | 012 | Pouch of Kindling | +1.0 lb | 3.0 lbs | Hour 2 gathering with Weaver. |
 | 28 | 14:00 | 012 | Ghost-Root | +1.5 lbs | 1.5 lbs | Harvested at The Low Ridge. |
 | 28 | 14:00 | 012 | Iron-Needle Resin | +0.5 lbs | 0.5 lbs | Harvested at The Low Ridge. |
 | 28 | 14:00 | 012 | Weaver's Moss | +0.2 lbs | 0.2 lbs | Harvested at The Low Ridge. |

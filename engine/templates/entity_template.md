@@ -1,6 +1,9 @@
 # Entity Template: [Name]
 
 **Size, Type, and Alignment:** [e.g., Medium humanoid (dwarf), true neutral]
+**Age:** [Numerical age or Age Category]
+**Sex:** [Male / Female / Other]
+**Race:** [e.g., Mountain Dwarf, Human, etc.]
 **Location/Habitat:** [Specific Spot or Region]
 **Faction:** [[Faction Name]]
 **Primary Stratum:** [STRATUM: X]

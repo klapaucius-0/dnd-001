@@ -20,6 +20,10 @@
 | **Spices** | `[MAT: SPICES]` | `[FREQ: RARE]` | x1.0 | `[[PHB]]` | N/A | 2 gp / lb | Aromatic vegetable substances used in medicine/alchemy. |
 | **Ink** | `[MAT: INK]` | `[FREQ: UNCOMMON]` | x1.0 | `[[PHB]]` | N/A | 10 gp / 1 oz | Pigmented liquid; required for scrolls and cartography. |
 | **Dye & Pigment** | `[MAT: DYE]` | `[FREQ: UNCOMMON]` | x1.0 | `[[XGTE]]` | 10 | 1 gp / 1 oz | Concentrated colors; used for textiles and leather. |
+| **Anti-Frost Wash** | `[MAT: ALCHEMICAL]` | `[FREQ: UNCOMMON]` | x0.2 | `[HOMEBREW]` | 12 | 2 gp / dose | Resin-based wash; prevents Iron-Lock for 24h. |
+| **Ghost-Root Tea** | `[MAT: HERB]` | `[FREQ: UNCOMMON]` | x0.1 | `[HOMEBREW]` | 10 | 5 sp / dose | Resinous stimulant; reduces Exhaustion by 1 (4h crash). |
+| **Heart-Bloom Tea** | `[MAT: HERB]` | `[FREQ: RARE]` | x0.1 | `[HOMEBREW]` | 14 | 10 gp / dose | Crystalline blue tea; Adv on Wis/Int/Cha saves for 1h. |
+| **Herbal Poultice** | `[MAT: HERB]` | `[FREQ: COMMON]` | x0.2 | `[[PHB]]` | 10 | 1 sp / dose | Moss-based paste; +1d4 HP during Short Rest. |
 
 ---
 

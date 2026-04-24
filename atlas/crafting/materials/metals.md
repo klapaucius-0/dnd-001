@@ -30,6 +30,12 @@
 
 ## Detailed Mechanics
 
+### Deep-Iron (Old Cut Iron) `[MAT: DEEP_IRON]`
+*   **Narrative SSOT:** Also referred to as **Old Cut Iron** in earlier chronicles.
+*   **Mechanical Utility:** Required for Tier 3 tools and high-pressure structural frames.
+*   **Refining Requirements:** Must be cold-formed. Exposure to heat destroys its stability.
+*   **Resonance:** Absorbs kinetic energy and mountain frequencies.
+
 ### Mithral `[MAT: MITHRAL]` & Adamantine `[MAT: ADAMANTINE]`
 *   **The 10% Inlay Rule:** These materials are too rare to be forged into pure solid objects. They are instead applied as **Inlays, Core-Weaves, or Platings** on top of a Base Metal (usually Steel).
 *   **Separation:** Due to high melting points, they can be extracted at 100% efficiency via smelting.

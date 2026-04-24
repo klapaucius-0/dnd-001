@@ -24,11 +24,25 @@ A narrow, ancient trade route of crushed slate and packed earth. It is a lonely 
 
 ## Key Areas
 ### 1. The Low Ridge
-*   **Description:** A high point on the road overlooking a sea of black-green pines.
+*   **Description:** A high point on the road overlooking a sea of black-green pines. Site of a natural rock shelf alcove.
+*   **Features:** **The Ghost-Hearth** (A survival hearth maintained by Elora).
 *   **Mechanics:** Perception checks to navigate or spot rare signs of activity.
 
+### 2. The Ravine (Iron-Lock Site)
+*   **Description:** A jagged fold of the mountain where the Iron-Lock Squall’s intensity peaked.
+*   **Features:** **Deep Iron Vein** (A rich, night-black outcropping). **Siphon-Carrier Rescue Site** (Where Alen was found "stopped").
+*   **Aura:** Stagnant air; former site of a 10-ft resonance repulsion zone.
+
+### 3. The Hermit’s Hovel
+*   **Description:** A low, sturdy crescent of stone and packed snow built by Skaen near the 30-mile mark. 
+*   **Features:** Tucked into the lee of a vertical slate slab; contains a hidden (now empty) cache.
+*   **Utility:** Provides Advantage on saves against Extreme Cold while occupied.
+
 ## Entities Present
-*   **The Bound Weaver:** A lone, gaunt figure huddled under a canvas lean-to.
+*   **Elora (The Bound Weaver):** A solitary sidekick specialist.
+*   **Alen (The Carrier):** An Oakhaven scout and guide.
 
 ## Discovery & Lore
-*   **The Ghost-Hearth:** A fire fueled by Ghost-Root and dried moss, producing a steady, clean heat with minimal smoke. This is a survival technique of the Western Cut weavers.
+*   **The Ghost-Hearth:** A fire fueled by Ghost-Root and dried moss, producing a steady, clean heat with minimal smoke. 
+*   **Siphon-Seal:** A lead-lined container used for resonant transport.
+*   **Deep Iron:** High-resonance mineral found surfacing near high-vibration sites.

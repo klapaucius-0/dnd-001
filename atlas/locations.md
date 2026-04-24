@@ -87,3 +87,24 @@ A high, narrow mountain pass marking the boundary between the frontier and the d
 
 ### Summary
 A high-altitude valley formerly known for weavers and shepherds. The first local victim of the "White Silence." Entire populations are reported to be frozen in place like statues.
+
+---
+
+## The Old Iron Road (Western Reach) [STRATUM: 1_FRAGILE_SURFACE]
+**Setting Context:** Sword Mountains (Western Foothills)
+**Frequency:** HIGH
+**Scale:** Narrative (Trade Route)
+
+### Summary
+A narrow, ancient trade route of crushed slate and packed earth. It is a lonely scar through a dense, indifferent forest, stretching 30 miles toward Oakhaven.
+
+### Atmosphere & Mood
+*   **The "Vibe":** Desolate isolation, social breakdown.
+*   **Sensory Details:** Rhythmic crunch of boots on frozen slate; smell of resin and damp earth.
+
+### Spatial Navigation
+*   **Parent Location:** [[The Sword Mountains]]
+*   **Travel Registry:**
+| Destination | Distance | Time (Base) | Notes |
+| :--- | :--- | :--- | :--- |
+| [[Oakhaven]] | 30 miles | 3 Days | A long trek through a largely uninhabited forest. |
