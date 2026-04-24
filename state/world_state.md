@@ -35,5 +35,5 @@
 *   **General Trade / Supplies:** Master Hobb (Associate) - *Granary.*
 
 ## Summary of Active Parties
-*   **Kaelen:** Within Oakhaven, currently residing at the Boar and Barrel. He carries the remnants of Wael's mission.
-*   **The Protagonist:** Awaiting arrival in Oakhaven.
+*   **Kaelen:** Within Oakhaven, currently residing at the Boar and Barrel. He carries the remnants of Wael's mission (The Stone Box).
+*   **Skaen:** Currently on the Old Iron Road, approximately 30 miles west of Oakhaven.

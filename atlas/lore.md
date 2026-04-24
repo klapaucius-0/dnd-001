@@ -109,5 +109,16 @@ A brittle journal recovered by Wael from the Frozen Gap. The entries are frantic
 **Source:** Father Vane
 **Reliability:** Confirmed (Theology)
 
+---
+
+## Skaen and The Old Blood
+**Discovery Date:** Day 26 / 10:00
+**Source:** Skaen's Arrival
+**Reliability:** Confirmed (Personal)
+
 ### Detailed Context
-The Sound of the mountain scratching or thumping against stone is not a body waking, but the mountain itself *reaching* for a soul. When a resonant individual dies, the transition to the "Quiet" can be exploited by the mountain's hunger, using the stone itself as a vessel to manifest horrors.
+Skaen, a Mountain Dwarf and Forge Cleric, spent years in deep seclusion as a hermit. During this time, he discovered **The Old Blood**—a restless, shifting crimson liquid held within a glass vial that now serves as his divine focus. Driven by a primal urge to build, expand, and consume, he has emerged from his isolation to travel toward Oakhaven along the Old Iron Road.
+
+### Resonance & Relationships
+*   **Related Entities:** [[Skaen]]
+*   **Related Items:** [[The Old Blood]]

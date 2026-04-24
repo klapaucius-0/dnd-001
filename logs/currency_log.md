@@ -3,4 +3,4 @@
 
 | Day | Time | Session | Change | Total | Note / Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| — | — | — | BALANCE FORWARD | 0 gp | New Character Start (Legacy: logs/archive/currency_log_wael.md) |
+| 26 | 10:00 | 012 | +5 gp | 5 gp | Hermit Background Coin |

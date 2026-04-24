@@ -2,7 +2,7 @@
 <!-- SOURCE: quest_state -->
 
 ## Active Short-Term Goals
-*   **[NONE]**
+*   **[OPEN] Q017:** The Iron Trek (Reach Oakhaven).
 
 ## Active Mid-Term Goals
 *   **[NONE]**

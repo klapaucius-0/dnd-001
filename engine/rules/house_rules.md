@@ -30,7 +30,8 @@
 1.  **Feats:** Allowed.
 2.  **Multiclassing:** Allowed.
 3.  **Variant Human:** Allowed.
-4.  **Ability Scores:** Rolled (4d6 drop lowest) - COMPLETED.
+4.  **Ability Scores:** Rolled (4d6 drop lowest). 
+    *   **The Threshold:** If the total sum of the six rolled stats is less than 70, the player may scrap the array and reroll.
 5.  **Flanking:** Enabled (Advantage for melee attackers on opposite sides).
 6.  **Inspiration:** Enabled (Awarded for roleplay).
 7.  **Lingering Injuries (The Toll of the Void):** Enabled. Every time Wael drops to 0 Hit Points, he must immediately roll 1d20 on the Toll of the Void table:
@@ -51,6 +52,12 @@
     *   **Push, Drag, Lift:** 30 x Strength score (Speed drops to 5ft).
     *   **Tracking:** Every item must have its weight recorded. The DM must update the total weight in `characters\player_character.md` whenever items are added or removed.
 11. **Natural Healing:** Standard (Full HP and half Hit Dice restored on Long Rest).
+
+12. **Material Component & Cost Protocol:** 
+    *   **Accounting:** The DM and Player must strictly account for all material components and gold costs for spellcasting.
+    *   **Focus:** A spellcasting focus (like Skaen's vial) replaces material components that do not have a specific gold cost.
+    *   **Gold Costs:** Components with a specified gold value (e.g., the 25 gp of silver for *Ceremony*) MUST be present in the character's inventory and are consumed if the spell description states so.
+    *   **Availability:** High-value components are subject to local market scarcity.
 
 
 ## Visual Aesthetic & Style

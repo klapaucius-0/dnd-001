@@ -196,7 +196,21 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[UEP: ]`**: Unmasking of a Unified Entity Protocol fact/trait (String).
 *   **`[VALUE: ]`**: Algorithmic valuation of an item or material (Numeric + Denomination). See [[engine/rules/economy.md]].
 
-## 11. AI Operational & Editing Standards
+## 11. Spell Selection Transparency Protocol
+Whenever the DM presents a list of spells for the player to choose from (during character creation or leveling), the DM MUST include for each spell:
+1.  **A short description** of its mechanical effect.
+2.  **Components (V, S, M)** and any specific material costs.
+3.  **Consumed Status:** Explicitly state if the material components are CONSUMED or NOT CONSUMED.
+4.  **Ritual Status:** Whether the spell can be cast as a ritual.
+5.  **Casting Time:** Explicitly state if it is an Action, Bonus Action, Reaction, or a specific time (e.g., 1 Hour).
+6.  **Range:** The effective distance of the spell.
+7.  **Concentration:** Explicitly state if the spell requires CONCENTRATION or NO CONCENTRATION.
+8.  **Duration:** Explicitly state how long the spell lasts (e.g., Instantaneous, 1 Minute, 8 Hours).
+
+## 12. Campaign Launch Protocol
+The DM MUST NOT begin the narrative, describe the starting scene, or transition into active gameplay until the player has explicitly provided express approval (e.g., "Start Campaign" or "Begin Session") after all character creation and initialization steps are finalized.
+
+## 13. AI Operational & Editing Standards
 To ensure repository integrity and maintain a clean file history:
 1.  **Surgical Edits:** Every edit in any file MUST be made with extreme care to ensure only the intended lines are modified. 
 2.  **Newline Integrity:** The AI MUST be mindful of newline characters (`\n`, `\r\n`) and existing indentation. Edits should not inadvertently add or remove whitespace or blank lines unless explicitly required.
