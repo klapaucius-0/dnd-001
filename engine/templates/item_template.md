@@ -1,4 +1,4 @@
-# [Item Name] [MAT: TAG] [TYPE: TAG] [RARITY: TAG] [[SOURCE]] [HOMEBREW/STANDARD]
+# [Item Name] [MAT: TAG] [TYPE: TAG] [RARITY: TAG] [[SOURCE]]
 <!-- SOURCE: atlas/items/[category].md -->
 
 [Narrative description of the item's appearance, origin, and any lore significance.]
@@ -17,4 +17,4 @@
 ## Usage Requirements
 *   **Attunement:** [Yes/No]
 *   **Proficiency:** [e.g., Martial Weapons]
-*   **Special Conditions:** [e.g., Requires 1 LH to prime]
+*   **Special Conditions:** [e.g., Requires a specific command word to activate]

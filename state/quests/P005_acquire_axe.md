@@ -13,7 +13,7 @@ Skaen has identified a critical gap in his survival kit: the lack of a proper ax
 ## 3. Execution (Sandbox Objectives)
 *   **Phase 1:** Acquisition
     *   **Objective A:** [COMPLETED] Scavenge the Shepherd's Cache for discarded or hidden tools.
-    *   **Objective B:** [OPEN] Purchase a handaxe or felling axe in Oakhaven (Value: 5-10 gp).
+    *   **Objective B:** [OPEN] Purchase a handaxe or felling axe in Oakhaven (Value: 5 gp for Handaxe / 10 gp for Battleaxe).
     *   **Objective C:** [OPEN] Forge an axe during downtime (Requires Blueprint and Materials).
 
 ## 4. Resolution (If Applicable)

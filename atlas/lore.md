@@ -45,7 +45,7 @@ A supernatural cold that actively consumes the "will" of materials and flesh. It
 **Reliability:** Confirmed
 
 ### Detailed Context
-A rare, dense, night-black metal recovered from the oldest levels of the mountains. It is characterized by extreme molecular stability and resists mundane forge-heat, but responds perfectly to cold-forming techniques. It is highly valued for its ability to resist the White-Frost.
+A rare, dense, night-black metal recovered from the oldest levels of the mountains. It is characterized by extreme molecular stability and resists mundane forge-heat, but responds perfectly to expert forging techniques. It is highly valued for its ability to resist the White-Frost.
 
 ---
 

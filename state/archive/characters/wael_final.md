@@ -82,24 +82,22 @@
 ### Equipped
 | Item | Weight | Notes |
 | :--- | :--- | :--- |
-| Chain Mail (+1) [MAT: STEEL] [QUAL: STANDARD] | 55.0 | Blessed; Worn (AC 17) |
-| Shield [MAT: WOOD] [QUAL: STANDARD] | 6.0 | Equipped via Anchor (AC +2) |
-| Scavenger's Anchor [MAT: IRON] [QUAL: POOR] | 8.0 | Prosthetic; Reduces Speed by 5ft |
-| Heavy Smith's Hammer [MAT: STEEL] [QUAL: STANDARD] | 10.0 | 1d8 Bludgeoning; Versatile (1d10) |
-| The Mason's Blinder [MAT: LEATHER] [QUAL: STANDARD] | 0.1 | Anatomical eyepatch |
-| Light Crossbow [MAT: WOOD] [QUAL: STANDARD] | 5.0 | 1d8 Piercing (80/320 ft.); Ammunition, Loading, Two-Handed* |
+| Chain Mail (+1) [MAT: STEEL] | 55.0 | Blessed; Worn (AC 17) |
+| Shield [MAT: WOOD] | 6.0 | Equipped via Anchor (AC +2) |
+| Scavenger's Anchor [MAT: IRON] | 8.0 | Prosthetic; Reduces Speed by 5ft |
+| Heavy Smith's Hammer [MAT: STEEL] | 10.0 | 1d8 Bludgeoning; Versatile (1d10) |
+| The Mason's Blinder [MAT: LEATHER] | 0.1 | Anatomical eyepatch |
+| Light Crossbow [MAT: WOOD] | 5.0 | 1d8 Piercing (80/320 ft.); Ammunition, Loading, Two-Handed* |
 | Damp Blue-Green Stone Box | 2.0 | <!-- SOURCE: artifacts --> Focus (Shield Mount) |
-
-*\*Note: Two-handed property currently hindered by Lost Left Arm injury.*
 
 ### Stored (Backpack & Satchel)
 | Item | Weight | Notes |
 | :--- | :--- | :--- |
 | Dark Black Shard | 5.0 | <!-- SOURCE: artifacts --> Inside Stone Box |
-| Shield [MAT: WOOD] [QUAL: STANDARD] | 6.0 | Repaired; strapped to pack |
-| Mason's Tools [MAT: IRON] [QUAL: STANDARD] | 8.0 | `atlas/crafting/tools.md` |
-| Smith's Tools [MAT: IRON] [QUAL: STANDARD] | 8.0 | `atlas/crafting/tools.md` |
-| Herbalism Kit [MAT: VARIOUS] [QUAL: STANDARD] | 3.0 | `atlas/crafting/tools.md` |
+| Shield [MAT: WOOD] | 6.0 | Repaired; strapped to pack |
+| Mason's Tools [MAT: IRON] | 8.0 | `atlas/crafting/tools.md` |
+| Smith's Tools [MAT: IRON] | 8.0 | `atlas/crafting/tools.md` |
+| Herbalism Kit [MAT: VARIOUS] | 3.0 | `atlas/crafting/tools.md` |
 | Backpack | 5.0 | |
 | Bedroll | 7.0 | |
 | Mess kit | 1.0 | |
@@ -111,26 +109,23 @@
 | Hempen Rope (50ft) | 10.0 | |
 | Berath's Journal | 1.0 | |
 | Berath's Satchel | 2.0 | |
-| Dark Metal Rods (4 total) [MAT: DEEP_IRON] | 8.0 | `atlas/crafting/materials/` |
+| Dark Metal Rods (4 total) [MAT: IRON] | 8.0 | `atlas/crafting/materials/` |
 | Pouch of Rare Minerals | 5.0 | |
 | Scroll case of notes | 1.0 | |
 | Winter blanket | 3.0 | |
 | Common clothes | 3.0 | |
 | Crossbow bolts (20) | 1.5 | |
-| Bag of Crystalline Shards [MAT: CRYSTAL] | 1.0 | `atlas/crafting/materials/` |
-| Cold-Iron Shard [MAT: DEEP_IRON] | 10.0 | (1 moved to Kaelen) |
-| Deep-Frost Crystal [MAT: CRYSTAL] | 0.1 | |
+| Bag of Crystalline Shards [MAT: GLASS] | 1.0 | `atlas/crafting/materials/` |
+| Steel Shard [MAT: STEEL] | 10.0 | (1 moved to Kaelen) |
+| Deep-Frost Crystal | 0.1 | |
 | Frost-Vein Lichen (0.5) | 0.1 | `atlas/crafting/materials/` |
 | Steel Hardware [MAT: STEEL] | 0.0 | (Moved to Kaelen) |
 | Blessed Oil (Mason's Rest) | 0.0 | (Consumed) |
 | Heavy Masonry Pry-bar [MAT: IRON] | 10.0 | Gift: Harlen; Tool |
 | Mason's Pitons (6) [MAT: IRON] | 0.0 | (Consumed) |
-| Tallow & Beeswax (8/10 Uses) [MAT: WAX] | 1.0 | `atlas/crafting/materials/` |
-| Professional Leatherworker's Kit [MAT: HI_CARBON_STEEL] [QUAL: STANDARD] | 5.0 | Restored; `atlas/crafting/tools.md` |
-| Vice-Clamp [MAT: OLD_CUT_IRON] [QUAL: STANDARD] | 0.0 | (Carried by Kaelen) |
-| Sharpening Stone [MAT: SLATE] | 2.0 | `atlas/crafting/tools.md` |
+| Tallow & Beeswax (8/10 Uses) | 1.0 | `atlas/crafting/materials/` |
+| Professional Leatherworker's Kit [MAT: STEEL] | 5.0 | Restored; `atlas/crafting/tools.md` |
+| Steel Vice-Clamp [MAT: STEEL] | 0.0 | (Carried by Kaelen) |
+| Sharpening Stone [MAT: STONE] | 2.0 | `atlas/crafting/tools.md` |
 | Quality Travel Bread (2 Days) | 2.0 | Reward: Verminer's Request |
 | Currency (4 gp, 1 sp) | 0.1 | <!-- SOURCE: currency_log --> |
-<!-- END OF FILE -->
-log --> |
-<!-- END OF FILE -->

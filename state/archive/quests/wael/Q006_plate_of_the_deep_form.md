@@ -16,12 +16,12 @@ Acquire or forge a set of full Plate Armor to achieve a high-tier defensive stat
     *   **Objective A:** [OPEN] Secure a blueprint or design for Plate Armor.
     *   **Objective B:** [IN-PROGRESS] Accumulate 1,500 gp OR 375 lbs of Standard Steel scrap.
 *   **Phase 2: The Forge**
-    *   **Objective C:** [REQUIRES: Blueprint & Materials] Devote 100+ Labor Hours to the forge.
+    *   **Objective C:** [REQUIRES: Blueprint & Materials] Devote 100+ Hours to the forge.
 
 ## 4. Resolution (If Applicable)
 *   **Outcome:** [PENDING]
 
 ## 5. Rewards & Integration
 *   **XP Awarded:** [UNLOGGED] [250 XP] -> `experience_log.md`
-*   **Loot/Currency:** [UNLOGGED] [Plate Armor [MAT: STEEL] [QUAL: ??]] -> `inventory_log.md`
+*   **Loot/Currency:** [UNLOGGED] [Plate Armor [MAT: STEEL]] -> `inventory_log.md`
 *   **Standing/SP:** [UNLOGGED] [+20 Harlen (if forged there)] -> `relationship_log.md`

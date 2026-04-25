@@ -183,7 +183,7 @@ A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpne
 **Last Interaction:** ---
 
 ### Summary
-A lithe and soot-stained survivor of the North Cut collapse with a deep respect for "Old Cut" iron.
+A lithe and soot-stained survivor of the North Cut collapse with a deep respect for Steel iron.
 
 ### Historical Connection
 *   **Wael:** Held profound respect for the dwarf's structural restoration of her wagon axle (Day 3).

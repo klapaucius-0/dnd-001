@@ -38,7 +38,7 @@ Base all mechanics, rules, and options strictly on the following 2014-era rulebo
 *   **Standard Protocols:** Adhere strictly to **[[rules/core_protocols.md]]** for XP Synchronization, Logging (3-digit padding), and the Sacred Dice Protocol.
 *   **Low-to-High Magic:** The campaign starts with **Low Magic** and gradually scales to **High Magic** by Level 20.
 *   **Tactical Movement:** For combat, provide a simple ASCII or Grid-lite representation of the area using chess-style coordinates (e.g., A1, B2).
-*   **Cold-Forming Steel:** This is a **non-magical** technique. It is a slow, laborious way of forging at lower temperatures.
+*   **Grounded Forging:** Crafts and inventions rely on patient labor and dwarf-masonry principles. 
 *   **Tracking:** Keep a detailed, behind-the-scenes track of HP, conditions, and enemy stats.
 *   **House Rules:** Consult `rules\house_rules.md` for agreed-upon variant rules.
 

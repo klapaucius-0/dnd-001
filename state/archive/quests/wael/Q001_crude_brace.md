@@ -23,5 +23,5 @@ Design and construct a static iron and leather prosthetic to restore shield use.
 
 ## 5. Rewards & Integration
 *   **XP Awarded:** [LOGGED] [100 XP] -> `experience_log.md`
-*   **Loot/Currency:** [LOGGED] [Scavenger's Anchor [MAT: IRON] [QUAL: POOR]] -> `inventory_log.md`
+*   **Loot/Currency:** [LOGGED] [Scavenger's Anchor [MAT: IRON]] -> `inventory_log.md`
 *   **Standing/SP:** [LOGGED] [+20 Harlen] -> `relationship_log.md`

@@ -85,7 +85,7 @@ A secretive scholar of the deep mountain who brought the Dark Shard into Oakhave
 ### Mechanical Details (Unified Entity Protocol)
 *   **Known Facts:** 
     *   Attempted to fuse his soul with the Black Shard; rejected.
-    *   Expert in antiquities and "cold-forging" lore.
+    *   Expert in antiquities and forging lore.
 
 ---
 

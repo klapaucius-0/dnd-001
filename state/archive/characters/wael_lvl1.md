@@ -4,7 +4,7 @@
 **Race:** Mountain Dwarf
 **Alignment:** True Neutral
 **Age:** Unknown (Looks ravaged by time)
-**Appearance:** A dwarf of indeterminate years, his skin like weathered granite and his beard a tangled grey. He carries the weight of centuries in his eyes, his hands scarred from years of cold-forming steel and stone through the stillness of the mountain's deep frost.
+**Appearance:** A dwarf of indeterminate years, his skin like weathered granite and his beard a tangled grey. He carries the weight of centuries in his eyes, his hands scarred from years of forging steel and stone through the stillness of the mountain's deep frost.
 **Class:** Cleric (Forge Domain)
 **Background:** Hermit
 **Level:** 1 (Pending Level 2)

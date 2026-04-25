@@ -15,7 +15,7 @@
 *   `[QUEST: New/Update/Complete]`
 *   `[UEP: Unmasked Fact/Trait]`
 
-## Standard Roll Block (Mandatory)
+## Standard Roll Log (Mandatory)
 > **Player:** [Action Description]
 > **DM:** DC [Value] [Ability/Skill]
 > **Roll:** `node engine/scripts/dice_roller.js "[Expression]"` -> [Result]
@@ -25,4 +25,4 @@
 
 ## Transcript Start
 **DM:** [Atmospheric Opening]
-**Wael:** [Action]
+**Skaen:** [Action]

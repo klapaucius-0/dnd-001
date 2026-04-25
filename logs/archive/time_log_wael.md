@@ -1,9 +1,9 @@
 # Campaign Time Log
 
 ## Overview
-This file tracks the passage of time and the allocation of Labor Hours (LH) for crafting and long-term projects.
+This file tracks the passage of time and the allocation of Hours for crafting and long-term projects.
 
-| Day | Date (Real) | Activity Summary | LH Spent | Active Project | Total Project LH |
+| Day | Date (Real) | Activity Summary | Hours Spent | Active Project | Total Project Hours |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 2026-04-15 | Travel to Cleft Shelter; Initial Discovery. | 0 | N/A | 0 |
 | 2 | 2026-04-16 | Reaching Oakhaven; Social observation at Boar and Barrel. | 0 | N/A | 0 |
@@ -51,10 +51,10 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 *   **Rest/Sleep:** 8 Hours (Required for Long Rest).
 *   **Activity/Travel:** 9 Hours.
 *   **Flex/Crafting:** 7 Hours (Can be pushed with CON saves).
-| 5 | 04:05 | 010 | +8.0 LH | Night Labor: Crafting The Mason's Blinder |
-| 5 | 12:15 | 010 | +8.0 LH | Long Rest at Boar and Barrel |
+| 5 | 04:05 | 010 | +8.0 Hours | Night Labor: Crafting The Mason's Blinder |
+| 5 | 12:15 | 010 | +8.0 Hours | Long Rest at Boar and Barrel |
 | 5 | 12:25 | 010 | +10m | Travel: Boar and Barrel to Harlen's Forge |
-| 5 | 15:25 | 010 | +3.0 LH | Restoring 3x Frost-Bitten Spearheads (Mending) |
+| 5 | 15:25 | 010 | +3.0 Hours | Restoring 3x Frost-Bitten Spearheads (Mending) |
 | 5 | 15:40 | 011 | +15m | Travel: Harlen's Forge to Granary |
 | 5 | 16:05 | 011 | +25m | Negotiation with Master Hobb |
 | 5 | 16:17 | 011 | +12m | Travel: Granary to Oakhaven Chapel |

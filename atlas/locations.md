@@ -107,7 +107,7 @@ A narrow, ancient trade route of crushed slate and packed earth. It is a lonely 
 *   **Travel Registry:**
 | Destination | Distance | Time (Base) | Notes |
 | :--- | :--- | :--- | :--- |
-| [[Oakhaven]] | 30 miles | 3 Days | A long trek through a largely uninhabited forest. |
+| [[Oakhaven]] | 30 miles | 1.5 Days | A long trek through a largely uninhabited forest. |
 
 ---
 

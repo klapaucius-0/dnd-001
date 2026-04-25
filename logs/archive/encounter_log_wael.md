@@ -25,7 +25,7 @@
 
 ## Non-Combat Encounters: Session 007
 *   **Forge Audit:** DC 12 Wisdom (Insight) check (25) to diagnose "sick" iron and shop failures.
-*   **Rounding Hammer Restoration:** DC 13 Strength (Smith's Tools) check (16) to cold-form mushroomed iron.
+*   **Rounding Hammer Restoration:** DC 13 Strength (Smith's Tools) check (16) to forging mushroomed iron.
 *   **Workshop Restoration:** Series of Artisan checks to restore bellows, tank, and anvil stand. Success.
 *   **Anchor Construction:** Complete design and fabrication of the Scavenger's Anchor prosthetic. Success.
 

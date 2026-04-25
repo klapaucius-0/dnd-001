@@ -12,12 +12,12 @@ Restore the town guard's frost-bitten spears to prevent a total failure of Oakha
 
 ## 3. Execution (Sandbox Objectives)
 *   **Phase 1: Restoration**
-    *   **Objective A:** [COMPLETED] Purge and restore Spearhead #1 (1 LH / DC 15).
-    *   **Objective B:** [COMPLETED] Purge and restore Spearhead #2 (1 LH / DC 15).
-    *   **Objective C:** [COMPLETED] Purge and restore Spearhead #3 (1 LH / DC 15).
+    *   **Objective A:** [COMPLETED] Purge and restore Spearhead #1 (1 Hours / DC 15).
+    *   **Objective B:** [COMPLETED] Purge and restore Spearhead #2 (1 Hours / DC 15).
+    *   **Objective C:** [COMPLETED] Purge and restore Spearhead #3 (1 Hours / DC 15).
 
 ## 4. Resolution (If Applicable)
-*   **Outcome:** [COMPLETED] Wael used Mending over 3 LH to restore the spears.
+*   **Outcome:** [COMPLETED] Wael used Mending over 3 Hours to restore the spears.
 
 ## 5. Rewards & Integration
 *   **XP Awarded:** [LOGGED] [50 XP]

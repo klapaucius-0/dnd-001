@@ -13,7 +13,7 @@
 | 3 | 12:25 | 006 | Abrasive Sand | +1 Pouch | 1 | Salvaged from market (Ref: Ses_006) |
 | 3 | 12:25 | 006 | Waxed Linen Thread | +1 Spool | 1 | Salvaged from market (Ref: Ses_006) |
 | 3 | 13:26 | 006 | Professional Leatherworker's Kit | +1 Kit | 1 | Reclaimed from Vesper (Ref: Ses_006) |
-| 3 | 13:26 | 006 | Vice-Clamp [MAT: OLD_CUT_IRON] | +1 Tool | 1 | Reclaimed from Vesper (Ref: Ses_006) |
+| 3 | 13:26 | 006 | Steel Vice-Clamp [MAT: STEEL] | +1 Tool | 1 | Reclaimed from Vesper (Ref: Ses_006) |
 | 3 | 13:26 | 006 | Sharpening Stone | +1 Stone | 1 | Reclaimed from Vesper (Ref: Ses_006) |
 | 3 | 13:26 | 006 | Crate of Iron Nails | +1 Crate | 1 | Reclaimed from Vesper (Ref: Ses_006) |
 | 3 | 13:38 | 006 | Neatsfoot Oil | +1 Vial | 1 | Trade for info: Master Hobb (Ref: Ses_006) |
@@ -30,10 +30,11 @@
 | 5 | 04:05 | 010 | Waxed Linen Thread | -1 Use | 0 | Consumed in construction |
 | 5 | 04:05 | 010 | Tallow & Beeswax | -1 Use | 8/10 | Consumed in construction |
 | 5 | 04:05 | 010 | The Mason's Blinder | +1 | 1 | Crafted at Harlen's Forge (Ref: Ses_010) |
-| 5 | 15:25 | 010 | Cold-Iron Shard [MAT: DEEP_IRON] | +1 | 2 | Reward: Brittle Defense (Ref: Q015) |
+| 5 | 15:25 | 010 | Steel Shard [MAT: STEEL] | +1 | 2 | Reward: Brittle Defense (Ref: Q015) |
 | 5 | 16:30 | 011 | Blessed Oil (Mason's Rest) | +1 Vial | 1 | Gift from Father Vane (Ref: Q016) |
 | 5 | 16:57 | 011 | Heavy Masonry Pry-bar | +1 | 1 | Gift from Harlen (Ref: Q016) |
 | 5 | 16:57 | 011 | Mason's Pitons | +6 | 6 | Gift from Harlen (Ref: Q016) |
-| 5 | 17:15 | 011 | Custody Transfer | — | — | 5 Days Rations, Steel Hardware, 1 Cold-Iron Shard moved to Kaelen |
+| 5 | 17:15 | 011 | Custody Transfer | — | — | 5 Days Rations, Steel Hardware, Steel Shard [MAT: STEEL] moved to Kaelen |
 | 5 | 17:42 | 011 | Blessed Oil (Mason's Rest) | -1 Vial | 0 | Consumed in anointing Berath's slab (Ref: Q016) |
 | 5 | 17:42 | 011 | Mason's Pitons | -6 | 0 | Consumed in anchoring Berath's slab (Ref: Q016) |
+16) |
