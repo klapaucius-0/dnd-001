@@ -10,9 +10,9 @@ This file tracks the mechanical and social state of characters traveling with th
 **Age:** Late sixties
 **Sex:** Female
 **Race:** Human
-**Bond Type:** Neutral (Traveler)
+**Bond Type:** Companion
 **Standing:** Level 1 (55/20 SP) [Acquaintance]
-**Last Interaction:** Day 28
+**Last Interaction:** Day 31
 
 ### Summary
 A gaunt figure from the Western Cut who survived the "White Silence" and now seeks a way to restore her people. She specializes in rhythmic spindle weaving and mountain lore.
@@ -24,7 +24,7 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Commoner (CR 0, MM p. 345)
-*   **Modifications:** Level 1 Expert Sidekick (TCoE p. 142)
+*   **Modifications:** Level 2 Expert Sidekick (TCoE p. 142)
 
 #### Statistics
 | STR | DEX | CON | INT | WIS | CHA |
@@ -32,17 +32,17 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 | 10 (+0) | 14 (+2) | 12 (+1) | 13 (+1) | 16 (+3) | 10 (+0) |
 
 #### Combat Block (Strict 5e)
-*   **Armor Class:** 13 (Leather)
-*   **Hit Points:** 11 (2d8 + 2)
+*   **Armor Class:** 13 (Leather Armor)
+*   **Hit Points:** 17 (3d8 + 3)
 *   **Speed:** 30 ft.
 *   **Skills:** Survival +5, Medicine +5, Stealth +4, Nature +3
 *   **Senses:** Passive Perception 13
 *   **Languages:** Common, Western Dialect
-*   **Challenge:** 1/8 (Sidekick Lvl 1)
+*   **Challenge:** 1/8 (Sidekick Lvl 2)
 
 ### Special Traits
-*   **Expert Instincts:** [REVEALED] Knowledgeable in mountain flora (Medicinal Reagents, Resin, Wild Edibles).
-*   **Western Cut Rhythms:** [REVEALED] Expert in rhythmic spindle weaving and the "Ghost-Hearth" survival technique.
+*   **Expert Instincts:** Knowledgeable in mountain flora (Medicinal Reagents, Resin, Wild Edibles).
+*   **Western Cut Rhythms:** Expert in rhythmic spindle weaving and the "Ghost-Hearth" survival technique.
 
 ### Actions
 *   **Handaxe (Thrown):** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
@@ -54,8 +54,8 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 
 ## Sidekick Progression
 *   **Role:** Expert
-*   **Level:** 1
-*   **Unlocked Features:** Helpful, Cunning Action (available at level 2).
+*   **Level:** 2
+*   **Unlocked Features:** Helpful, Cunning Action.
 
 ## Discovery & Lore (AI Memory)
 *   **Revealed Facts:** 
@@ -72,8 +72,8 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 **Age:** Early thirties
 **Sex:** Male
 **Race:** Human
-**Bond Type:** Neutral (Indebted)
-**Standing:** Level 1 (55/20 SP) [Acquaintance]
+**Bond Type:** Associate
+**Standing:** Level 1 (45/20 SP) [Acquaintance]
 **Last Interaction:** Day 28
 
 ### Summary
@@ -94,7 +94,7 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 #### Combat Block (Strict 5e)
-*   **Armor Class:** 13 (Leather) (Leather)
+*   **Armor Class:** 12 (Leather Armor)
 *   **Hit Points:** 11 (2d8 + 2)
 *   **Speed:** 30 ft.
 *   **Senses:** Passive Perception 10
@@ -138,7 +138,7 @@ A weathered trail-warden of the Western Reach. He haunts the high fissures of th
 | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
 #### Combat Block (Strict 5e)
-*   **Armor Class:** 13 (Leather)
+*   **Armor Class:** 13 (Leather Armor)
 *   **Hit Points:** 16 (3d8 + 3)
 *   **Speed:** 30 ft.
 *   **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5

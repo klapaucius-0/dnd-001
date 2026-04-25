@@ -69,7 +69,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 226.7 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 207.1 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -102,7 +102,7 @@
 | Steel Hardware | 2.0 lbs | High-carbon nails/rings. |
 | Blueprint (Warhammer) | 0.0 lbs | Fine Steel Warhammer; `atlas/crafting/blueprints.md` |
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
-| Pine Firewood | 29.0 lbs | Held by party. |
+| Pine Firewood | 0.0 lbs | Held by companions (Total: 29.0 lbs). |
 | Kindling | 5.5 lbs | Pouch of needles/twigs. |
 | Herbalism Reagents | 6.0 lbs | Crafting components (XGtE). |
 | Poison (Basic) Reagents | 0.2 lbs | Crafting components (PHB). |
