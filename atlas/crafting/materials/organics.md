@@ -21,6 +21,11 @@
 | **Winter-Glint Berry** | `[MAT: WINTER_GLINT_BERRY]` | `[FREQ: UNCOMMON]` | x1.0 | `[HOMEBREW]` | 8 | 1 cp / lb | Hard red berries; requires soaking; high caloric density. |
 | **Frost-Vein Spore** | `[MAT: FROST_VEIN_SPORE]` | `[FREQ: RARE]` | x0.1 | `[HOMEBREW]` | 15 | 5 gp / 1 oz | Shimmering dust; numbs nerves and stabilizes resonance. |
 | **Heart-Bloom** | `[MAT: FROZEN_HEART_BLOOM]` | `[FREQ: VERY_RARE]` | x0.1 | `[HOMEBREW]` | 18 | 25 gp / unit | Crystalline blue flower; extreme cold anomaly trigger. |
+| **Dire Wolf Hide** | `[MAT: DIRE_WOLF_HIDE]` | `[FREQ: UNCOMMON]` | x1.0 | `[[MM]]` | 13 | 2 gp / lb | Large, thick raw hide; superior for cold-weather gear. |
+| **Dire Wolf Meat** | `[MAT: DIRE_WOLF_MEAT]` | `[FREQ: UNCOMMON]` | x1.0 | `[[MM]]` | N/A | 1 sp / lb | Stringy, lean meat; requires seasoning/salting. |
+| **Dire Wolf Bone** | `[MAT: DIRE_WOLF_BONE]` | `[FREQ: UNCOMMON]` | x1.0 | `[[MM]]` | 13 | 5 cp / lb | Dense skeletal material; suitable for structural tools. |
+| **Dire Wolf Sinew** | `[MAT: DIRE_WOLF_SINEW]` | `[FREQ: UNCOMMON]` | x1.0 | `[[MM]]` | 14 | 5 sp / lb | Extremely high-tensile animal tendon. |
+| **Dire Wolf Tooth** | `[MAT: DIRE_WOLF_TOOTH]` | `[FREQ: UNCOMMON]` | x0.1 | `[[MM]]` | 12 | 1 sp / unit | Large predatory teeth; used for jewelry or specialized tools. |
 
 ---
 

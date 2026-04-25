@@ -5,7 +5,7 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 1
-**Experience (XP):** 0 <!-- SOURCE: experience_log -->
+**Experience (XP):** 100 <!-- SOURCE: experience_log -->
 
 **Alignment:** Neutral
 **Age:** Middle-aged (appears older)
@@ -67,8 +67,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 198.3 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
-**Currency:** 5 gp <!-- SOURCE: currency_log -->
+**Total Weight:** 207.3 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -81,14 +80,12 @@
 ### Stored (Explorer's Pack & Misc)
 | Item | Weight | Notes |
 | :--- | :--- | :--- |
-| Light Crossbow | 5.0 lbs | 1d8 Piercing |
-| Crossbow Bolts (15) | 1.1 lbs | |
 | Backpack | 5.0 lbs | |
 | Bedroll | 7.0 lbs | |
 | Mess Kit | 1.0 lbs | |
 | Tinderbox | 1.0 lbs | |
 | Torches (10) | 10.0 lbs | |
-| Rations (9 days) | 18.0 lbs | |
+| Rations (5 days) | 10.0 lbs | |
 | Waterskin | 5.0 lbs | |
 | Hemp Rope (50ft) | 10.0 lbs | |
 | Smith's Tools | 8.0 lbs | |
@@ -100,17 +97,27 @@
 | Steel Hardware | 2.0 lbs | High-carbon nails/rings. |
 | Blueprint (Warhammer) | 0.0 lbs | Fine Steel Warhammer; `atlas/crafting/blueprints.md` |
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
-| Pine Firewood | 26.0 lbs | Gathered with companions. |
+| Pine Firewood | 16.0 lbs | Gathered with companions. |
 | Kindling | 3.5 lbs | Pouch of needles/twigs. |
 | Ghost-Root | 5.5 lbs | Resinous tuber; fuel. |
 | Iron-Needle Resin | 2.5 lbs | Sap; anti-frost base. |
-| Weaver's Moss | 0.5 lbs | Grey moss; hemostatic. |
-| Winter-Glint Berries | 0.8 lbs | Hard red berries; edible. |
-| Frost-Vein Spores | 0.1 lb | Shimmering dust; catalyst/numbing. |
+| Weaver's Moss | 1.0 lb | Grey moss; hemostatic. |
+| Winter-Glint Berries | 1.1 lbs | Hard red berries; edible. |
+| Frozen Mountain Tubers | 0.0 lbs | Starchy roots; require thawing. |
+| Frost-Vein Spores | 0.2 lbs | Shimmering dust; catalyst/numbing. |
 | Deep Iron | 6.0 lbs | Night-black mineral; [MAT: DEEP_IRON]. |
 | Siphon-Seal | 5.0 lbs | Lead container; marked by Oakhaven Granary. |
 | Mountain Moss | 0.2 lbs | Dried wick/kindling. |
 | Frozen Heart-Bloom | 0.1 lb | Crystalline blue flower; restore focus. |
+| Salt | 0.0 lbs | Consumed. |
+| Frost-Resistant Oil | 0.2 lbs | Prevents metal seizure. |
+| Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |
+| Dire Wolf Pelt | 4.0 lbs | Found in hideout; matted fur. |
+| Dire Wolf Hide | 8.0 lbs | Butchered; raw hide. |
+| Dire Wolf Meat | 12.0 lbs | Preserved (7 days); stringy. |
+| Dire Wolf Bones | 6.0 lbs | Large skeletal remains. |
+| Dire Wolf Organs | 1.5 lbs | Heart & Liver. |
+| Dire Wolf Sinew | 0.5 lbs | High-tensile cordage. |
 
 
 

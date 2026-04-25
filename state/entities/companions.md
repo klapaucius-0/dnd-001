@@ -25,6 +25,9 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 ### Mechanical Details (Unified Entity Protocol)
 *   **Class Level:** [REVEALED] Level 1 Sidekick (Expert).
 *   **Statistics:** [REVEALED] (STR 10, DEX 14, CON 12, INT 13, WIS 16, CHA 10).
+*   **Equipment:** 
+    *   **Weapons:** Steel Dagger (1d4 P, Light, Finesse, Thrown 20/60) [Gifted from Alen, Day 29].
+    *   **Tools:** Weaver's Tools (Masterwork Spindle), Woodcarver's Tools (Whittle-Knife).
 *   **Revealed Facts:** 
     *   Expert in rhythmic spindle weaving.
     *   Practitioner of the "Ghost-Hearth" survival technique.
@@ -52,6 +55,10 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 *   **Outlook on Life:** [REVEALED] The mountain is an active, predatory force; trust is earned through grounding.
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Equipment:** 
+    *   **Weapons:** Lead-Weighted Club (1d4 B), Steel Dagger (1d4 P, Light, Finesse, Thrown 20/60), Light Crossbow (1d8 P, Ammunition, Range 80/320, Two-Handed, Loading) [From Skaen, Day 29].
+    *   **Ammunition:** 15 Crossbow Bolts.
+    *   **Tools:** Tinker's Tools, Navigator's Tools (Compass), Calligrapher's Supplies (Ledger).
 *   **Specialty:** Can grant Advantage on checks to navigate the Western Reach or bypass Oakhaven social obstacles.
 *   **Revealed Facts:** 
     *   Siphon-Carrier for Master Hobb.

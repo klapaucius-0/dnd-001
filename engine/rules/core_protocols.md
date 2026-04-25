@@ -8,6 +8,7 @@ To ensure campaign integrity and AI optimization, every file type has a strictly
 | **Transcripts** | **Evidence** | Chronological record of every action, roll, and line of dialogue. | Raw & Unfiltered. |
 | **Logs (`*_log.md`)** | **Authority** | The **SSOT Master Logs**. Append-only audit trail of all numeric and state changes. | Log-First Update. |
 | **States (`*_state.md`)**| **Interface** | The **AI HUDs**. A snapshot of current values for quick reference. | Mirror of the Log. |
+| **Encounter Gen** | **Transparency** | `engine/templates/encounter_generation_template.md`. | Mandated for all Random Encounters. |
 | **Summaries** | **Synthesis** | Narrative summary of events, themes, and "vibe." | Narrative-First. |
 
 ## 2. The Log-First, State-Second Protocol
@@ -165,7 +166,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[MAT: ]`**
     *   **Purpose:** Identifies the primary material of an item.
     *   **Values Type:** Dynamic.
-    *   **Observed Values:** `STEEL`, `WOOD`, `IRON`, `DEEP_IRON`, `CRYSTAL`, `NEATSFOOT_OIL`, `HI_CARBON_STEEL`, `OLD_CUT_IRON`, `SLATE`, `VARIOUS`, `MINERAL`, `ANOMALY`, `BRONZE`, `BRASS`, `SILVER`, `GOLD`, `COPPER`, `SCRAP`, `COAL`, `TIN`, `ZINC`, `WOOL`, `LINEN`, `HEMP`, `SILK`, `LEATHER`, `BONE`, `HORN`, `ANTLER`, `CLAY`, `GLASS`, `PLATINUM`, `LEAD`, `COTTON`, `SALT`, `FLOUR`, `SUGAR`, `SPICES`, `TAR`, `INK`, `PAPER`, `SOAP`, `OIL`, `GRANITE`, `MARBLE`, `SAND`, `CHALK`, `WAX`, `RESIN`, `GLUE`, `CANVAS`, `FEATHER`, `ADAMANTINE`, `MITHRAL`, `SULFUR`, `SALTPETER`, `WATER_DISTILLED`, `ALUM`, `MORTAR`, `VELLUM`, `SINEW`, `PERFUME`, `VENOM`, `ELECTRUM`, `HERB`, `CHITIN`, `SHELL`, `MEAT`, `FRUIT`, `VEGETABLE`, `HIDE`, `FAT`, `BITUMEN`, `GUM_ARABIC`, `LIMESTONE`, `VINEGAR`, `COLD_FORMED_STEEL`, `MERCURY`, `GHOST_ROOT`, `IRON_NEEDLE_RESIN`, `WEAVER_MOSS`, `WINTER_GLINT_BERRY`, `FROST_VEIN_SPORE`, `FROZEN_HEART_BLOOM`, `MOUNTAIN_MOSS`.
+    *   **Observed Values:** `STEEL`, `WOOD`, `IRON`, `DEEP_IRON`, `CRYSTAL`, `NEATSFOOT_OIL`, `HI_CARBON_STEEL`, `OLD_CUT_IRON`, `SLATE`, `VARIOUS`, `MINERAL`, `ANOMALY`, `BRONZE`, `BRASS`, `SILVER`, `GOLD`, `COPPER`, `SCRAP`, `COAL`, `TIN`, `ZINC`, `WOOL`, `LINEN`, `HEMP`, `SILK`, `LEATHER`, `BONE`, `HORN`, `ANTLER`, `CLAY`, `GLASS`, `PLATINUM`, `LEAD`, `COTTON`, `SALT`, `FLOUR`, `SUGAR`, `SPICES`, `TAR`, `INK`, `PAPER`, `SOAP`, `OIL`, `GRANITE`, `MARBLE`, `SAND`, `CHALK`, `WAX`, `RESIN`, `GLUE`, `CANVAS`, `FEATHER`, `ADAMANTINE`, `MITHRAL`, `SULFUR`, `SALTPETER`, `WATER_DISTILLED`, `ALUM`, `MORTAR`, `VELLUM`, `SINEW`, `PERFUME`, `VENOM`, `ELECTRUM`, `HERB`, `CHITIN`, `SHELL`, `MEAT`, `FRUIT`, `VEGETABLE`, `HIDE`, `FAT`, `BITUMEN`, `GUM_ARABIC`, `LIMESTONE`, `VINEGAR`, `COLD_FORMED_STEEL`, `MERCURY`, `GHOST_ROOT`, `IRON_NEEDLE_RESIN`, `WEAVER_MOSS`, `WINTER_GLINT_BERRY`, `FROST_VEIN_SPORE`, `FROZEN_HEART_BLOOM`, `MOUNTAIN_MOSS`, `DIRE_WOLF_HIDE`, `DIRE_WOLF_MEAT`, `DIRE_WOLF_BONE`, `DIRE_WOLF_ORGAN`, `DIRE_WOLF_SINEW`, `DIRE_WOLF_TOOTH`, `FROST_RESISTANT_OIL`.
     *   **Reference Index:** Must be logged in the `atlas/crafting/materials/` directory.
 *   **`[CAT: ]`**
     *   **Purpose:** Broadly categorizes materials to allow for substitution in generic recipes.

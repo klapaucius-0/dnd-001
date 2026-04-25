@@ -1,10 +1,10 @@
 # World State: The Sorrow
 <!-- SOURCE: world_state -->
 
-**Current Day:** 29 (The Stone Path) <!-- SOURCE: time_log -->
-**Current Time:** 13:30 (Afternoon) <!-- SOURCE: time_log -->
+**Current Day:** 30 (The Stone Path) <!-- SOURCE: time_log -->
+**Current Time:** 07:50 (Morning) <!-- SOURCE: time_log -->
 
-**Current Location:** Old Iron Road (Ravine Camp - 26 miles West of Oakhaven)
+**Current Location:** Old Iron Road (Bypass Granite Squeeze - 22 miles West of Oakhaven)
 
 ## Active Effects & Conditions
 *   **The Silence of the Yard:** The Old Mason's Yard is officially quarantined by the town guard. No sound can be produced within its walls.
@@ -38,4 +38,4 @@
 
 ## Summary of Active Parties
 *   **Kaelen:** Within Oakhaven, currently residing at the Boar and Barrel. He carries the remnants of Wael's mission (The Stone Box).
-*   **Skaen & Party:** Currently on the Old Iron Road (Ravine Camp - 26 miles west). Carrying Siphon-Seal payload.
+*   **Skaen & Party:** Currently on the Old Iron Road (Bypass Granite Squeeze - 22 miles West of Oakhaven). Carrying Siphon-Seal payload and harvested Dire Wolf materials.

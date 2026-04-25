@@ -250,6 +250,10 @@ An Oakhaven-born scout and specialized courier rescued from the "White Silence" 
 *   **Outlook on Life:** [REVEALED] The mountain is an active, predatory force; trust is earned through grounding.
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Equipment:** 
+    *   **Weapons:** Lead-Weighted Club (1d4 B), Steel Dagger (1d4 P), Light Crossbow (1d8 P) [From Skaen, Day 29].
+    *   **Ammunition:** 15 Crossbow Bolts.
+    *   **Tools:** Tinker's Tools, Navigator's Tools (Compass), Calligrapher's Supplies (Ledger).
 *   **Specialty:** Can grant Advantage on checks to navigate the Western Reach or bypass Oakhaven social obstacles.
 *   **Revealed Facts:** 
     *   Siphon-Carrier for Master Hobb.
@@ -351,6 +355,9 @@ A gaunt survivor from the Western Cut who now travels with Skaen. She seeks a wa
 *   **Outlook on Life:** [REVEALED] The journey is the only truth; life is a rhythm that must be maintained.
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Equipment:**
+    *   **Weapons:** Steel Dagger (1d4 P) [Gifted from Alen, Day 29].
+    *   **Tools:** Weaver's Tools (Masterwork Spindle), Woodcarver's Tools (Whittle-Knife).
 *   **Revealed Facts:** 
     *   Expert in rhythmic spindle weaving.
     *   Practitioner of the "Ghost-Hearth" survival technique.

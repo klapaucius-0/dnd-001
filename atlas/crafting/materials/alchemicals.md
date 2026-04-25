@@ -16,6 +16,7 @@
 | **Bitumen** | `[MAT: BITUMEN]` | `[FREQ: UNCOMMON]` | x1.0 | `[HOMEBREW]` | 9 | 1 sp / lb | Viscous hydrocarbon mixture; superior sealant and binder. |
 | **Gum Arabic** | `[MAT: GUM_ARABIC]` | `[FREQ: RARE]` | x1.0 | `[[XGTE]]` | N/A | 5 gp / lb | Hardened sap; essential binder for inks, dyes, and medicines. |
 | **Soap** | `[MAT: SOAP]` | `[FREQ: COMMON]` | x1.0 | `[[PHB]]` | N/A | 2 cp / lb | Rendered fats and lye; used for hygiene and as a lubricant. |
+| **Frost-Resistant Oil** | `[MAT: FROST_RESISTANT_OIL]` | `[FREQ: RARE]` | x0.1 | `[HOMEBREW]` | N/A | 5 gp / vial | Specialized lubricant that prevents metal seizure in extreme cold. |
 
 ---
 
