@@ -36,7 +36,7 @@
 ## Proficiencies & Languages
 *   **Armor:** Light, Medium, Heavy, Shields.
 *   **Weapons:** Simple, Battleaxe, Handaxe, Light Hammer, Warhammer.
-*   **Tools:** Smith's Tools (Forge), Herbalism Kit (Hermit).
+*   **Tools:** Smith's Tools (Forge), Herbalism Kit (Hermit), Mason's Tools (Dwarf), Leatherworker's Tools (Swap), Thieves' Tools (Swap).
 *   **Languages:** Common, Dwarvish, Deep Speech.
 *   **Saving Throws:** Wisdom, Charisma.
 *   **Skills:** History (+2), Insight (+5), Medicine (+5), Religion (+2).

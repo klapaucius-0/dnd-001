@@ -16,7 +16,10 @@ Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 2.  **Update the State:** Only after the log is updated, refresh the corresponding `*_state.md` file in `state/` to mirror the new total.
 3.  **Active Modifier Registry (HUD) Protocol:** If a state change introduces a persistent bonus, penalty, advantage, or disadvantage (e.g., equipping an item, gaining a condition like Exhaustion, or casting a long-term buff), the **Active Modifier Registry (HUD)** section in `state/character_state.md` MUST be updated in the same turn. The DM must reference this HUD before every roll.
 4.  **Source Tags:** States MUST use Source Tags (e.g., `<!-- SOURCE: currency_log -->`) to identify their master log.
-5.  **Quest State Review (Mandatory):** At the start of every session, or after a Long Rest, the DM MUST read `state/quest_state.md` and check the `[OPEN]` or `[REQUIRES: X]` tags of the currently active quests to ensure narrative tracking is maintained without forcing the player down a specific path.
+5.  **Quest & Progression Review (Mandatory):** At the start of every session, or after a Long Rest, the DM MUST:
+    *   **Level-Up Audit:** Compare current XP in `state/character_state.md` against the 2014 leveling thresholds. If a level-up has occurred, the DM MUST guide the player through the update using the relevant `engine/rules/class_reference/` file.
+    *   **Feature Audit:** Review the class reference file to ensure all active features (including Optional Class Features from TCoE) are correctly represented in the character sheet.
+    *   **Quest Tracker:** Read `state/quest_state.md` and check the `[OPEN]` or `[REQUIRES: X]` tags of the currently active quests to ensure narrative tracking is maintained.
 
 ## 3. SSOT Registry (The Five Pillars)
 | Category | Master History Log (SSOT) | Reference Snapshot (State) | Source Tag |
@@ -155,7 +158,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 
 *   **`Q###` vs `P###` (Quest Indexing)**
     *   **`Q###` (World Quests):** Externally-driven narrative events (NPCs, world lore). Requires a dedicated markdown file.
-    *   **`P###` (Personal Directives):** Internally-driven player goals (crafting, gathering, XP targets). Requires a dedicated markdown file.
+    *   **`P###` (Personal Directives):** Internally-driven player goals (crafting, gathering, XP targets). Requires a dedicated markdown file. **Note:** Personal Directives do not grant XP rewards; their rewards are strictly narrative or material.
 *   **`[WORLD]` vs `[PERSONAL]` (HUD Tags)**
     *   **`[WORLD]`**: Marks a `Q###` entry in `state/quest_state.md`.
     *   **`[PERSONAL]`**: Marks a `P###` entry in `state/quest_state.md`.

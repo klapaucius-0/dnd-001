@@ -27,8 +27,13 @@ The DM MUST confirm that all choices are made using only the following 2014 sour
 4.  **Ability Score Generation:**
     *   **Method:** Choose Point Buy, Standard Array, or Rolling.
     *   **Rolling Protocol:** Use `node engine/scripts/dice_roller.js "4d6dl1"` (run 6 times).
-5.  **Background Selection:** Choose a 2014 background. List all skills, tool proficiencies, and languages.
-6.  **Starting Equipment:** Always use the Standard Equipment granted by the Class and Background. The DM MUST list all available choices for each slot.
+
+5.  **Redundancy Check (Mandatory):** 
+    *   The DM MUST cross-reference all Race, Background, and Class proficiencies. 
+    *   **Redundancy Rule:** If the character gains the same proficiency from two different sources (e.g., Mountain Dwarf armor and Cleric armor), they MUST be offered a swap for a tool or weapon of their choice as per Tasha’s Origin Rules.
+
+6.  **Background Selection:** Choose a 2014 background. List all skills, tool proficiencies, and languages.
+7.  **Starting Equipment:** Always use the Standard Equipment granted by the Class and Background. The DM MUST list all available choices for each slot.
     *   **Note:** Starting Gold is prohibited unless explicitly requested by the player in a separate directive.
 
 ## Phase 3: Technical Initialization

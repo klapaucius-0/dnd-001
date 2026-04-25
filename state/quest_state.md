@@ -4,6 +4,7 @@
 ## Active Short-Term Goals
 *   **[WORLD] [OPEN] Q017:** The Iron Trek (Reach Oakhaven).
 *   **[PERSONAL] [OPEN] P001:** The Ritual Bond (Acquire pearl and owl feather).
+*   **[PERSONAL] [OPEN] P004:** Strength in Trinity (Seek a third companion).
 
 ## Active Mid-Term Goals
 *   **[NONE]**
