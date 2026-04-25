@@ -5,13 +5,9 @@ This file tracks the mechanical and social state of characters traveling with th
 
 ---
 
-*(No active companions for the current protagonist. Legacy companions are listed below.)*
-
----
-
-## The Bound Weaver [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
+## Elora (The Bound Weaver) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Solitary Weaver (Expert)
-**Age:** Late sixties (Elora)
+**Age:** Late sixties
 **Sex:** Female
 **Race:** Human
 **Bond Type:** Neutral (Traveler)
@@ -19,7 +15,7 @@ This file tracks the mechanical and social state of characters traveling with th
 **Last Interaction:** Day 28
 
 ### Summary
-A gaunt figure from the Western Cut who survived the "White Silence" and now seeks a way to restore their people. They specialize in rhythmic spindle weaving and mountain lore.
+A gaunt figure from the Western Cut who survived the "White Silence" and now seeks a way to restore her people. She specializes in rhythmic spindle weaving and mountain lore.
 
 ### Narrative & Identity
 *   **Appearance:** [REVEALED] Gaunt frame, face obscured by grey felted wool, pale and watchful eyes.
@@ -34,12 +30,15 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
     *   Practitioner of the "Ghost-Hearth" survival technique.
     *   Knowledgeable in mountain flora (Ghost-Root, Iron-Needle Pine, Weaver's Moss).
 *   **Unrevealed Facts:**
-    *   [NOT_REVEALED] Their true name.
+    *   [NOT_REVEALED] The full extent of her Western Cut ancestry.
 
 ---
 
 ## Alen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: HIRELING]
 **Role/Type:** Siphon-Carrier (Scout / Guide)
+**Age:** Early thirties
+**Sex:** Male
+**Race:** Human
 **Bond Type:** Neutral (Indebted)
 **Standing:** Level 1 (20/20 SP) [Stranger]
 **Last Interaction:** Day 28
@@ -62,13 +61,15 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 
 ---
 
+## Legacy & Inactive Companions
+
+---
+
 ## Kaelen (Legacy Companion) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
 **Role/Type:** Human Guide (Scout / Veteran Survivor)
 **Age:** Mid-thirties
 **Sex:** Male
 **Race:** Human
-**Bond Type:** Legacy
-
 **Bond Type:** Legacy
 **Standing:** Level 0 (0/20 SP) [Stranger]
 **Last Interaction:** ---

@@ -20,5 +20,5 @@ This file tracks the full historical record of every quest completed or failed i
 | Q014 | Building the Bastion | ABANDONED | Wael fell before this could be completed. | — |
 | Q015 | Brittle Defense | COMPLETED | Wael used Mending over 3 LH to restore the spears. | — |
 | Q016 | The Restless Yard | FAILED | The Battle of the Yard resulted in Wael's death and the quarantine of the site. | 011 |
-| — | Seek a Companion (Elora) | COMPLETED | Formed bond at The Low Ridge. | 012 |
-| — | Seek Second Companion (Alen) | COMPLETED | Rescued from the White Silence. | 012 |
+| P002 | The Bound Weaver | COMPLETED | Formed bond at The Low Ridge. | 012 |
+| P003 | The Carrier's Rescue | COMPLETED | Rescued from the White Silence. | 012 |

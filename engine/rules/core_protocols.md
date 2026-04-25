@@ -27,6 +27,7 @@ Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 | **Inventory** | `logs/inventory_log.md` | `state/character_state.md` | `<!-- SOURCE: inventory_log -->` |
 | **Reputation** | `logs/reputation_log.md` | `state/world_state.md` | `<!-- SOURCE: reputation_log -->` |
 | **Relationships** | `logs/relationship_log.md` | `state/world_state.md` | `<!-- SOURCE: relationship_log -->` |
+| **Quests** | `logs/quest_log.md` | `state/quest_state.md` | `<!-- SOURCE: quest_log -->` |
 | **Economy** | `engine/rules/economy.md` | N/A (Algorithmic) | `[VALUE: ]` |
 
 ## 4. Chronological Logging Protocol
@@ -82,7 +83,7 @@ When preparing for a new protagonist after a character's death or departure, the
 
 1.  **Social & Reputation SP:** Reset all Individual SP (Relationship log) and Faction SP (Reputation log) to `0`. The new character starts as a `[Stranger]` mechanically.
 2.  **NPC Last Interactions:** Reset the `Last Interaction` field for all NPCs in `state/entities/` and `state/world_state.md` to `---` or Day 0, reflecting that the new PC has no prior history with them.
-3.  **Quests:** Update the status of all active/pending quests (e.g., FAILED, ABANDONED, COMPLETED) and move the files to the appropriate quest archive directory (`state/archive/quests/`).
+3.  **Quests:** Update the status of all active/pending quests (e.g., FAILED, ABANDONED, COMPLETED). Move the formal quest files to character-specific archive directories (e.g., `state/archive/quests/[Character_Name]/`).
 4.  **Atlas Synchronization (CRITICAL MANDATE):** Before finalizing the transition, the DM MUST painstakingly parse **ALL non-archived AND ALL archived logs and chronicles without exception**. It is absolutely paramount that both historical archived data and recent non-archived data are used in tandem to update every relevant file in the `atlas/` directory. This ensure the world perfectly reflects the campaign's discoveries and the fallen character's legacy. This explicitly includes:
     *   `atlas/lore.md`
     *   `atlas/locations.md`
@@ -146,12 +147,18 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`<!-- SOURCE: -->`**
     *   **Purpose:** Enforces data integrity by linking state variables to their master logs.
     *   **Values Type:** Static (Log filenames).
-    *   **Values in use:** `currency_log`, `experience_log`, `time_log`, `inventory_log`, `reputation_log`, `relationship_log`, `artifacts`, `world_state`, `unique_entities`, `social_entities`, `companions`, `bestiary`, `lore`, `crafting`, `atlas/crafting/blueprints.md`, `atlas/crafting/materials/`, `atlas/crafting/tools.md`, `pc_sheet`, `quest_state`.
+    *   **Values in use:** `currency_log`, `experience_log`, `time_log`, `inventory_log`, `reputation_log`, `relationship_log`, `quest_log`, `artifacts`, `world_state`, `unique_entities`, `social_entities`, `companions`, `bestiary`, `lore`, `crafting`, `atlas/crafting/blueprints.md`, `atlas/crafting/materials/`, `atlas/crafting/tools.md`, `pc_sheet`, `quest_state`.
     *   **Reference Index:** See Section 3 of this file.
 
 ### B. Dynamic & Extensible Tags (DM Managed)
 *The DM is encouraged to create new values for these tags dynamically during narrative play. When a new value is generated, the DM must ensure it is formally documented in the corresponding Reference Index.*
 
+*   **`Q###` vs `P###` (Quest Indexing)**
+    *   **`Q###` (World Quests):** Externally-driven narrative events (NPCs, world lore). Requires a dedicated markdown file.
+    *   **`P###` (Personal Directives):** Internally-driven player goals (crafting, gathering, XP targets). Requires a dedicated markdown file.
+*   **`[WORLD]` vs `[PERSONAL]` (HUD Tags)**
+    *   **`[WORLD]`**: Marks a `Q###` entry in `state/quest_state.md`.
+    *   **`[PERSONAL]`**: Marks a `P###` entry in `state/quest_state.md`.
 *   **`[MAT: ]`**
     *   **Purpose:** Identifies the primary material of an item.
     *   **Values Type:** Dynamic.

@@ -28,3 +28,12 @@
 *   **XP Awarded:** [UNLOGGED] [Amount] -> `experience_log.md`
 *   **Loot/Currency:** [UNLOGGED] [Details] -> `inventory_log.md` / `currency_log.md`
 *   **Standing/SP:** [UNLOGGED] [Details] -> `relationship_log.md` / `reputation_log.md`
+
+---
+
+## Archiving Checklist (DM Use Only)
+- [ ] **Rewards Logged:** All XP, loot, and SP rewards have been successfully added to their respective Master Logs.
+- [ ] **State Synced:** All state files (character, world, entities) mirror the final quest results.
+- [ ] **Ledger Entry:** A completion record has been appended to `logs/quest_log.md`.
+- [ ] **File Archived:** The quest file is moved to the appropriate sub-folder in `state/archive/quests/`.
+- [ ] **HUD Update:** The quest reference has been removed from `state/quest_state.md`.
