@@ -19,6 +19,8 @@
 *   **Outlook on Life/Drive:** [Fundamental philosophy or biological drive.]
 
 ## Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** [Official Name] (CR [X], [Source] p. [Y])
+*   **Modifications:** [Applied Sidekick levels, swapped equipment, or DMG p. 283 adjustments]
 
 ### Statistics
 | STR | DEX | CON | INT | WIS | CHA |

@@ -62,9 +62,10 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is
 *   **Outlook on Life:** [NOT_REVEALED] (Life is preparation for the quiet).
 
 ### Mechanical Details (Unified Entity Protocol)
-*   **Class Level:** [NOT_REVEALED] (4th Level Cleric).
-*   **Statistics:** [NOT_REVEALED] (STR 10, DEX 10, CON 12, INT 13, WIS 16, CHA 14).
-*   **Capabilities & Rituals:** [NOT_REVEALED] (Access to 1st/2nd level slots; Ritual of Realignment).
+*   **Base Statblock:** Priest (CR 2, MM p. 348)
+*   **Modifications:** None
+*   **Statistics:** (STR 10, DEX 10, CON 12, INT 13, WIS 16, CHA 14).
+*   **Capabilities & Rituals:** [REVEALED] 2nd-level spellcasting; Ritual of Realignment.
 *   **Revealed Facts:** 
     *   Priest of Kelemvor; maintains the Chapel.
     *   The Chapel acts as a Tier 7 [KINDLED_HEARTH] while he is active.
@@ -93,6 +94,10 @@ A pragmatic Daleland trader who knows the value of hard work and honest material
 *   **Personality/Behavior:** [NOT_REVEALED] (Gruff but respectful).
 *   **Outlook:** [NOT_REVEALED] (Survival is about stubbornness).
 
+### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Commoner (CR 0, MM p. 345)
+*   **Modifications:** Proficient in Leatherworker's Tools.
+
 ---
 
 ## Elara [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
@@ -114,6 +119,10 @@ A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpne
 *   **Appearance:** [NOT_REVEALED] (Early sixties, gaunt frame, pale blue eyes).
 *   **Personality/Behavior:** [NOT_REVEALED] (Blunt, efficient).
 *   **Outlook:** [NOT_REVEALED] (Scarcity is the only certainty).
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Commoner (CR 0, MM p. 345)
+*   **Modifications:** Proficient in Weaver's Tools.
 
 ---
 
@@ -138,10 +147,8 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 *   **Outlook:** [NOT_REVEALED] (History is held in iron).
 
 ### Mechanical Details (Unified Entity Protocol)
-*   **Revealed Facts:** 
-    *   Sells tools and scavenged materials.
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] Knowledge of "Old Cut" iron sources.
+*   **Base Statblock:** Commoner (CR 0, MM p. 345)
+*   **Modifications:** Proficient in Investigation and Athletics.
 
 ---
 
@@ -167,15 +174,13 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 *   **Outlook:** [NOT_REVEALED] (Information and standing are currency).
 
 ### Mechanical Details (Unified Entity Protocol)
-*   **Revealed Facts:** 
-    *   Knowledgeable regarding local trade and supply lines.
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] The extent of his stockpiles.
+*   **Base Statblock:** Commoner (CR 0, MM p. 345)
+*   **Modifications:** Proficient in Insight and Persuasion.
 
 ---
 
 ## Toren [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
-**Role/Type:** Town Guard (Veteran)
+**Role/Type:** Town Guard (Veteran Survivor)
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
 **Last Interaction:** ---
@@ -198,6 +203,10 @@ A vocal but high-strung guard who survived the Battle of the Old Mason's Yard.
 *   **Personality:** [NOT_REVEALED] (Prone to panic but disciplined).
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Guard (CR 1/8, MM p. 347)
+*   **Modifications:** Level 1 Warrior Sidekick (Defender Role).
+*   **HP:** 16 (2d8 + 2 Sidekick)
+*   **Features:** Martial Role (Defender: Disadvantage on attacks vs allies within 5ft).
 *   **Revealed Facts:** 
     *   Responsible for town security.
 *   **Unrevealed Facts:**
@@ -207,7 +216,7 @@ A vocal but high-strung guard who survived the Battle of the Old Mason's Yard.
 ---
 
 ## Hov [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
-**Role/Type:** Town Guard (Veteran)
+**Role/Type:** Town Guard (Veteran Survivor)
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
 **Last Interaction:** ---
@@ -229,8 +238,13 @@ A young, disciplined, and mostly silent guard who carries the trauma of the Yard
 *   **Personality:** [NOT_REVEALED] (Stoic and focused on duty).
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Guard (CR 1/8, MM p. 347)
+*   **Modifications:** Level 1 Warrior Sidekick (Defender Role).
+*   **HP:** 16 (2d8 + 2 Sidekick)
+*   **Features:** Martial Role (Defender: Disadvantage on attacks vs allies within 5ft).
 *   **Revealed Facts:** 
     *   Responsible for town security and wall patrols.
+
 
 ## Alen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: HIRELING]
 **Role/Type:** Siphon-Carrier (Scout / Guide)
@@ -302,6 +316,8 @@ A quiet and observant caretaker of the small grove within Oakhaven.
 *   **Outlook on Life:** [NOT_REVEALED] (Life is slow growth against fast decay).
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Druid (CR 2, MM p. 346)
+*   **Modifications:** None
 *   **Revealed Facts:** 
     *   Tends to the Frost-Vein Lichen and local medicinal herbs.
 *   **Unrevealed Facts:**
@@ -329,6 +345,12 @@ A gruff, overworked blacksmith struggling against contaminated iron.
 *   **Outlook on Life:** [NOT_REVEALED] (Survival is a losing battle).
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Thug (CR 1/2, MM p. 350)
+*   **Modifications:** Proficient in Smith's Tools.
+*   **Statistics:** (STR 15, DEX 11, CON 14, INT 10, WIS 10, CHA 11).
+*   **HP:** 32 (5d8 + 10)
+*   **AC:** 11 (Leather)
+*   **Action (Multiattack):** Makes two melee attacks.
 *   **Revealed Facts:** 
     *   Expert in mundane metalwork.
 *   **Unrevealed Facts:**
@@ -355,6 +377,8 @@ A gaunt survivor from the Western Cut who now travels with Skaen. She seeks a wa
 *   **Outlook on Life:** [REVEALED] The journey is the only truth; life is a rhythm that must be maintained.
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Commoner (CR 0, MM p. 345)
+*   **Modifications:** Level 1 Expert Sidekick (TCoE p. 142)
 *   **Equipment:**
     *   **Weapons:** Steel Dagger (1d4 P) [Gifted from Alen, Day 29].
     *   **Tools:** Weaver's Tools (Masterwork Spindle), Woodcarver's Tools (Whittle-Knife).
@@ -365,6 +389,7 @@ A gaunt survivor from the Western Cut who now travels with Skaen. She seeks a wa
     *   Knowledgeable in mountain flora (Medicinal Reagents, Resin, Wild Edibles).
 *   **Unrevealed Facts:**
     *   [NOT_REVEALED] The full extent of her Western Cut ancestry.
+
 
  Cut ancestry.
 

@@ -5,67 +5,48 @@ This file contains discovery-based state blocks and tactical notes for creatures
 
 ---
 
-## Resonant Figure [STRATUM: 5_RESONANT_VOID] [NPC_TYPE: STATBLOCK]
-**Role/Type:** Medium humanoid
-**Habitat:** High Peaks / Anomalous Zones
-**Faction:** [[Mountain Sentinels]]
+## Giant Rats [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+**Base Statblock:** Giant Rat (CR 1/8, MM p. 327)
+**Modifications:** Narrative "Resonant" theme.
+
+---
+
+## Dire Wolf [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+**Role/Type:** Large beast, unaligned
+**Habitat:** Forest / Arctic / Mountains
 
 ### Summary
-Pale, elongated humanoid figures that move with a gravity-defying grace. They appear to be scouts or harbingers for deeper void threats.
+Massive predatory wolves that hunt in packs. They are significantly larger and more intelligent than standard wolves.
 
 ### Narrative & Identity
-*   **Appearance:** Pupilless white eyes; skin like dead fish; jerky, scuttling movements.
-*   **Sounds:** A low, rhythmic clicking; high-pitched glass-like shrieks upon death.
-*   **Personality/Behavior:** Aggressive; drawn to resonant objects and the "reaching" of the mountain.
+*   **Appearance:** [REVEALED] Roughly the size of a pony; thick, frost-matted fur; powerful corded neck muscles.
+*   **Sounds:** Deep, vibrating growls; mournful howls that carry for miles.
+*   **Personality/Behavior:** [REVEALED] Patient and lethal; utilizes pack tactics to overwhelm prey. The individual encountered at the Granite Squeeze was solitary and starving.
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Dire Wolf (CR 1, MM p. 321)
+*   **Modifications:** None (Session 013 specimen was "Starving" - HP 15, DMG 1d10+3).
 
 #### Statistics
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
+| 17 (+3) | 15 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 #### Known Values (Observed)
-*   **Armor Class (AC):** 12 (Natural)
-*   **Hit Points (HP):** 12 (Standard)
-*   **Speed:** 30 ft. (Can move along vertical surfaces)
-*   **Disposition:** Hostile
+*   **Armor Class (AC):** 14 (Natural)
+*   **Hit Points (HP):** 37 (5d10 + 10)
+*   **Speed:** 50 ft.
+*   **Skills:** Perception +3, Stealth +4
+*   **Senses:** Passive Perception 13
 *   **Known Facts:** 
-    *   **Void-Touch:** Claws cause slashing/force damage.
-    *   **Dissolution:** Dissolves into grey ash upon death.
+    *   **Keen Hearing and Smell:** Advantage on Wisdom (Perception) checks that rely on hearing or smell.
+    *   **Pack Tactics:** Advantage on attack rolls if at least one ally is within 5 feet of the target.
+    *   **Bite:** Melee Weapon Attack: +5 to hit. Hit: 10 (2d6 + 3) piercing damage. Target must succeed on a DC 13 STR save or be knocked prone.
 
 ---
 
-## Void-Touched Sentinel [STRATUM: 5_RESONANT_VOID] [NPC_TYPE: STATBLOCK]
-**Role/Type:** Large skeletal construct
-**Habitat:** The Obelisk / Deep Excavations
-**Faction:** [[Mountain Sentinels]]
+## Historical Anomalies (Archived)
+The following entities were observed during the first phase of the Sorrow but have since disappeared from the active world following the fall of Wael.
+*   **Resonant Figure:** [ARCHIVED] See `state/archive/entities/anomalies_archive.md`
+*   **Void-Touched Sentinel:** [ARCHIVED] See `state/archive/entities/anomalies_archive.md`
 
-### Narrative & Identity
-*   **Appearance:** Seven-foot skeletal frame reinforced with rusted iron bands; hollow head emitting a dark void.
-*   **Sounds:** Bone-on-bone grinding; absolute silence.
-
-### Mechanical Details (Unified Entity Protocol)
-
-#### Statistics
-| STR | DEX | CON | INT | WIS | CHA |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 16 (+3) | 10 (+0) | 14 (+2) | 6 (-2) | 14 (+2) | 12 (+1) |
-
-#### Known Values (Observed)
-*   **Armor Class (AC):** 14 (Metal Reinforcement)
-*   **Hit Points (HP):** ~35-40
-*   **Speed:** 30 ft.
-*   **Challenge (CR):** 2
-*   **Known Facts:** 
-    *   **Multiattack:** Two claw strikes per action.
-    *   **Aura of Silence:** 10ft radius; no sound can be produced or heard (prevents Verbal spellcasting).
-    *   **Toll of the Void:** Critical hits inflict Lingering Injuries.
-
-#### Unknown Values (??)
-*   **Resistances:** Suspected resistance to cold and non-magical physical damage.
-
----
-
-## Rat-Dogs (Giant Rats) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
-... (Unchanged)

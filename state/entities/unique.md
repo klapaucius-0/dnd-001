@@ -27,6 +27,8 @@ An elderly hermit surviving in the lethal cold of the Frozen Grove.
 *   **Outlook on Life:** [NOT_REVEALED] (Survival is a craft).
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Druid (CR 2, MM p. 346)
+*   **Modifications:** None
 *   **Statistics:** [NOT_REVEALED] (CON 16, WIS 15).
 *   **Revealed Facts:** 
     *   Expert in mountain herbs and survival.
@@ -87,3 +89,7 @@ The silent, black-cloaked figure who murdered Berath in the Boar and Barrel on D
 ### Narrative & Identity
 *   **Weapon:** [NOT_REVEALED] (A dark blade that leaves no blood).
 *   **Goal:** [NOT_REVEALED] (Pursuing the Black Shard).
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Spy (CR 1, MM p. 349)
+*   **Modifications:** Custom Shadow-themed equipment.

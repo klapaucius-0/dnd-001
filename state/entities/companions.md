@@ -23,8 +23,11 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 *   **Outlook on Life:** [REVEALED] The journey is the only truth; life is a rhythm that must be maintained.
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Commoner (CR 0, MM p. 345)
+*   **Modifications:** Level 1 Expert Sidekick (TCoE p. 142)
 *   **Class Level:** [REVEALED] Level 1 Sidekick (Expert).
 *   **Statistics:** [REVEALED] (STR 10, DEX 14, CON 12, INT 13, WIS 16, CHA 10).
+*   **HP:** 11 (2d8 + 2)
 *   **Equipment:** 
     *   **Weapons:** Steel Dagger (1d4 P, Light, Finesse, Thrown 20/60) [Gifted from Alen, Day 29].
     *   **Tools:** Weaver's Tools (Masterwork Spindle), Woodcarver's Tools (Whittle-Knife).
@@ -55,6 +58,9 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 *   **Outlook on Life:** [REVEALED] The mountain is an active, predatory force; trust is earned through grounding.
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Bandit (CR 1/8, MM p. 343)
+*   **Modifications:** Swapped scimitar for Lead-Weighted Club (DMG p. 283).
+*   **HP:** 11 (2d8 + 2)
 *   **Equipment:** 
     *   **Weapons:** Lead-Weighted Club (1d4 B), Steel Dagger (1d4 P, Light, Finesse, Thrown 20/60), Light Crossbow (1d8 P, Ammunition, Range 80/320, Two-Handed, Loading) [From Skaen, Day 29].
     *   **Ammunition:** 15 Crossbow Bolts.
@@ -94,6 +100,8 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 *   **Outlook on Life:** [NOT_REVEALED] (Survival was a lie).
 
 ### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Scout (CR 1/2, MM p. 349)
+*   **Modifications:** Level 2 Expert Sidekick (TCoE p. 142)
 *   **Class Level:** [NOT_REVEALED] (Level 2 Sidekick: Expert).
 *   **Statistics:** [NOT_REVEALED] (STR 10, DEX 14, CON 12, INT 11, WIS 14, CHA 10).
 *   **Revealed Facts:** 
@@ -101,4 +109,5 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
     *   Holds the remnants of a fallen ally's mission (Wael's journal and artifacts).
 *   **Unrevealed Facts:**
     *   [NOT_REVEALED] The depth of his current trauma.
+
 
