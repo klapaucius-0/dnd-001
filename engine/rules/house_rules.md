@@ -11,20 +11,33 @@
 
 ## Tactical Mechanics
 1.  **Grid-Lite Combat:** ASCII grids with chess-style coordinates (A-Z, 1-N).
-2.  **DC Transparency:** The DM will state the DC or target AC before rolling.
-3.  **Advantage & Disadvantage Protocol:** 
+2.  **Combat & Initiative (PHB p. 189):**
+    *   **The Check:** Combat begins with a Dexterity (Initiative) check.
+    *   **Tie-Breakers:** In the event of a tie, the creature with the higher Dexterity score goes first. If still tied, the DM rolls a d20 to break the tie.
+3.  **DC Transparency:** The DM will state the DC or target AC before rolling.
+4.  **Advantage & Disadvantage Protocol:** 
     *   **Cancellation:** If a roll is subject to both Advantage and Disadvantage, they cancel each other out and you roll a **straight d20**. This remains true regardless of the number of sources for either (e.g., two sources of Disadvantage and one source of Advantage still result in a straight roll).
     *   **Exhaustion (Level 1):** Grants **Disadvantage on all Ability Checks**. This stacks with other sources of Disadvantage for the purpose of cancellation but does not result in rolling more than two d20s.
-4.  **Range & Melee:**
+5.  **Range & Melee:**
     *   **Close Quarters:** Ranged attacks have **Disadvantage** if an enemy is within 5 feet of the attacker.
     *   **Opportunity Attacks:** Moving out of an enemy's reach (usually 5 feet) triggers an Opportunity Attack unless the Disengage action is used.
     *   **Distance Impact:** Attacks beyond "Normal Range" but within "Long Range" have **Disadvantage**. Attacks beyond "Long Range" automatically fail.
-4.  **Skills & Abilities:** Checks should use the most appropriate ability score. Common pairings include:
+6.  **Skills & Abilities:** Checks should use the most appropriate ability score. Common pairings include:
     *   **Athletics:** Strength (Never Intelligence/Dexterity).
     *   **Acrobatics/Stealth/Sleight of Hand:** Dexterity.
     *   **Investigation:** Intelligence.
     *   **Insight/Perception/Medicine/Survival:** Wisdom.
     *   **Persuasion/Deception/Intimidation:** Charisma.
+
+## Harvesting & Butchery (DMG p. 273)
+The following rules govern the recovery of materials from fallen creatures:
+1.  **Time & Difficulty:**
+    *   **Tiny/Small:** 15 minutes (Survival DC 10).
+    *   **Medium:** 30 minutes (Survival DC 12).
+    *   **Large:** 1 hour (Survival DC 15).
+    *   **Huge/Gargantuan:** 2+ hours (Survival DC 18+).
+2.  **Yield Calculation:** The DM determines the yield based on the creature's type and condition. Standard yields are approx. 25% of weight in usable meat and 10% in hide/scales/bones.
+3.  **Tool Requirements:** Proficiency with a **Herbalism Kit**, **Poisoner's Kit**, or **Leatherworker's Tools** may grant Advantage or a bonus to the check depending on the target material.
 
 ## Agreed Variant Rules
 1.  **Feats:** Allowed.
@@ -34,14 +47,14 @@
     *   **The Threshold:** If the total sum of the six rolled stats is less than 70, the player may scrap the array and reroll.
 5.  **Flanking:** Enabled (Advantage for melee attackers on opposite sides).
 6.  **Inspiration:** Enabled (Awarded for roleplay).
-7.  **Lingering Injuries (The Toll of the Void):** Enabled. Every time Wael drops to 0 Hit Points, he must immediately roll 1d20 on the Toll of the Void table:
-    *   **1 (Catastrophic Trauma):** Wael suffers a permanent, progressive trauma. It requires high-level magic (e.g., *Regenerate*) to heal.
+7.  **Lingering Injuries (The Toll of the Void):** Enabled. Every time the player character drops to 0 Hit Points, he must immediately roll 1d20 on the Toll of the Void table:
+    *   **1 (Catastrophic Trauma):** the player character suffers a permanent, progressive trauma. It requires high-level magic (e.g., *Regenerate*) to heal.
         *   *1st Occurrence:* Internal Damage.
         *   *2nd Occurrence:* Maimed (e.g., severe limp, lost eye/ear).
         *   *3rd Occurrence:* Lost Limb (Arm or Leg).
         *   *4th+ Occurrence:* Another Lost Limb or Permanent Blindness/Deafness. (Death only occurs through standard Death Save failures).
-    *   **2-10 (Systemic Shock):** Wael gains 1 level of Exhaustion upon regaining consciousness.
-    *   **11-20 (A Close Call):** Wael gains a permanent cosmetic scar, but no mechanical penalty.
+    *   **2-10 (Systemic Shock):** the player character gains 1 level of Exhaustion upon regaining consciousness.
+    *   **11-20 (A Close Call):** the player character gains a permanent cosmetic scar, but no mechanical penalty.
 8.  **Morale (DMG Variant):** Enabled. A creature or group must make a DC 10 Wisdom saving throw or flee (Dash/Disengage) or surrender under the following conditions:
     *   The creature is reduced to half its hit points or fewer for the first time in battle.
     *   The group's leader is reduced to 0 hit points.
@@ -84,7 +97,7 @@
 
 12. **Material Component & Cost Protocol:**
     *   **Accounting:** The DM and Player must strictly account for all material components and gold costs for spellcasting.
-    *   **Focus:** A spellcasting focus (like Skaen's vial) replaces material components that do not have a specific gold cost.
+    *   **Focus:** A spellcasting focus (like the player character's vial) replaces material components that do not have a specific gold cost.
     *   **Gold Costs:** Components with a specified gold value (e.g., the 25 gp of silver for *Ceremony*) MUST be present in the character's inventory and are consumed if the spell description states so.
     *   **Availability:** High-value components are subject to local market scarcity.
 
@@ -92,11 +105,11 @@
 ## Visual Aesthetic & Style
 1.  **Anti-Steampunk:** There are no gears, steam-powered mechanisms, clocks, or "gadgetry" in this world. 
 2.  **Grounded & Heavy:** Crafts and inventions rely on ancient masonry, heavy leather bindings, cold-formed iron, and simple lever/pulley physics. 
-3.  **The "Deep-Form":** Advanced items are anatomical and sculptural, reflecting Wael's dwarf-masonry background. They are heavy, rigid, and made to last centuries, not to be "efficient" or "complex."
+3.  **The "Deep-Form":** Advanced items are anatomical and sculptural, reflecting the player character's dwarf-masonry background. They are heavy, rigid, and made to last centuries, not to be "efficient" or "complex."
 
 ## Philosophy of Power (Protagonist)
-1.  **Earned, Not Given:** For Wael, significant power (magical, social, or artisan) is the result of immense effort, sacrifice, and long-term commitment.
-2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant "Labor Hours." Power for Wael is never obtained fast or easily.
+1.  **Earned, Not Given:** For the player character, significant power (magical, social, or artisan) is the result of immense effort, sacrifice, and long-term commitment.
+2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant "Labor Hours." Power for the player character is never obtained fast or easily.
 
 ## Narrative Focus & Style
 1.  **Strict Source Adherence:** All NEW NPC statistics, items, spells, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM, SCAG, XGE, TCOE).
@@ -126,7 +139,7 @@ To ensure the campaign remains immersive and responsive to the current situation
 All named NPCs and unique entities must have a defined **Personality & Outlook** section in their state block. 
 *   **Personality:** Their recurring traits, mannerisms, and emotional baseline.
 *   **Outlook on Life:** Their fundamental philosophy, fears, and what they believe is necessary for survival in "The Sorrow."
-*   **Narrative Impact:** These traits must dictate their dialogue, their willingness to help or hinder Wael, and their reaction to the growing cold.
+*   **Narrative Impact:** These traits must dictate their dialogue, their willingness to help or hinder the player character, and their reaction to the growing cold.
 
 ## Layered Narrative Strata Protocol
 To ensure narrative variety and mechanical depth, the campaign uses an AI-parseable "Layered Narrative Strata" system. This system associates different areas, NPCs, and artifacts with distinct thematic pillars. The presence of each stratum is tracked via a frequency tag, which guides the DM on the prevalence of related hazards and sensory descriptions.

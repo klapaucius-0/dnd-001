@@ -38,7 +38,7 @@ The official rule states crafting requires materials equal to 50% of the item's 
 *   **The Auxiliary Discrepancy:** The remaining gp cost (up to the 50% threshold) represents consumed forge fuel, flux, leather strapping, and tool wear. **This mass is permanently lost to the process and cannot be recovered via smelting.**
 
 ### C. The "Mending" Profit Loop
-If Wael finds damaged gear (Value: 0 gp), he can use the *Mending* cantrip or Smith's Tools + 1 Labor Hour (DC 15) to restore it to "Undamaged." He can then sell it for the standard 50% Market Value. This rewards artisan skills without breaking the economy.
+If the player character finds damaged gear (Value: 0 gp), he can use the *Mending* cantrip or Smith's Tools + 1 Labor Hour (DC 15) to restore it to "Undamaged." He can then sell it for the standard 50% Market Value. This rewards artisan skills without breaking the economy.
 
 ---
 
@@ -46,7 +46,7 @@ If Wael finds damaged gear (Value: 0 gp), he can use the *Mending* cantrip or Sm
 Local conditions and relationships alter the base PHB prices.
 
 ### A. Social Disposition (Relationship Modifiers)
-As defined in [[engine/rules/social.md]], a merchant's standing with Wael shifts prices:
+As defined in [[engine/rules/social.md]], a merchant's standing with the player character shifts prices:
 *   **Hostile/Stranger:** +25% markup on purchases / -25% penalty on sales.
 *   **Indifferent/Acquaintance:** Standard PHB pricing.
 *   **Friendly/Trusted Ally:** -25% discount on purchases / +25% bonus on sales.

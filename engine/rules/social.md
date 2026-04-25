@@ -46,7 +46,7 @@ To prevent mechanical bloat and ensure narrative immersion, the Social Points (S
 | Entity Classification | File Location | Uses SP? | Role |
 | :--- | :--- | :---: | :--- |
 | **Bestiary Creatures** | `bestiary.md` | **NO** | Mechanical mobs; driven by instinct and stat blocks. |
-| **Monster Factions** | `world_state.md` | **YES** | Tracks Wael's notoriety with a group (e.g., Sentinels). |
+| **Monster Factions** | `world_state.md` | **YES** | Tracks the player character's notoriety with a group (e.g., Sentinels). |
 | **Unique Entities** | `unique.md` | **YES** | NPCs, Recurring Villains, or Intelligent Bosses. |
 
 ### Faction Splashing for Monsters

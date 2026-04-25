@@ -1,14 +1,17 @@
 # Campaign Progression & XP
 
 ## 1. The Philosophy of Growth
-In "The Sorrow," power is a heavy and hard-won resource. Adhering to the **Philosophy of Power (Protagonist)** found in `rules/house_rules.md`, Wael’s advancement is measured by his survival, his discoveries, and his social impact.
+In "The Sorrow," power is a heavy and hard-won resource. Adhering to the **Philosophy of Power (Protagonist)** found in `rules/house_rules.md`, the player character’s advancement is measured by his survival, his discoveries, and his social impact.
 
 ## 2. Experience Point (XP) Awards
 Experience is awarded at the end of each session based strictly on the **Three Pillars of Adventuring** (Combat, Exploration, Social Interaction). Character progression reflects overcoming lethal risk and narrative obstacles, not time spent in safety.
 
 ### Pillar 1: Combat & Survival (Risk of Death)
 *   **Combat Victory:** Standard 5e XP based on the creature's Challenge Rating (CR).
-*   **Tactical Survival:** If Wael survives a lethal encounter through retreat, cleverness, or stabilization, he earns **50% of the Combat XP**.
+*   **XP Distribution (DMG p. 92):** The total XP from an encounter is divided equally among all active combatants who participated in the victory.
+    *   *Sidekicks:* Count as full characters for the purpose of the XP split (*TCoE* p. 142).
+    *   *Hirelings:* Do NOT receive XP, but their presence still counts toward the division if they participated in combat.
+*   **Tactical Survival:** If the player character survives a lethal encounter through retreat, cleverness, or stabilization, he earns **50% of the Combat XP**.
 
 ### Pillar 2: Exploration & Discovery (Risk of Depletion)
 *   **Environmental Obstacles:** Overcoming hazards that carry a meaningful risk of injury, resource drain, or severe narrative consequences (DC 15+).
@@ -29,7 +32,7 @@ To ensure character levels are earned through struggle, the following activities
 *   **Reward:** These activities are rewarded with the resulting item, monetary profit, or Social Points (`SP`).
 
 ## 3. Leveling Up (5e 2014 Table)
-Wael follows the standard 5e (2014) experience table.
+the player character follows the standard 5e (2014) experience table.
 
 | Level | XP Required | Proficiency Bonus |
 | :--- | :--- | :--- |
@@ -40,17 +43,18 @@ Wael follows the standard 5e (2014) experience table.
 | 5 | 6,500 | +3 |
 
 ### The Leveling Protocol
-1.  **Requirement:** Leveling up can only occur during a **Long Rest** in a safe location (e.g., Oakhaven).
-2.  **HP Calculation:** Wael gains the **Average** (5 for 1d8) + Constitution Modifier.
-3.  **Updates:** The DM must update `characters/player_character.md` and log the level increase in `characters/xp_log.md`.
+1.  **Sidekick Alignment (*TCoE* p. 142):** Sidekicks level up simultaneously with the protagonist. Whenever the player character reaches a new level, all active Sidekicks in the party also gain one level in their respective Sidekick class.
+2.  **Requirement:** Leveling up can only occur during a **Long Rest**.
+3.  **HP Calculation:** the player character gains the **Average** (5 for 1d8) + Constitution Modifier.
+4.  **Updates:** The DM must update `state/character_state.md` and log the level increase in `logs/experience_log.md`.
 
 ## 4. Artisan & Tool Progression
-Wael's capability to work rare materials is gated by his **Tool Tier**, not just his level.
+the player character's capability to work rare materials is gated by his **Tool Tier**, not just his level.
 *   **Tier Upgrades:** Moving from Tier 1 to Tier 2/3 requires completing specific "Building" or "Research" quests in the `campaign/quest_log.md`.
 *   **Labor Hours:** High-tier progress is governed by the rules in `rules/crafting.md`.
 
 ## 5. Mandatory Level-Up Audit
 To ensure mechanical integrity, the following protocol is mandatory:
-1.  **Trigger:** At the conclusion of every **Long Rest**, the DM MUST perform a check of Wael's current XP against the advancement table.
+1.  **Trigger:** At the conclusion of every **Long Rest**, the DM MUST perform a check of the player character's current XP against the advancement table.
 2.  **Notification:** If the threshold for a new level has been met, the DM must pause the narrative and guide the player through the level-up process (HP roll/average, spell choices, and feature unmasking) before continuing the day.
 3.  **Synchronization:** All new features must be added to `state/character_state.md` and any relevant roll modifiers must be updated in the `Active Modifier Registry (HUD)`.
