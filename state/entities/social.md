@@ -362,6 +362,7 @@ A gaunt survivor from the Western Cut who now travels with Skaen. She seeks a wa
     *   Expert in rhythmic spindle weaving.
     *   Practitioner of the "Ghost-Hearth" survival technique.
     *   Conducts silver-white resonance through her weaving.
+    *   Knowledgeable in mountain flora (Medicinal Reagents, Resin, Wild Edibles).
 *   **Unrevealed Facts:**
     *   [NOT_REVEALED] The full extent of her Western Cut ancestry.
 

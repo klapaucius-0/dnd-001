@@ -99,10 +99,15 @@
 2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant "Labor Hours." Power for Wael is never obtained fast or easily.
 
 ## Narrative Focus & Style
-1.  **Strict Source Adherence:** All NPC spell descriptions, deity descriptions, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM).
-2.  **Classic Monster Preference:** When selecting adversaries or inhabitants for the world, the DM will prioritize classic D&D monsters. These creatures must be used according to their established 5e Monster Manual statistics and lore, ensuring the campaign feels rooted in traditional D&D iconography.
-3.  **No Thematic Adaptation:** No descriptive flavoring or thematic adaptation is permitted for non-player entities.
-4.  **Mechanical Storytelling:** The narrative focus and style for NPCs and the world are established solely through the selection of existing "by the book" options, such as their chosen spells, deities, and established lore.
+1.  **Strict Source Adherence:** All NEW NPC statistics, items, spells, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM, SCAG, XGE, TCOE).
+2.  **Classic Monster Preference:** You MUST use official monsters from the *Monster Manual* and other sourcebooks. 
+    *   **No Name Reskinning:** Monsters must be identified by their official names. No ad-hoc renaming (e.g., a Dire Wolf is never a "Timber-Stalk").
+    *   **No Thematic Adaptation:** Mechanical descriptions must be used according to their established 2014 statistics and lore. The narrative "vibe" of the current stratum is expressed through the environment and the *choice* of which official monsters appear, not by altering the monsters themselves.
+3.  **Grandfather Clause (Existing Anomalies):** Homebrew monsters or items established prior to Day 30 (e.g., **Resonant Figure**, **Void-Touched Sentinel**, **Ghost-Root**) are considered unique, established anomalies of "The Sorrow" and remain valid. No NEW homebrew elements may be created.
+4.  **Materials & Foraging Protocol:**
+    *   **Tool Mapping:** Foraged flora and raw ingredients must map directly to standard D&D gear and crafting rules (*XGtE*, p. 128-130).
+    *   **Specific Potion Ingredients:** Instead of creating bespoke plants, players can forage for specific component types (e.g., "Herbalism Reagents: Healing Potion"). These components possess a GP value that replaces the gold cost required to brew that specific potion during Downtime Crafting.
+5.  **Mechanical Storytelling:** The narrative focus and style for NPCs and the world are established solely through the selection of existing "by the book" options.
 
 ## Tonal Variation Protocol
 To ensure the campaign remains immersive and responsive to the current situation, the DM will utilize four distinct tonal modes:

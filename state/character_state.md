@@ -67,7 +67,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 207.3 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 212.2 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -85,11 +85,12 @@
 | Mess Kit | 1.0 lbs | |
 | Tinderbox | 1.0 lbs | |
 | Torches (10) | 10.0 lbs | |
-| Rations (5 days) | 10.0 lbs | |
+| Rations (6 days) | 12.0 lbs | |
 | Waterskin | 5.0 lbs | |
 | Hemp Rope (50ft) | 10.0 lbs | |
 | Smith's Tools | 8.0 lbs | |
 | Herbalism Kit | 3.0 lbs | |
+| Healer's Kit (10/10) | 3.0 lbs | Standard 5e medical kit. |
 | Winter Blanket | 3.0 lbs | |
 | Scroll Case | 1.0 lbs | Notes & Prayers |
 | Common Clothes | 3.0 lbs | |
@@ -99,16 +100,13 @@
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
 | Pine Firewood | 16.0 lbs | Gathered with companions. |
 | Kindling | 3.5 lbs | Pouch of needles/twigs. |
-| Ghost-Root | 5.5 lbs | Resinous tuber; fuel. |
-| Iron-Needle Resin | 2.5 lbs | Sap; anti-frost base. |
-| Weaver's Moss | 1.0 lb | Grey moss; hemostatic. |
-| Winter-Glint Berries | 1.1 lbs | Hard red berries; edible. |
-| Frozen Mountain Tubers | 0.0 lbs | Starchy roots; require thawing. |
-| Frost-Vein Spores | 0.2 lbs | Shimmering dust; catalyst/numbing. |
+| Herbalism Reagents | 5.5 lbs | Crafting components (XGtE). |
+| Poison (Basic) Reagents | 0.2 lbs | Crafting components (PHB). |
+| Resin | 2.5 lbs | Standard alchemical material. |
 | Deep Iron | 6.0 lbs | Night-black mineral; [MAT: DEEP_IRON]. |
 | Siphon-Seal | 5.0 lbs | Lead container; marked by Oakhaven Granary. |
 | Mountain Moss | 0.2 lbs | Dried wick/kindling. |
-| Frozen Heart-Bloom | 0.1 lb | Crystalline blue flower; restore focus. |
+| Anomalous Bloom (Frozen Heart) | 0.1 lb | Crystalline blue flower; restore focus. |
 | Salt | 0.0 lbs | Consumed. |
 | Frost-Resistant Oil | 0.2 lbs | Prevents metal seizure. |
 | Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |

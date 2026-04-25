@@ -31,7 +31,7 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 *   **Revealed Facts:** 
     *   Expert in rhythmic spindle weaving.
     *   Practitioner of the "Ghost-Hearth" survival technique.
-    *   Knowledgeable in mountain flora (Ghost-Root, Iron-Needle Pine, Weaver's Moss).
+    *   Knowledgeable in mountain flora (Medicinal Reagents, Resin, Wild Edibles).
 *   **Unrevealed Facts:**
     *   [NOT_REVEALED] The full extent of her Western Cut ancestry.
 
