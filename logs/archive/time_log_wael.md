@@ -20,7 +20,7 @@ This file tracks the passage of time and the allocation of Labor Hours (LH) for 
 | 3 | 2026-04-18 | Professional restoration of Kaelen's gear (Mending). | 0.05 | N/A | 0 |
 | 3 | 2026-04-18 | Travel from Chapel to Market Square. | 0.3 | N/A | 0 |
 | 3 | 2026-04-18 | Successful artisan assessment of Bram's scrap crate. | 0.15 | N/A | 0 |
-| 3 | 12:30 | 006 | Interaction with Elara and purchase of supplies. | 0.4 | N/A | 0 |
+| 3 | 12:30 | 006 | Interaction with Sela and purchase of supplies. | 0.4 | N/A | 0 |
 | 3 | 13:26 | 006 | Structural Restoration of Vesper's wagon axle. | 0.5 | N/A | 0 |
 | 3 | 13:38 | 006 | Travel to General Trader's stall. | 0.2 | N/A | 0 |
 | 3 | 13:50 | 006 | Return to Vesper's wagon and lore exchange. | 0.2 | N/A | 0 |

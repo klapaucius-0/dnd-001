@@ -15,7 +15,7 @@
 **Bram:** [Currency -5sp]. Materials secured.
 **Wael:** [Artisan Assessment of Elara's Seconds]. [Smith's Tools 23 (Guidance/Help)].
 **DM:** Finds industrial felt, tallow, abrasive sand, and thread.
-**Elara:** [Currency -3sp]. Supplies secured.
+**Sela:** [Currency -3sp]. Supplies secured.
 **Wael:** [Artisan Assessment of Vesper's Tools]. [Smith's Tools 26 (Guidance/Help)].
 **DM:** Finds Vice-Clamp [MAT: OLD_CUT_IRON] and Masterwork Leatherworker's Kit.
 **Wael:** [Structural Restoration of Axle]. [Smith's Tools 22 (Guidance/Tallow/Help)].

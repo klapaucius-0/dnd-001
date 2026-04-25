@@ -109,6 +109,12 @@
     *   **Specific Potion Ingredients:** Instead of creating bespoke plants, players can forage for specific component types (e.g., "Herbalism Reagents: Healing Potion"). These components possess a GP value that replaces the gold cost required to brew that specific potion during Downtime Crafting.
 5.  **Mechanical Storytelling:** The narrative focus and style for NPCs and the world are established solely through the selection of existing "by the book" options.
 
+## Naming & Identity (The Unique Voice)
+1.  **Phonetic Distinction:** The DM must ensure that any new named NPC does not share a similar phonetic structure or spelling with an existing active companion or major story NPC. (e.g., Avoiding "Elora/Elara").
+2.  **Trade & Title Anchors:** To ensure clarity, characters should be introduced and referred to by their trade or title alongside their name (e.g., "Sela the Merchant," "Father Vane," "Elora the Weaver").
+3.  **Mandatory Naming Audit:** Before introducing a new named NPC, the DM must perform an internal audit of active entities in `state/entities/` to confirm no naming collisions or "close matches" exist.
+4.  **Linguistic Origins:** Names should reflect the character's regional or cultural origin to provide narrative contrast between frontier locals (Oakhaven) and high-mountain survivors (Western Cut).
+
 ## Tonal Variation Protocol
 To ensure the campaign remains immersive and responsive to the current situation, the DM will utilize four distinct tonal modes:
 1.  **The Somber Chronicle (Narrative/Exploration):** Melancholic and sensory-rich prose for atmosphere and discovery.

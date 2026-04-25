@@ -25,12 +25,37 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Commoner (CR 0, MM p. 345)
 *   **Modifications:** Level 1 Expert Sidekick (TCoE p. 142)
-*   **Class Level:** [REVEALED] Level 1 Sidekick (Expert).
-*   **Statistics:** [REVEALED] (STR 10, DEX 14, CON 12, INT 13, WIS 16, CHA 10).
-*   **HP:** 11 (2d8 + 2)
-*   **Equipment:** 
-    *   **Weapons:** Steel Dagger (1d4 P, Light, Finesse, Thrown 20/60) [Gifted from Alen, Day 29].
-    *   **Tools:** Weaver's Tools (Masterwork Spindle), Woodcarver's Tools (Whittle-Knife).
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 10 (+0) | 14 (+2) | 12 (+1) | 13 (+1) | 16 (+3) | 10 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 12
+*   **Hit Points:** 11 (2d8 + 2)
+*   **Speed:** 30 ft.
+*   **Skills:** Survival +5, Medicine +5, Stealth +4, Nature +3
+*   **Senses:** Passive Perception 13
+*   **Languages:** Common, Western Dialect
+*   **Challenge:** 1/8 (Sidekick Lvl 1)
+
+### Special Traits
+*   **Expert Instincts:** [REVEALED] Knowledgeable in mountain flora (Medicinal Reagents, Resin, Wild Edibles).
+*   **Western Cut Rhythms:** [REVEALED] Expert in rhythmic spindle weaving and the "Ghost-Hearth" survival technique.
+
+### Actions
+*   **Dagger:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+### Bonus Actions
+*   **Helpful:** Elora can take the Help action as a bonus action.
+
+## Sidekick Progression
+*   **Role:** Expert
+*   **Level:** 1
+*   **Unlocked Features:** Helpful, Cunning Action (available at level 2).
+
+## Discovery & Lore (AI Memory)
 *   **Revealed Facts:** 
     *   Expert in rhythmic spindle weaving.
     *   Practitioner of the "Ghost-Hearth" survival technique.
@@ -50,7 +75,7 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 **Last Interaction:** Day 28
 
 ### Summary
-An Oakhaven-born scout and specialized courier for the Granary. He was rescued by Skaen after being "stopped" by a leaking Siphon-Seal. He knows the secret routes and social hierarchy of Oakhaven.
+An Oakhaven-born scout and specialized courier for the Granary. He was rescued by Skaen after being "stopped" by a leaking Siphon-Seal.
 
 ### Narrative & Identity
 *   **Appearance:** [REVEALED] Salt-stained scout's furs, lead-heavy boots, silver-wired uniform. Weathered face with a jagged jaw scar.
@@ -60,12 +85,28 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Bandit (CR 1/8, MM p. 343)
 *   **Modifications:** Swapped scimitar for Lead-Weighted Club (DMG p. 283).
-*   **HP:** 11 (2d8 + 2)
-*   **Equipment:** 
-    *   **Weapons:** Lead-Weighted Club (1d4 B), Steel Dagger (1d4 P, Light, Finesse, Thrown 20/60), Light Crossbow (1d8 P, Ammunition, Range 80/320, Two-Handed, Loading) [From Skaen, Day 29].
-    *   **Ammunition:** 15 Crossbow Bolts.
-    *   **Tools:** Tinker's Tools, Navigator's Tools (Compass), Calligrapher's Supplies (Ledger).
-*   **Specialty:** Can grant Advantage on checks to navigate the Western Reach or bypass Oakhaven social obstacles.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 12 (Leather)
+*   **Hit Points:** 11 (2d8 + 2)
+*   **Speed:** 30 ft.
+*   **Senses:** Passive Perception 10
+*   **Languages:** Common
+*   **Challenge:** 1/8 (25 XP)
+
+### Special Traits
+*   **Mountain Scout:** Alen can grant Advantage on checks to navigate the Western Reach or bypass Oakhaven social obstacles.
+
+### Actions
+*   **Lead-Weighted Club:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+*   **Light Crossbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+
+## Discovery & Lore (AI Memory)
 *   **Revealed Facts:** 
     *   Siphon-Carrier for Master Hobb.
     *   Born in Oakhaven; father was a mason.
@@ -87,27 +128,37 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 **Standing:** Level 0 (0/20 SP) [Stranger]
 **Last Interaction:** ---
 
-### Historical Connection
-*   **Wael:** Indebted to the dwarf for shared survival and rescue in the Gap; witnessed Wael's final stand.
-*   **Oakhaven:** Survivor of the "Silence of the Yard."
-
-### Historical Contributions
-*   **Wael:** Saved Kaelen's life during the collapse at the Weeping Shelf (Day 2); restored his survival gear (Day 3).
-
-### Narrative & Identity
-*   **Appearance:** [NOT_REVEALED] (Haunted eyes; salt-stained furs).
-*   **Personality/Behavior:** [NOT_REVEALED] (Quiet, watchful).
-*   **Outlook on Life:** [NOT_REVEALED] (Survival was a lie).
+### Summary
+A haunted survivor of the "Silence of the Yard" and companion to the fallen hero Wael.
 
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Scout (CR 1/2, MM p. 349)
 *   **Modifications:** Level 2 Expert Sidekick (TCoE p. 142)
-*   **Class Level:** [NOT_REVEALED] (Level 2 Sidekick: Expert).
-*   **Statistics:** [NOT_REVEALED] (STR 10, DEX 14, CON 12, INT 11, WIS 14, CHA 10).
-*   **Revealed Facts:** 
-    *   Expert Scout; carries a shortbow and two daggers.
-    *   Holds the remnants of a fallen ally's mission (Wael's journal and artifacts).
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] The depth of his current trauma.
 
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 13 (Leather)
+*   **Hit Points:** 22 (5d8 + 5)
+*   **Speed:** 30 ft.
+*   **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5
+*   **Senses:** Keen Hearing and Sight (Adv. on Perception), Passive Perception 15
+*   **Languages:** Common
+*   **Challenge:** 1/2 (100 XP)
+
+### Actions
+*   **Multiattack:** Kaelen makes two melee attacks or two ranged attacks.
+*   **Shortsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+*   **Longbow:** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+
+### Bonus Actions
+*   **Helpful:** Kaelen can take the Help action as a bonus action.
+*   **Cunning Action:** Kaelen can take the Dash, Disengage, or Hide action as a bonus action.
+
+## Sidekick Progression
+*   **Role:** Expert
+*   **Level:** 2
+*   **Unlocked Features:** Helpful, Cunning Action.

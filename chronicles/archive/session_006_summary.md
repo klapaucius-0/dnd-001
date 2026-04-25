@@ -6,7 +6,7 @@
 **Primary Stratum:** [STRATUM: 1_FRAGILE_SURFACE] / [STRATUM: 2_ERODING_AGE]
 
 ## Narrative Summary
-Wael spent the morning assessing his companion Kaelen through sparring and inquiry, uncovering the scout's pragmatic survivalist nature. After meticulously mending their gear, they descended to the Oakhaven Market Square. Through expert appraisal and social leverage, Wael secured critical materials for his prosthetic arm brace from Bram and Elara. 
+Wael spent the morning assessing his companion Kaelen through sparring and inquiry, uncovering the scout's pragmatic survivalist nature. After meticulously mending their gear, they descended to the Oakhaven Market Square. Through expert appraisal and social leverage, Wael secured critical materials for his prosthetic arm brace from Bram and Sela. 
 
 The highlight of the afternoon was the acquisition of "Old Cut" iron tools from Vesper, a scavenger from the North Cut. Wael secured a masterwork vice-clamp and leatherworker's kit by performing a complex structural restoration of Vesper's wagon axle. Finally, he traded intelligence regarding the Chapel's stability to Master Hobb for specialized oils and rations. To maintain mobility under the weight of these new tools, Wael offloaded his heavy Vice-Clamp [MAT: OLD_CUT_IRON] and survival rations to Kaelen. The session ended with Wael and Kaelen prepared to travel to the Old Mason's Yard.
 

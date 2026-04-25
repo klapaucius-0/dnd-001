@@ -17,22 +17,32 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 ### Summary
 The pragmatic proprietor of the Boar and Barrel. She keeps a watchful eye on the local scouts and ensures her hearth stays lit against the deepening winter.
 
-### Historical Connection
-*   **Wael:** Known as the dwarf who mended the town's spears and recently fell at the Old Mason's Yard.
-
-### Historical Contributions
-*   **Wael:** Performed expert repair of the tavern's hearth and window shutter on Day 3.
-
-### Social Connection
-*   **Kaelen:** Provides lodging and watchful oversight as he resides at the tavern.
-
 ### Narrative & Identity
 *   **Appearance:** [NOT_REVEALED] (Weathered but sturdy; hands calloused).
 *   **Voice/Mannerisms:** [NOT_REVEALED] (Blunt, direct).
 *   **Outlook on Life:** [NOT_REVEALED] (Survival is about preparation).
 
 ### Mechanical Details (Unified Entity Protocol)
-*   **Statistics:** [NOT_REVEALED] (STR 12, DEX 10, CON 14, INT 11, WIS 13, CHA 12).
+*   **Base Statblock:** Commoner (CR 0, MM p. 345)
+*   **Modifications:** None
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 12 (+1) | 10 (+0) | 14 (+2) | 11 (+0) | 13 (+1) | 12 (+1) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 10
+*   **Hit Points:** 4 (1d8)
+*   **Speed:** 30 ft.
+*   **Senses:** Passive Perception 11
+*   **Languages:** Common
+*   **Challenge:** 0 (10 XP)
+
+### Actions
+*   **Club:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+
+## Discovery & Lore (AI Memory)
 *   **Revealed Facts:** 
     *   Proprietor of the primary social hub in Oakhaven.
 *   **Unrevealed Facts:**
@@ -41,20 +51,13 @@ The pragmatic proprietor of the Boar and Barrel. She keeps a watchful eye on the
 ---
 
 ## Father Vane [STRATUM: 2_ERODING_AGE] [NPC_TYPE: LEGENDARY]
-**Role/Type:** Priest of Kelemvor (Elite NPC: Cleric)
+**Role/Type:** Priest of Kelemvor (Elite NPC)
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
 **Last Interaction:** ---
 
 ### Summary
 A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is a true conduit of Kelemvor's power.
-
-### Historical Connection
-*   **Wael:** Recognized the divine resonance of the dwarf; treated his internal injuries and maimed eye (Day 3/4).
-*   **Berath:** Knew the scholar-cleric before his death.
-
-### Historical Contributions
-*   **Wael:** Purged supernatural White-Frost from the Chapel's altar and restored damaged masonry via *Mending* on Day 3.
 
 ### Narrative & Identity
 *   **Appearance:** [NOT_REVEALED] (Carrying the weight of the town; dusty grey robes).
@@ -64,8 +67,29 @@ A solemn and patient priest burdened by the spiritual defense of Oakhaven. He is
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Priest (CR 2, MM p. 348)
 *   **Modifications:** None
-*   **Statistics:** (STR 10, DEX 10, CON 12, INT 13, WIS 16, CHA 14).
-*   **Capabilities & Rituals:** [REVEALED] 2nd-level spellcasting; Ritual of Realignment.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 14 (+2) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 13 (Chain Shirt)
+*   **Hit Points:** 27 (5d8 + 5)
+*   **Speed:** 25 ft. (Age/Armor)
+*   **Skills:** Medicine +7, Persuasion +4, Religion +5
+*   **Senses:** Passive Perception 13
+*   **Languages:** Common
+*   **Challenge:** 2 (450 XP)
+
+### Special Traits
+*   **Divine Eminence:** As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit.
+*   **Spellcasting:** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks).
+
+### Actions
+*   **Mace:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.
+
+## Discovery & Lore (AI Memory)
 *   **Revealed Facts:** 
     *   Priest of Kelemvor; maintains the Chapel.
     *   The Chapel acts as a Tier 7 [KINDLED_HEARTH] while he is active.
@@ -98,9 +122,22 @@ A pragmatic Daleland trader who knows the value of hard work and honest material
 *   **Base Statblock:** Commoner (CR 0, MM p. 345)
 *   **Modifications:** Proficient in Leatherworker's Tools.
 
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 10
+*   **Hit Points:** 4 (1d8)
+*   **Speed:** 30 ft.
+*   **Senses:** Passive Perception 10
+*   **Languages:** Common
+*   **Challenge:** 0 (10 XP)
+
 ---
 
-## Elara [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+## Sela [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Felt/Wool Merchant
 **Bond Type:** Associate
 **Standing:** Level 0 (0/20 SP) [Stranger]
@@ -123,6 +160,19 @@ A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpne
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Commoner (CR 0, MM p. 345)
 *   **Modifications:** Proficient in Weaver's Tools.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) | 12 (+1) | 10 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 10
+*   **Hit Points:** 4 (1d8)
+*   **Speed:** 30 ft.
+*   **Senses:** Passive Perception 11
+*   **Languages:** Common
+*   **Challenge:** 0 (10 XP)
 
 ---
 
@@ -150,6 +200,19 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 *   **Base Statblock:** Commoner (CR 0, MM p. 345)
 *   **Modifications:** Proficient in Investigation and Athletics.
 
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 14 (+2) | 12 (+1) | 12 (+1) | 11 (+0) | 12 (+1) | 10 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 11
+*   **Hit Points:** 4 (1d8)
+*   **Speed:** 30 ft.
+*   **Senses:** Passive Perception 11
+*   **Languages:** Common
+*   **Challenge:** 0 (10 XP)
+
 ---
 
 ## Master Hobb [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
@@ -168,14 +231,22 @@ A well-fed mercantile broker who manages the town's scarcity with politeness and
 ### Historical Contributions
 *   **Wael:** Cleared a lethal "rat-dog" infestation from the Granary cellar on Day 4.
 
-### Narrative & Identity
-*   **Appearance:** [NOT_REVEALED] (Portly, well-groomed, wire-rimmed spectacles).
-*   **Personality/Behavior:** [NOT_REVEALED] (Calculating, baritone voice).
-*   **Outlook:** [NOT_REVEALED] (Information and standing are currency).
-
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Commoner (CR 0, MM p. 345)
 *   **Modifications:** Proficient in Insight and Persuasion.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 12 (+1) | 14 (+2) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 10
+*   **Hit Points:** 4 (1d8)
+*   **Speed:** 30 ft.
+*   **Senses:** Passive Perception 11
+*   **Languages:** Common
+*   **Challenge:** 0 (10 XP)
 
 ---
 
@@ -194,9 +265,6 @@ A vocal but high-strung guard who survived the Battle of the Old Mason's Yard.
 ### Historical Contributions
 *   **Wael:** Restored Toren's frost-bitten spear via *Mending* on Day 5.
 
-### Social Connection
-*   **Hov:** Shared survival at the Yard; fellow Veteran.
-
 ### Narrative & Identity
 *   **Appearance:** [NOT_REVEALED] (Touches iron gorget; eyes scanning shadows).
 *   **Voice/Mannerisms:** [NOT_REVEALED] (Gravelly voice; prone to speaking to fill silence).
@@ -205,13 +273,26 @@ A vocal but high-strung guard who survived the Battle of the Old Mason's Yard.
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Guard (CR 1/8, MM p. 347)
 *   **Modifications:** Level 1 Warrior Sidekick (Defender Role).
-*   **HP:** 16 (2d8 + 2 Sidekick)
-*   **Features:** Martial Role (Defender: Disadvantage on attacks vs allies within 5ft).
-*   **Revealed Facts:** 
-    *   Responsible for town security.
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] The psychological toll of the Yard.
 
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 16 (Chain shirt & Shield)
+*   **Hit Points:** 16 (2d8 + 2 Sidekick)
+*   **Speed:** 30 ft.
+*   **Skills:** Perception +2
+*   **Senses:** Passive Perception 12
+*   **Languages:** Common
+*   **Challenge:** 1/8 (25 XP)
+
+### Actions
+*   **Spear:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+
+### Reactions
+*   **Defender (Martial Role):** Toren imposes disadvantage on the attack roll of a creature within 5 feet of him whose target is not Toren.
 
 ---
 
@@ -230,9 +311,6 @@ A young, disciplined, and mostly silent guard who carries the trauma of the Yard
 ### Historical Contributions
 *   **Wael:** Restored Hov's frost-bitten spear via *Mending* on Day 5.
 
-### Social Connection
-*   **Toren:** Shared survival at the Yard; fellow Veteran.
-
 ### Narrative & Identity
 *   **Appearance:** [NOT_REVEALED] (Face obscured by scarf; white-knuckled grip).
 *   **Personality:** [NOT_REVEALED] (Stoic and focused on duty).
@@ -240,58 +318,26 @@ A young, disciplined, and mostly silent guard who carries the trauma of the Yard
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Guard (CR 1/8, MM p. 347)
 *   **Modifications:** Level 1 Warrior Sidekick (Defender Role).
-*   **HP:** 16 (2d8 + 2 Sidekick)
-*   **Features:** Martial Role (Defender: Disadvantage on attacks vs allies within 5ft).
-*   **Revealed Facts:** 
-    *   Responsible for town security and wall patrols.
 
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-## Alen [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: HIRELING]
-**Role/Type:** Siphon-Carrier (Scout / Guide)
-**Age:** Early thirties
-**Sex:** Male
-**Race:** Human
-**Bond Type:** Neutral (Indebted)
-**Standing:** Level 1 (20/20 SP) [Stranger]
-**Last Interaction:** Day 28
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 16 (Chain shirt & Shield)
+*   **Hit Points:** 16 (2d8 + 2 Sidekick)
+*   **Speed:** 30 ft.
+*   **Skills:** Perception +2
+*   **Senses:** Passive Perception 12
+*   **Languages:** Common
+*   **Challenge:** 1/8 (25 XP)
 
-### Summary
-An Oakhaven-born scout and specialized courier rescued from the "White Silence" by Skaen. He possesses expert knowledge of Oakhaven's social bypasses and resonance navigation.
+### Actions
+*   **Spear:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 
-### Narrative & Identity
-*   **Appearance:** [REVEALED] Salt-stained scout's furs, lead-heavy boots, silver-wired uniform. Weathered face with a jagged jaw scar.
-*   **Voice/Mannerisms:** [REVEALED] Low, gravelly voice; weary but capable.
-*   **Outlook on Life:** [REVEALED] The mountain is an active, predatory force; trust is earned through grounding.
-
-### Mechanical Details (Unified Entity Protocol)
-*   **Equipment:** 
-    *   **Weapons:** Lead-Weighted Club (1d4 B), Steel Dagger (1d4 P), Light Crossbow (1d8 P) [From Skaen, Day 29].
-    *   **Ammunition:** 15 Crossbow Bolts.
-    *   **Tools:** Tinker's Tools, Navigator's Tools (Compass), Calligrapher's Supplies (Ledger).
-*   **Specialty:** Can grant Advantage on checks to navigate the Western Reach or bypass Oakhaven social obstacles.
-*   **Revealed Facts:** 
-    *   Siphon-Carrier for Master Hobb.
-    *   Born in Oakhaven; father was a mason.
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] The true nature of the cargo he was carrying.
-
----
-
-## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: FACTION]
-**Role/Type:** Citizen Group
-**Standing:** Level 0 (0/100 SP) [Stranger]
-**Last Interaction:** ---
-
-### Historical Context
-*   **Wael:** The town remembers the "Dwarf of the Forge" who mended their spears during the first week of winter.
-
-### Historical Contributions
-*   **Wael:** Significant industrial restoration including the forge and chapel.
-
-### Narrative Summary
-*   **Revealed Facts:** [NOT_REVEALED] (Respect for artisan skill).
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] The community's increasing paranoia regarding the "Silent Quarantine."
+### Reactions
+*   **Defender (Martial Role):** Hov imposes disadvantage on the attack roll of a creature within 5 feet of him whose target is not Hov.
 
 ---
 
@@ -304,24 +350,29 @@ An Oakhaven-born scout and specialized courier rescued from the "White Silence" 
 ### Summary
 A quiet and observant caretaker of the small grove within Oakhaven.
 
-### Historical Connection
-*   **Wael:** Provided the dwarf with **Ghost-Root** on Day 2.
-*   **Berath:** Knew the scholar-cleric before his death.
-
-### Historical Contributions
-*   **Wael:** Showed deep respect for the sanctity of the grove.
-
-### Narrative & Identity
-*   **Appearance:** [NOT_REVEALED] (Small, hunched, skin like wrinkled bark).
-*   **Outlook on Life:** [NOT_REVEALED] (Life is slow growth against fast decay).
-
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Druid (CR 2, MM p. 346)
 *   **Modifications:** None
-*   **Revealed Facts:** 
-    *   Tends to the Frost-Vein Lichen and local medicinal herbs.
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] Her connection to the mountain's deeper strata.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 11 (Leather)
+*   **Hit Points:** 27 (5d8 + 5)
+*   **Speed:** 30 ft.
+*   **Skills:** Medicine +4, Nature +3, Perception +4
+*   **Senses:** Passive Perception 14
+*   **Languages:** Common, Druidic
+*   **Challenge:** 2 (450 XP)
+
+### Special Traits
+*   **Spellcasting:** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).
+
+### Actions
+*   **Quarterstaff:** Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if used with two hands.
 
 ---
 
@@ -334,70 +385,37 @@ A quiet and observant caretaker of the small grove within Oakhaven.
 ### Summary
 A gruff, overworked blacksmith struggling against contaminated iron.
 
-### Historical Connection
-*   **Wael:** Profoundly impressed by the dwarf who restored his workshop and stabilized his anvil.
-
-### Historical Contributions
-*   **Wael:** Performed professional workshop audit, restored bellows and quench tank, and stabilized anvil stand on Day 3.
-
-### Narrative & Identity
-*   **Appearance:** [NOT_REVEALED] (Broad-shouldered, soot-stained).
-*   **Outlook on Life:** [NOT_REVEALED] (Survival is a losing battle).
-
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Thug (CR 1/2, MM p. 350)
 *   **Modifications:** Proficient in Smith's Tools.
-*   **Statistics:** (STR 15, DEX 11, CON 14, INT 10, WIS 10, CHA 11).
-*   **HP:** 32 (5d8 + 10)
-*   **AC:** 11 (Leather)
-*   **Action (Multiattack):** Makes two melee attacks.
-*   **Revealed Facts:** 
-    *   Expert in mundane metalwork.
-*   **Unrevealed Facts:**
-    *   [NOT_REVEALED] Suffers from a right shoulder injury.
-    *   [NOT_REVEALED] Struggles with White-Frost contaminated iron.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 11 (Leather)
+*   **Hit Points:** 32 (5d8 + 10)
+*   **Speed:** 30 ft.
+*   **Skills:** Intimidation +2
+*   **Senses:** Passive Perception 10
+*   **Languages:** Common
+*   **Challenge:** 1/2 (100 XP)
+
+### Actions
+*   **Multiattack:** The thug makes two melee attacks.
+*   **Mace:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+*   **Heavy Crossbow:** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
 
 ---
 
-## Elora (The Bound Weaver) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
-**Role/Type:** Solitary Weaver (Expert)
-**Bond Type:** Neutral (Traveler)
-**Standing:** Level 1 (20/20 SP) [Stranger]
-**Last Interaction:** Day 28
+## Oakhaven (Common Folk) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: FACTION]
+**Role/Type:** Citizen Group
+**Standing:** Level 0 (0/100 SP) [Stranger]
+**Last Interaction:** ---
 
-### Summary
-A gaunt survivor from the Western Cut who now travels with Skaen. She seeks a way to restore her people from the "White Silence" and specializes in rhythmic spindle weaving and mountain lore.
-
-### Historical Connection
-*   **Western Cut:** Likely a survivor of the village frozen by the White Silence.
-
-### Narrative & Identity
-*   **Appearance:** [REVEALED] Gaunt frame, face mapped with thread-burns, pale blue watchful eyes. Draped in complex grey wool armor.
-*   **Voice/Mannerisms:** [REVEALED] Dry, parchment-like voice; mechanical, hypnotic economy of motion.
-*   **Outlook on Life:** [REVEALED] The journey is the only truth; life is a rhythm that must be maintained.
-
-### Mechanical Details (Unified Entity Protocol)
-*   **Base Statblock:** Commoner (CR 0, MM p. 345)
-*   **Modifications:** Level 1 Expert Sidekick (TCoE p. 142)
-*   **Equipment:**
-    *   **Weapons:** Steel Dagger (1d4 P) [Gifted from Alen, Day 29].
-    *   **Tools:** Weaver's Tools (Masterwork Spindle), Woodcarver's Tools (Whittle-Knife).
-*   **Revealed Facts:** 
-    *   Expert in rhythmic spindle weaving.
-    *   Practitioner of the "Ghost-Hearth" survival technique.
-    *   Conducts silver-white resonance through her weaving.
-    *   Knowledgeable in mountain flora (Medicinal Reagents, Resin, Wild Edibles).
+### Narrative Summary
+*   **Revealed Facts:** [NOT_REVEALED] (Respect for artisan skill).
 *   **Unrevealed Facts:**
-    *   [NOT_REVEALED] The full extent of her Western Cut ancestry.
-
-
- Cut ancestry.
-
-
-
-n Cut ancestry.
-
- Cut ancestry.
-
-
-
+    *   [NOT_REVEALED] The community's increasing paranoia regarding the "Silent Quarantine."

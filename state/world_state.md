@@ -24,7 +24,7 @@
     *   *Hov:* Level 0 (0/20 SP) [Stranger] (Promoted to Veteran status after the Yard incident)
     *   *Mother Halsa:* Level 0 (0/20 SP) [Stranger]
     *   *Bram:* Level 0 (0/20 SP) [Stranger]
-    *   *Elara:* Level 1 (20/20 SP) [Stranger]
+    *   *Sela:* Level 0 (0/20 SP) [Stranger]
     *   *Vesper:* Level 0 (0/20 SP) [Stranger]
     *   *Harlen:* Level 0 (0/20 SP) [Stranger]
     *   *Alen (Siphon-Carrier):* Level 1 (20/20 SP) [Stranger] (NEW: Rescued on Day 28)
