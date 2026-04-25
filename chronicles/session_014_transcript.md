@@ -20,7 +20,7 @@
 
 ---
 
-## Standard Roll Blocks
+## Standard Roll Log
 
 > **Player:** Scavenge for medicinal reagents with Elora's help and Guidance.
 > **DM:** DC 15 Wisdom (Survival) [Advantage]
@@ -70,7 +70,7 @@
 **Skaen:** lets make a fire.
 **Roll:** (Result: 16). Success.
 **Skaen:** lets make a whip for elora.
-**Roll:** (Result: 18). Success. Wolf-Hide Whip crafted.
+**Roll:** (Result: 18). Success. Whip (Wolf-Hide) crafted.
 **DM:** 23:00. The Bell-Wire clatters.
 **Skaen:** the door is close so i should have time to reach it before they break throug. i cast shield and dodge. i yeall, target the one in the back if you can reach it.
 **DM:** The ghouls are funneled into your hammer. (Ghoul 1 falls, Ghoul 2 falls, Ghoul 3 falls).

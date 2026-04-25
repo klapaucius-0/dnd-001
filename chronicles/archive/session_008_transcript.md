@@ -12,10 +12,10 @@
 *   `[CURRENCY: +1 gp]`
 *   `[TIME: +01:30]`
 *   `[QUEST: Verminer's Request Complete]`
-*   `[QUEST: The Plate of the Deep-Form Active]`
+*   `[QUEST: Plate Armor Construction Active]`
 *   `[UEP: Kaelen SP Level 2 (Companion)]`
 
-## Standard Roll Block
+## Standard Roll Log
 > **Wael:** Negotiates for a Gold Crown from Master Hobb.
 > **DM:** DC 15 Charisma (Persuasion) - Disadvantage (Prosthetic) + Guidance.
 > **Roll:** `node engine/scripts/dice_roller.js "2d20l1+1d4"` -> Result: 19 ([15, 20] +4).

@@ -13,9 +13,9 @@
 *   `[TIME: +20:55]`
 *   `[QUEST: Complete Q015]`
 *   `[ITEM: Crafted The Mason's Blinder]`
-*   `[LOOT: 1x Cold-Iron Shard]`
+*   `[LOOT: 1x Steel Shard]`
 
-## Standard Roll Block
+## Standard Roll Log
 > **Player:** I go to Bram and have a look at his inventory with help from Kaelen and Guidance.
 > **DM:** DC 10 Wisdom (Perception). Advantage (Help) and Disadvantage (Maimed) cancel out.
 > **Roll:** `node engine/scripts/dice_roller.js "1d20+2+1d4"` -> 21 (18+2+1)
@@ -53,10 +53,10 @@
 **Wael:** i cast blessingif the forge on my armour
 **DM:** [AC: 19]. Your armor glows with silver-grey light.
 **Wael:** i go to the smith see if he has a quest for me
-**DM:** Harlen is injured. The White-Frost has made the guard's spears brittle. He offers Deep Iron to fix them.
+**DM:** Harlen is injured. The White-Frost has made the guard's spears brittle. He offers Steel to fix them.
 **Wael:** ofcourse
 **DM:** [QUEST: Q015 Brittle Defense].
 **Wael:** i mend them
 **DM:** [TIME: +3h]. The frost evaporates under your copper focus. The spears are restored.
-**DM:** Harlen gives you the Deep Iron shard.
+**DM:** Harlen gives you the Steel shard.
 **Wael:** lets end the session

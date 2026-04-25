@@ -15,7 +15,7 @@ The descent into the cellar turned into a brutal struggle for survival. Three gi
 | :--- | :--- | :--- | :--- |
 | **Wealth** | `logs/currency_log.md` | +1 gp | Reward: Verminer's Request |
 | **XP** | `logs/experience_log.md` | +125 | Combat (75) / Quest (50) |
-| **Time** | `logs/time_log.md` | +1.5 LH | Travel and recovery |
+| **Time** | `logs/time_log.md` | +1.5 Hours | Travel and recovery |
 | **Injury** | `state/character_state.md` | Maimed | Left Eye (Natural 1 on Toll of the Void) |
 | **SP (Individual)** | `logs/relationship_log.md` | +5 (Hobb) / +10 (Kaelen) | Negotiation / Shared Trauma |
 | **SP (Faction)** | `logs/reputation_log.md` | — | No direct faction splash |

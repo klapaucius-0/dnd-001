@@ -6,7 +6,7 @@
 **Primary Stratum:** [STRATUM: 1_FRAGILE_SURFACE] / [STRATUM: 2_ERODING_AGE]
 
 ## Narrative Summary
-Wael arrived at Harlen's Forge in the late afternoon of Day 3. Through keen artisan observation, he identified that Harlen was struggling with White-Frost contaminated iron and a debilitating shoulder injury. Wael earned Harlen's respect by magically mending his rounding hammer and cold-forming its mushroomed face. 
+Wael arrived at Harlen's Forge in the late afternoon of Day 3. Through keen artisan observation, he identified that Harlen was struggling with White-Frost contaminated iron and a debilitating shoulder injury. Wael earned Harlen's respect by magically mending his rounding hammer and forging its mushroomed face. 
 
 Over the next few hours, Wael and Kaelen performed a complete restoration of the workshop—sealing the bellows with tallow, scouring the quench tank, and performing a "miracle" stabilization of the anvil stand by guide-mending stone shims into the healthy core of a rotting stump. For this labor, Wael earned 1 gold crown and established himself as an Associate of the local smith.
 

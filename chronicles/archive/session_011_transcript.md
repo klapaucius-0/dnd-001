@@ -14,7 +14,7 @@
 *   `[QUEST: Failed Q016]`
 *   `[CONDITION: DECEASED (Wael)]`
 
-## Standard Roll Block
+## Standard Roll Log
 > **DM:** Morale Check (Toren & Hov) DC 10.
 > **Roll:** `node engine/scripts/dice_roller.js "1d20"` -> 20.
 > **Outcome:** Critical Success. Guards hold their ground.

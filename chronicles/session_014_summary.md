@@ -14,10 +14,10 @@ Sensing a predatory presence, the party established a "Last Hearth" within the h
 | Category | Master Log | Change | Note / Source |
 | :--- | :--- | :--- | :--- |
 | **Wealth** | `logs/currency_log.md` | +0 | No coin found. |
-| **XP | logs/experience_log.md | +325 | Level 2 Reached. | | Combat (300) + Discoveries (25). Level 2 Reached. |
-| **Time** | `logs/time_log.md` | +19:45 | Travel, Foraging, Fortifying, Combat, Crafting, Rest. |
-| **SP (Individual) | logs/relationship_log.md | +67 | Elora (+35), Alen (+25), Varin (+7). | | Varin (26 SP - Level 1 [Acquaintance]). |
-| **SP (Faction) | logs/reputation_log.md | +0 | N/A | | Ghouls (Migration Faction) - Splash from kills. |
+| **XP** | `logs/experience_log.md` | +325 | Combat (300) + Discoveries (25). Level 2 Reached. |
+| **Time** | `logs/time_log.md` | +19.75 Hours | Travel, Foraging, Fortifying, Combat, Crafting, Rest. |
+| **SP (Individual)** | `logs/relationship_log.md` | +67 SP | Elora (+35), Alen (+25), Varin (+7). |
+| **SP (Faction)** | `logs/reputation_log.md` | +0 | Ghouls (Migration Faction) - Splash from kills. |
 
 ## Key Discoveries & Lore
 *   **Ghoul Migration:** Varin confirms the "Hungry" are being pushed out of the North Cut by a deeper collapse.

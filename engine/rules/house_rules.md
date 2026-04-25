@@ -105,8 +105,8 @@ The following rules govern the recovery of materials from fallen creatures:
 
 ## Visual Aesthetic & Style
 1.  **Anti-Steampunk:** There are no gears, steam-powered mechanisms, clocks, or "gadgetry" in this world. 
-2.  **Grounded & Heavy:** Crafts and inventions rely on ancient masonry, heavy leather bindings, cold-formed iron, and simple lever/pulley physics. 
-3.  **The "Deep-Form":** Advanced items are anatomical and sculptural, reflecting the player character's dwarf-masonry background. They are heavy, rigid, and made to last centuries, not to be "efficient" or "complex."
+2.  **Grounded & Heavy:** Crafts and inventions rely on ancient masonry, heavy leather bindings, forged iron, and simple lever/pulley physics. 
+3.  **Traditional Design:** Advanced items are anatomical and sculptural, reflecting the player character's dwarf-masonry background. They are heavy, rigid, and made to last centuries, not to be "efficient" or "complex."
 
 ## Philosophy of Power (Protagonist)
 1.  **Earned, Not Given:** For the player character, significant power (magical, social, or artisan) is the result of immense effort, sacrifice, and long-term commitment.

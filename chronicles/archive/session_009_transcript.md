@@ -32,4 +32,4 @@
 
 [18:30]
 **DM:** You sit in the quiet sanctuary, the blueprint in your hand. The pain is a dull thrum now, a reminder of the cellar. The campaign day ends here.
-[TIME: 4.0 LH Total]
+[TIME: 4.0 Hours Total]

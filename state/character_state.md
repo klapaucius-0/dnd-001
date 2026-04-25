@@ -107,7 +107,7 @@
 | Herbalism Reagents | 6.0 lbs | Generic materials (XGtE). |
 | Poison (Basic) Reagents | 0.2 lbs | Generic materials (PHB). |
 | Resin | 2.5 lbs | Standard alchemical material. |
-| Iron Scrap | 6.0 lbs | Night-black mineral; raw iron. |
+| Steel | 6.0 lbs | Night-black mineral; high-quality steel. |
 | Lead Container | 5.0 lbs | Marked by Oakhaven Granary. |
 | Mountain Moss | 0.2 lbs | Dried wick/kindling. |
 | Anomalous Bloom (Frozen Heart) | 0.1 lb | Crystalline blue flower; restore focus. |

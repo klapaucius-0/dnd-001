@@ -16,7 +16,7 @@ In the quiet aftermath within the sanctuary, Wael turned his focus to his craft.
 | Category | Master Log | Change | Note / Source |
 | :--- | :--- | :--- | :--- |
 | **XP** | `logs/experience_log.md` | +65 | Artisan Discovery & Iteration |
-| **Time** | `logs/time_log.md` | +4.0 LH | Rest, Travel, Treatment, Design |
+| **Time** | `logs/time_log.md` | +4.0 Hours | Rest, Travel, Treatment, Design |
 | **HP/Hit Dice** | `state/character_state.md` | +12 HP / -2 HD | Short Rest recovery |
 | **SP (Individual)** | `logs/relationship_log.md` | +5 (Vane) | Successful Medical Treatment |
 

@@ -57,6 +57,6 @@
 **DM:** (Roll: 20). Hit. 15 damage. Dire Wolf slain.
 **Skaen:** i investigate the ledge. i ask elroa to help me if se can and i do a perception check with guidence. roll.
 **DM:** (Roll: 24). Success. Found Salt, Frost-Resistant Oil, and a map fragment to a Shepherd's Cache.
-**Skaen:** i ask elora for the knife and her help, i cast guidence and i start harvesting everything i can from the would, i thend to leave nothing behind, meat, teath, bothnes, organs, fur, hide, etc. wisdom roll.
+**Skaen:** i ask elora for the knife and her help, i cast guidence and i start harvesting everything i can from the wolf, i thend to leave nothing behind, meat, teath, bothnes, organs, fur, hide, etc. wisdom roll.
 **DM:** (Roll: 23). Success. Exhaustive harvest complete.
 **Skaen:** lets end the session here.
