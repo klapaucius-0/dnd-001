@@ -4,14 +4,14 @@
 **Name:** Skaen
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
-**Level:** 1
-**Experience (XP):** 100 <!-- SOURCE: experience_log -->
+**Level:** 2
+**Experience (XP):** 425 <!-- SOURCE: experience_log -->
 
 **Alignment:** Neutral
 **Age:** Middle-aged (appears older)
 
 ## Vital Stats
-**Hit Points (HP):** 10 / 10
+**Hit Points (HP):** 18 / 18
 **Armor Class (AC):** 19 (Chain Mail +1 + Shield)
 **Initiative:** +1
 **Speed:** 25 ft.
@@ -46,6 +46,7 @@
 *   **Stonecunning:** Double proficiency bonus on History checks related to stonework.
 *   **Bonus Proficiency:** Heavy Armor, Smith's Tools.
 *   **Blessing of the Forge:** Imbue +1 to one nonmagical armor/weapon after a long rest.
+*   **Channel Divinity (1/rest):** Turn Undead, Artisan's Blessing.
 *   **Discovery (The Old Blood):** Possession of a restless, shifting red vial.
 
 ## Knowledge & Studied Topics
@@ -54,20 +55,21 @@
 
 
 ## Resource Tracker
-*   **Hit Dice:** 1d8 / 1d8
-*   **Spell Slots:** 2 / 2 (Level 1)
+*   **Hit Dice:** 2d8 / 2d8
+*   **Spell Slots:** 3 / 3 (Level 1)
+*   **Channel Divinity:** 1 / 1
 *   **Inspiration:** 0
 
 ## Spellbook
 *   **Spell Save DC:** 13
 *   **Spell Attack Bonus:** +5
 *   **Cantrips:** Guidance, Mending, Toll the Dead.
-*   **Prepared Spells:** Identify (D), Searing Smite (D), Bane, Healing Word, Shield of Faith, Detect Magic.
+*   **Prepared Spells:** Identify (D), Searing Smite (D), Bane, Healing Word, Shield of Faith, Detect Magic, Protection from Evil and Good.
 
 ---
 
 ## Inventory & Gear
-**Total Weight:** 212.2 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 226.7 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -85,10 +87,12 @@
 | Mess Kit | 1.0 lbs | |
 | Tinderbox | 1.0 lbs | |
 | Torches (10) | 10.0 lbs | |
-| Rations (6 days) | 12.0 lbs | |
+| Rations (5.25 days) | 10.5 lbs | |
 | Waterskin | 5.0 lbs | |
 | Hemp Rope (50ft) | 10.0 lbs | |
+| Hemp Rope (50ft) (New) | 10.0 lbs | Recovered from cache. |
 | Smith's Tools | 8.0 lbs | |
+| Woodcarver's Tools | 5.0 lbs | Recovered from cache. |
 | Herbalism Kit | 3.0 lbs | |
 | Healer's Kit (10/10) | 3.0 lbs | Standard 5e medical kit. |
 | Winter Blanket | 3.0 lbs | |
@@ -98,9 +102,9 @@
 | Steel Hardware | 2.0 lbs | High-carbon nails/rings. |
 | Blueprint (Warhammer) | 0.0 lbs | Fine Steel Warhammer; `atlas/crafting/blueprints.md` |
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
-| Pine Firewood | 16.0 lbs | Gathered with companions. |
-| Kindling | 3.5 lbs | Pouch of needles/twigs. |
-| Herbalism Reagents | 5.5 lbs | Crafting components (XGtE). |
+| Pine Firewood | 29.0 lbs | Held by party. |
+| Kindling | 5.5 lbs | Pouch of needles/twigs. |
+| Herbalism Reagents | 6.0 lbs | Crafting components (XGtE). |
 | Poison (Basic) Reagents | 0.2 lbs | Crafting components (PHB). |
 | Resin | 2.5 lbs | Standard alchemical material. |
 | Deep Iron | 6.0 lbs | Night-black mineral; [MAT: DEEP_IRON]. |
@@ -109,13 +113,16 @@
 | Anomalous Bloom (Frozen Heart) | 0.1 lb | Crystalline blue flower; restore focus. |
 | Salt | 0.0 lbs | Consumed. |
 | Frost-Resistant Oil | 0.2 lbs | Prevents metal seizure. |
+| Iron Pot | 2.0 lbs | Recovered from cache. |
+| Iron Padlock | 1.0 lb | Recovered from cache. |
+| Tallow Candles (5) | 0.5 lbs | Recovered from cache. |
 | Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |
 | Dire Wolf Pelt | 4.0 lbs | Found in hideout; matted fur. |
-| Dire Wolf Hide | 8.0 lbs | Butchered; raw hide. |
+| Dire Wolf Hide | 2.5 lbs | Butchered; raw hide. |
 | Dire Wolf Meat | 12.0 lbs | Preserved (7 days); stringy. |
 | Dire Wolf Bones | 6.0 lbs | Large skeletal remains. |
 | Dire Wolf Organs | 1.5 lbs | Heart & Liver. |
-| Dire Wolf Sinew | 0.5 lbs | High-tensile cordage. |
+| Dire Wolf Sinew | 0.4 lbs | High-tensile cordage. |
 
 
 

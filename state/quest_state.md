@@ -5,6 +5,7 @@
 *   **[WORLD] [OPEN] Q017:** The Iron Trek (Reach Oakhaven).
 *   **[PERSONAL] [OPEN] P001:** The Ritual Bond (Acquire pearl and owl feather).
 *   **[PERSONAL] [OPEN] P004:** Strength in Trinity (Seek a third companion).
+*   **[PERSONAL] [OPEN] P005:** The Hewer's Need (Acquire an axe).
 
 ## Active Mid-Term Goals
 *   **[NONE]**

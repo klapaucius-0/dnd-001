@@ -11,7 +11,7 @@ This file tracks the mechanical and social state of characters traveling with th
 **Sex:** Female
 **Race:** Human
 **Bond Type:** Neutral (Traveler)
-**Standing:** Level 1 (20/20 SP) [Stranger]
+**Standing:** Level 1 (55/20 SP) [Acquaintance]
 **Last Interaction:** Day 28
 
 ### Summary
@@ -32,7 +32,7 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 | 10 (+0) | 14 (+2) | 12 (+1) | 13 (+1) | 16 (+3) | 10 (+0) |
 
 #### Combat Block (Strict 5e)
-*   **Armor Class:** 12
+*   **Armor Class:** 13 (Leather)
 *   **Hit Points:** 11 (2d8 + 2)
 *   **Speed:** 30 ft.
 *   **Skills:** Survival +5, Medicine +5, Stealth +4, Nature +3
@@ -45,6 +45,8 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 *   **Western Cut Rhythms:** [REVEALED] Expert in rhythmic spindle weaving and the "Ghost-Hearth" survival technique.
 
 ### Actions
+*   **Handaxe (Thrown):** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+*   **Wolf-Hide Whip:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 *   **Dagger:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 ### Bonus Actions
@@ -71,7 +73,7 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 **Sex:** Male
 **Race:** Human
 **Bond Type:** Neutral (Indebted)
-**Standing:** Level 1 (20/20 SP) [Stranger]
+**Standing:** Level 1 (55/20 SP) [Acquaintance]
 **Last Interaction:** Day 28
 
 ### Summary
@@ -92,7 +94,7 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 #### Combat Block (Strict 5e)
-*   **Armor Class:** 12 (Leather)
+*   **Armor Class:** 13 (Leather) (Leather)
 *   **Hit Points:** 11 (2d8 + 2)
 *   **Speed:** 30 ft.
 *   **Senses:** Passive Perception 10
@@ -115,7 +117,41 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 
 ---
 
-## Legacy & Inactive Companions
+## Varin (Trail-Warden) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+**Role/Type:** Trail-Warden (Scout)
+**Age:** Late sixties
+**Sex:** Male
+**Race:** Human
+**Bond Type:** Neutral (Guest)
+**Standing:** Level 0 (12/20 SP) [Stranger]
+**Last Interaction:** Day 31
+
+### Summary
+A weathered trail-warden of the Western Reach. He haunts the high fissures of the Granite Squeeze and possesses deep knowledge of the mountain's hazards. He is currently a guest at Skaen's base.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Scout (CR 1/2, MM p. 349)
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 13 (Leather)
+*   **Hit Points:** 16 (3d8 + 3)
+*   **Speed:** 30 ft.
+*   **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5
+*   **Senses:** Keen Hearing and Sight (Adv. on Perception), Passive Perception 15
+*   **Languages:** Common, Scout-Sign
+*   **Challenge:** 1/2 (100 XP)
+
+### Actions
+*   **Multiattack:** Varin makes two melee attacks or two ranged attacks.
+*   **Shortsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+*   **Silvered Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+---
 
 ---
 

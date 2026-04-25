@@ -419,3 +419,28 @@ A gruff, overworked blacksmith struggling against contaminated iron.
 *   **Revealed Facts:** [NOT_REVEALED] (Respect for artisan skill).
 *   **Unrevealed Facts:**
     *   [NOT_REVEALED] The community's increasing paranoia regarding the "Silent Quarantine."
+
+---
+
+## Varin [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+**Role/Type:** Trail-Warden (Expert)
+**Age:** Late sixties
+**Sex:** Male
+**Race:** Human
+**Bond Type:** Neutral
+**Standing:** Level 0 (10/20 SP) [Stranger]
+**Last Interaction:** Day 31
+
+### Summary
+A weathered trail-warden of the Western Reach. He haunts the high fissures of the Granite Squeeze and possesses deep knowledge of the mountain's hazards.
+
+### Narrative & Identity
+*   **Appearance:** [REVEALED] Silver-bearded, hazel eyes, salt-stained furs.
+*   **Personality:** [REVEALED] Observant, direct, cautious.
+*   **Outlook:** [REVEALED] The mountain is an active force; survival is about rhythm.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Scout (CR 1/2, MM p. 349)
+
+### Discovery & Lore
+*   **Revealed Facts:** Former trail-warden; knows about the 'Hungry' (Ghouls).

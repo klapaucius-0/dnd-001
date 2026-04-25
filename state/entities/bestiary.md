@@ -81,6 +81,44 @@ Massive predatory wolves that hunt in packs.
 
 ---
 
+## Ghoul [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
+**Role/Type:** Medium undead, chaotic evil
+**Habitat:** Anywhere near the dead or dying.
+
+### Summary
+Flesh-eating undead that hunt in packs and paralyze their prey.
+
+### Narrative & Identity
+*   **Appearance:** [REVEALED] Gaunt, grey-skinned humanoids; elongated fingers with iron-hard claws; sunken eyes glowing with a faint, necrotic light.
+*   **Sounds:** Hissing breath; rhythmic scratching of claws on stone.
+*   **Personality/Behavior:** Driven by an insatiable hunger for flesh; move with a jerky, unnatural grace.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Ghoul (CR 1, MM p. 148)
+*   **Modifications:** None.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (-2) | 10 (+0) | 6 (-2) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 12
+*   **Hit Points:** 22 (5d8)
+*   **Speed:** 30 ft.
+*   **Senses:** Darkvision 60 ft., Passive Perception 10
+*   **Languages:** Common
+*   **Challenge:** 1 (200 XP)
+
+### Special Traits
+*   **Undead Nature:** A ghoul doesn't require air, food, drink, or sleep.
+
+### Actions
+*   **Bite:** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
+*   **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+---
+
 ## Historical Anomalies (Archived)
 The following entities were observed during the first phase of the Sorrow but have since disappeared from the active world.
 *   **Resonant Figure:** [ARCHIVED] See `state/archive/entities/anomalies_archive.md`

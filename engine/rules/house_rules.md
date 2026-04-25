@@ -85,7 +85,9 @@ The following rules govern the recovery of materials from fallen creatures:
 
 ## Provisions & Rest (The Toll of the Road)
 1.  **Daily Requirements (Food):** Every character requires **1 lb of food** per day. A standard Ration (2 lbs) provides two days of sustenance. Foraged food is tracked by weight (1 lb = 1 day of food).
-    *   *Starvation:* A character can go without food for 3 + Constitution modifier days. After this, they gain 1 level of Exhaustion at the end of each subsequent day.
+    *   *Starvation:* A character can go without food for `3 + Constitution modifier` days (minimum 1). At the end of each day beyond that limit, a character automatically gains 1 level of Exhaustion.
+    *   *The Reset:* Consuming a normal day's worth of food (1 lb) resets the count of days without food to zero.
+    *   *No Half-Rations:* In "The Sorrow," characters must consume a full 1 lb of food in a 24-hour period to reset the counter or avoid starvation progress. Consuming less than 1 lb counts as a full day without food.
 2.  **Daily Requirements (Water):** Every character requires **1 gallon of water** per day (2 gallons in extreme heat).
     *   *Dehydration:* If a character drinks only half the required water, they must succeed on a DC 15 Constitution saving throw or gain 1 level of Exhaustion. If they drink less than half, they automatically gain 1 level of Exhaustion.
 3.  **Long Rest (The Hearth):** 
