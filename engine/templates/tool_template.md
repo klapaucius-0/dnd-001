@@ -1,17 +1,16 @@
-# [Tool Name] [TOOL] [TIER: X] [MAT: Y] [FREQ: Z] [[SOURCE]] [HOMEBREW/STANDARD]
+# [Tool Name] [TOOL] [MAT: Y] [FREQ: Z] [[SOURCE]]
 <!-- SOURCE: atlas/crafting/tools.md -->
 
 [Narrative description of the tool's quality, weight, and history.]
 
 ## Technical Properties
 *   **Type:** [Artisan Kit / Support Tool / Stationary Station]
-*   **Tier:** [0-3]
 *   **Weight:** [X] lbs.
 *   **Market Value:** [X] gp.
 
-## Mechanical Utility ([HOMEBREW])
-[Detailed description of how this tool affects artisan checks, removes penalties (like the one-arm disadvantage), or enables specific crafting tiers.]
+## XGtE Tool Proficiencies (Advantage & Benefits)
+[Detailed description of the official skill advantages granted by the tool as per Xanathar's Guide to Everything p. 78-85.]
 
 ## Maintenance & Restoration
 *   **Condition:** [Pristine / Rusted / Seized / Dull]
-*   **Restoration Requirements:** [Labor Hours / Mending Casts / Materials]
+*   **Restoration Requirements:** [Downtime Days / Mending Casts / Materials]

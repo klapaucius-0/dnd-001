@@ -1,71 +1,56 @@
-# Artisan Tools Encyclopedia
-<!-- SOURCE: atlas/crafting/tools.md -->
+# Artisan Tools & Support Equipment
+<!-- SOURCE: xgte_p78 -->
+
+This file tracks the functional tools and stationary equipment available for artisan work. All mechanics follow official *Xanathar's Guide to Everything* guidelines.
 
 ---
 
-# Vice-Clamp [TOOL] [TIER: 2] [MAT: OLD_CUT_IRON] [QUAL: STANDARD] [FREQ: RARE] [HOMEBREW]
-A heavy, blue-grey iron mechanism pulled from the North Cut.
+## Smith's Tools [TOOL] [MAT: STEEL] [FREQ: COMMON] [[PHB]]
+**Weight:** 8.0 lbs. | **Value:** 20 gp.
 
-## Technical Properties
-*   **Type:** Artisan Support Tool
-*   **Tier:** 2 (Cold-Forming Implement)
-*   **Weight:** 15.0 lbs.
+### Narrative Summary
+A heavy leather case containing hammers, tongs, charcoal, and shears. These tools are the lifeblood of a forge-cleric.
 
-## Mechanical Utility ([HOMEBREW])
-While bolted to a stable surface, this vice acts as a "Third Hand." It **negates the Disadvantage** Wael suffers for performing two-handed artisan tasks (like masonry or smithing) with only one arm. It allows working with materials up to **WR 17**.
-
-## Maintenance & Restoration
-*   **Condition:** Seized/Rusted.
-*   **Restoration:** 4 LH, 1 cast of *Mending*, and use of Tallow/Oil.
+### XGtE Tool Proficiencies (Advantage & Benefits)
+*   **Arcana/History:** Advantage on checks regarding metalwork or historical arms/armor.
+*   **Investigation:** Advantage on checks to spot flaws or structural weaknesses in metal.
+*   **Repair:** Spend 1 hour and succeed on a DC 15 check to restore 10 hit points to a metal object.
 
 ---
 
-# Professional Leatherworker's Kit [TOOL] [TIER: 2] [MAT: HI_CARBON_STEEL] [FREQ: RARE] [HOMEBREW]
-A complete set of high-carbon steel awls, needles, and punches.
+## Woodcarver's Tools [TOOL] [MAT: STEEL] [FREQ: COMMON] [[PHB]]
+**Weight:** 5.0 lbs. | **Value:** 1 gp.
 
-## Technical Properties
-*   **Type:** Artisan Kit
-*   **Tier:** 2 (Professional)
-*   **Weight:** 5.0 lbs.
-
-## Mechanical Utility ([HOMEBREW])
-Once restored, this kit is required to attempt **MASTERWORK** Quality checks for leather items. The high-carbon steel ensures tools do not flex or dull against heavy hides.
-
-## Maintenance & Restoration
-*   **Condition:** Rusted.
-*   **Restoration:** 2 LH, 1 cast of *Mending*, and use of Abrasive Sand.
+### XGtE Tool Proficiencies (Advantage & Benefits)
+*   **Arcana/History:** Advantage on checks regarding wooden artifacts or staves.
+*   **Nature:** Advantage on checks to identify tree types or wood health.
+*   **Crafting:** Can produce 5 arrows/bolts during a short rest.
 
 ---
 
-# Smith's Tools [TOOL] [TIER: 1] [MAT: IRON] [FREQ: COMMON] [[PHB]] [STANDARD]
-Standard set of hammers, tongs, and bellows.
+## Herbalism Kit [TOOL] [MAT: VARIOUS] [FREQ: COMMON] [[PHB]]
+**Weight:** 3.0 lbs. | **Value:** 5 gp.
 
-## Technical Properties
-*   **Tier:** 1 (Standard)
-*   **Weight:** 8.0 lbs.
-
----
-
-# Mason's Tools [TOOL] [TIER: 1] [MAT: IRON] [FREQ: COMMON] [[PHB]] [STANDARD]
-Standard set of chisels and mallets.
-
-## Technical Properties
-*   **Tier:** 1 (Standard)
-*   **Weight:** 8.0 lbs.
+### XGtE Tool Proficiencies (Advantage & Benefits)
+*   **Arcana:** Advantage on checks to identify potions.
+*   **Nature/Survival:** Advantage on checks to identify or harvest medicinal plants.
+*   **Crafting:** Required to create *Potions of Healing* and *Antitoxin*.
 
 ---
 
-# Herbalism Kit [TOOL] [TIER: 1] [MAT: VARIOUS] [FREQ: COMMON] [[PHB]] [STANDARD]
-A collection of pouches, vials, and basic tools for gathering and preparing herbs.
+## Leatherworker's Tools [TOOL] [MAT: STEEL] [FREQ: COMMON] [[PHB]]
+**Weight:** 5.0 lbs. | **Value:** 5 gp.
 
-## Technical Properties
-*   **Tier:** 1 (Standard)
-*   **Weight:** 3.0 lbs.
+### XGtE Tool Proficiencies (Advantage & Benefits)
+*   **Arcana/History:** Advantage on checks regarding magical or historical leather items.
+*   **Investigation:** Advantage on checks to find hidden pockets or seams in leather gear.
 
 ---
 
-# Heavy Slate Sharpening Stone [TOOL] [MAT: SLATE] [FREQ: UNCOMMON] [HOMEBREW]
-Industrial-grade natural abrasive.
+## Cook's Utensils [TOOL] [MAT: IRON] [FREQ: COMMON] [[PHB]]
+**Weight:** 8.0 lbs. | **Value:** 1 gp.
 
-## Mechanical Utility ([HOMEBREW])
-Required to maintain the **"Sharp"** or **"Masterwork"** status of tools. Using dull/unmaintained tools increases the DC of artisan checks by 2.
+### XGtE Tool Proficiencies (Advantage & Benefits)
+*   **Medicine:** Advantage on checks to identify poisons in food.
+*   **Survival:** Advantage on checks to make scavenged food palatable.
+*   **Hearty Meal:** During a short rest, you can prepare food that allows companions to regain an extra 1 hit point per Hit Die spent.

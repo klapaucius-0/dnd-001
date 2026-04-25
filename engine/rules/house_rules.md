@@ -6,8 +6,7 @@
 
 ## Campaign Progression
 1.  **Low-to-High Magic:** Low magic at start, scaling to high magic by Level 20. Magic items are exceptionally rare and require significant effort to obtain.
-2.  **Cold-Forming/Cold-Forging Steel:** A non-magical artisan craft utilizing pressure and rhythmic hammering. Items produced this way gain the **Cold-Forged** tag. (See `rules/crafting.md` for mechanics).
-3.  **Rare Materials (Cold-Iron):** Materials like Cold-Iron **must** be cold-formed. Exposure to extreme heat (Forge Fire) permanently ruins their properties, rendering them into brittle, mundane scrap.
+2.  **Strict Source Adherence:** All mechanical effects and progression must follow the official rules (PHB, DMG, MM, SCAG, XGtE, TCoE).
 
 ## Tactical Mechanics
 1.  **Grid-Lite Combat:** ASCII grids with chess-style coordinates (A-Z, 1-N).
@@ -111,7 +110,7 @@ The following rules govern the recovery of materials from fallen creatures:
 
 ## Philosophy of Power (Protagonist)
 1.  **Earned, Not Given:** For the player character, significant power (magical, social, or artisan) is the result of immense effort, sacrifice, and long-term commitment.
-2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant "Labor Hours." Power for the player character is never obtained fast or easily.
+2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant downtime investment. Power for the player character is never obtained fast or easily.
 
 ## Narrative Focus & Style
 1.  **Strict Source Adherence:** All NEW NPC statistics, items, spells, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM, SCAG, XGE, TCOE).
@@ -157,7 +156,7 @@ To ensure narrative variety and mechanical depth, the campaign uses an AI-parsea
     *   *Theme:* Choking dust, rust, collapsing masonry, and the quiet tragedy of forgotten civilizations. Hazards come from structural failure and ancient traps.
 *   **[STRATUM: 3_FROZEN_EXPANSE]**
     *   **Frequency:** `[FREQUENCY: MEDIUM]`
-    *   *Theme:* Lethal drops in temperature, blinding snow, and the physical endurance required to survive the frost. This stratum governs "Cold-Forming" and cold-iron materials.
+    *   *Theme:* Lethal drops in temperature, blinding snow, and the physical endurance required to survive the frost. 
     *   **Economic Impact:** Desperation Goods = **Fuel & Heat** (+50% Price). See [[engine/rules/economy.md]].
 
 *   **[STRATUM: 4_SUNKEN_STONE]**

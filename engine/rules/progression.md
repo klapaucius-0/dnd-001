@@ -48,12 +48,7 @@ the player character follows the standard 5e (2014) experience table.
 3.  **HP Calculation:** the player character gains the **Average** (5 for 1d8) + Constitution Modifier.
 4.  **Updates:** The DM must update `state/character_state.md` and log the level increase in `logs/experience_log.md`.
 
-## 4. Artisan & Tool Progression
-the player character's capability to work rare materials is gated by his **Tool Tier**, not just his level.
-*   **Tier Upgrades:** Moving from Tier 1 to Tier 2/3 requires completing specific "Building" or "Research" quests in the `campaign/quest_log.md`.
-*   **Labor Hours:** High-tier progress is governed by the rules in `rules/crafting.md`.
-
-## 5. Mandatory Level-Up Audit
+## 4. Mandatory Level-Up Audit
 To ensure mechanical integrity, the following protocol is mandatory:
 1.  **Trigger:** At the conclusion of every **Long Rest**, the DM MUST perform a check of the player character's current XP against the advancement table.
 2.  **Notification:** If the threshold for a new level has been met, the DM must pause the narrative and guide the player through the level-up process (HP roll/average, spell choices, and feature unmasking) before continuing the day.

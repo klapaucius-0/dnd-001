@@ -120,21 +120,6 @@ This section serves as the central hub for all campaign tags and metadata to ens
     *   **Values Type:** Static.
     *   **Values in use:** `VERY_LOW`, `LOW`, `MEDIUM`, `HIGH`.
     *   **Reference Index:** `engine/rules/house_rules.md`
-*   **`[QUAL: ]`**
-    *   **Purpose:** Denotes the craftsmanship and durability of an item.
-    *   **Values Type:** Static.
-    *   **Values in use:** `POOR`, `STANDARD`, `FINE`, `SUPERIOR`, `MASTERWORK`.
-    *   **Mechanical Rules Reference:** `engine/rules/crafting.md`
-*   **`[FREQ: ]`**
-    *   **Purpose:** Denotes the rarity or availability of an item or material.
-    *   **Values Type:** Static.
-    *   **Values in use:** `VERY_COMMON`, `COMMON`, `UNCOMMON`, `RARE`, `VERY_RARE`, `LEGENDARY`.
-    *   **Reference Index:** Used in `atlas/crafting/materials/` and `atlas/crafting/tools.md`.
-*   **`[TIER: ]`**
-    *   **Purpose:** Represents the technological or magical complexity of a tool.
-    *   **Values Type:** Static.
-    *   **Values in use:** `1`, `2`, `3`.
-    *   **Reference Index:** `atlas/crafting/tools.md`
 *   **`[NPC_TYPE: ]`**
     *   **Purpose:** Defines the mechanical complexity, progression potential, and role of an NPC based on standard D&D 5e (2014) sourcebooks.
     *   **Values Type:** Static.
@@ -166,12 +151,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[MAT: ]`**
     *   **Purpose:** Identifies the primary material of an item.
     *   **Values Type:** Dynamic.
-    *   **Observed Values:** `STEEL`, `WOOD`, `IRON`, `DEEP_IRON`, `CRYSTAL`, `NEATSFOOT_OIL`, `HI_CARBON_STEEL`, `OLD_CUT_IRON`, `SLATE`, `VARIOUS`, `MINERAL`, `ANOMALY`, `BRONZE`, `BRASS`, `SILVER`, `GOLD`, `COPPER`, `SCRAP`, `COAL`, `TIN`, `ZINC`, `WOOL`, `LINEN`, `HEMP`, `SILK`, `LEATHER`, `BONE`, `HORN`, `ANTLER`, `CLAY`, `GLASS`, `PLATINUM`, `LEAD`, `COTTON`, `SALT`, `FLOUR`, `SUGAR`, `SPICES`, `TAR`, `INK`, `PAPER`, `SOAP`, `OIL`, `GRANITE`, `MARBLE`, `SAND`, `CHALK`, `WAX`, `RESIN`, `GLUE`, `CANVAS`, `FEATHER`, `ADAMANTINE`, `MITHRAL`, `SULFUR`, `SALTPETER`, `WATER_DISTILLED`, `ALUM`, `MORTAR`, `VELLUM`, `SINEW`, `PERFUME`, `VENOM`, `ELECTRUM`, `HERB`, `CHITIN`, `SHELL`, `MEAT`, `FRUIT`, `VEGETABLE`, `HIDE`, `FAT`, `BITUMEN`, `GUM_ARABIC`, `LIMESTONE`, `VINEGAR`, `COLD_FORMED_STEEL`, `MERCURY`, `GHOST_ROOT`, `IRON_NEEDLE_RESIN`, `WEAVER_MOSS`, `WINTER_GLINT_BERRY`, `FROST_VEIN_SPORE`, `FROZEN_HEART_BLOOM`, `MOUNTAIN_MOSS`, `DIRE_WOLF_HIDE`, `DIRE_WOLF_MEAT`, `DIRE_WOLF_BONE`, `DIRE_WOLF_ORGAN`, `DIRE_WOLF_SINEW`, `DIRE_WOLF_TOOTH`, `FROST_RESISTANT_OIL`.
-    *   **Reference Index:** Must be logged in the `atlas/crafting/materials/` directory.
-*   **`[CAT: ]`**
-    *   **Purpose:** Broadly categorizes materials to allow for substitution in generic recipes.
-    *   **Values Type:** Dynamic. 
-    *   **Observed Values:** `METAL`, `MINERAL`, `LEATHER`, `TEXTILE`, `ALCHEMICAL`, `TIMBER`, `COMPOSITE`, `ORGANIC`, `CONSUMABLE`.
+    *   **Observed Values:** `STEEL`, `WOOD`, `IRON`, `BRONZE`, `BRASS`, `SILVER`, `GOLD`, `COPPER`, `PLATINUM`, `ADAMANTINE`, `MITHRAL`, `LEATHER`, `BONE`, `CLAY`, `GLASS`, `PAPER`, `OIL`, `TEXTILE`.
     *   **Reference Index:** Must be logged in the `atlas/crafting/materials/` directory.
 *   **`[TOOL]`**
     *   **Purpose:** Identifies an item as a functional tool requiring proficiency.
@@ -181,19 +161,10 @@ This section serves as the central hub for all campaign tags and metadata to ens
     *   **Purpose:** Identifies an entry as a crafting schematic.
     *   **Values Type:** Dynamic.
     *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
-*   **`[SCALE: ]`**
-    *   **Purpose:** Represents the project's size and duration (number of blocks).
-    *   **Values Type:** Dynamic. 
-    *   **Observed Values:** `TRIVIAL` (2 Blocks), `MINOR` (3-6 Blocks), `MODERATE` (12 Blocks), `MAJOR`, `MASSIVE`.
-    *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
-*   **`[MOD: ]`**
-    *   **Purpose:** The mechanical difficulty modifier passed to `crafting_dc_calc.js`.
-    *   **Values Type:** Dynamic (Integer).
-    *   **Reference Index:** Must be logged in `atlas/crafting/blueprints.md`.
 *   **`[TYPE: ]`**
     *   **Purpose:** Broad categorization of a blueprint's output or a campaign goal.
     *   **Values Type:** Dynamic.
-    *   **Observed Values:** `PROSTHETIC`, `GEAR`, `WEAPON`, `ARMOR`, `QUEST`, `PROJECT`, `CONSUMABLE`.
+    *   **Observed Values:** `GEAR`, `WEAPON`, `ARMOR`, `QUEST`, `PROJECT`, `CONSUMABLE`.
     *   **Reference Index:** `atlas/crafting/blueprints.md` and `state/quest_state.md`.
 
 ### C. Live Play Annotation Tags (Transcript Only)

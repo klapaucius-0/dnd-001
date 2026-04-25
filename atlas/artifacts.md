@@ -18,7 +18,7 @@
 
 ### Physical Properties
 *   **Dimensions:** Roughly 3" x 1.5" x 1".
-*   **Composition:** Stone-like mineral (Copper/Silt color). Workability Rating (WR): 18.
+*   **Composition:** Stone-like mineral (Copper/Silt color).
 *   **Condition:** Ancient; edges rounded by subterranean aquatic erosion.
 
 ### Sensory Profile

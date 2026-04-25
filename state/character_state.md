@@ -50,8 +50,8 @@
 *   **Discovery (The Old Blood):** Possession of a restless, shifting red vial.
 
 ## Knowledge & Studied Topics
-*   **Fine Steel Warhammer (Dwarven):** [INTERNALIZED] Mastered the tempering sequences and grip retention of this master-mason design. (Studied: Day 27).
-*   **The First Knot (Western Cut):** Mastered the foundational technique of "Binding," allowing for the intuitive sensing of structural tension in materials. (Learned: Day 28).
+*   **Warhammer Design (Dwarven):** Studied the master-mason design and balance of traditional warhammers. (Day 27).
+*   **Structural Tension:** Learned to sense the physical stress and tension points in stone and metal. (Day 28).
 
 
 ## Resource Tracker
@@ -98,17 +98,17 @@
 | Winter Blanket | 3.0 lbs | |
 | Scroll Case | 1.0 lbs | Notes & Prayers |
 | Common Clothes | 3.0 lbs | |
-| Tallow & Beeswax | 1.0 lbs | 8/10 uses; `atlas/crafting/materials/` |
-| Steel Hardware | 2.0 lbs | High-carbon nails/rings. |
-| Blueprint (Warhammer) | 0.0 lbs | Fine Steel Warhammer; `atlas/crafting/blueprints.md` |
+| Tallow & Beeswax | 1.0 lbs | 8/10 uses; sealant/fuel. |
+| Steel Hardware | 2.0 lbs | Common nails/rings. |
+| Formula (Warhammer) | 0.0 lbs | Standard warhammer schematic. |
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
 | Pine Firewood | 0.0 lbs | Held by companions (Total: 29.0 lbs). |
 | Kindling | 6.5 lbs | Pouch of needles/twigs. |
-| Herbalism Reagents | 6.0 lbs | Crafting components (XGtE). |
-| Poison (Basic) Reagents | 0.2 lbs | Crafting components (PHB). |
+| Herbalism Reagents | 6.0 lbs | Generic materials (XGtE). |
+| Poison (Basic) Reagents | 0.2 lbs | Generic materials (PHB). |
 | Resin | 2.5 lbs | Standard alchemical material. |
-| Deep Iron | 6.0 lbs | Night-black mineral; [MAT: DEEP_IRON]. |
-| Siphon-Seal | 5.0 lbs | Lead container; marked by Oakhaven Granary. |
+| Iron Scrap | 6.0 lbs | Night-black mineral; raw iron. |
+| Lead Container | 5.0 lbs | Marked by Oakhaven Granary. |
 | Mountain Moss | 0.2 lbs | Dried wick/kindling. |
 | Anomalous Bloom (Frozen Heart) | 0.1 lb | Crystalline blue flower; restore focus. |
 | Salt | 0.0 lbs | Consumed. |
