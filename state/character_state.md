@@ -103,7 +103,7 @@
 | Blueprint (Warhammer) | 0.0 lbs | Fine Steel Warhammer; `atlas/crafting/blueprints.md` |
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
 | Pine Firewood | 0.0 lbs | Held by companions (Total: 29.0 lbs). |
-| Kindling | 5.5 lbs | Pouch of needles/twigs. |
+| Kindling | 6.5 lbs | Pouch of needles/twigs. |
 | Herbalism Reagents | 6.0 lbs | Crafting components (XGtE). |
 | Poison (Basic) Reagents | 0.2 lbs | Crafting components (PHB). |
 | Resin | 2.5 lbs | Standard alchemical material. |
@@ -113,13 +113,13 @@
 | Anomalous Bloom (Frozen Heart) | 0.1 lb | Crystalline blue flower; restore focus. |
 | Salt | 0.0 lbs | Consumed. |
 | Frost-Resistant Oil | 0.2 lbs | Prevents metal seizure. |
-| Iron Pot | 2.0 lbs | Recovered from cache. |
-| Iron Padlock | 1.0 lb | Recovered from cache. |
+| Iron Pot | 0.0 lbs | Used for Bell-Wire alarm system. |
+| Iron Padlock | 0.0 lbs | Used for Bell-Wire alarm system. |
 | Tallow Candles (5) | 0.5 lbs | Recovered from cache. |
 | Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |
 | Dire Wolf Pelt | 4.0 lbs | Found in hideout; matted fur. |
 | Dire Wolf Hide | 2.5 lbs | Butchered; raw hide. |
-| Dire Wolf Meat | 12.0 lbs | Preserved (7 days); stringy. |
+| Dire Wolf Meat | 11.0 lbs | Preserved (7 days); stringy. |
 | Dire Wolf Bones | 6.0 lbs | Large skeletal remains. |
 | Dire Wolf Organs | 1.5 lbs | Heart & Liver. |
 | Dire Wolf Sinew | 0.4 lbs | High-tensile cordage. |

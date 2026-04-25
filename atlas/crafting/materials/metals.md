@@ -40,16 +40,9 @@
 *   **The 10% Inlay Rule:** These materials are too rare to be forged into pure solid objects. They are instead applied as **Inlays, Core-Weaves, or Platings** on top of a Base Metal (usually Steel).
 *   **Separation:** Due to high melting points, they can be extracted at 100% efficiency via smelting.
 
-### Deep-Iron `[MAT: DEEP_IRON]`
-*   **Mechanical Utility:** Required for Tier 3 tools and high-pressure structural frames.
-*   **Refining Requirements:** Must be cold-formed. Exposure to heat destroys its stability.
-
 ### Cold-Formed Steel `[MAT: COLD_FORMED_STEEL]`
 *   **Weapon Utility:** Bypasses non-magical B/P/S resistance for Fey and Fiends. Grants **Siege**.
 *   **Armor Utility:** Grant the wearer **Advantage** on Strength saving throws against being moved or knocked prone (`[STABLE]`).
-
-### Old Cut Iron `[MAT: OLD_CUT_IRON]`
-*   **Mechanical Effects:** Absorbs kinetic energy. Grant **Advantage** on checks to avoid tool breakage (`[BREAK_RES]`).
 
 ---
 

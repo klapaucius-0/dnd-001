@@ -108,3 +108,79 @@ A narrow, ancient trade route of crushed slate and packed earth. It is a lonely 
 | Destination | Distance | Time (Base) | Notes |
 | :--- | :--- | :--- | :--- |
 | [[Oakhaven]] | 30 miles | 3 Days | A long trek through a largely uninhabited forest. |
+
+---
+
+## Shepherd's Bypass [STRATUM: 2_ERODING_AGE]
+**Setting Context:** Sword Mountains (Western Reach)
+**Frequency:** MEDIUM
+**Scale:** Narrative (Pass)
+
+### Summary
+A rugged, higher-altitude alternative to the Granite Squeeze, used by shepherds to move flocks away from the narrowest bottlenecks of the Old Iron Road.
+
+### Atmosphere & Mood
+*   **The "Vibe":** Exposed isolation, structural instability.
+*   **Sensory Details:** Bitter, thin air; sound of shifting scree; smell of dry stone.
+
+### Spatial Navigation
+*   **Parent Location:** [[The Old Iron Road (Western Reach)]]
+*   **Travel Registry:**
+| Destination | Distance | Time (Base) | Notes |
+| :--- | :--- | :--- | :--- |
+| [[Shepherd's Cache]] | 2.5 miles | 4 hours | Steep, winding ascent. |
+| [[Bypass Junction]] | 2.5 miles | 4 hours | Western entrance to the bypass. |
+
+---
+
+## Shepherd's Cache [STRATUM: 7_KINDLED_HEARTH]
+**Setting Context:** Shepherd's Bypass (Mid-point)
+**Frequency:** LOW
+**Scale:** Tactical (Base)
+
+### Summary
+A fortified stone hollow built into a natural cleft in the rock. It contains a hidden cache of tools and serves as a vital emergency shelter.
+
+### Atmosphere & Mood
+*   **The "Vibe":** Hard-won security, industrial grit.
+*   **Sensory Details:** Smell of pine smoke and salted meat; warmth of a stone fire-pit; orange glow against dark granite.
+
+### Spatial Navigation
+*   **Parent Location:** [[Shepherd's Bypass]]
+
+### Entities Present
+*   [[Skaen]]
+*   [[Elora (The Bound Weaver)]]
+*   [[Alen]]
+*   [[Varin (Trail-Warden)]]
+
+---
+
+## High Fissure [STRATUM: 2_ERODING_AGE]
+**Setting Context:** Shepherd's Bypass (Eastern Face)
+**Frequency:** VERY_LOW
+**Scale:** Narrative (Cleft)
+
+### Summary
+A narrow, high-altitude fissure overlooking the Granite Squeeze. It is used as a vantage point and temporary shelter by trail-wardens.
+
+### Spatial Navigation
+*   **Parent Location:** [[Shepherd's Bypass]]
+
+---
+
+## Granite Squeeze [STRATUM: 1_FRAGILE_SURFACE]
+**Setting Context:** Old Iron Road (Western Reach)
+**Frequency:** HIGH
+**Scale:** Narrative (Bottleneck)
+
+### Summary
+A narrow, high-walled section of the road where the mountain flanks press inward, creating a natural choke point and a prime location for ambushes.
+
+### Atmosphere & Mood
+*   **The "Vibe":** Oppressive claustrophobia, predatory stillness.
+*   **Sensory Details:** Echoing wind; deep shadows; smell of damp mineral.
+
+### Spatial Navigation
+*   **Parent Location:** [[The Old Iron Road (Western Reach)]]
+
