@@ -49,13 +49,13 @@ A rare, dense, night-black metal recovered from the oldest levels of the mountai
 
 ---
 
-## The White Silence [STRATUM: 6_DREAMING_MIND]
+## The Silence [STRATUM: 6_DREAMING_MIND]
 **Discovery Date:** Day 3 / 12:05
 **Source:** Bram / Sela / Vesper
 **Reliability:** Probable (Rumor/Witness)
 
 ### Detailed Context
-A phenomenon moving north. Entire villages are found "stopped"—inhabitants appear like flesh statues, frozen but not dead in a traditional sense. The air feels heavy and thick.
+A phenomenon moving north. Entire villages are found "stopped"—inhabitants appear like flesh statues, stilled but not dead in a traditional sense. The air feels heavy and thick.
 
 ---
 

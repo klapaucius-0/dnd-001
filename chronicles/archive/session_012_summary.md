@@ -8,7 +8,7 @@
 ## Narrative Summary
 The Iron Trek began in the shadow of the Iron-Lock Squall, a rare and brutal atmospheric anomaly that tested Skaen’s resolve before he had even truly begun. Seeking shelter within the stone of the mountain, Skaen discovered an ancient cache, internalizing the designs of the Fine Steel Warhammer and securing the supplies necessary to endure the silence. The road, once a place of isolation, revealed its hidden rhythms: a lone Weaver, Elora, huddled by a Ghost-Hearth, and a "stopped" scout, Alen, caught in the leak of a Siphon-Seal.
 
-Through the mending of lead and the redirection of resonance, Skaen released the scout from the White Silence and secured a payload of rare Steel. The trio has now formed a small, resonant circle—a dwarf of the Forge, a Weaver of the Western Cut, and a Carrier of the Granary—bonded by survival and a shared purpose. They stand supplied and restored, ready to face the final twenty-six miles of the Old Iron Road toward an increasingly isolated Oakhaven.
+Through the mending of lead and the redirection of resonance, Skaen released the scout from the Silence and secured a payload of rare Steel. The trio has now formed a small, resonant circle—a dwarf of the Forge, a Weaver of the Western Cut, and a Carrier of the Granary—bonded by survival and a shared purpose. They stand supplied and restored, ready to face the final twenty-six miles of the Old Iron Road toward an increasingly isolated Oakhaven.
 
 ## Mechanical Ripple Effects (Chain of Custody)
 | Category | Master Log | Change | Note / Source |
@@ -24,7 +24,7 @@ Through the mending of lead and the redirection of resonance, Skaen released the
 *   **Siphon-Seal:** A lead-lined container used to suppress highly resonant artifacts; marked by Oakhaven Granary.
 *   **Frozen Heart-Bloom:** A rare crystalline blue flower discovered after the Iron-Lock Squall; used for focus tea and alchemical stabilization.
 *   **Elora (Bound Weaver):** Mastered the First Knot from her; she seeks to restart the "stopped" ones of the Western Cut.
-*   **Alen (Carrier):** Rescued from the White Silence; knows the bypasses into Oakhaven.
+*   **Alen (Carrier):** Rescued from the Silence; knows the bypasses into Oakhaven.
 *   **Mountain Flora:** Learned the utility of Ghost-Root, Iron-Needle Resin, and Weaver's Moss.
 
 ## Active Conditions & Effects

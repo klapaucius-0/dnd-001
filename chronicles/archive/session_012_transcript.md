@@ -130,7 +130,7 @@
 **Skaen:** we take a slow walk moving forward
 **DM:** (Roll: 13). Skaen identifies a "stopped" scout (Alen) and a vein of Steel in a ravine.
 **Skaen:** i cat detect magic as a ritual / i use my tolls / mending
-**DM:** (Roll: 24). The Siphon-Seal is restored. Alen is released from the White Silence.
+**DM:** (Roll: 24). The Siphon-Seal is restored. Alen is released from the Silence.
 **Skaen:** [Harvests Steel]
 **DM:** (Rolls: 23, 24). Skaen extracts 6.0 lbs of Steel. Alen joins the party and Skaen takes the payload.
 **Skaen (Day 29):** Party takes a Long Rest.

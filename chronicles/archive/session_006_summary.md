@@ -20,7 +20,7 @@ The highlight of the afternoon was the acquisition of Steel tools from Vesper, a
 | **SP (Oakhaven)**| `logs/reputation_log.md` | +25 SP | Commerce, Repair, News |
 
 ## Key Discoveries & Lore
-*   **The White Silence:** A supernatural phenomenon where villagers are "frozen" in time, moving north toward Oakhaven.
+*   **The Silence:** A supernatural phenomenon where villagers are "stilled" in time, moving north toward Oakhaven.
 *   **The Western Cut:** Elara's home, 15 miles NW, reported to be the first local victim of the Silence.
 *   **Steel:** Exceptionally dense iron from the deepest mines, ideal for forging.
 *   **The North Cut:** Vesper's home, 8 miles N, collapsed during a pursuit of "Light-Drinking" ore.

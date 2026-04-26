@@ -5,7 +5,7 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 450 <!-- SOURCE: experience_log -->
+**Experience (XP):** 513 <!-- SOURCE: experience_log -->
 **Wealth:** 4 gp <!-- SOURCE: currency_log -->
 
 **Alignment:** Neutral
@@ -70,7 +70,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 207.1 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 208.6 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -128,6 +128,10 @@
 | Dire Wolf Organs | 1.5 lbs | Heart & Liver. |
 | Mist-Mottled Quill | 0.0 lbs | Exotic Lesser Component. |
 | Shortbow | 2.0 lbs | Crafted for Elora. |
+| Heavy Crossbow | 18.0 lbs | Recovered from Squeeze. |
+| Crossbow Bolts (12) | 1.5 lbs | Recovered from Squeeze. |
+| Flint & Tinder (New) | 0.0 lbs | Recovered from Squeeze. |
+| Salted Meat (0.5 lbs) | 0.5 lbs | Recovered from Squeeze. |
 
 
 

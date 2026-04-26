@@ -8,3 +8,4 @@
 | 2026-04-25 | 014 | Scavenged medicinal reagents with Elora | 25 | 125 |
 | 2026-04-25 | 014 | Defeated Ghoul Pack (Staggered Arrival) | 300 | 425 |
 | 2026-04-26 | 015 | Defeated Giant Owl (Surprise Defense) | 25 | 450 |
+| 2026-04-26 | 016 | Defeated Scavenger Archer (Granite Squeeze) | 63 | 513 |

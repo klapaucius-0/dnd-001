@@ -21,4 +21,4 @@ This file tracks the full historical record of every quest completed or failed i
 | Q015 | Brittle Defense | COMPLETED | Wael used Mending over 3 Hours to restore the spears. | — |
 | Q016 | The Restless Yard | FAILED | The Battle of the Yard resulted in Wael's death and the quarantine of the site. | 011 |
 | P002 | The Bound Weaver | COMPLETED | Formed bond at The Low Ridge. | 012 |
-| P003 | The Carrier's Rescue | COMPLETED | Rescued from the White Silence. | 012 |
+| P003 | The Carrier's Rescue | COMPLETED | Rescued from the Silence. | 012 |

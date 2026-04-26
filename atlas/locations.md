@@ -86,7 +86,7 @@ A high, narrow mountain pass marking the boundary between the frontier and the d
 **Scale:** Narrative (Ruined Village)
 
 ### Summary
-A high-altitude valley formerly known for weavers and shepherds. The first local victim of the "White Silence." Entire populations are reported to be frozen in place like statues.
+A high-altitude valley formerly known for weavers and shepherds. The first local victim of "The Silence." Entire populations are reported to be stilled in place like statues.
 
 ---
 
@@ -186,4 +186,7 @@ A narrow, high-walled section of the road where the mountain flanks press inward
 
 ### Spatial Navigation
 *   **Parent Location:** [[The Old Iron Road (Western Reach)]]
+
+### Key Spots
+*   **The Bandit Sentinel:** A visceral warning marker established by Skaen; an impaled body and blood-runes marking the law of the road.
 

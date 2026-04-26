@@ -86,4 +86,10 @@ This file tracks the passage of time and the allocation of Downtime Days for cra
 | 34 | 03:30 | Commenced Potion Brewing (Morning) | 0.30 | Craft: Potion | 0.30 |
 | 34 | 11:00 | Completed Potion of Healing | 0.04 | Craft: Potion | 0.34 |
 | 34 | 11:05 | Completed Fletching (Accumulated Rests) | 0.01 | — | 0 |
-| 34 | 11:06 | Exited Shepherd's Cache | 0.01 | — | 0 |
+| 34 | 11:06 | 015 | Exited Shepherd's Cache | 0.01 | — | 0 |
+| 34 | 12:46 | 016 | Failed Navigation (Squeeze) | 0.07 | — | 0 |
+| 34 | 13:52 | 016 | Detour to High Fissure (Hunt) | 0.04 | — | 0 |
+| 34 | 13:58 | 016 | Combat: Scavengers (Victory/Standoff) | 0.01 | — | 0 |
+| 34 | 14:05 | 016 | Looted Scavenger Ledge | 0.005 | — | 0 |
+| 34 | 14:40 | 016 | Constructed Bandit Warning Marker | 0.02 | — | 0 |
+

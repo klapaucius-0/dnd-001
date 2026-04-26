@@ -6,7 +6,7 @@
 **Scale:** Narrative (Ruined Village)
 
 ## Summary
-A high-altitude valley formerly known for its expert weavers and resilient shepherds. It is the first known victim of the "White Silence"—a localized event that froze the entire population in a state of suspended animation.
+A high-altitude valley formerly known for its expert weavers and resilient shepherds. It is the first known victim of the "Silence"—a localized event that stilled the entire population in a state of suspended animation.
 
 ## Atmosphere & Mood
 *   **The "Vibe":** Haunted stillness, suspended time, absolute grief.
@@ -25,16 +25,16 @@ A high-altitude valley formerly known for its expert weavers and resilient sheph
 
 ## Key Areas
 ### 1. The Loom-Halls
-*   **Description:** Massive timber structures where the Western wool was processed. Now filled with silent weavers frozen at their stations.
+*   **Description:** Massive timber structures where the Western wool was processed. Now filled with silent weavers stilled at their stations.
 *   **Features:** **Ancient Looms** (Highly resonant industrial equipment).
 
 ### 2. The Market Square
-*   **Description:** The heart of the village, now a macabre gallery of frozen commerce.
+*   **Description:** The heart of the village, now a macabre gallery of suspended commerce.
 
 ## Entities Present
 *   **The Stopped Folk:** Thousands of statues of flesh and bone.
 *   **Elora (Origin):** One of the few survivors who was "out of rhythm" during the event.
 
 ## Discovery & Lore
-*   **The White Silence:** A phenomenon that pauses the biological and physical rhythm of sentient beings.
+*   **The Silence:** A phenomenon that pauses the biological and physical rhythm of sentient beings.
 *   **Western Armor:** The source of the specialized felted wool armor.

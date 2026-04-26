@@ -15,7 +15,7 @@ This file tracks the mechanical and social state of characters traveling with th
 **Last Interaction:** Day 33
 
 ### Summary
-A gaunt figure from the Western Cut who survived the "White Silence" and now seeks a way to restore her people. She specializes in rhythmic spindle weaving and mountain lore.
+A gaunt figure from the Western Cut who survived "The Silence" and now seeks a way to restore her people. She specializes in rhythmic spindle weaving and mountain lore.
 
 ### Narrative & Identity
 *   **Appearance:** [REVEALED] Gaunt frame, face obscured by grey felted wool, pale and watchful eyes.
@@ -167,7 +167,7 @@ A weathered trail-warden of the Western Reach. He haunts the high fissures of th
 *   **Revealed Facts:**
     *   Veteran Trail-Warden of the Western Reach.
     *   Expert woodcarver; uses it as a meditative focus.
-    *   Knowledgeable about "White Silence" hazards and "mountain reaching."
+    *   Knowledgeable about "The Silence" hazards and "mountain reaching."
     *   Carries a silvered shortbow and dual shortswords.
 
 ---
