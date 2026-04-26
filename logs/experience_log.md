@@ -9,3 +9,5 @@
 | 2026-04-25 | 014 | Defeated Ghoul Pack (Staggered Arrival) | 300 | 425 |
 | 2026-04-26 | 015 | Defeated Giant Owl (Surprise Defense) | 25 | 450 |
 | 2026-04-26 | 016 | Defeated Scavenger Archer (Granite Squeeze) | 63 | 513 |
+| 2026-04-27 | 017 | Defeated Ice Mephit Trio (Camp Defense) | 75 | 588 |
+| 2026-04-27 | 017 | Completed Q017: The Iron Trek (Milestone) | 100 | 688 |

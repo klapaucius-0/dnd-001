@@ -50,4 +50,3 @@
 | 34 | 15:00 | 016 | Crossbow Bolts | +12 | 12 | Recovered from Squeeze. |
 | 34 | 15:00 | 016 | Flint & Tinder (New) | +1 | 1 | Recovered from Squeeze. |
 | 34 | 15:00 | 016 | Salted Meat | +0.5 lbs | 0.5 lbs | Recovered from Squeeze. |
-| 34 | 15:00 | 016 | Dagger | +1 | 1 | Given by Varin. |

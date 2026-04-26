@@ -119,6 +119,49 @@ Flesh-eating undead that hunt in packs and paralyze their prey.
 
 ---
 
+## Ice Mephit [STRATUM: 3_FROZEN_EXPANSE] [NPC_TYPE: STATBLOCK]
+**Role/Type:** Small elemental, neutral evil
+**Habitat:** Arctic / Mountains
+
+### Summary
+Cruel, crystalline elementals composed of ice and frozen vapor. They are drawn to sources of heat and resonant stillness.
+
+### Narrative & Identity
+*   **Appearance:** [REVEALED] Small, impish figures made of translucent blue ice; wings that look like jagged shards of glass.
+*   **Sounds:** High-pitched, grinding screech; buzzing of crystalline wings.
+*   **Personality/Behavior:** Predatory and aloof; they enjoy the slow freezing of prey.
+
+### Mechanical Details (Unified Entity Protocol)
+*   **Base Statblock:** Ice Mephit (CR 1/2, MM p. 215)
+*   **Modifications:** None.
+
+#### Statistics
+| STR | DEX | CON | INT | WIS | CHA |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 7 (-2) | 13 (+1) | 10 (+0) | 9 (-1) | 11 (+0) | 12 (+1) |
+
+#### Combat Block (Strict 5e)
+*   **Armor Class:** 11
+*   **Hit Points:** 21 (6d6)
+*   **Speed:** 30 ft., fly 30 ft.
+*   **Skills:** Perception +2, Stealth +3
+*   **Damage Vulnerabilities:** Bludgeoning, Fire
+*   **Damage Immunities:** Cold, Poison
+*   **Condition Immunities:** Poisoned
+*   **Senses:** Darkvision 60 ft., Passive Perception 12
+*   **Languages:** Aquan, Auran
+*   **Challenge:** 1/2 (100 XP)
+
+### Special Traits
+*   **Death Burst:** When the mephit dies, it explodes in a cloud of jagged ice. Each creature within 5 feet of it must then succeed on a DC 10 Dexterity saving throw or take 4 (1d8) slashing damage.
+*   **False Appearance:** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
+
+### Actions
+*   **Claws:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
+*   **Frost Breath (Recharge 6):** The mephit exhales a 15-foot cone of frost. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
+
+---
+
 ## Historical Anomalies (Archived)
 The following entities were observed during the first phase of the Sorrow but have since disappeared from the active world.
 *   **Resonant Figure:** [ARCHIVED] See `state/archive/entities/anomalies_archive.md`

@@ -11,7 +11,7 @@ This file tracks the mechanical and social state of characters traveling with th
 **Sex:** Female
 **Race:** Human
 **Bond Type:** Companion
-**Standing:** Level 3 (65/80 SP) [Close Ally]
+**Standing:** Level 2 (75/150 SP) [Trusted Ally]
 **Last Interaction:** Day 33
 
 ### Summary
@@ -73,8 +73,8 @@ A gaunt figure from the Western Cut who survived "The Silence" and now seeks a w
 **Sex:** Male
 **Race:** Human
 **Bond Type:** Associate
-**Standing:** Level 1 (45/20 SP) [Acquaintance]
-**Last Interaction:** Day 28
+**Standing:** Level 1 (51/60 SP) [Acquaintance]
+**Last Interaction:** Day 35
 
 ### Summary
 An Oakhaven-born scout and specialized courier for the Granary. He was rescued by Skaen after being "stopped" by a leaking Siphon-Seal.
@@ -117,26 +117,21 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 
 ---
 
-## Varin (Trail-Warden) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: STATBLOCK]
-**Role/Type:** Trail-Warden (Scout)
+## Varin (Trail-Warden) [STRATUM: 1_FRAGILE_SURFACE] [NPC_TYPE: SIDEKICK]
+**Role/Type:** Trail-Warden (Warrior)
 **Age:** Late sixties
 **Sex:** Male
 **Race:** Human
-**Bond Type:** Neutral (Guest)
-**Standing:** Level 0 (12/20 SP) [Stranger]
-**Last Interaction:** Day 32
+**Bond Type:** Companion
+**Standing:** Level 1 (30/60 SP) [Acquaintance]
+**Last Interaction:** Day 35
 
 ### Summary
-A weathered trail-warden of the Western Reach. He haunts the high fissures of the Granite Squeeze and possesses deep knowledge of the mountain's hazards. He is currently a guest at Skaen's base.
-
-### Narrative & Identity
-*   **Appearance:** [REVEALED] Weathered face with deep-etched lines and wind-burned skin; beard the color of frosted iron. Pale grey eyes. Wears layered furs and boiled leather stained with resin.
-*   **Personality/Behavior:** [REVEALED] Still, measured, and observant. Moves with a practiced economy of motion. Prone to speaking in metaphors related to the mountain and stone.
-*   **Outlook on Life:** [REVEALED] Survival is a matter of precision and silence; the mountain is an active, indifferent force that must be respected through inaction as much as action.
+A weathered trail-warden of the Western Reach. He has committed his bow and his eyes to Skaen's vision of "smithing the world into shape." He is a master of the silvered bow and the stillness of the high fissures.
 
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Scout (CR 1/2, MM p. 349)
-*   **Modifications:** None.
+*   **Modifications:** Level 2 Warrior Sidekick (TCoE p. 142)
 
 #### Statistics
 | STR | DEX | CON | INT | WIS | CHA |
@@ -145,23 +140,33 @@ A weathered trail-warden of the Western Reach. He haunts the high fissures of th
 
 #### Combat Block (Strict 5e)
 *   **Armor Class:** 13 (Leather Armor)
-*   **Hit Points:** 16 (3d8 + 3)
+*   **Hit Points:** 21 (3d8 + 3 Base + 1d10 Warrior)
 *   **Speed:** 30 ft.
 *   **Skills:** Nature +4, Perception +5, Stealth +6, Survival +5
 *   **Senses:** Keen Hearing and Sight (Adv. on Perception), Passive Perception 15
 *   **Languages:** Common, Scout-Sign
-*   **Challenge:** 1/2 (100 XP)
+*   **Challenge:** 1/2 (Sidekick Lvl 2)
+
+### Special Traits
+*   **Martial Role (Attacker):** Varin gains a +2 bonus to attack rolls.
+*   **Fighting Style (Archery):** Varin gains a +2 bonus to attack rolls he makes with ranged weapons. (Total Ranged Attack Bonus: +8).
+*   **Second Wind:** Varin can use a bonus action to regain hit points equal to 1d10 + 2. (1/Short Rest).
 
 ### Actions
 *   **Multiattack:** Varin makes two melee attacks or two ranged attacks.
-*   **Shortsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-*   **Silvered Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+*   **Shortsword:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+*   **Silvered Shortbow:** Ranged Weapon Attack: +8 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
 ### Tools & Gear
 *   **Woodcarver's Tools:** Used for both craft and survival.
-*   **Whetstone:** Standard grit for maintaining silvered and steel edges.
-*   **Tinderbox:** Standard adventuring gear.
-*   **Signal Whistle:** Used to communicate across distances.
+*   **Whetstone:** Standard grit.
+*   **Tinderbox:** Standard gear.
+*   **Signal Whistle:** Communication.
+
+## Sidekick Progression
+*   **Role:** Warrior
+*   **Level:** 2
+*   **Unlocked Features:** Martial Role (Attacker), Second Wind.
 
 ## Discovery & Lore (AI Memory)
 *   **Revealed Facts:**
@@ -169,8 +174,6 @@ A weathered trail-warden of the Western Reach. He haunts the high fissures of th
     *   Expert woodcarver; uses it as a meditative focus.
     *   Knowledgeable about "The Silence" hazards and "mountain reaching."
     *   Carries a silvered shortbow and dual shortswords.
-
----
 
 ---
 
@@ -210,6 +213,14 @@ A haunted survivor of the "Silence of the Yard" and companion to the fallen hero
 *   **Longbow:** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 
 ### Bonus Actions
+*   **Helpful:** Kaelen can take the Help action as a bonus action.
+*   **Cunning Action:** Kaelen can take the Dash, Disengage, or Hide action as a bonus action.
+
+## Sidekick Progression
+*   **Role:** Expert
+*   **Level:** 2
+*   **Unlocked Features:** Helpful, Cunning Action.
+ions
 *   **Helpful:** Kaelen can take the Help action as a bonus action.
 *   **Cunning Action:** Kaelen can take the Dash, Disengage, or Hide action as a bonus action.
 

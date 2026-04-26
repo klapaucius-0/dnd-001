@@ -5,8 +5,8 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 513 <!-- SOURCE: experience_log -->
-**Wealth:** 4 gp <!-- SOURCE: currency_log -->
+**Experience (XP):** 688 <!-- SOURCE: experience_log -->
+**Wealth:** 12 gp <!-- SOURCE: currency_log -->
 
 **Alignment:** Neutral
 **Age:** Middle-aged (appears older)
@@ -104,7 +104,7 @@
 | Steel Hardware | 2.0 lbs | Common nails/rings. |
 | Formula (Warhammer) | 0.0 lbs | Standard warhammer schematic. |
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
-| Pine Firewood | 0.0 lbs | Held by companions (Total: 64.0 lbs). |
+| Pine Firewood | 0.0 lbs | Held by companions (Total: 89.0 lbs). |
 | Kindling | 6.5 lbs | Pouch of needles/twigs. |
 | Herbalism Reagents | 0.0 gp | Consumed for Potion. |
 | Potion of Healing | 0.5 lbs | Brewed at cache. |
@@ -114,12 +114,15 @@
 | Lead Container | 5.0 lbs | Marked by Oakhaven Granary. |
 | Mountain Moss | 0.2 lbs | Dried wick/kindling. |
 | Anomalous Bloom (Frozen Heart) | 0.1 lb | Crystalline blue flower; restore focus. |
+| Grappling Hook | 4.0 lbs | Standard iron climber's hook. |
+| Scarred Grey Pearl (1) | 0.1 lbs | Restored (100gp Identify component). |
+| Frozen Mephit Shards (3) | 0.3 lbs | Lesser Reagents (5gp ea). |
 | Salt | 0.0 lbs | Consumed. |
 | Frost-Resistant Oil | 0.2 lbs | Prevents metal seizure. |
 | Iron Pot | 2.0 lbs | Recovered from alarm system. |
 | Iron Padlock | 1.0 lb | Recovered from alarm system. |
 | Tallow Candles (5) | 0.5 lbs | Recovered from cache. |
-| Siphon-Seal | 2.0 lbs | Received from Alen; prevents atmospheric leakage. |
+| Lead-Lined Cargo Box | 2.0 lbs | Standard Oakhaven pattern; protects against environmental wear. |
 | Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |
 | Dire Wolf Pelt | 4.0 lbs | Found in hideout; matted fur. |
 | Dire Wolf Hide | 2.5 lbs | Butchered; raw hide. |
@@ -132,8 +135,3 @@
 | Crossbow Bolts (12) | 1.5 lbs | Recovered from Squeeze. |
 | Flint & Tinder (New) | 0.0 lbs | Recovered from Squeeze. |
 | Salted Meat (0.5 lbs) | 0.5 lbs | Recovered from Squeeze. |
-
-
-
-
-

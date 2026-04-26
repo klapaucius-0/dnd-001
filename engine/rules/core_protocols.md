@@ -64,6 +64,10 @@ All non-player beings follow a discovery-based state model in `state/entities/`.
     *   Any revealed facts that the new character would not logically know are re-tagged as **`[NOT_REVEALED]`**.
     *   All **Standing** values are reset to Level 0 (0/20 SP) [Stranger].
     *   All **Last Interaction** fields are reset to `---` or Day 0.
+8.  **Post-Encounter Audit (MANDATORY):** Immediately following the conclusion of any combat or significant interaction with a creature or NPC, the DM MUST:
+    *   **Update the Bestiary:** Ensure the creature's state block in `state/entities/bestiary.md` reflects all discovered traits, actions, and narrative details. If it is a new creature, create a new entry using the UEP standards.
+    *   **Update the Master Logs:** Append all XP, currency, inventory, and relationship changes to their respective logs in `logs/`.
+    *   **Synchronize State:** Update the corresponding snapshot files in `state/` to reflect the new totals.
 
 ## 8. Archiving & Lifecycle Management
 To keep the active workspace lean and optimized for AI agents, the following archiving protocols are mandatory:

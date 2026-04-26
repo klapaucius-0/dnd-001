@@ -18,3 +18,15 @@
 | 34 | 14:05 | 016 | Alen (Carrier) | +1 | 46 | Shared values on social order (Trivial). |
 | 34 | 14:40 | 016 | Alen (Carrier) | -10 | 36 | Shocked by the brutality of the marker (Moderate). |
 | 34 | 14:40 | 016 | Varin (Trail-Warden) | +2 | 14 | Respects the marking of territory/law (Trivial). |
+| 35 | 03:00 | 017 | Elora (Bound Weaver) | +10 | 75 | Survived Ice Mephit ambush (Moderate). |
+| 35 | 03:00 | 017 | Alen (Carrier) | +10 | 46 | Survived Ice Mephit ambush; received healing (Moderate). |
+| 35 | 03:00 | 017 | Varin (Trail-Warden) | +10 | 24 | Survived Ice Mephit ambush (Moderate). |
+| 35 | 09:30 | 017 | Garrick (Gate Guard) | +1 | 1 | Professional introduction and trade offer (Trivial). |
+| 35 | 09:45 | 017 | Vesper (Scavenger) | +1 | 1 | Professional recognition and shared trade (Trivial). |
+| 35 | 11:50 | 017 | Vesper (Scavenger) | +5 | 6 | Restored seized winch; purging White-Frost (Minor). |
+| 35 | 12:00 | 017 | Vesper (Scavenger) | +1 | 7 | Successful trade for Grappling Hook (Trivial). |
+| 35 | 12:30 | 017 | Vesper (Scavenger) | +2 | 9 | Mended salvaged tools; professional goodwill (Minor). |
+| 35 | 12:46 | 017 | Varin (Trail-Warden) | +1 | 25 | Hospitality at the Boar and Barrel (Trivial). |
+| 35 | 12:46 | 017 | Hera (Innkeeper) | +1 | 1 | Professional introduction at the inn (Trivial). |
+| 35 | 12:48 | 017 | Varin (Trail-Warden) | +5 | 30 | Shared vision of "smithing the world"; recruitment (Minor). |
+| 35 | 13:25 | 017 | Alen (Carrier) | +5 | 51 | Revealed truth of the cargo; shared trust (Minor). |

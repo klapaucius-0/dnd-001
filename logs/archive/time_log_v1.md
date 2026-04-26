@@ -1,4 +1,4 @@
-# Campaign Time Log
+# Campaign Time Log (Archive v1)
 
 ## Overview
 This file tracks the passage of time and the allocation of Downtime Days for crafting and long-term projects.
@@ -92,4 +92,15 @@ This file tracks the passage of time and the allocation of Downtime Days for cra
 | 34 | 13:58 | 016 | Combat: Scavengers (Victory/Standoff) | 0.01 | — | 0 |
 | 34 | 14:05 | 016 | Looted Scavenger Ledge | 0.005 | — | 0 |
 | 34 | 14:40 | 016 | Constructed Bandit Warning Marker | 0.02 | — | 0 |
-
+| 34 | 19:00 | 017 | Established Camp & Alarm (9m West of Oakhaven) | 0.2 | — | 0 |
+| 35 | 04:30 | 017 | Completed Long Rest (Interrupted by Mephits) | 1.0 | — | 0 |
+| 35 | 05:00 | 017 | Morning Rituals & Breaking Camp | 0.05 | — | 0 |
+| 35 | 06:15 | 017 | Firewood Scavenging (Group A/B) | 0.05 | — | 0 |
+| 35 | 09:15 | 017 | Arrived at Oakhaven Main Gate | 0.125 | — | 0 |
+| 35 | 09:30 | 017 | Entered Oakhaven; gate interaction | 0.01 | — | 0 |
+| 35 | 11:50 | 017 | Restoration of Vesper's Winch (2h) | 0.25 | — | 0 |
+| 35 | 12:30 | 017 | Mending Salvaged Tools for Vesper (0.5h) | 0.02 | — | 0 |
+| 35 | 12:45 | 017 | Arrival at the Boar and Barrel | 0.01 | — | 0 |
+| 35 | 13:05 | 017 | Restored Scarred Pearl via Mending (10m) | 0.01 | — | 0 |
+| 35 | 13:15 | 017 | Identified Lead-Lined Cargo Box (Ritual) | 0.01 | — | 0 |
+| 35 | 13:25 | 017 | Discussion of Cargo & Session End | 0.01 | — | 0 |

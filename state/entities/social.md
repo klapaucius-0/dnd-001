@@ -11,8 +11,8 @@ This file tracks minor NPCs, groups, and the social fabric of the world.
 **Sex:** Female
 **Race:** Human
 **Bond Type:** Associate
-**Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** ---
+**Standing:** Level 0 (1/20 SP) [Stranger]
+**Last Interaction:** Day 35
 
 ### Summary
 The pragmatic proprietor of the Boar and Barrel. She keeps a watchful eye on the local scouts and ensures her hearth stays lit against the deepening winter.
@@ -179,8 +179,8 @@ A gaunt survivor from the Western Cut, guarded by a shield of mercantile sharpne
 ## Vesper [STRATUM: 2_ERODING_AGE] [NPC_TYPE: STATBLOCK]
 **Role/Type:** Scavenger / Tool Merchant
 **Bond Type:** Associate
-**Standing:** Level 0 (0/20 SP) [Stranger]
-**Last Interaction:** ---
+**Standing:** Level 0 (9/20 SP) [Stranger]
+**Last Interaction:** Day 35
 
 ### Summary
 A lithe and soot-stained survivor of the North Cut collapse with a deep respect for Steel iron.
@@ -192,9 +192,9 @@ A lithe and soot-stained survivor of the North Cut collapse with a deep respect 
 *   **Wael:** Performed a structural restoration of her trade wagon axle on Day 3.
 
 ### Narrative & Identity
-*   **Appearance:** [NOT_REVEALED] (Muscular frame, soot-smudged face, silver-scarred hands).
-*   **Personality/Behavior:** [NOT_REVEALED] (Direct, observant).
-*   **Outlook:** [NOT_REVEALED] (History is held in iron).
+*   **Appearance:** [REVEALED] Late twenties to early thirties; lithe, muscular frame defined by hard labor. Soot-smudged face set with a weary, professional hardness. Hands are crisscrossed with fine silver scars from abrasive stone and hot metal.
+*   **Personality/Behavior:** [REVEALED] Direct, observant, and values functional integrity over aesthetic polish. Moves with a deliberate, rhythmic economy of motion. Meticulously maintains her own gear against the White-Frost.
+*   **Outlook:** [REVEALED] History is held in iron and stone; survival is found in the preservation of a tool's "will" and the respect of the work.
 
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Commoner (CR 0, MM p. 345)
@@ -419,4 +419,3 @@ A gruff, overworked blacksmith struggling against contaminated iron.
 *   **Revealed Facts:** [NOT_REVEALED] (Respect for artisan skill).
 *   **Unrevealed Facts:**
     *   [NOT_REVEALED] The community's increasing paranoia regarding the "Silent Quarantine."
-

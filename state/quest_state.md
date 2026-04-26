@@ -2,10 +2,12 @@
 <!-- SOURCE: quest_state -->
 
 ## Active Short-Term Goals
-*   **[WORLD] [OPEN] Q017:** The Iron Trek (Reach Oakhaven).
-*   **[PERSONAL] [OPEN] P001:** The Ritual Bond (Acquire pearl and owl feather).
-*   **[PERSONAL] [OPEN] P004:** Strength in Trinity (Seek a third companion).
-*   **[PERSONAL] [OPEN] P005:** The Hewer's Need (Acquire an axe).
+*   **[PERSONAL] [OPEN] P006:** Kinship in Stone (Meet another Dwarf).
+*   **[PERSONAL] [OPEN] P007:** The Ancient Voice (Meet an Elf).
+*   **[PERSONAL] [OPEN] P008:** The Carrier's Ascent (Establish Alen as a person of minor power in Oakhaven).
+*   **[PERSONAL] [OPEN] P009:** The Unseen Spark (Find a magically oriented sidekick).
+*   **[PERSONAL] [OPEN] P010:** The Merchant's Reserve (Accumulate 100 gold pieces).
+*   **[PERSONAL] [OPEN] P011:** The Gilded Presence (Meet a minor noble).
 
 ## Active Mid-Term Goals
 *   **[NONE]**
@@ -15,5 +17,6 @@
 
 ## Recently Completed (Last 3)
 *For the full historical record of all completed quests, see: `logs/quest_log.md`*
-*   **[PERSONAL] [COMPLETED] P003:** The Carrier's Rescue (Rescued Alen).
-*   **[PERSONAL] [COMPLETED] P002:** The Bound Weaver (Formed bond with Elora).
+*   **[WORLD] [COMPLETED] Q017:** The Iron Trek (Reached Oakhaven).
+*   **[PERSONAL] [COMPLETED] P001:** The Ritual Bond (Mended pearl).
+*   **[PERSONAL] [COMPLETED] P005:** The Hewer's Need (Acquired handaxe).

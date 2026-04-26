@@ -5,7 +5,8 @@ This repository contains the structured data, logs, and rules for a solo Dungeon
 ## Project Overview
 *   **Campaign Setting:** Oakhaven and the surrounding North Cut.
 *   **Tone:** Melancholic, psychological dread, classic weird fiction.
-*   **Protagonist:** Skaen, a Mountain Dwarf Forge Cleric (Level 1).
+*   **Protagonist:** Skaen, a Mountain Dwarf Forge Cleric (Level 2).
+*   **Party:** Elora (Expert Sidekick), Varin (Warrior Sidekick), Alen (Carrier Associate).
 
 ## Directory Structure & Standards (AI-Optimized)
 *   **`engine/`**: The "Rules of the Game."
@@ -28,4 +29,4 @@ This repository contains the structured data, logs, and rules for a solo Dungeon
 All agents interacting with this repository must adhere to the **[[engine/rules/core_protocols.md]]**. This document defines the naming conventions, SSOT registry, and structural rules (including the **Unified Entity Protocol**) required for consistent campaign management.
 
 ---
-*Last Technical Maintenance: 2026-04-25 (Full System Audit & Registry Sync)*
+*Last Technical Maintenance: 2026-04-27 (Log Rotation, Data Recovery & Party Sync)*

@@ -27,6 +27,7 @@ A hardy frontier town built into the lower slopes of the mountain range. It serv
 *   **The Boar and Barrel Tavern:** A rare bastion of social warmth; owned by Hera.
 *   **The Chapel of Oakhaven:** Stone sanctuary dedicated to Kelemvor; maintained by Father Vane.
 *   **Harlen's Forge:** Central industrial hub; currently struggling with contaminated iron.
+*   **Vesper's Yard:** High Alley courtyard for professional salvage and tool restoration.
 *   **The Granary Vaults:** Massive timber-framed warehouse containing lead-lined cellars for resonant artifacts. Controlled by Master Hobb.
 
 ## Entities Present
@@ -34,6 +35,8 @@ A hardy frontier town built into the lower slopes of the mountain range. It serv
 *   **Father Vane:** Priest of Kelemvor.
 *   **Master Hobb:** Granary Master.
 *   **Harlen:** Blacksmith.
+*   **Vesper:** Scavenger and tool merchant.
+*   **Garrick & Lom:** Gate Personnel.
 *   **Kaelen:** Scout (Legacy Companion).
 
 ## Discovery & Lore
