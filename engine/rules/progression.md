@@ -8,9 +8,9 @@ Experience is awarded at the end of each session based strictly on the **Three P
 
 ### Pillar 1: Combat & Survival (Risk of Death)
 *   **Combat Victory:** Standard 5e XP based on the creature's Challenge Rating (CR).
-*   **XP Distribution (DMG p. 92):** The total XP from an encounter is divided equally among all active combatants who participated in the victory.
+*   **XP Distribution (DMG p. 92):** The total XP from an encounter is divided equally among all **Adventurers** (PCs and Sidekicks) who participated in the victory.
     *   *Sidekicks:* Count as full characters for the purpose of the XP split (*TCoE* p. 142).
-    *   *Hirelings:* Do NOT receive XP, but their presence still counts toward the division if they participated in combat.
+    *   *Hirelings:* Do NOT receive XP and do **NOT** count toward the division of XP. They are paid in coin, not growth.
 *   **Tactical Survival:** If the player character survives a lethal encounter through retreat, cleverness, or stabilization, he earns **50% of the Combat XP**.
 
 ### Pillar 2: Exploration & Discovery (Risk of Depletion)

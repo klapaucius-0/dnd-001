@@ -197,5 +197,3 @@ To ensure repository integrity and maintain a clean file history:
 1.  **Surgical Edits:** Every edit in any file MUST be made with extreme care to ensure only the intended lines are modified. Edits should avoid causing the entire file to appear modified in git diffs (e.g., by changing line endings or reformatting unaffected blocks).
 2.  **Newline Integrity:** The AI MUST be mindful of newline characters (`\n`, `\r\n`) and existing indentation. Edits should not inadvertently add or remove whitespace or blank lines unless explicitly required.
 3.  **Ambiguity Avoidance:** When using tools like `replace`, provide enough context in the `old_string` to ensure a unique match and avoid "ghost" changes in surrounding text.
-e mindful of newline characters (`\n`, `\r\n`) and existing indentation. Edits should not inadvertently add or remove whitespace or blank lines unless explicitly required.
-3.  **Ambiguity Avoidance:** When using tools like `replace`, provide enough context in the `old_string` to ensure a unique match and avoid "ghost" changes in surrounding text.

@@ -5,7 +5,7 @@
 *   **Sourcebooks:** PHB, DMG, MM, SCAG, XGE, TCOE.
 
 ## Campaign Progression
-1.  **Low-to-High Magic:** Low magic at start, scaling to high magic by Level 20. Magic items are exceptionally rare and require significant effort to obtain.
+1.  **Standard Magic Item Rarity:** Magic items follow the distribution and rarity guidelines found in the **DMG (p. 135)** and **XGtE (p. 126)**. They are tiered by level (e.g., Levels 1-4 primarily encounter Common and occasionally Uncommon items).
 2.  **Strict Source Adherence:** All mechanical effects and progression must follow the official rules (PHB, DMG, MM, SCAG, XGtE, TCoE).
 
 ## Tactical Mechanics
@@ -42,33 +42,25 @@ The following rules govern the recovery of materials from fallen creatures:
 1.  **Feats:** Allowed.
 2.  **Multiclassing:** Allowed.
 3.  **Variant Human:** Allowed.
-4.  **Ability Scores:** Rolled (4d6 drop lowest). 
-    *   **The Threshold:** If the total sum of the six rolled stats is less than 70, the player may scrap the array and reroll.
+4.  **Ability Scores:** Rolled (4d6 drop lowest). (PHB p. 13).
 5.  **Flanking:** Enabled (Advantage for melee attackers on opposite sides).
 6.  **Inspiration:** Enabled (Awarded for roleplay).
-7.  **Lingering Injuries (The Toll of the Void):** Enabled. Every time the player character drops to 0 Hit Points, he must immediately roll 1d20 on the Toll of the Void table:
-    *   **1 (Catastrophic Trauma):** the player character suffers a permanent, progressive trauma. It requires high-level magic (e.g., *Regenerate*) to heal.
-        *   *1st Occurrence:* Internal Damage.
-        *   *2nd Occurrence:* Maimed (e.g., severe limp, lost eye/ear).
-        *   *3rd Occurrence:* Lost Limb (Arm or Leg).
-        *   *4th+ Occurrence:* Another Lost Limb or Permanent Blindness/Deafness. (Death only occurs through standard Death Save failures).
-    *   **2-10 (Systemic Shock):** the player character gains 1 level of Exhaustion upon regaining consciousness.
-    *   **11-20 (A Close Call):** the player character gains a permanent cosmetic scar, but no mechanical penalty.
+7.  **Death Saving Throws:** Standard (PHB p. 197). When you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life.
 8.  **Morale (DMG Variant):** Enabled. A creature or group must make a DC 10 Wisdom saving throw or flee (Dash/Disengage) or surrender under the following conditions:
     *   The creature is reduced to half its hit points or fewer for the first time in battle.
     *   The group's leader is reduced to 0 hit points.
     *   The group's size is reduced to half its original number.
-9.  **Healer's Kit Dependency:** Disabled (Standard 5e resting/healing rules apply for now).
-10. **Encumbrance (Weight Tracking):** **Enabled**. 
-    *   **Carrying Capacity:** 15 x Strength score.
-    *   **Push, Drag, Lift:** 30 x Strength score (Speed drops to 5ft).
-    *   **Tracking:** Every item must have its weight recorded. The DM must update the total weight in `characters\player_character.md` whenever items are added or removed.
-11. Natural Healing:** Standard (Full HP and half Hit Dice restored on Long Rest).
+9.  **Ability Checks & Saving Throws:** Standard. A 1 or 20 on an ability check or saving throw is **not** an automatic failure or success. (PHB p. 174).
+10. **Healer's Kit Dependency:** Disabled (Standard 5e resting/healing rules apply).
+11. **Weight & Carrying Capacity (Standard):** **Enabled**. 
+    *   **Standard Rule (Binary):** Your carrying capacity is your **Strength score multiplied by 15**. (PHB p. 176).
+    *   **Tracking:** Every item must have its weight recorded in `state/character_state.md`.
+12. **Natural Healing:** Standard (Full HP and half Hit Dice restored on Long Rest).
 
-## Travel & Logistics (The Grinding Path)
-1.  **Standard Pace (Roads/Clear Paths):** 1.25 miles per hour (approx. 10 miles per 8-hour day).
-2.  **Rugged Pace (Bypasses/Steep Terrain/Deep Snow):** 0.75 miles per hour (approx. 6 miles per 8-hour day).
-3.  **Environmental Friction:** Extreme weather or lethal strata (e.g., [STRATUM: 3_FROZEN_EXPANSE]) impose an additional -50% penalty to speed.
+## Travel & Logistics (Standard Pace)
+1.  **Standard Pace (Roads/Clear Paths):** 3 miles per hour (approx. 24 miles per 8-hour day).
+2.  **Rugged Pace (Bypasses/Steep Terrain/Deep Snow):** 1.5 miles per hour (approx. 12 miles per 8-hour day).
+3.  **Environmental Friction:** While the strata provide narrative flavor, mechanical speed reduction follows the standard "Difficult Terrain" (1/2 speed) multiplier.
 4.  **The 8-Hour Threshold:** Traveling beyond 8 hours a day constitutes a **Forced March**, requiring a DC 10 (+1 per additional hour) Constitution saving throw at the end of each hour. On a failure, a level of Exhaustion is gained.
 5.  **Agency Check:** The DM must explicitly state the miles covered and the time elapsed after every travel command, verified against this math.
 6.  **Strict Sourcebook Encounter Protocol:**
@@ -86,17 +78,21 @@ The following rules govern the recovery of materials from fallen creatures:
 1.  **Daily Requirements (Food):** Every character requires **1 lb of food** per day. A standard Ration (2 lbs) provides two days of sustenance. Foraged food is tracked by weight (1 lb = 1 day of food).
     *   *Starvation:* A character can go without food for `3 + Constitution modifier` days (minimum 1). At the end of each day beyond that limit, a character automatically gains 1 level of Exhaustion.
     *   *The Reset:* Consuming a normal day's worth of food (1 lb) resets the count of days without food to zero.
-    *   *No Half-Rations:* In "The Sorrow," characters must consume a full 1 lb of food in a 24-hour period to reset the counter or avoid starvation progress. Consuming less than 1 lb counts as a full day without food.
+    *   *No Half-Rations (AI Optimization):* To prevent tracking confusion, characters must consume a full 1 lb of food in a 24-hour period to avoid starvation progress. Consuming less than 1 lb counts as a full day without food.
 2.  **Daily Requirements (Water):** Every character requires **1 gallon of water** per day (2 gallons in extreme heat).
     *   *Dehydration:* If a character drinks only half the required water, they must succeed on a DC 15 Constitution saving throw or gain 1 level of Exhaustion. If they drink less than half, they automatically gain 1 level of Exhaustion.
 3.  **Long Rest (The Hearth):** 
-    *   *Duration:* 8 hours. 
-    *   *Activity:* At least 6 hours of sleep and no more than 2 hours of light activity (standing watch, reading, or talking). 
-    *   *Benefits:* Recover all HP and half maximum Hit Dice (minimum of 1). 
-    *   *Frequency:* A character can only benefit from one Long Rest per 24-hour period.
-4.  **Morning Transition:** Breaking camp, donning armor (10 mins for Heavy), and consuming a meal requires **30 minutes** after the conclusion of the Long Rest.
+    *   **Duration:** 8 hours. 
+    *   **Activity:** At least 6 hours of sleep and no more than 2 hours of light activity (standing watch, reading, or talking). 
+    *   **Benefits:** Recover all HP and half maximum Hit Dice (minimum of 1). 
+    *   **Frequency:** A character can only benefit from one Long Rest per 24-hour period.
+4.  **Short Rest:** 
+    *   **Duration:** 1 hour. (PHB p. 186).
+    *   **Benefits:** A character can spend one or more Hit Dice to regain hit points.
+5.  **Morning Transition:** Breaking camp, donning armor (10 mins for Heavy), and consuming a meal requires **30 minutes** after the conclusion of the Long Rest.
 
-12. **Material Component & Cost Protocol:**
+
+13. **Material Component & Cost Protocol:**
     *   **Accounting:** The DM and Player must strictly account for all material components and gold costs for spellcasting.
     *   **Focus:** A spellcasting focus (like the player character's vial) replaces material components that do not have a specific gold cost.
     *   **Gold Costs:** Components with a specified gold value (e.g., the 25 gp of silver for *Ceremony*) MUST be present in the character's inventory and are consumed if the spell description states so.

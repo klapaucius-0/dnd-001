@@ -6,6 +6,7 @@
 **Class:** Cleric (Forge Domain)
 **Level:** 2
 **Experience (XP):** 425 <!-- SOURCE: experience_log -->
+**Wealth:** 5 gp <!-- SOURCE: currency_log -->
 
 **Alignment:** Neutral
 **Age:** Middle-aged (appears older)
@@ -116,6 +117,7 @@
 | Iron Pot | 0.0 lbs | Used for Bell-Wire alarm system. |
 | Iron Padlock | 0.0 lbs | Used for Bell-Wire alarm system. |
 | Tallow Candles (5) | 0.5 lbs | Recovered from cache. |
+| Siphon-Seal | 2.0 lbs | Received from Alen; prevents atmospheric leakage. |
 | Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |
 | Dire Wolf Pelt | 4.0 lbs | Found in hideout; matted fur. |
 | Dire Wolf Hide | 2.5 lbs | Butchered; raw hide. |
