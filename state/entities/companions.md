@@ -11,8 +11,8 @@ This file tracks the mechanical and social state of characters traveling with th
 **Sex:** Female
 **Race:** Human
 **Bond Type:** Companion
-**Standing:** Level 1 (55/20 SP) [Acquaintance]
-**Last Interaction:** Day 31
+**Standing:** Level 3 (65/80 SP) [Close Ally]
+**Last Interaction:** Day 33
 
 ### Summary
 A gaunt figure from the Western Cut who survived the "White Silence" and now seeks a way to restore her people. She specializes in rhythmic spindle weaving and mountain lore.
@@ -45,7 +45,7 @@ A gaunt figure from the Western Cut who survived the "White Silence" and now see
 *   **Western Cut Rhythms:** Expert in rhythmic spindle weaving and the "Ghost-Hearth" survival technique.
 
 ### Actions
-*   **Handaxe (Thrown):** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+*   **Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. (Ammunition: 20 Arrows).
 *   **Wolf-Hide Whip:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 *   **Dagger:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
@@ -124,13 +124,19 @@ An Oakhaven-born scout and specialized courier for the Granary. He was rescued b
 **Race:** Human
 **Bond Type:** Neutral (Guest)
 **Standing:** Level 0 (12/20 SP) [Stranger]
-**Last Interaction:** Day 31
+**Last Interaction:** Day 32
 
 ### Summary
 A weathered trail-warden of the Western Reach. He haunts the high fissures of the Granite Squeeze and possesses deep knowledge of the mountain's hazards. He is currently a guest at Skaen's base.
 
+### Narrative & Identity
+*   **Appearance:** [REVEALED] Weathered face with deep-etched lines and wind-burned skin; beard the color of frosted iron. Pale grey eyes. Wears layered furs and boiled leather stained with resin.
+*   **Personality/Behavior:** [REVEALED] Still, measured, and observant. Moves with a practiced economy of motion. Prone to speaking in metaphors related to the mountain and stone.
+*   **Outlook on Life:** [REVEALED] Survival is a matter of precision and silence; the mountain is an active, indifferent force that must be respected through inaction as much as action.
+
 ### Mechanical Details (Unified Entity Protocol)
 *   **Base Statblock:** Scout (CR 1/2, MM p. 349)
+*   **Modifications:** None.
 
 #### Statistics
 | STR | DEX | CON | INT | WIS | CHA |
@@ -150,6 +156,19 @@ A weathered trail-warden of the Western Reach. He haunts the high fissures of th
 *   **Multiattack:** Varin makes two melee attacks or two ranged attacks.
 *   **Shortsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 *   **Silvered Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+### Tools & Gear
+*   **Woodcarver's Tools:** Used for both craft and survival.
+*   **Whetstone:** Standard grit for maintaining silvered and steel edges.
+*   **Tinderbox:** Standard adventuring gear.
+*   **Signal Whistle:** Used to communicate across distances.
+
+## Discovery & Lore (AI Memory)
+*   **Revealed Facts:**
+    *   Veteran Trail-Warden of the Western Reach.
+    *   Expert woodcarver; uses it as a meditative focus.
+    *   Knowledgeable about "White Silence" hazards and "mountain reaching."
+    *   Carries a silvered shortbow and dual shortswords.
 
 ---
 

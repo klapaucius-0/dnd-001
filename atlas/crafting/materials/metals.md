@@ -3,8 +3,8 @@
 
 | Material | MAT Tag | Category | Freq | Source | Value/Unit | Core Utility / Origin |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Steel** | `[MAT: STEEL]` | Mundane | COMMON | `[[PHB]]` | 1 gp / lb | Standard for weapons and armor. |
-| **Iron** | `[MAT: IRON]` | Mundane | COMMON | `[[PHB]]` | 1 sp / lb | Common forge material; heavy. |
+| **Steel** | `[MAT: STEEL]` | Mundane | COMMON | `[[PHB]]` | [NO VALUE] | Refined metal; not a standard trade good. |
+| **Iron** | `[MAT: IRON]` | Mundane | COMMON | `[[PHB]]` | 1 sp / lb | Common trade good; heavy. |
 | **Copper** | `[MAT: COPPER]` | Mundane | COMMON | `[[PHB]]` | 5 sp / lb | Used for wiring and coins. |
 | **Silvered** | `[MAT: SILVER]` | Special | UNCOMMON | `[[PHB]]` | +100 gp | Bypasses specific resistances. |
 | **Mithral** | `[MAT: MITHRAL]` | Special | RARE | `[[DMG]]` | [VARIES] | Light silvery metal; flexible. |

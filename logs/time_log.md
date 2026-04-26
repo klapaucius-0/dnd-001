@@ -64,5 +64,26 @@ This file tracks the passage of time and the allocation of Downtime Days for cra
 | 31 | 16:45 | Reached High Fissure | 0.1 | — | 0 |
 | 31 | 17:45 | Return to Base with Varin | 0.1 | — | 0 |
 | 31 | 19:00 | Celebratory Dinner (Stew) | 0.125 | — | 0 |
-| 32 | 03:00 | Completed Long Rest | 1.0 | — | 0 |
-| 32 | 03:30 | Morning Rituals (Blessing applied) | 0.05 | — | 0 |
+| 32 | 03:30 | Morning Rituals & Blessing | 0.05 | — | 0 |
+| 32 | 04:30 | Commenced Workday 1 (Shortbow) | 0.32 | Craft: Shortbow | 0.32 |
+| 32 | 12:30 | Foraging Return (Elora/Alen) | 0.04 | — | 0 |
+| 32 | 12:35 | Combat Defense (Giant Owl) | 0.04 | — | 0 |
+| 32 | 12:40 | Initial Harvest & Assessment | 0.04 | — | 0 |
+| 32 | 13:10 | Completed Owl Harvest (Quill/Feathers) | 0.02 | — | 0 |
+| 32 | 13:10 | Resumed Workday 1 (Afternoon Shift) | 0.18 | Craft: Shortbow | 0.50 |
+| 32 | 17:40 | Dusk Foraging Return (Elora/Alen) | 0.04 | — | 0 |
+| 32 | 18:00 | Hearth Maintenance & Watch Setup | 0.04 | — | 0 |
+| 33 | 03:00 | Completed Long Rest (Safe) | 1.0 | — | 0 |
+| 33 | 03:30 | Commenced Workday 2 (Shortbow) | 0.32 | Craft: Shortbow | 0.82 |
+| 33 | 11:30 | Foraging Return (Elora/Alen) | 0.04 | — | 0 |
+| 33 | 11:30 | Resumed Workday 2 (Final Phase) | 0.16 | Craft: Shortbow | 0.98 |
+| 33 | 15:30 | Completed Shortbow Project | 0.02 | Craft: Shortbow | 1.00 |
+| 33 | 15:35 | Provided Shortbow to Elora | 0.04 | — | 0 |
+| 33 | 17:35 | Afternoon Reagent Sweep (Group A/B) | 0.08 | — | 0 |
+| 33 | 19:35 | Final Night Foraging (Reagents) | 0.08 | — | 0 |
+| 33 | 19:40 | Final Hearth Check & Secure Base | 0.04 | — | 0 |
+| 34 | 03:00 | Completed Long Rest (Stable) | 1.0 | — | 0 |
+| 34 | 03:30 | Commenced Potion Brewing (Morning) | 0.30 | Craft: Potion | 0.30 |
+| 34 | 11:00 | Completed Potion of Healing | 0.04 | Craft: Potion | 0.34 |
+| 34 | 11:05 | Completed Fletching (Accumulated Rests) | 0.01 | — | 0 |
+| 34 | 11:06 | Exited Shepherd's Cache | 0.01 | — | 0 |

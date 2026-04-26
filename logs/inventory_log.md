@@ -107,3 +107,29 @@
 | 31 | 16:00 | 014 | Pine Firewood | -2.0 lbs | 34.0 lbs | Used for signal fire. |
 | 31 | 19:00 | 014 | Dire Wolf Meat | -1.0 lb | 11.0 lbs | Consumed for dinner. |
 | 32 | 03:00 | 014 | Pine Firewood | -10.0 lbs | 24.0 lbs | Consumed during long rest. |
+| 32 | 12:30 | 015 | Pine Firewood | +20.0 lbs | 44.0 lbs | Foraged by Elora and Alen. |
+| 32 | 12:30 | 015 | Herbalism Reagents | +0.5 lbs | 6.5 lbs | Foraged by Elora and Alen. |
+| 32 | 12:35 | 015 | Crossbow Bolts (Alen) | -1 | 14 | Fired during Surprise Round. |
+| 32 | 12:40 | 015 | Arrows (Varin) | -1 | --- | Fired during Surprise Round. |
+| 32 | 13:10 | 015 | Mist-Mottled Quill | +1 | 1 | Exotic Lesser Component harvested. |
+| 32 | 13:10 | 015 | Mist-Mottled Feathers | +20 | 20 | Harvested for fletching. |
+| 32 | 17:40 | 015 | Pine Firewood | +10.0 lbs | 54.0 lbs | Foraged by Elora and Alen. |
+| 32 | 17:40 | 015 | Herbalism Reagents | +0.5 lbs | 7.0 lbs | Foraged by Elora and Alen. |
+| 32 | 18:00 | 015 | Pine Firewood | -10.0 lbs | 44.0 lbs | Consumed for overnight hearth/water. |
+| 33 | 11:30 | 015 | Pine Firewood | +20.0 lbs | 64.0 lbs | Day 33 Foraging (Elora/Alen). |
+| 33 | 11:30 | 015 | Herbalism Reagents | +1.0 lb | 8.0 lbs | Day 33 Foraging (Elora/Alen). |
+| 33 | 15:30 | 015 | Pine Firewood | +10.0 lbs | 74.0 lbs | Day 33 Afternoon Foraging. |
+| 33 | 15:30 | 015 | Bow-Wood (Yew) | -5.0 lbs | 0 lbs | Consumed for Shortbow. |
+| 33 | 15:30 | 015 | Dire Wolf Sinew | -0.4 lbs | 0 lbs | Consumed for Shortbow. |
+| 33 | 15:30 | 015 | Shortbow | +1 | 1 | Crafted for Elora. |
+| 33 | 15:35 | 015 | Shortbow | -1 | 0 | Handed to Elora. |
+| 33 | 17:35 | 015 | Herbalism Reagents | +6 gp | 14 gp | Foraged (Split Parties - Afternoon). |
+| 33 | 19:35 | 015 | Herbalism Reagents | +10 gp | 24 gp | Final Night Sweep (Split Parties). |
+| 33 | 19:40 | 015 | Pine Firewood | -10.0 lbs | 64.0 lbs | Consumed for overnight hearth. |
+| 34 | 11:00 | 015 | Herbalism Reagents | -24.0 gp | 0 gp | Consumed for Potion of Healing. |
+| 34 | 11:00 | 015 | Gold Pieces | -1 gp | 4 gp | Consumed for vials/salts (Potion). |
+| 34 | 11:00 | 015 | Potion of Healing | +1 | 1 | Brewed at Shepherd's Cache. |
+| 34 | 11:05 | 015 | Mist-Mottled Feathers | -20 | 0 | Crafted into arrows during rests. |
+| 34 | 11:05 | 015 | Arrows | +20 | 20 | Crafted for Elora during rests. |
+| 34 | 11:05 | 015 | Arrows | -20 | 0 | Handed to Elora. |
+| 34 | 11:06 | 015 | Handaxe | +1 | 1 | Taken back from Elora. |

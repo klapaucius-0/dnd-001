@@ -1,8 +1,8 @@
 # World State
 <!-- SOURCE: time_log -->
 
-**Current Day:** 32
-**Current Time:** 03:30
+**Current Day:** 34
+**Current Time:** 11:00
 **Season:** Deep Winter (The White Silence)
 
 ## Global Reputation & Faction Standing
@@ -12,8 +12,8 @@
 
 ## Active Relationships (Individual SP)
 <!-- SOURCE: relationship_log -->
-*   **Elora (The Bound Weaver):** Level 1 (55/60 SP) [Acquaintance]
-*   **Alen (Carrier):** Level 1 (45/60 SP) [Acquaintance]
+*   **Elora (The Bound Weaver):** Level 3 (75/80 SP) [Close Ally]
+*   **Alen (Carrier):** Level 2 (50/60 SP) [Acquaintance]
 *   **Varin (Trail-Warden):** Level 0 (12/20 SP) [Stranger]
 
 ## World Events & Trackers
@@ -23,5 +23,6 @@
 
 ## Environmental Conditions
 *   **Stratum:** [STRATUM: 1_FRAGILE_SURFACE] (Western Reach)
-*   **Temperature:** Extreme Cold (-20°F)
+*   **Local Biome:** Alpine Forest [Foraging: DC 15]
+*   **Temperature:** Cold (10°F)
 *   **Visibility:** Clear (Night)

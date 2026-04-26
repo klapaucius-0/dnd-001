@@ -42,7 +42,8 @@ Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
 ## 5. Sacred Dice Protocol
 *   **Tool:** `engine/scripts/dice_roller.js`.
 *   **Rule:** Every roll MUST be performed via the script. Hallucinating or "inventing" rolls is a protocol violation.
-*   **DC Transparency:** The DM MUST explicitly state the Difficulty Class (DC) or target Armor Class (AC) before any roll is performed. This is a foundational mandate for transparency and player agency.
+*   **Sequential Resolution:** Resolve only one roll per response. You must wait for the outcome of a roll and update the relevant state before initiating a subsequent roll.
+*   **DC Transparency:** The DM MUST explicitly state the Difficulty Class (DC) or target Armor Class (AC) in the text immediately before any roll is performed. This is a foundational mandate for transparency and player agency.
 
 ## 6. Player Agency & Narrative Pacing (Strict Agency Lock)
 *   **Zero-Movement Policy:** The DM MUST NOT move the player character or companions to a new location without an explicit command from the player.

@@ -117,7 +117,10 @@ A narrow, ancient trade route of crushed slate and packed earth. It is a lonely 
 **Scale:** Narrative (Pass)
 
 ### Summary
-A rugged, higher-altitude alternative to the Granite Squeeze, used by shepherds to move flocks away from the narrowest bottlenecks of the Old Iron Road.
+A rugged, higher-altitude alternative to the Granite Squeeze. The pass cuts through a standard alpine forest where resources are present but require effort to locate.
+
+### Mechanical Classification
+*   **Foraging Abundance:** Limited (DC 15)
 
 ### Atmosphere & Mood
 *   **The "Vibe":** Exposed isolation, structural instability.

@@ -14,3 +14,4 @@
 | 31 | 19:00 | 014 | Varin (Trail-Warden) | +5 | 12 | Celebratory Blood-Berry Stew (Minor). |
 | 31 | 19:00 | 014 | Elora (Bound Weaver) | +5 | 55 | Celebratory Blood-Berry Stew (Minor). |
 | 31 | 19:00 | 014 | Alen (Carrier) | +5 | 45 | Celebratory Blood-Berry Stew (Minor). |
+| 33 | 15:35 | 015 | Elora (Bound Weaver) | +10 | 65 | Received custom-crafted Shortbow (Moderate). |

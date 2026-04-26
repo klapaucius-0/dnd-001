@@ -5,8 +5,8 @@
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
 **Level:** 2
-**Experience (XP):** 425 <!-- SOURCE: experience_log -->
-**Wealth:** 5 gp <!-- SOURCE: currency_log -->
+**Experience (XP):** 450 <!-- SOURCE: experience_log -->
+**Wealth:** 4 gp <!-- SOURCE: currency_log -->
 
 **Alignment:** Neutral
 **Age:** Middle-aged (appears older)
@@ -78,6 +78,7 @@
 | Warhammer | 2.0 lbs | 1d8 [1d10] Bludgeoning |
 | Chain Mail | 55.0 lbs | AC 16 |
 | Shield | 6.0 lbs | +2 AC |
+| Handaxe | 2.0 lbs | 1d6 Slashing (Thrown 20/60) |
 | Amulet (The Old Blood) | 1.0 lbs | Spellcasting Focus |
 
 ### Stored (Explorer's Pack & Misc)
@@ -103,9 +104,10 @@
 | Steel Hardware | 2.0 lbs | Common nails/rings. |
 | Formula (Warhammer) | 0.0 lbs | Standard warhammer schematic. |
 | Frost-Vein Lichen | 0.0 lbs | Consumed. |
-| Pine Firewood | 0.0 lbs | Held by companions (Total: 29.0 lbs). |
+| Pine Firewood | 0.0 lbs | Held by companions (Total: 64.0 lbs). |
 | Kindling | 6.5 lbs | Pouch of needles/twigs. |
-| Herbalism Reagents | 6.0 lbs | Generic materials (XGtE). |
+| Herbalism Reagents | 0.0 gp | Consumed for Potion. |
+| Potion of Healing | 0.5 lbs | Brewed at cache. |
 | Poison (Basic) Reagents | 0.2 lbs | Generic materials (PHB). |
 | Resin | 2.5 lbs | Standard alchemical material. |
 | Steel | 6.0 lbs | Night-black mineral; high-quality steel. |
@@ -114,8 +116,8 @@
 | Anomalous Bloom (Frozen Heart) | 0.1 lb | Crystalline blue flower; restore focus. |
 | Salt | 0.0 lbs | Consumed. |
 | Frost-Resistant Oil | 0.2 lbs | Prevents metal seizure. |
-| Iron Pot | 0.0 lbs | Used for Bell-Wire alarm system. |
-| Iron Padlock | 0.0 lbs | Used for Bell-Wire alarm system. |
+| Iron Pot | 2.0 lbs | Recovered from alarm system. |
+| Iron Padlock | 1.0 lb | Recovered from alarm system. |
 | Tallow Candles (5) | 0.5 lbs | Recovered from cache. |
 | Siphon-Seal | 2.0 lbs | Received from Alen; prevents atmospheric leakage. |
 | Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |
@@ -124,7 +126,10 @@
 | Dire Wolf Meat | 11.0 lbs | Preserved (7 days); stringy. |
 | Dire Wolf Bones | 6.0 lbs | Large skeletal remains. |
 | Dire Wolf Organs | 1.5 lbs | Heart & Liver. |
-| Dire Wolf Sinew | 0.4 lbs | High-tensile cordage. |
+| Mist-Mottled Quill | 0.0 lbs | Exotic Lesser Component. |
+| Shortbow | 2.0 lbs | Crafted for Elora. |
+
+
 
 
 

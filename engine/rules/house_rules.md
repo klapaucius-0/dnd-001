@@ -28,15 +28,16 @@
     *   **Insight/Perception/Medicine/Survival:** Wisdom.
     *   **Persuasion/Deception/Intimidation:** Charisma.
 
-## Harvesting & Butchery (DMG p. 273)
-The following rules govern the recovery of materials from fallen creatures:
-1.  **Time & Difficulty:**
-    *   **Tiny/Small:** 15 minutes (Survival DC 10).
-    *   **Medium:** 30 minutes (Survival DC 12).
-    *   **Large:** 1 hour (Survival DC 15).
-    *   **Huge/Gargantuan:** 2+ hours (Survival DC 18+).
-2.  **Yield Calculation:** The DM determines the yield based on the creature's type and condition. Standard yields are approx. 25% of weight in usable meat and 10% in hide/scales/bones.
-3.  **Tool Requirements:** Proficiency with a **Herbalism Kit**, **Poisoner's Kit**, or **Leatherworker's Tools** may grant Advantage or a bonus to the check depending on the target material.
+## Foraging & Resource Acquisition (DMG p. 111)
+The following rules strictly govern the recovery of food and water from the environment:
+1.  **The Check:** A character can forage while traveling or during a dedicated downtime activity by making a **Wisdom (Survival) check**.
+2.  **Difficulty (DC):** The DM determines the DC based on the environment's abundance. 
+    *   **Abundant (Forests/Plains):** DC 10.
+    *   **Limited (Hills/Swamps):** DC 15.
+    *   **Barren (Arctic/Mountains/Desert):** DC 20.
+3.  **Yield (Food):** On a success, the character finds food (in pounds) equal to **1d6 + their Wisdom modifier**.
+4.  **Yield (Water):** On a success, the character finds water (in gallons) equal to **1d6 + their Wisdom modifier**.
+5.  **Strict Source Limitation:** The 2014 sourcebooks do not provide a mechanic for "butchering" specific slain creatures into defined pounds of meat or gold-value trade goods. Food acquisition must be resolved via the Foraging check, using the slain creature only as narrative justification for the attempt.
 
 ## Agreed Variant Rules
 1.  **Feats:** Allowed.
@@ -109,10 +110,11 @@ The following rules govern the recovery of materials from fallen creatures:
 2.  **Incremental Growth:** Major personal milestones—such as limb restoration or master-crafting—must be reached through multi-stage quests and significant downtime investment. Power for the player character is never obtained fast or easily.
 
 ## Narrative Focus & Style
-1.  **Strict Source Adherence:** All NEW NPC statistics, items, spells, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM, SCAG, XGE, TCOE).
-2.  **Classic Monster Preference:** You MUST use official monsters from the *Monster Manual* and other sourcebooks. 
-    *   **No Name Reskinning:** Monsters must be identified by their official names. No ad-hoc renaming (e.g., a Dire Wolf is never a "Timber-Stalk").
-    *   **No Thematic Adaptation:** Mechanical descriptions must be used according to their established 2014 statistics and lore. The narrative "vibe" of the current stratum is expressed through the environment and the *choice* of which official monsters appear, not by altering the monsters themselves.
+1.  **Strict Source Adherence:** All NEW NPC statistics, items, equipment, spells, and mechanical effects must remain strictly "by the book" (PHB, DMG, MM, SCAG, XGE, TCOE).
+2.  **The Law of Nouns (No Reskinning):** You MUST use official names from the sourcebooks for all entities and items. 
+    *   **No Ad-hoc Renaming:** Monsters and equipment must be identified by their official nouns. No renaming (e.g., a Dire Wolf is never a "Timber-Stalk"; a Signal Whistle is never a "Bone-Call").
+    *   **Vibe via Adjectives:** The narrative "vibe" of the current stratum is expressed strictly through the use of **adjectives, sensory descriptions, and environmental behavior**. You may describe a "pitted, ancient Warhammer," but the noun "Warhammer" is immutable.
+    *   **No Thematic Adaptation:** Mechanical descriptions and nomenclature must be used according to their established 2014 statistics and lore. The atmosphere is expressed through the *choice* of official options, not by altering the options themselves.
 3.  **Grandfather Clause (Existing Anomalies):** Homebrew monsters or items established prior to Day 30 (e.g., **Resonant Figure**, **Void-Touched Sentinel**, **Ghost-Root**) are considered unique, established anomalies of "The Sorrow" and remain valid. No NEW homebrew elements may be created.
 4.  **Materials & Foraging Protocol:**
     *   **Tool Mapping:** Foraged flora and raw ingredients must map directly to standard D&D gear and crafting rules (*XGtE*, p. 128-130).
