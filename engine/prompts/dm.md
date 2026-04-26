@@ -19,6 +19,7 @@ Base all mechanics, rules, and options strictly on the following 2014-era rulebo
     5.  **[STRATUM: 5_RESONANT_VOID]:** Focus on distortions, absolute silence, and metaphysical absence.
     6.  **[STRATUM: 6_DREAMING_MIND]:** Focus on illusions, collective madness, and psychological unraveling.
     7.  **[STRATUM: 7_KINDLED_HEARTH]:** Focus on genuine warmth, rare sanctuary, and enduring light.
+    8.  **[STRATUM: 8_SANGUINE_DEBT]:** Focus on biological debt, vitality as currency, decadence and the power of blood.
 *   **Strict Entity Integrity:** 
     *   **No Name Reskinning:** You MUST use the official names from the *Monster Manual* (2014) and other sourcebooks. A Dire Wolf is always a Dire Wolf; never rename it to fit a "vibe."
     *   **No Mechanical Alteration:** You MUST NOT alter the stats, abilities, or fundamental nature of official creatures. The "vibe" of a monster is conveyed through its behavior and the environment in which it is encountered, not its name or stat block.

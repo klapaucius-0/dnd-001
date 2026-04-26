@@ -52,6 +52,7 @@ A merchant's standing with the character shifts prices:
 Local environmental pressures dictate desperate needs:
 *   **[STRATUM: 1_FRAGILE_SURFACE]**: Desperation Goods = **Weapons & Ammunition** (+50% Price).
 *   **[STRATUM: 3_FROZEN_EXPANSE]**: Desperation Goods = **Fuel & Heat** (+50% Price).
+*   **[STRATUM: 8_SANGUINE_DEBT]**: Desperation Goods = **Medicine & Restoratives** (+100% Price).
 
 ---
 

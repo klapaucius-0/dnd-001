@@ -112,7 +112,7 @@ This section serves as the central hub for all campaign tags and metadata to ens
 *   **`[STRATUM: ]`**
     *   **Purpose:** Defines the environmental layer and thematic tone.
     *   **Values Type:** Static.
-    *   **Values in use:** `1_FRAGILE_SURFACE`, `2_ERODING_AGE`, `3_FROZEN_EXPANSE`, `4_SUNKEN_STONE`, `5_RESONANT_VOID`, `6_DREAMING_MIND`, `7_KINDLED_HEARTH`.
+    *   **Values in use:** `1_FRAGILE_SURFACE`, `2_ERODING_AGE`, `3_FROZEN_EXPANSE`, `4_SUNKEN_STONE`, `5_RESONANT_VOID`, `6_DREAMING_MIND`, `7_KINDLED_HEARTH`, `8_SANGUINE_DEBT`.
     *   **Mechanical Rules Reference:** `engine/rules/house_rules.md`
     *   **Reference Index:** `engine/prompts/dm.md`
 *   **`[FREQUENCY: ]`**

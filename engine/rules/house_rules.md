@@ -171,6 +171,10 @@ To ensure narrative variety and mechanical depth, the campaign uses an AI-parsea
 *   **[STRATUM: 7_KINDLED_HEARTH]**
     *   **Frequency:** `[FREQUENCY: LOW]`
     *   *Theme:* Genuine warmth, true sanctuary, uncorrupted divine grace, and enduring light. A stark contrast to the surrounding decay.
+*   **[STRATUM: 8_SANGUINE_DEBT]**
+    *   **Frequency:** `[FREQUENCY: VERY_LOW]`
+    *   *Theme:* Biological debt, vitality as currency, decadence and the power of blood.
+    *   **Economic Impact:** Desperation Goods = **Medicine & Restoratives** (+100% Price). See [[engine/rules/economy.md]].
 
 ### Dynamic Interaction
 The footprint of each stratum is dynamic. Player actions and environmental changes can cause one stratum to expand, recede, or even emerge for the first time. The DM must dynamically scale encounters and environmental descriptions based on these frequency tags and the current location's assigned stratum.
