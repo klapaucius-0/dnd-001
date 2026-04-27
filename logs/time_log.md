@@ -79,8 +79,8 @@
 | 35 | 06:15 | 017 | +01:15 | Firewood scavenging (Group A/B). | — |
 | 35 | 09:15 | 017 | +03:00 | Final trek to Oakhaven Main Gate. | — |
 | 35 | 09:30 | 017 | +00:15 | Entered Oakhaven; gate interaction. | — |
-| 35 | 11:30 | 017 | +02:00 | Restoration of Vesper's Winch. | — |
-| 35 | 12:00 | 017 | +00:30 | Purchase Grappling Hook & Trade with Vesper. | — |
+| 35 | 11:50 | 017 | +02:20 | Restoration of Vesper's Winch. | — |
+| 35 | 12:00 | 017 | +00:10 | Purchase Grappling Hook & Trade with Vesper. | — |
 | 35 | 12:30 | 017 | +00:30 | Mended salvaged tools for Vesper. | — |
 | 35 | 12:45 | 017 | +00:15 | Arrival at the Boar and Barrel Tavern. | — |
 | 35 | 13:05 | 017 | +00:20 | Restored Scarred Pearl via Mending. | — |
