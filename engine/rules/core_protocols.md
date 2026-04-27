@@ -8,6 +8,7 @@ To ensure campaign integrity and AI optimization, every file type has a strictly
 | **Transcripts** | **Evidence** | Chronological record of every action, roll, and line of dialogue. | Raw & Unfiltered. |
 | **Logs (`*_log.md`)** | **Authority** | The **SSOT Master Logs**. Append-only audit trail of all numeric and state changes. | Log-First Update. |
 | **States (`*_state.md`)**| **Interface** | The **AI HUDs**. A snapshot of current values for quick reference. | Mirror of the Log. |
+| **Time Log** | **Temporal SSOT** | `engine/templates/time_log_template.md`. | Mandated for all time tracking. |
 | **Encounter Gen** | **Transparency** | `engine/templates/encounter_generation_template.md`. | Mandated for all Random Encounters. |
 | **Summaries** | **Synthesis** | Narrative summary of events, themes, and "vibe." | Narrative-First. |
 

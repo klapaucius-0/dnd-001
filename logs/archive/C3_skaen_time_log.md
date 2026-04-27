@@ -1,104 +1,88 @@
 # Campaign Time Log: Campaign 3 (Skaen)
 <!-- SOURCE: time_log -->
 
-| Day | Date (Real) | Activity Summary | Hours Spent | Active Project | Total Project Hours |
+| Day | Time | Session | Change (+HH:MM) | Activity Summary | Active Project (Total Time) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 26 | 2026-04-24 | Skaen begins the Iron Trek; grueling travel through snow. | 0 | — | 0 |
-| 26 | 2026-04-24 | First leg of the Iron Trek; failed Con check. | 0 | — | 0 |
-| 26 | 2026-04-24 | Building emergency stone shelter on the Old Iron Road. | 0 | — | 0 |
-| 26 | 2026-04-24 | Assessed slate slab; discovered hidden cache. | 0 | — | 0 |
-| 26 | 2026-04-24 | Long Rest (8 Hours) in emergency shelter. | 0 | — | 0 |
-| 26 | 2026-04-24 | Failed attempts to dig and graft snow-shelter. | 0 | — | 0 |
-| 27 | 2026-04-25 | Meditated through the night; burned bolts for warmth. | 0 | — | 0 |
-| 27 | 2026-04-25 | Studied Warhammer schematic (0.3 Days). | 7.2 | Study: Warhammer | 7.2 |
-| 27 | 2026-04-25 | Continued study of Warhammer schematic (0.4 Days). | 9.6 | Study: Warhammer | 16.8 |
-| 27 | 2026-04-25 | Completed study of Warhammer schematic (0.3 Days). | 7.2 | Study: Warhammer | 24.0 |
-| 27 | 2026-04-25 | Processed pine firewood and kindling (1h). | 1.0 | — | 0 |
-| 27 | 2026-04-25 | Traveled 3 miles toward Oakhaven; exceptional pace. | 1.0 | — | 0 |
-| 27 | 2026-04-25 | Mended the Weaver's spindle; learned "Binding" (0.4 Days). | 9.6 | Study: Binding | 9.6 |
-| 28 | 2026-04-26 | Long Rest (8 Hours) at the Ghost-Hearth. | 8.0 | — | 0 |
-| 28 | 2026-04-26 | Applied Blessing of the Forge to Chain Mail. | 0.1 | — | 0 |
-| 28 | 2026-04-26 | Gathered firewood and kindling with the Weaver (1h). | 1.0 | — | 0 |
-| 28 | 2026-04-26 | Second hour of fuel gathering; stockpiling for the trek. | 1.0 | — | 0 |
-| 28 | 2026-04-26 | Harvested rare herbs and resin with the Weaver (2h). | 2.0 | — | 0 |
-| 28 | 2026-04-26 | Exhaustive foraging for rare mountain materials (2h). | 2.0 | — | 0 |
-| 28 | 2026-04-26 | Slow travel and observation on the road (1h). | 1.0 | — | 0 |
-| 28 | 2026-04-26 | Stabilized leaking Siphon-Seal; rescued Alen (1h). | 1.0 | — | 0 |
-| 28 | 2026-04-26 | Established camp in ravine; discussed Siphon-runs (1h). | 1.0 | — | 0 |
-| 28 | 2026-04-26 | Harvested 6 lbs of Steel (1h). | 1.0 | — | 0 |
-| 28/29 | 2026-04-26 | Long Rest (8 Hours) at Ravine Camp. | 8.0 | — | 0 |
-| 29 | 2026-04-27 | Applied Blessing of the Forge to Chain Mail. | 0.1 | — | 0 |
-| 29 | 2026-04-27 | Gathered firewood and kindling with companions (1h). | 1.0 | — | 0 |
-| 29 | 2026-04-27 | Exceptional harvest of rare morning supplies (2h). | 2.0 | — | 0 |
-| 29 | 2026-04-27 | Exhaustive search for herbs and resin (2h). | 2.0 | — | 0 |
-| 29 | 2026-04-27 | Audited companions' gear and discussed armaments (1h). | 1.0 | — | 0 |
-| 29 | 2026-04-27 | Mended and restored companions' weapons and armor (1h). | 1.0 | — | 0 |
-| 29 | 14:30 | Trek to Bypass Junction | 2.4 | — | 0 |
-| 29 | 15:00 | Foraging & Stop at Bypass Junction | 0.5 | — | 0 |
-| 29 | 15:30 | Medicine Search | 0.5 | — | 0 |
-| 29 | 17:30 | Trek through Bypass to High Shelf | 2.0 | — | 0 |
-| 29 | 18:00 | Dusk Scavenge | 0.5 | — | 0 |
-| 29 | 19:00 | Shelter Construction at High Shelf | 1.0 | — | 0 |
-| 30 | 03:30 | Completed Long Rest at High Shelf | 8.0 | — | 0 |
-| 30 | 04:00 | Morning Rituals (Blessing applied) | 0.5 | — | 0 |
-| 30 | 06:00 | Morning Trek toward Oakhaven | 2.0 | — | 0 |
-| 30 | 06:10 | Dire Wolf Encounter at Granite Squeeze | 0.2 | — | 0 |
-| 30 | 07:30 | Comprehensive Harvest of Dire Wolf | 1.3 | — | 0 |
-| 30 | 07:50 | Preservation of Meat | 0.3 | — | 0 |
-| 30 | 11:10 | Trek to Mid-point (Shepherd's Bypass) | 3.3 | — | 0 |
-| 30 | 11:40 | Foraging with Elora | 0.5 | — | 0 |
-| 30 | 12:40 | Firewood Scavenge | 1.0 | — | 0 |
-| 30 | 16:00 | Arrival at Shepherd's Cache | 3.3 | — | 0 |
-| 30 | 16:16 | Opened Shepherd's Cache (Lock-pick) | 0.25 | — | 0 |
-| 30 | 18:00 | Fortification of Cache (Bell-Wire/Stakes) | 1.7 | — | 0 |
-| 30 | 18:15 | Established Campfire | 0.25 | — | 0 |
-| 30 | 19:25 | Crafted Wolf-Hide Whip | 1.2 | Craft: Whip | 1.2 |
-| 30 | 23:25 | Combat Victory (Ghouls) | 0.1 | — | 0 |
-| 30 | 23:45 | Investigation of remains | 0.3 | — | 0 |
-| 31 | 05:06 | Completed Long Rest (Secured) | 5.3 | — | 0 |
-| 31 | 07:30 | Firewood Gathering | 2.4 | — | 0 |
-| 31 | 15:30 | Crafted Leather Armor for Elora | 8.0 | Craft: Armor | 8.0 |
-| 31 | 16:00 | Signal Success | 0.5 | — | 0 |
-| 31 | 16:45 | Reached High Fissure | 0.75 | — | 0 |
-| 31 | 17:45 | Return to Base with Varin | 1.0 | — | 0 |
-| 31 | 19:00 | Celebratory Dinner (Stew) | 1.25 | — | 0 |
-| 32 | 03:30 | Morning Rituals & Blessing | 0.5 | — | 0 |
-| 32 | 04:30 | Commenced Workday 1 (Shortbow) | 1.0 | Craft: Shortbow | 1.0 |
-| 32 | 12:30 | Foraging Return (Elora/Alen) | 0.5 | — | 0 |
-| 32 | 12:35 | Combat Defense (Giant Owl) | 0.1 | — | 0 |
-| 32 | 12:40 | Initial Harvest & Assessment | 0.1 | — | 0 |
-| 32 | 13:10 | Completed Owl Harvest (Quill/Feathers) | 0.5 | — | 0 |
-| 32 | 13:10 | Resumed Workday 1 (Afternoon Shift) | 4.0 | Craft: Shortbow | 5.0 |
-| 32 | 17:40 | Dusk Foraging Return (Elora/Alen) | 0.5 | — | 0 |
-| 32 | 18:00 | Hearth Maintenance & Watch Setup | 0.3 | — | 0 |
-| 33 | 03:00 | Completed Long Rest (Safe) | 9.0 | — | 0 |
-| 33 | 03:30 | Commenced Workday 2 (Shortbow) | 0.5 | Craft: Shortbow | 5.5 |
-| 33 | 11:30 | Foraging Return (Elora/Alen) | 8.0 | — | 0 |
-| 33 | 11:30 | Resumed Workday 2 (Final Phase) | 4.0 | Craft: Shortbow | 9.5 |
-| 33 | 15:30 | Completed Shortbow Project | 4.0 | Craft: Shortbow | 13.5 |
-| 33 | 15:35 | Provided Shortbow to Elora | 0.1 | — | 0 |
-| 33 | 17:35 | Afternoon Reagent Sweep (Group A/B) | 2.0 | — | 0 |
-| 33 | 19:35 | Final Night Foraging (Reagents) | 2.0 | — | 0 |
-| 33 | 19:40 | Final Hearth Check & Secure Base | 0.1 | — | 0 |
-| 34 | 03:00 | Completed Long Rest (Stable) | 7.3 | — | 0 |
-| 34 | 03:30 | Commenced Potion Brewing (Morning) | 0.5 | Craft: Potion | 0.5 |
-| 34 | 11:00 | Completed Potion of Healing | 7.5 | Craft: Potion | 8.0 |
-| 34 | 11:05 | Completed Fletching (Accumulated Rests) | 0.1 | — | 0 |
-| 34 | 11:06 | 015 | Exited Shepherd's Cache | 0.01 | — | 0 |
-| 34 | 12:46 | 016 | Failed Navigation (Squeeze) | 1.6 | — | 0 |
-| 34 | 13:52 | 016 | Detour to High Fissure (Hunt) | 1.1 | — | 0 |
-| 34 | 13:58 | 016 | Combat: Scavengers (Victory/Standoff) | 0.1 | — | 0 |
-| 34 | 14:05 | 016 | Looted Scavenger Ledge | 0.1 | — | 0 |
-| 34 | 14:40 | 016 | Constructed Bandit Warning Marker | 0.6 | — | 0 |
-| 34 | 19:00 | 017 | Established Camp & Alarm (9m West of Oakhaven) | 4.3 | — | 0 |
-| 35 | 04:30 | 017 | Completed Long Rest (Interrupted by Mephits) | 9.5 | — | 0 |
-| 35 | 05:00 | 017 | Morning Rituals & Breaking Camp | 0.5 | — | 0 |
-| 35 | 06:15 | 017 | Firewood Scavenging (Group A/B) | 1.25 | — | 0 |
-| 35 | 09:15 | 017 | Arrived at Oakhaven Main Gate | 3.0 | — | 0 |
-| 35 | 09:30 | 017 | Entered Oakhaven; gate interaction | 0.25 | — | 0 |
-| 35 | 11:50 | 017 | Restoration of Vesper's Winch (2h) | 2.3 | — | 0 |
-| 35 | 12:30 | 017 | Mending Salvaged Tools for Vesper (0.5h) | 0.6 | — | 0 |
-| 35 | 12:45 | 017 | Arrival at the Boar and Barrel | 0.25 | — | 0 |
-| 35 | 13:05 | 017 | Restored Scarred Pearl via Mending (10m) | 0.3 | — | 0 |
-| 35 | 13:15 | 017 | Identified Lead-Lined Cargo Box (Ritual) | 0.16 | — | 0 |
-| 35 | 13:25 | 017 | Discussion of Cargo & Session End | 0.16 | — | 0 |
+| 26 | 10:00 | 012 | +0m | Skaen begins the Iron Trek; grueling travel through snow. | — |
+| 26 | 13:30 | 012 | +3h 30m | First leg of the Iron Trek; suffered exposure (Exhaustion 1). | — |
+| 26 | 13:30 | 012 | +0m | Built emergency stone shelter; discovered hidden cache. | — |
+| 26 | 21:30 | 012 | +8h 00m | Completed Long Rest; Exhaustion cleared. | — |
+| 27 | 07:30 | 012 | +10h 00m | Studied and internalized Warhammer schematic. | Study: Warhammer (10.0h) |
+| 27 | 08:30 | 012 | +1h 00m | Processed pine firewood and kindling. | — |
+| 27 | 11:30 | 012 | +3h 00m | Traveled 3 miles toward Oakhaven; exceptional pace. | — |
+| 27 | 14:00 | 012 | +2h 30m | Arrival at The Low Ridge; met Elora (Bound Weaver). | — |
+| 28 | 00:30 | 012 | +10h 30m | Interaction at Ghost-Hearth; mastered "The First Knot". | Study: Binding (4.0h) |
+| 28 | 08:30 | 012 | +8h 00m | Completed Long Rest; applied Blessing of the Forge. | — |
+| 28 | 10:30 | 012 | +2h 00m | Gathered fuel and stockpiled for the trek. | — |
+| 28 | 12:30 | 012 | +2h 00m | Exhaustive foraging for rare mountain materials. | — |
+| 28 | 13:30 | 012 | +1h 00m | Slow travel and observation on the road. | — |
+| 28 | 14:30 | 012 | +1h 00m | Rescued Alen from "The Silence"; restored Siphon-Seal. | — |
+| 28 | 15:30 | 012 | +1h 00m | Established camp in ravine; extracted 6 lbs of Steel. | — |
+| 29 | 07:30 | 012 | +16h 00m | Completed Long Rest at Ravine Camp; rituals applied. | — |
+| 29 | 09:30 | 012 | +2h 00m | Exceptional harvest of rare morning supplies. | — |
+| 29 | 11:30 | 012 | +2h 00m | Exhaustive search for herbs and resin. | — |
+| 29 | 12:30 | 012 | +1h 00m | Audited companions' gear and discussed armaments. | — |
+| 29 | 13:30 | 012 | +1h 00m | Mended and restored companions' gear; Session 012 End. | — |
+| 29 | 14:30 | 013 | +1h 00m | Trek to Bypass Junction. | — |
+| 29 | 15:00 | 013 | +30m | Foraging & stop at Bypass Junction. | — |
+| 29 | 15:30 | 013 | +30m | Medicine Search (Herbalism Kit). | — |
+| 29 | 17:30 | 013 | +2h 00m | Trek through Bypass to High Shelf. | — |
+| 29 | 18:30 | 013 | +1h 00m | Shelter construction at High Shelf. | — |
+| 30 | 02:30 | 013 | +8h 00m | Completed Long Rest at High Shelf. | — |
+| 30 | 03:00 | 013 | +30m | Morning rituals and Blessing applied. | — |
+| 30 | 05:00 | 013 | +2h 00m | Morning trek toward Oakhaven. | — |
+| 30 | 05:10 | 013 | +10m | Dire Wolf Encounter at Granite Squeeze. | — |
+| 30 | 07:40 | 013 | +2h 30m | Comprehensive Harvest of Dire Wolf; Session 013 End. | — |
+| 30 | 11:00 | 014 | +3h 20m | Trek to Mid-point (Shepherd's Bypass). | — |
+| 30 | 11:30 | 014 | +30m | Foraging with Elora. | — |
+| 30 | 12:30 | 014 | +1h 00m | Firewood Scavenge. | — |
+| 30 | 15:50 | 014 | +3h 20m | Trek to Shepherd's Cache. | — |
+| 30 | 16:05 | 014 | +15m | Opened Shepherd's Cache (Lock-pick & Mending). | — |
+| 30 | 17:50 | 014 | +1h 45m | Fortification of Cache (Bell-Wire/Stakes). | — |
+| 30 | 18:05 | 014 | +15m | Established Campfire. | — |
+| 30 | 19:20 | 014 | +1h 15m | Crafted Wolf-Hide Whip. | Craft: Whip (1.2h) |
+| 30 | 23:25 | 014 | +4h 05m | Rest interrupted; combat victory vs Ghouls. | — |
+| 30 | 23:45 | 014 | +20m | Investigation of remains and camp reset. | — |
+| 31 | 04:45 | 014 | +5h 00m | Resumed and completed Long Rest (Secured). | — |
+| 31 | 06:45 | 014 | +2h 00m | Firewood Gathering. | — |
+| 31 | 14:45 | 014 | +8h 00m | Crafted Leather Armor for Elora. | Craft: Armor (8.0h) |
+| 31 | 15:15 | 014 | +30m | Signal Success; spotted High Fissure. | — |
+| 31 | 16:00 | 014 | +45m | Reached High Fissure; met Varin. | — |
+| 31 | 17:00 | 014 | +1h 00m | Return to base with Varin. | — |
+| 31 | 18:15 | 014 | +1h 15m | Celebratory Dinner (Stew). | — |
+| 32 | 03:00 | 014 | +8h 45m | Completed Long Rest (Safe). | — |
+| 32 | 03:30 | 014 | +30m | Morning Rituals & Blessing; Session 014 End. | — |
+| 32 | 04:30 | 015 | +1h 00m | Morning Rituals & Blessing. | — |
+| 32 | 12:30 | 015 | +8h 00m | Commenced Workday 1 (Shortbow). | Craft: Shortbow (8.0h) |
+| 32 | 13:10 | 015 | +40m | Combat Defense (Giant Owl) & Harvest. | — |
+| 32 | 17:10 | 015 | +4h 00m | Resumed Workday 1 (Afternoon Shift). | Craft: Shortbow (12.0h) |
+| 32 | 18:00 | 015 | +50m | Foraging return & Watch setup. | — |
+| 33 | 03:00 | 015 | +9h 00m | Completed Long Rest (Safe). | — |
+| 33 | 03:30 | 015 | +30m | Morning Rituals and project prep. | — |
+| 33 | 11:30 | 015 | +8h 00m | Commenced Workday 2 (Shortbow). | Craft: Shortbow (20.0h) |
+| 33 | 15:30 | 015 | +4h 00m | Completed Shortbow project; provided to Elora. | Craft: Shortbow (24.0h) |
+| 33 | 19:30 | 015 | +4h 00m | Evening reagent sweep & Night foraging. | — |
+| 34 | 03:00 | 015 | +7h 30m | Completed Long Rest (Stable). | — |
+| 34 | 03:30 | 015 | +30m | Morning Rituals. | — |
+| 34 | 11:00 | 015 | +7h 30m | Brewing Potion of Healing. | Craft: Potion (7.5h) |
+| 34 | 11:06 | 015 | +6m | Final fletching and Session 015 End. | — |
+| 34 | 12:46 | 016 | +1h 40m | Navigation failure; fell in snow delay. | — |
+| 34 | 13:52 | 016 | +1h 06m | Standoff and Detour to High Path. | — |
+| 34 | 14:05 | 016 | +13m | Ambush & Combat (Scavengers). | — |
+| 34 | 14:40 | 016 | +35m | Looting and construction of Bandit Sentinel. | — |
+| 34 | 15:00 | 016 | +20m | Exit Squeeze; Session 016 End. | — |
+| 34 | 19:00 | 017 | +4h 00m | Established Camp & Alarm (9m West of Oakhaven). | — |
+| 35 | 03:00 | 017 | +8h 00m | Interrupted Long Rest; Ice Mephit attack. | — |
+| 35 | 03:15 | 017 | +15m | Combat with Ice Mephits. | — |
+| 35 | 04:30 | 017 | +1h 15m | Investigation & Resumed rest. | — |
+| 35 | 05:00 | 017 | +30m | Morning Rituals & Breaking camp. | — |
+| 35 | 06:15 | 017 | +1h 15m | Firewood scavenging (Group A/B). | — |
+| 35 | 09:15 | 017 | +3h 00m | Final trek to Oakhaven Main Gate. | — |
+| 35 | 09:30 | 017 | +15m | Entered Oakhaven; gate interaction. | — |
+| 35 | 11:30 | 017 | +2h 00m | Restoration of Vesper's Winch. | — |
+| 35 | 12:00 | 017 | +30m | Purchase Grappling Hook & Trade with Vesper. | — |
+| 35 | 12:30 | 017 | +30m | Mended salvaged tools for Vesper. | — |
+| 35 | 12:45 | 017 | +15m | Arrival at the Boar and Barrel Tavern. | — |
+| 35 | 13:05 | 017 | +20m | Restored Scarred Pearl via Mending. | — |
+| 35 | 13:15 | 017 | +10m | Identified Lead-Lined Cargo Box (Ritual). | — |
+| 35 | 13:25 | 017 | +10m | Discussion of Cargo & Session 017 End. | — |
