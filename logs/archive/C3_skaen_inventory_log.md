@@ -1,4 +1,4 @@
-# Inventory Log
+# Inventory Log: Campaign 3 (Skaen)
 <!-- SOURCE: inventory_log -->
 
 | Day | Time | Session | Item | Change | Total | Note / Source |

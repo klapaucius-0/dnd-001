@@ -13,7 +13,10 @@ To ensure campaign integrity and AI optimization, every file type has a strictly
 
 ## 2. The Log-First, State-Second Protocol
 Whenever a dynamic value (Wealth, XP, Time, Reputation, etc.) changes:
-1.  **Update the Log:** Append a new entry to the appropriate `*_log.md` file in `logs/`. Include the Day/Time, the Change, the New Total, and a Note/Source reference.
+1.  **Update the Log:** Append a new entry to the appropriate `*_log.md` file in `logs/`. 
+    *   **Routine Gameplay Mandate:** To optimize performance, the AI MUST NOT read or rewrite the entire log file to add a single entry during play. It MUST use a shell command (e.g., `echo "| Day | Time | ..." >> logs/filename.md`) to append the new row.
+    *   **Data Retrieval & Auditing:** The AI is encouraged to read active or archived logs (`read_file`, `grep_search`) to answer player questions, verify history, or perform maintenance.
+    *   **Archiving Exception:** The "Strict Append-Only" rule is suspended during **Log Rotation** (Section 8.B). In this phase, the AI MUST read the active log to extract historical data for the archive and then rewrite the active log to remove those entries.
 2.  **Update the State:** Only after the log is updated, refresh the corresponding `*_state.md` file in `state/` to mirror the new total.
 3.  **Active Modifier Registry (HUD) Protocol:** If a state change introduces a persistent bonus, penalty, advantage, or disadvantage (e.g., equipping an item, gaining a condition like Exhaustion, or casting a long-term buff), the **Active Modifier Registry (HUD)** section in `state/character_state.md` MUST be updated in the same turn. The DM must reference this HUD before every roll.
 4.  **Source Tags:** States MUST use Source Tags (e.g., `<!-- SOURCE: currency_log -->`) to identify their master log.
@@ -78,10 +81,13 @@ To keep the active workspace lean and optimized for AI agents, the following arc
 
 ### B. Mechanical Log Rotation (`logs/archive/`)
 *   **Rotation Threshold:** When a log file in `logs/` exceeds **100 entries**, it must be rotated.
+*   **Single-File Archive Convention:** Unlike episodic chronicles, mechanical logs for a specific campaign are consolidated into single, master archive files.
+*   **Naming Format:** `C{campaign_number}_{character_name}_{type}_log.md` (e.g., `C3_skaen_inventory_log.md`).
 *   **Process:**
-    1.  Rename the current log (e.g., `currency_log.md`) to include a version number (e.g., `currency_log_v1.md`) and move it to `logs/archive/`.
-    2.  Create a new, empty log file with the original name in `logs/`.
-    3.  The **first entry** of the new log must be a `BALANCE FORWARD` note, explicitly referencing the archived log (e.g., `Note: Carried Forward from logs/archive/currency_log_v1.md`).
+    1.  **Identify Campaign:** Read `state/world_state.md` to identify the current Campaign Number and Protagonist Name.
+    2.  **Append to Archive:** Append the oldest rows (e.g., the first 50-80 entries) from the active log in `logs/` to the corresponding campaign archive file in `logs/archive/`.
+    3.  **Clean Active Log:** Remove the archived rows from the active log file, ensuring the header and most recent ~20-50 entries remain.
+    4.  **No Versioning:** Do not create `v1`, `v2`, etc. All historical data for a character stays in their single campaign-specific archive file.
 
 ### C. State Archiving (`state/archive/`)
 *   **Defunct Entities:** Move deceased or permanently departed NPC files from `state/entities/` to `state/archive/entities/`.
@@ -106,7 +112,9 @@ When preparing for a new protagonist after a character's death or departure, the
 ## 9. Session Termination & Recursion
 Upon the conclusion of a narrative campaign session (indicated by the user command "End Session" or "End Campaign Session"), the agent **MUST NOT** simply stop. 
 
-Instead, the agent MUST immediately invoke the **Sacred Boot Sequence** defined in `GEMINI.md`. This allows the user to transition directly into **Maintenance & Configuration** mode or start a new narrative cycle within the same CLI session, ensuring continuous repository integrity and state synchronization.
+Instead, the agent MUST:
+1.  **Perform End-of-Session Archiving:** Audit all active logs in `logs/`. If any log exceeds 100 entries, perform the **Mechanical Log Rotation** (Section 8.B) immediately.
+2.  **Invoke the Sacred Boot Sequence:** Call the sequence defined in `GEMINI.md`. This ensures continuous repository integrity and state synchronization between sessions.
 
 ## 10. AI Metadata & Tag Registry
 This section serves as the central hub for all campaign tags and metadata to ensure schema consistency and prevent hallucination.

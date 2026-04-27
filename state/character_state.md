@@ -1,6 +1,7 @@
 # Character State: Skaen
 <!-- SOURCE: pc_sheet -->
 
+**Campaign:** 3
 **Name:** Skaen
 **Race:** Mountain Dwarf
 **Class:** Cleric (Forge Domain)
@@ -70,7 +71,7 @@
 ---
 
 ## Inventory & Gear
-**Total Weight:** 208.6 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
+**Total Weight:** 226.6 lbs / 240.0 lbs <!-- SOURCE: inventory_log -->
 
 ### Equipped
 | Item | Weight | Notes |
@@ -89,7 +90,7 @@
 | Mess Kit | 1.0 lbs | |
 | Tinderbox | 1.0 lbs | |
 | Torches (10) | 10.0 lbs | |
-| Rations (5.25 days) | 10.5 lbs | |
+| Rations (4.25 days) | 8.5 lbs | |
 | Waterskin | 5.0 lbs | |
 | Hemp Rope (50ft) | 10.0 lbs | |
 | Hemp Rope (50ft) (New) | 10.0 lbs | Recovered from cache. |
@@ -103,10 +104,7 @@
 | Tallow & Beeswax | 1.0 lbs | 8/10 uses; sealant/fuel. |
 | Steel Hardware | 2.0 lbs | Common nails/rings. |
 | Formula (Warhammer) | 0.0 lbs | Standard warhammer schematic. |
-| Frost-Vein Lichen | 0.0 lbs | Consumed. |
-| Pine Firewood | 0.0 lbs | Held by companions (Total: 89.0 lbs). |
 | Kindling | 6.5 lbs | Pouch of needles/twigs. |
-| Herbalism Reagents | 0.0 gp | Consumed for Potion. |
 | Potion of Healing | 0.5 lbs | Brewed at cache. |
 | Poison (Basic) Reagents | 0.2 lbs | Generic materials (PHB). |
 | Resin | 2.5 lbs | Standard alchemical material. |
@@ -117,7 +115,6 @@
 | Grappling Hook | 4.0 lbs | Standard iron climber's hook. |
 | Scarred Grey Pearl (1) | 0.1 lbs | Restored (100gp Identify component). |
 | Frozen Mephit Shards (3) | 0.3 lbs | Lesser Reagents (5gp ea). |
-| Salt | 0.0 lbs | Consumed. |
 | Frost-Resistant Oil | 0.2 lbs | Prevents metal seizure. |
 | Iron Pot | 2.0 lbs | Recovered from alarm system. |
 | Iron Padlock | 1.0 lb | Recovered from alarm system. |
@@ -126,7 +123,7 @@
 | Dire Wolf Teeth (4) | 0.0 lbs | Trophies/materials. |
 | Dire Wolf Pelt | 4.0 lbs | Found in hideout; matted fur. |
 | Dire Wolf Hide | 2.5 lbs | Butchered; raw hide. |
-| Dire Wolf Meat | 11.0 lbs | Preserved (7 days); stringy. |
+| Dire Wolf Meat | 8.0 lbs | Preserved (7 days); stringy. |
 | Dire Wolf Bones | 6.0 lbs | Large skeletal remains. |
 | Dire Wolf Organs | 1.5 lbs | Heart & Liver. |
 | Mist-Mottled Quill | 0.0 lbs | Exotic Lesser Component. |

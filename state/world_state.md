@@ -4,6 +4,7 @@
 **Current Day:** 35
 **Current Time:** 13:25
 **Season:** Mild Winter
+**Current Campaign:** 3 (Protagonist: Skaen)
 
 ## Global Reputation & Faction Standing
 <!-- SOURCE: reputation_log -->

@@ -1,4 +1,4 @@
-# Quest Log
+# Quest Log: Campaign 3 (Skaen)
 <!-- SOURCE: quest_log -->
 
 | ID | Quest Name | Status | Resolution | Session |

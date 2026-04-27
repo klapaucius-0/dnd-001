@@ -1,4 +1,4 @@
-# Encounter Log
+# Encounter Log: Campaign 3 (Skaen)
 <!-- SOURCE: encounter_log -->
 
 | Day | Session | Location | Encounter Type | Outcome | Note / Source |

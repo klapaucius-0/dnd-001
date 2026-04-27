@@ -1,4 +1,5 @@
-# Experience Point Log
+# Experience Point Log: Campaign 2 (Wael)
+<!-- SOURCE: experience_log -->
 
 | Date | Session | Description | XP Reward | Total XP |
 | :--- | :--- | :--- | :--- | :--- |
@@ -17,10 +18,10 @@
 | 2026-04-20 | 008 | Quest Completion: Verminer's Request | 50 | 650 |
 | 2026-04-20 | 009 | Artisan Discovery: The Mason's Blinder (Blueprint) | 0 | 650 |
 | 2026-04-20 | 009 | Artisan Iteration: Redesigning for Concealment | 0 | 650 |
-| 2026-04-20 | 009 | Precision Design: Finalizing the Blinder | 0 | **650** |
+| 2026-04-20 | 009 | Precision Design: Finalizing the Blinder | 0 | 650 |
 | 2026-04-20 | 010 | Project Completion: The Mason's Blinder | 0 | 650 |
 | 2026-04-20 | 010 | Artisan Labor: Mending & Spear Restoration | 0 | 650 |
 | 2026-04-20 | 010 | Quest Completion: Brittle Defense | 0 | 650 |
 | 2026-04-23 | 011 | Combat: Resonant Figures (3) | 75 | 725 |
 | 2026-04-23 | 011 | Combat: Void-Touched Sentinel | 225 | 950 |
-| 2026-04-23 | 011 | Narrative: The Final Vigil | 50 | **1000** |
+| 2026-04-23 | 011 | Narrative: The Final Vigil | 50 | 1000 |

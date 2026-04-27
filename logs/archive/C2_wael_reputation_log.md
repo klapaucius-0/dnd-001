@@ -1,4 +1,4 @@
-# Reputation Log (Faction SP)
+# Reputation Log: Campaign 2 (Wael)
 <!-- SOURCE: reputation_log -->
 
 | Day | Time | Session | Faction | Change | Total SP | Note / Source |
@@ -14,7 +14,6 @@
 | 3 | 13:26 | 006 | Oakhaven | +10 | 30 | Direct: Structural repair of trader wagon (Moderate) |
 | 3 | 13:38 | 006 | Oakhaven | +10 | 40 | Direct: Providing stability news to Master Hobb (Moderate) |
 | 3 | 17:02 | 007 | Oakhaven | +5 | 45 | Direct: Restoring local industrial infrastructure (Minor) |
-| 3 | 21:24 | 007 | Oakhaven | +1 | **46** | Direct: Quiet presence and respectful conduct (Trivial) |
-
-| 5 | 15:25 | 010 | +2 (Oakhaven) | Quest Completion: Brittle Defense | 48 |
-| — | — | — | **BALANCE FORWARD** | **68 SP (Oakhaven)** | New Character Start (Ref: logs/archive/reputation_log_wael.md) |
+| 3 | 21:24 | 007 | Oakhaven | +1 | 46 | Direct: Quiet presence and respectful conduct (Trivial) |
+| 5 | 15:25 | 010 | Oakhaven | +2 | 48 | Quest Completion: Brittle Defense |
+| 5 | 18:00 | 011 | Oakhaven | +20 | 68 | Final Stand at the Old Mason's Yard (Major) |

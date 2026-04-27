@@ -1,7 +1,5 @@
-# Campaign Time Log
-
-## Overview
-This file tracks the passage of time and the allocation of Hours for crafting and long-term projects.
+# Campaign Time Log: Campaign 2 (Wael)
+<!-- SOURCE: time_log -->
 
 | Day | Date (Real) | Activity Summary | Hours Spent | Active Project | Total Project Hours |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -46,22 +44,17 @@ This file tracks the passage of time and the allocation of Hours for crafting an
 | 4 | 15:45 | 009 | Arrival at Chapel; consultation with Father Vane. | 1.5 | N/A | 0 |
 | 4 | 17:15 | 009 | Medical Treatment: Purging infection from Wael's eye. | 1.0 | N/A | 0 |
 | 4 | 18:15 | 009 | Recovery and quiet reflection within the Chapel sanctuary. | 0.25 | N/A | 0 |
-
-## Daily Time Budget (24 Hours)
-*   **Rest/Sleep:** 8 Hours (Required for Long Rest).
-*   **Activity/Travel:** 9 Hours.
-*   **Flex/Crafting:** 7 Hours (Can be pushed with CON saves).
-| 5 | 04:05 | 010 | +8.0 Hours | Night Labor: Crafting The Mason's Blinder |
-| 5 | 12:15 | 010 | +8.0 Hours | Long Rest at Boar and Barrel |
-| 5 | 12:25 | 010 | +10m | Travel: Boar and Barrel to Harlen's Forge |
-| 5 | 15:25 | 010 | +3.0 Hours | Restoring 3x Frost-Bitten Spearheads (Mending) |
-| 5 | 15:40 | 011 | +15m | Travel: Harlen's Forge to Granary |
-| 5 | 16:05 | 011 | +25m | Negotiation with Master Hobb |
-| 5 | 16:17 | 011 | +12m | Travel: Granary to Oakhaven Chapel |
-| 5 | 16:32 | 011 | +15m | Consultation with Father Vane |
-| 5 | 16:47 | 011 | +15m | Travel: Oakhaven Chapel to Harlen's Forge |
-| 5 | 16:57 | 011 | +10m | Final preparations and gifts from Harlen |
-| 5 | 17:12 | 011 | +15m | Travel: Harlen's Forge to Old Mason's Yard |
-| 5 | 17:42 | 011 | +30m | Vigil Preparation: Piton placement & anointing |
-| 5 | 17:45 | 011 | +1.5m | Combat: The Battle of the Old Mason's Yard |
-| 5 | 18:00 | 011 | +15m | Outcome: Wael Falls; Silence claims the Yard. |
+| 5 | 04:05 | 010 | Night Labor: Crafting The Mason's Blinder | 8.0 | N/A | 0 |
+| 5 | 12:15 | 010 | Long Rest at Boar and Barrel | 8.0 | N/A | 0 |
+| 5 | 12:25 | 010 | Travel: Boar and Barrel to Harlen's Forge | 0.16 | N/A | 0 |
+| 5 | 15:25 | 010 | Restoring 3x Frost-Bitten Spearheads (Mending) | 3.0 | N/A | 0 |
+| 5 | 15:40 | 011 | Travel: Harlen's Forge to Granary | 0.25 | N/A | 0 |
+| 5 | 16:05 | 011 | Negotiation with Master Hobb | 0.41 | N/A | 0 |
+| 5 | 16:17 | 011 | Travel: Granary to Oakhaven Chapel | 0.2 | N/A | 0 |
+| 5 | 16:32 | 011 | Consultation with Father Vane | 0.25 | N/A | 0 |
+| 5 | 16:47 | 011 | Travel: Oakhaven Chapel to Harlen's Forge | 0.25 | N/A | 0 |
+| 5 | 16:57 | 011 | Final preparations and gifts from Harlen | 0.16 | N/A | 0 |
+| 5 | 17:12 | 011 | Travel: Harlen's Forge to Old Mason's Yard | 0.25 | N/A | 0 |
+| 5 | 17:42 | 011 | Vigil Preparation: Piton placement & anointing | 0.5 | N/A | 0 |
+| 5 | 17:45 | 011 | Combat: The Battle of the Old Mason's Yard | 0.05 | N/A | 0 |
+| 5 | 18:00 | 011 | Outcome: Wael Falls; Silence claims the Yard. | 0.25 | N/A | 0 |

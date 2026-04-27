@@ -1,4 +1,4 @@
-# Inventory Log
+# Inventory Log: Campaign 2 (Wael)
 <!-- SOURCE: inventory_log -->
 
 | Day | Time | Session | Item | Change | Total | Note / Source |
@@ -37,4 +37,3 @@
 | 5 | 17:15 | 011 | Custody Transfer | — | — | 5 Days Rations, Steel Hardware, Steel Shard [MAT: STEEL] moved to Kaelen |
 | 5 | 17:42 | 011 | Blessed Oil (Mason's Rest) | -1 Vial | 0 | Consumed in anointing Berath's slab (Ref: Q016) |
 | 5 | 17:42 | 011 | Mason's Pitons | -6 | 0 | Consumed in anchoring Berath's slab (Ref: Q016) |
-16) |
